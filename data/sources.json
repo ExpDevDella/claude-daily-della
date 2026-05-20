@@ -1,0 +1,108 @@
+{
+  "_comment": "Lista de fontes vasculhadas todo dia pelo GitHub Action. Edite para adicionar/remover fontes.",
+  "feeds": [
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news/rss.xml",
+      "weight": 10,
+      "default_category": "Novidade"
+    },
+    {
+      "name": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/rss.xml",
+      "weight": 9,
+      "default_category": "Hack"
+    },
+    {
+      "name": "Builder.io Blog",
+      "url": "https://www.builder.io/blog/rss.xml",
+      "weight": 7,
+      "filter_keywords": ["claude", "anthropic", "mcp", "ai code"],
+      "default_category": "Dica"
+    },
+    {
+      "name": "Ruben Hassid - How to AI",
+      "url": "https://ruben.substack.com/feed",
+      "weight": 8,
+      "filter_keywords": ["claude", "anthropic"],
+      "default_category": "Dica"
+    },
+    {
+      "name": "The AI Corner",
+      "url": "https://www.the-ai-corner.com/feed",
+      "weight": 7,
+      "filter_keywords": ["claude", "anthropic", "mcp"],
+      "default_category": "Dica"
+    },
+    {
+      "name": "Ken Kousen - Tales from the jar side",
+      "url": "https://kenkousen.substack.com/feed",
+      "weight": 6,
+      "filter_keywords": ["claude", "mcp", "anthropic"],
+      "default_category": "Hack"
+    },
+    {
+      "name": "claudeai.dev Blog",
+      "url": "https://claudeai.dev/blog/rss.xml",
+      "weight": 8,
+      "default_category": "Novidade"
+    },
+    {
+      "name": "Hacker News - Claude",
+      "url": "https://hnrss.org/newest?q=claude+anthropic",
+      "weight": 5,
+      "default_category": "Novidade"
+    },
+    {
+      "name": "Reddit r/ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI/top/.rss?t=day",
+      "weight": 6,
+      "default_category": "Dica"
+    },
+    {
+      "name": "Reddit r/Anthropic",
+      "url": "https://www.reddit.com/r/Anthropic/top/.rss?t=day",
+      "weight": 5,
+      "default_category": "Novidade"
+    },
+    {
+      "name": "YouTube - Anthropic",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA",
+      "weight": 9,
+      "default_category": "Video"
+    },
+    {
+      "name": "YouTube - All About AI",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=AllAboutAI",
+      "weight": 6,
+      "filter_keywords": ["claude", "mcp", "anthropic"],
+      "default_category": "Video"
+    },
+    {
+      "name": "GitHub - Awesome Claude Code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commits/main.atom",
+      "weight": 6,
+      "default_category": "Plugin"
+    },
+    {
+      "name": "GitHub - Awesome Claude Prompts",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commits/main.atom",
+      "weight": 5,
+      "default_category": "Dica"
+    },
+    {
+      "name": "GitHub - Anthropic MCP Servers",
+      "url": "https://github.com/modelcontextprotocol/servers/commits/main.atom",
+      "weight": 8,
+      "default_category": "MCP"
+    }
+  ],
+  "categorization_rules": {
+    "MCP": ["mcp", "model context protocol", "mcp server"],
+    "Plugin": ["skill", "plugin", "extension", "subagent"],
+    "Hack": ["hack", "trick", "workflow", "automation", "claude.md", "hook"],
+    "Video": ["youtube.com", "youtu.be"],
+    "Novidade": ["release", "launch", "announce", "new", "update", "version", "v4", "opus", "sonnet", "haiku"],
+    "Dica": ["tip", "guide", "how to", "tutorial", "best practice", "prompt"]
+  }
+}
