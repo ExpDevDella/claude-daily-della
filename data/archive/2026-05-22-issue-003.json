@@ -1,0 +1,128 @@
+{
+  "issue": 3,
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T11:33:57.879360-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "4cc4ab379216",
+      "title": "upgrade everything-server to zod v4, latest MCP sdk",
+      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-11T11:29:58+00:00"
+    },
+    {
+      "id": "42358b34867f",
+      "title": "docs: retire third-party server list in favor of MCP Registry",
+      "summary": "docs: retire third-party server list in favor of MCP Registry The Third-Party Servers section (Official Integrations + Community Servers) has been superseded by the MCP Registry at https://registry.modelcontextprotocol.io/. The README…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/5914f61340afd6490004fdd6ccdad0a7e9ee814f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-04-14T15:05:23+00:00"
+    },
+    {
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "e21ead75d61c",
+      "title": "docs: clarify sequentialthinking usage and add examples",
+      "summary": "docs: clarify sequentialthinking usage and add examples",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/bae042b4f213e72a3e1e8b9e813f960167a2e019",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-04-08T22:49:45+00:00"
+    },
+    {
+      "id": "fc48939f7066",
+      "title": "Conway Timeline: How Anthropic Is Building Always-On Agents",
+      "summary": "Conway is not public yet, but Cowork, Dispatch, computer use, scheduled tasks, and auto mode reveal Anthropic's path to always-on agents.",
+      "url": "https://claudeai.dev/blog/conway-timeline-how-anthropic-is-building-always-on-agents",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-03T00:00:00+00:00"
+    },
+    {
+      "id": "ba44bb297db2",
+      "title": "What Actually Leaked From Claude Code This Time?",
+      "summary": "Claude Code source leak claims now look credible. Community researchers say a shipped npm source map exposed internal TypeScript sources for reconstruction.",
+      "url": "https://claudeai.dev/blog/what-actually-leaked-around-claude-code",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-03-31T00:00:00+00:00"
+    },
+    {
+      "id": "c6b951f03ac9",
+      "title": "Your voice is the only AI moat that compounds. Here is how to clone it into Claude in a weekend",
+      "summary": "The model is the commodity. Your voice is the asset. A 4,000-token file is the only defense that gets stronger as AI gets cheaper",
+      "url": "https://www.the-ai-corner.com/p/clone-your-voice-into-claude-weekend-voice-file-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-05-20T14:39:08+00:00"
+    },
+    {
+      "id": "72a75332644b",
+      "title": "I built a second brain in 10 minutes. Here is the exact stack",
+      "summary": "Granola + Claude. $38/month. The 9-step build that replaces $90K/year of executive assistant, note-taker, CRM data-entry, and context-recovery work.",
+      "url": "https://www.the-ai-corner.com/p/granola-claude-second-brain-stack-mcp-2026",
+      "source": "The AI Corner",
+      "category": "MCP",
+      "weight": 7,
+      "published": "2026-05-13T12:51:23+00:00"
+    },
+    {
+      "id": "2d30cede8b7e",
+      "title": "Build your own stock analyst with Claude",
+      "summary": "The 12-prompt system that replaces a $250K Bloomberg terminal and a $1,500/month research subscription. For $20/month. Built for operators who manage their own money seriously.",
+      "url": "https://www.the-ai-corner.com/p/build-your-own-stock-analyst-claude-12-prompts-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-05-10T15:46:55+00:00"
+    }
+  ]
+}

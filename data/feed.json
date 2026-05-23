@@ -1,7 +1,7 @@
 {
-  "issue": 3,
-  "date": "2026-05-22",
-  "generated_at": "2026-05-22T11:33:57.879360-03:00",
+  "issue": 4,
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:19:47.309585-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -35,94 +35,94 @@
       "published": "2026-02-05T17:45:22+00:00"
     },
     {
-      "id": "4cc4ab379216",
-      "title": "upgrade everything-server to zod v4, latest MCP sdk",
-      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-05-11T11:29:58+00:00"
+      "id": "2fa5c484a636",
+      "title": "When is Chat, Cowork and Code merging?",
+      "summary": "I have the same project set up across all three tabs. Before I build something, I chat through it first. Sometimes I’ll kick off a Cowork session that bleeds into a coding problem. The workflow moves fluidly between all three, but the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tldsrl/when_is_chat_cowork_and_code_merging/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-05-23T11:22:34+00:00"
     },
     {
-      "id": "42358b34867f",
-      "title": "docs: retire third-party server list in favor of MCP Registry",
-      "summary": "docs: retire third-party server list in favor of MCP Registry The Third-Party Servers section (Official Integrations + Community Servers) has been superseded by the MCP Registry at https://registry.modelcontextprotocol.io/. The README…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/5914f61340afd6490004fdd6ccdad0a7e9ee814f",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-04-14T15:05:23+00:00"
-    },
-    {
-      "id": "ac29be22e84b",
-      "title": "Claude Managed Agents: What Just Launched",
-      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
-      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-04-09T00:00:00+00:00"
-    },
-    {
-      "id": "e21ead75d61c",
-      "title": "docs: clarify sequentialthinking usage and add examples",
-      "summary": "docs: clarify sequentialthinking usage and add examples",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/bae042b4f213e72a3e1e8b9e813f960167a2e019",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-04-08T22:49:45+00:00"
-    },
-    {
-      "id": "fc48939f7066",
-      "title": "Conway Timeline: How Anthropic Is Building Always-On Agents",
-      "summary": "Conway is not public yet, but Cowork, Dispatch, computer use, scheduled tasks, and auto mode reveal Anthropic's path to always-on agents.",
-      "url": "https://claudeai.dev/blog/conway-timeline-how-anthropic-is-building-always-on-agents",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-04-03T00:00:00+00:00"
-    },
-    {
-      "id": "ba44bb297db2",
-      "title": "What Actually Leaked From Claude Code This Time?",
-      "summary": "Claude Code source leak claims now look credible. Community researchers say a shipped npm source map exposed internal TypeScript sources for reconstruction.",
-      "url": "https://claudeai.dev/blog/what-actually-leaked-around-claude-code",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-03-31T00:00:00+00:00"
-    },
-    {
-      "id": "c6b951f03ac9",
-      "title": "Your voice is the only AI moat that compounds. Here is how to clone it into Claude in a weekend",
-      "summary": "The model is the commodity. Your voice is the asset. A 4,000-token file is the only defense that gets stronger as AI gets cheaper",
-      "url": "https://www.the-ai-corner.com/p/clone-your-voice-into-claude-weekend-voice-file-system-2026",
-      "source": "The AI Corner",
+      "id": "ccd3b2038092",
+      "title": "is personalized AI memory actually a problem worth solving or am I just coping",
+      "summary": "genuine question for this community every time i use claude or chatgpt i have to re-explain myself. and even their memory feature is shallow it remembers facts about me, not how i actually think. the idea i've been sitting on is different…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl9uge/is_personalized_ai_memory_actually_a_problem/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-05-20T14:39:08+00:00"
+      "weight": 6,
+      "published": "2026-05-23T07:41:15+00:00"
     },
     {
-      "id": "72a75332644b",
-      "title": "I built a second brain in 10 minutes. Here is the exact stack",
-      "summary": "Granola + Claude. $38/month. The 9-step build that replaces $90K/year of executive assistant, note-taker, CRM data-entry, and context-recovery work.",
-      "url": "https://www.the-ai-corner.com/p/granola-claude-second-brain-stack-mcp-2026",
-      "source": "The AI Corner",
-      "category": "MCP",
-      "weight": 7,
-      "published": "2026-05-13T12:51:23+00:00"
+      "id": "60958bed9c3c",
+      "title": "You now get warnings about context usage when resuming a session. Windows Desktop app.",
+      "summary": "Latest version of Windows Desktop app working in cowork. Noticed this warning when I went to resume a session. Good to see the issue is acknowledged and even being actively managed. &#32; submitted by &#32; /u/dulberf [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl6ya8/you_now_get_warnings_about_context_usage_when/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-23T05:06:30+00:00"
     },
     {
-      "id": "2d30cede8b7e",
-      "title": "Build your own stock analyst with Claude",
-      "summary": "The 12-prompt system that replaces a $250K Bloomberg terminal and a $1,500/month research subscription. For $20/month. Built for operators who manage their own money seriously.",
-      "url": "https://www.the-ai-corner.com/p/build-your-own-stock-analyst-claude-12-prompts-2026",
-      "source": "The AI Corner",
+      "id": "68e39a05bde3",
+      "title": "Comparison between Sonnet 4.6 and Opus 4.7",
+      "summary": "I actually use Claude Cowork moslty for my data entry work and both of these models work good. But today on my phone my brother asked me to put Claude thru a reasoning test on both models and here are the results. &#32; submitted by &#32;…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tldoin/comparison_between_sonnet_46_and_opus_47/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T11:16:44+00:00"
+    },
+    {
+      "id": "36e558b39aa2",
+      "title": "Did AI write this advertisement?",
+      "summary": "It’s this type of thing that makes me deeply appreciate quality copyright. FYI the flair priority is “compliment” #1 😂 &#32; submitted by &#32; /u/aablake [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tlb6kj/did_ai_write_this_advertisement/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T08:56:49+00:00"
+    },
+    {
+      "id": "2793a73f8267",
+      "title": "Four calls became one: letting the agent author tools mid-session",
+      "summary": "&#32; submitted by &#32; /u/wesh-k [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tlauid/four_calls_became_one_letting_the_agent_author/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T08:37:30+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-05-10T15:46:55+00:00"
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
