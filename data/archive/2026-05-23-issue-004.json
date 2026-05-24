@@ -1,0 +1,128 @@
+{
+  "issue": 4,
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:19:47.309585-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "2fa5c484a636",
+      "title": "When is Chat, Cowork and Code merging?",
+      "summary": "I have the same project set up across all three tabs. Before I build something, I chat through it first. Sometimes I’ll kick off a Cowork session that bleeds into a coding problem. The workflow moves fluidly between all three, but the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tldsrl/when_is_chat_cowork_and_code_merging/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-05-23T11:22:34+00:00"
+    },
+    {
+      "id": "ccd3b2038092",
+      "title": "is personalized AI memory actually a problem worth solving or am I just coping",
+      "summary": "genuine question for this community every time i use claude or chatgpt i have to re-explain myself. and even their memory feature is shallow it remembers facts about me, not how i actually think. the idea i've been sitting on is different…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl9uge/is_personalized_ai_memory_actually_a_problem/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-23T07:41:15+00:00"
+    },
+    {
+      "id": "60958bed9c3c",
+      "title": "You now get warnings about context usage when resuming a session. Windows Desktop app.",
+      "summary": "Latest version of Windows Desktop app working in cowork. Noticed this warning when I went to resume a session. Good to see the issue is acknowledged and even being actively managed. &#32; submitted by &#32; /u/dulberf [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl6ya8/you_now_get_warnings_about_context_usage_when/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-23T05:06:30+00:00"
+    },
+    {
+      "id": "68e39a05bde3",
+      "title": "Comparison between Sonnet 4.6 and Opus 4.7",
+      "summary": "I actually use Claude Cowork moslty for my data entry work and both of these models work good. But today on my phone my brother asked me to put Claude thru a reasoning test on both models and here are the results. &#32; submitted by &#32;…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tldoin/comparison_between_sonnet_46_and_opus_47/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T11:16:44+00:00"
+    },
+    {
+      "id": "36e558b39aa2",
+      "title": "Did AI write this advertisement?",
+      "summary": "It’s this type of thing that makes me deeply appreciate quality copyright. FYI the flair priority is “compliment” #1 😂 &#32; submitted by &#32; /u/aablake [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tlb6kj/did_ai_write_this_advertisement/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T08:56:49+00:00"
+    },
+    {
+      "id": "2793a73f8267",
+      "title": "Four calls became one: letting the agent author tools mid-session",
+      "summary": "&#32; submitted by &#32; /u/wesh-k [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tlauid/four_calls_became_one_letting_the_agent_author/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-23T08:37:30+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}

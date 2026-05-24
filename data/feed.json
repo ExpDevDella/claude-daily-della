@@ -1,98 +1,98 @@
 {
-  "issue": 4,
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T10:19:47.309585-03:00",
+  "issue": 5,
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:20:37.449209-03:00",
   "items": [
     {
-      "id": "2679786a73a7",
-      "title": "Translating Claude’s thoughts into language",
-      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
-      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-05-07T17:01:21+00:00",
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00",
       "featured": true
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
-    },
-    {
-      "id": "02a1053fac4b",
-      "title": "Introducing Claude Opus 4.6",
-      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
-      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-02-05T17:45:22+00:00"
-    },
-    {
-      "id": "2fa5c484a636",
-      "title": "When is Chat, Cowork and Code merging?",
-      "summary": "I have the same project set up across all three tabs. Before I build something, I chat through it first. Sometimes I’ll kick off a Cowork session that bleeds into a coding problem. The workflow moves fluidly between all three, but the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tldsrl/when_is_chat_cowork_and_code_merging/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-05-23T11:22:34+00:00"
-    },
-    {
-      "id": "ccd3b2038092",
-      "title": "is personalized AI memory actually a problem worth solving or am I just coping",
-      "summary": "genuine question for this community every time i use claude or chatgpt i have to re-explain myself. and even their memory feature is shallow it remembers facts about me, not how i actually think. the idea i've been sitting on is different…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl9uge/is_personalized_ai_memory_actually_a_problem/",
+      "id": "a98a6451b247",
+      "title": "Claude working autonomously",
+      "summary": "Goodmorning, Has anyone figure out how to configure Claude so that it runs autonomously, almost like Openclaw? I wanted to figure out if it could just autonomously respond to LinkedIn messages and reach out on my behalf? I know i can do…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm9gm5/claude_working_autonomously/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-23T07:41:15+00:00"
+      "published": "2026-05-24T11:21:02+00:00"
     },
     {
-      "id": "60958bed9c3c",
-      "title": "You now get warnings about context usage when resuming a session. Windows Desktop app.",
-      "summary": "Latest version of Windows Desktop app working in cowork. Noticed this warning when I went to resume a session. Good to see the issue is acknowledged and even being actively managed. &#32; submitted by &#32; /u/dulberf [link] &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl6ya8/you_now_get_warnings_about_context_usage_when/",
+      "id": "512abd0b70b2",
+      "title": "🚀 Skills for small businesses, officially released by Anthropic",
+      "summary": "Anthropic’s 31 small-business skills reportedly hit around 382,000 downloads on day one. And now someone has mapped the whole thing into a setup workflow that can apparently be deployed in ~10 minutes. This is actually a pretty interesting…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm94ai/skills_for_small_businesses_officially_released/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-05-23T05:06:30+00:00"
+      "published": "2026-05-24T11:03:28+00:00"
     },
     {
-      "id": "68e39a05bde3",
-      "title": "Comparison between Sonnet 4.6 and Opus 4.7",
-      "summary": "I actually use Claude Cowork moslty for my data entry work and both of these models work good. But today on my phone my brother asked me to put Claude thru a reasoning test on both models and here are the results. &#32; submitted by &#32;…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tldoin/comparison_between_sonnet_46_and_opus_47/",
+      "id": "7cf587c464c1",
+      "title": "Task-observer makes your skills self-improving and automates skill creation",
+      "summary": "This recently crossed 500 stars on GitHub, mainly thanks to a comment in this sub (❤️), so I decided to properly introduce it to those who don't know it yet. Task-observer is a meta-skill that automatically improves all your skills,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm887i/taskobserver_makes_your_skills_selfimproving_and/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-05-24T10:15:17+00:00"
+    },
+    {
+      "id": "168fbb2487c4",
+      "title": "My account has been suspended. Is this a scam?",
+      "summary": "This is the message in the email: Hello, Our team found signals that your account was used by a child. This breaks our rules, so we paused your access to Claude (you can read more about our rules here). If you think we made a mistake and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm8xbv/my_account_has_been_suspended_is_this_a_scam/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-23T11:16:44+00:00"
+      "published": "2026-05-24T10:53:19+00:00"
     },
     {
-      "id": "36e558b39aa2",
-      "title": "Did AI write this advertisement?",
-      "summary": "It’s this type of thing that makes me deeply appreciate quality copyright. FYI the flair priority is “compliment” #1 😂 &#32; submitted by &#32; /u/aablake [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tlb6kj/did_ai_write_this_advertisement/",
+      "id": "20b4ac90ad7e",
+      "title": "Das steckt in den KIs wenn man die Semantik runterbricht... Keine Wahrheit und keine Ethik",
+      "summary": "&#32; submitted by &#32; /u/Femfight3r [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm69kv/das_steckt_in_den_kis_wenn_man_die_semantik/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-23T08:56:49+00:00"
+      "published": "2026-05-24T08:23:42+00:00"
     },
     {
-      "id": "2793a73f8267",
-      "title": "Four calls became one: letting the agent author tools mid-session",
-      "summary": "&#32; submitted by &#32; /u/wesh-k [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tlauid/four_calls_became_one_letting_the_agent_author/",
+      "id": "9ef0220b5cd1",
+      "title": "I think I know why deepseek is so good",
+      "summary": "Might have something to do with &quot;Claude, made by Anthropic&quot; ... learning from the best. &#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm4zu9/i_think_i_know_why_deepseek_is_so_good/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-23T08:37:30+00:00"
+      "published": "2026-05-24T07:13:19+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     },
     {
       "id": "400dba2965d1",
