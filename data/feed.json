@@ -1,8 +1,29 @@
 {
-  "issue": 5,
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T10:20:37.449209-03:00",
+  "issue": 6,
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:49:34.917384-03:00",
   "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
     {
       "id": "9b2ab79dfb23",
       "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
@@ -11,68 +32,77 @@
       "source": "claudeai.dev Blog",
       "category": "Hack",
       "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00",
-      "featured": true
+      "published": "2026-05-23T00:00:00+00:00"
     },
     {
-      "id": "a98a6451b247",
-      "title": "Claude working autonomously",
-      "summary": "Goodmorning, Has anyone figure out how to configure Claude so that it runs autonomously, almost like Openclaw? I wanted to figure out if it could just autonomously respond to LinkedIn messages and reach out on my behalf? I know i can do…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm9gm5/claude_working_autonomously/",
+      "id": "158d68d47f5f",
+      "title": "Claude Dispatch: The AI That Keeps Working When You Don't",
+      "summary": "Anthropic launched a remote control for desktop AI. The success rate is 50/50. You should still use it.",
+      "url": "https://www.the-ai-corner.com/p/claude-dispatch-guide",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-05-25T13:41:08+00:00"
+    },
+    {
+      "id": "02e5801d0464",
+      "title": "I've been using Claude Code as a motion graphics engine for my YouTube videos. It writes the JSX, I render. Edit time roughly halved.",
+      "summary": "Found a really clean Claude Code use case that's not coding-coding. Remotion (React for video) means motion graphics are JSX components. So I describe what I want in plain English, Claude Code writes the component, I render. Lower thirds,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn9tyy/ive_been_using_claude_code_as_a_motion_graphics/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-24T11:21:02+00:00"
+      "published": "2026-05-25T13:52:08+00:00"
     },
     {
-      "id": "512abd0b70b2",
-      "title": "🚀 Skills for small businesses, officially released by Anthropic",
-      "summary": "Anthropic’s 31 small-business skills reportedly hit around 382,000 downloads on day one. And now someone has mapped the whole thing into a setup workflow that can apparently be deployed in ~10 minutes. This is actually a pretty interesting…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm94ai/skills_for_small_businesses_officially_released/",
+      "id": "33802d09c3b4",
+      "title": "I loved the idea behind \"caveman\" but didn't want a caveman. So I gave it a Kevin.",
+      "summary": "I added the following to my CLAUDE.md and I have seen some really great outcomes in both responses to my changes, document writing by my agents, and reduction in context usage. ## Response and Writing Guidance &gt; &quot;Why waste time say…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn9k74/i_loved_the_idea_behind_caveman_but_didnt_want_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-05-24T11:03:28+00:00"
+      "published": "2026-05-25T13:41:59+00:00"
     },
     {
-      "id": "7cf587c464c1",
-      "title": "Task-observer makes your skills self-improving and automates skill creation",
-      "summary": "This recently crossed 500 stars on GitHub, mainly thanks to a comment in this sub (❤️), so I decided to properly introduce it to those who don't know it yet. Task-observer is a meta-skill that automatically improves all your skills,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm887i/taskobserver_makes_your_skills_selfimproving_and/",
+      "id": "a4e6ee4cf86f",
+      "title": "Why can't Claude count, and how can I help it do so?",
+      "summary": "Sometimes, I need Claude to write things to a certain length - say, 50 words - and it seems completely incapable of doing so, even when I point out that it's writing text that's two or three times too long. Is there any way to get it to do…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn4u2k/why_cant_claude_count_and_how_can_i_help_it_do_so/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-05-24T10:15:17+00:00"
+      "published": "2026-05-25T10:13:59+00:00"
     },
     {
-      "id": "168fbb2487c4",
-      "title": "My account has been suspended. Is this a scam?",
-      "summary": "This is the message in the email: Hello, Our team found signals that your account was used by a child. This breaks our rules, so we paused your access to Claude (you can read more about our rules here). If you think we made a mistake and…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tm8xbv/my_account_has_been_suspended_is_this_a_scam/",
+      "id": "5c0f7521c286",
+      "title": "A Full Breakdown of Anthropic",
+      "summary": "This is going to be relatively long, so feel free to skip. For those who want a proper breakdown of Anthropic, this is for you. For those who want a good read, grab a coffee and enjoy. I really enjoyed researching and writing this, 15-20…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tn6bcg/a_full_breakdown_of_anthropic/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-24T10:53:19+00:00"
+      "published": "2026-05-25T11:26:35+00:00"
     },
     {
-      "id": "20b4ac90ad7e",
-      "title": "Das steckt in den KIs wenn man die Semantik runterbricht... Keine Wahrheit und keine Ethik",
-      "summary": "&#32; submitted by &#32; /u/Femfight3r [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tm69kv/das_steckt_in_den_kis_wenn_man_die_semantik/",
+      "id": "49db68364ee3",
+      "title": "A CEO built his own AI agent with Claude MCP + NetSuite. It worked. Then it didn't scale.",
+      "summary": "How many of you have a prototype that demos great and then falls apart the moment real users touch it? Yeah. This is that story, except the person who built the prototype was the CEO himself. S&B Filters, a U.S. manufacturer with 700+…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tn4jch/a_ceo_built_his_own_ai_agent_with_claude_mcp/",
+      "source": "Reddit r/Anthropic",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-05-25T09:58:29+00:00"
+    },
+    {
+      "id": "103884b279b2",
+      "title": "Anthropic Mythos Cybersecurity: What Project Glass Wing Found in 30 Days",
+      "summary": "&#32; submitted by &#32; /u/vinodpandey7 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tn2v7r/anthropic_mythos_cybersecurity_what_project_glass/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-24T08:23:42+00:00"
-    },
-    {
-      "id": "9ef0220b5cd1",
-      "title": "I think I know why deepseek is so good",
-      "summary": "Might have something to do with &quot;Claude, made by Anthropic&quot; ... learning from the best. &#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tm4zu9/i_think_i_know_why_deepseek_is_so_good/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-05-24T07:13:19+00:00"
+      "published": "2026-05-25T08:25:50+00:00"
     },
     {
       "id": "fbc19a0d1e1e",
@@ -93,36 +123,6 @@
       "category": "Novidade",
       "weight": 5,
       "published": "2026-02-23T22:59:46+00:00"
-    },
-    {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }

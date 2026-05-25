@@ -1,0 +1,128 @@
+{
+  "issue": 5,
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:20:37.449209-03:00",
+  "items": [
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "a98a6451b247",
+      "title": "Claude working autonomously",
+      "summary": "Goodmorning, Has anyone figure out how to configure Claude so that it runs autonomously, almost like Openclaw? I wanted to figure out if it could just autonomously respond to LinkedIn messages and reach out on my behalf? I know i can do…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm9gm5/claude_working_autonomously/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-24T11:21:02+00:00"
+    },
+    {
+      "id": "512abd0b70b2",
+      "title": "🚀 Skills for small businesses, officially released by Anthropic",
+      "summary": "Anthropic’s 31 small-business skills reportedly hit around 382,000 downloads on day one. And now someone has mapped the whole thing into a setup workflow that can apparently be deployed in ~10 minutes. This is actually a pretty interesting…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm94ai/skills_for_small_businesses_officially_released/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-05-24T11:03:28+00:00"
+    },
+    {
+      "id": "7cf587c464c1",
+      "title": "Task-observer makes your skills self-improving and automates skill creation",
+      "summary": "This recently crossed 500 stars on GitHub, mainly thanks to a comment in this sub (❤️), so I decided to properly introduce it to those who don't know it yet. Task-observer is a meta-skill that automatically improves all your skills,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm887i/taskobserver_makes_your_skills_selfimproving_and/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-05-24T10:15:17+00:00"
+    },
+    {
+      "id": "168fbb2487c4",
+      "title": "My account has been suspended. Is this a scam?",
+      "summary": "This is the message in the email: Hello, Our team found signals that your account was used by a child. This breaks our rules, so we paused your access to Claude (you can read more about our rules here). If you think we made a mistake and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm8xbv/my_account_has_been_suspended_is_this_a_scam/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-24T10:53:19+00:00"
+    },
+    {
+      "id": "20b4ac90ad7e",
+      "title": "Das steckt in den KIs wenn man die Semantik runterbricht... Keine Wahrheit und keine Ethik",
+      "summary": "&#32; submitted by &#32; /u/Femfight3r [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm69kv/das_steckt_in_den_kis_wenn_man_die_semantik/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-24T08:23:42+00:00"
+    },
+    {
+      "id": "9ef0220b5cd1",
+      "title": "I think I know why deepseek is so good",
+      "summary": "Might have something to do with &quot;Claude, made by Anthropic&quot; ... learning from the best. &#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tm4zu9/i_think_i_know_why_deepseek_is_so_good/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-24T07:13:19+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}
