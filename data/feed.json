@@ -1,7 +1,7 @@
 {
-  "issue": 6,
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T11:49:34.917384-03:00",
+  "issue": 7,
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T12:19:35.513110-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -25,6 +25,16 @@
       "published": "2026-04-07T18:03:51+00:00"
     },
     {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
       "id": "9b2ab79dfb23",
       "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
       "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
@@ -33,6 +43,16 @@
       "category": "Hack",
       "weight": 8,
       "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "4cc4ab379216",
+      "title": "upgrade everything-server to zod v4, latest MCP sdk",
+      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-11T11:29:58+00:00"
     },
     {
       "id": "158d68d47f5f",
@@ -45,84 +65,64 @@
       "published": "2026-05-25T13:41:08+00:00"
     },
     {
-      "id": "02e5801d0464",
-      "title": "I've been using Claude Code as a motion graphics engine for my YouTube videos. It writes the JSX, I render. Edit time roughly halved.",
-      "summary": "Found a really clean Claude Code use case that's not coding-coding. Remotion (React for video) means motion graphics are JSX components. So I describe what I want in plain English, Claude Code writes the component, I render. Lower thirds,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn9tyy/ive_been_using_claude_code_as_a_motion_graphics/",
+      "id": "84e91c004d52",
+      "title": "AI quietly turned HTML into a real alternative to PowerPoint and Word for client-facing docs. The blockers that made it impractical a year ago are falling one by one.",
+      "summary": "A year ago, generating a polished document as HTML instead of a PPT or a Word file was a fun idea with too many practical problems. Lately I've noticed every one of those blockers either gone or close to gone, and I've quietly stopped…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to797n/ai_quietly_turned_html_into_a_real_alternative_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-25T13:52:08+00:00"
+      "published": "2026-05-26T13:38:34+00:00"
     },
     {
-      "id": "33802d09c3b4",
-      "title": "I loved the idea behind \"caveman\" but didn't want a caveman. So I gave it a Kevin.",
-      "summary": "I added the following to my CLAUDE.md and I have seen some really great outcomes in both responses to my changes, document writing by my agents, and reduction in context usage. ## Response and Writing Guidance &gt; &quot;Why waste time say…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn9k74/i_loved_the_idea_behind_caveman_but_didnt_want_a/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-05-25T13:41:59+00:00"
-    },
-    {
-      "id": "a4e6ee4cf86f",
-      "title": "Why can't Claude count, and how can I help it do so?",
-      "summary": "Sometimes, I need Claude to write things to a certain length - say, 50 words - and it seems completely incapable of doing so, even when I point out that it's writing text that's two or three times too long. Is there any way to get it to do…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tn4u2k/why_cant_claude_count_and_how_can_i_help_it_do_so/",
+      "id": "b8d406de1078",
+      "title": "I let Claude rank every YC Spring 26 startup — round 2",
+      "summary": "Follow-up to my W26 post a few months back. Ran the same Claude pipeline on the YC Spring 26 (X26) batch. Same setup: for each company, Claude scrapes founder LinkedIn profiles, searches for press and traction signals, and checks the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to4ie6/i_let_claude_rank_every_yc_spring_26_startup/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-25T10:13:59+00:00"
+      "published": "2026-05-26T11:47:01+00:00"
     },
     {
-      "id": "5c0f7521c286",
-      "title": "A Full Breakdown of Anthropic",
-      "summary": "This is going to be relatively long, so feel free to skip. For those who want a proper breakdown of Anthropic, this is for you. For those who want a good read, grab a coffee and enjoy. I really enjoyed researching and writing this, 15-20…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tn6bcg/a_full_breakdown_of_anthropic/",
+      "id": "779c93d5cbc2",
+      "title": "Paying for the Pro sub at 18€ / month?",
+      "summary": "Hello, I'm having a tight budget but so far I've been using Claude for free, with limited messages, for work research, brainstorming and life coaching. It is a great tool and I like the perspective and analysis, the consistent memory is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to11c4/paying_for_the_pro_sub_at_18_month/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-26T08:47:55+00:00"
+    },
+    {
+      "id": "badd22f95182",
+      "title": "Anthropic subs switching process killing me on every month",
+      "summary": "Claude subs switching process killing me on every month Literally most inefficient on this subject, that a place which causes problems every month. I have no any issue with my card but I was still curious about why. I had take a look…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to6khk/anthropic_subs_switching_process_killing_me_on/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-25T11:26:35+00:00"
+      "published": "2026-05-26T13:13:11+00:00"
     },
     {
-      "id": "49db68364ee3",
-      "title": "A CEO built his own AI agent with Claude MCP + NetSuite. It worked. Then it didn't scale.",
-      "summary": "How many of you have a prototype that demos great and then falls apart the moment real users touch it? Yeah. This is that story, except the person who built the prototype was the CEO himself. S&B Filters, a U.S. manufacturer with 700+…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tn4jch/a_ceo_built_his_own_ai_agent_with_claude_mcp/",
-      "source": "Reddit r/Anthropic",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-05-25T09:58:29+00:00"
-    },
-    {
-      "id": "103884b279b2",
-      "title": "Anthropic Mythos Cybersecurity: What Project Glass Wing Found in 30 Days",
-      "summary": "&#32; submitted by &#32; /u/vinodpandey7 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tn2v7r/anthropic_mythos_cybersecurity_what_project_glass/",
+      "id": "27cec2a53cb3",
+      "title": "Anthropic researcher: \"We keep finding things [inside AI models] that are unsettling\" ... \"We find structures that mirror results from human neuroscience. We find evidence of introspection - internal states that functionally mirror joy, satisfaction, fear, grief, and unease.\"",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to5q3s/anthropic_researcher_we_keep_finding_things/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-25T08:25:50+00:00"
+      "published": "2026-05-26T12:39:06+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
+      "id": "fd2862617301",
+      "title": "Think we should talk about this.",
+      "summary": "Claude had involvement, so I’m posting this here. &#32; submitted by &#32; /u/FriendAlarmed4564 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to4mso/think_we_should_talk_about_this/",
+      "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
-    },
-    {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "published": "2026-05-26T11:52:36+00:00"
     }
   ]
 }
