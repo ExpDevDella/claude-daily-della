@@ -1,0 +1,128 @@
+{
+  "issue": 7,
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T12:19:35.513110-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "4cc4ab379216",
+      "title": "upgrade everything-server to zod v4, latest MCP sdk",
+      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-11T11:29:58+00:00"
+    },
+    {
+      "id": "158d68d47f5f",
+      "title": "Claude Dispatch: The AI That Keeps Working When You Don't",
+      "summary": "Anthropic launched a remote control for desktop AI. The success rate is 50/50. You should still use it.",
+      "url": "https://www.the-ai-corner.com/p/claude-dispatch-guide",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-05-25T13:41:08+00:00"
+    },
+    {
+      "id": "84e91c004d52",
+      "title": "AI quietly turned HTML into a real alternative to PowerPoint and Word for client-facing docs. The blockers that made it impractical a year ago are falling one by one.",
+      "summary": "A year ago, generating a polished document as HTML instead of a PPT or a Word file was a fun idea with too many practical problems. Lately I've noticed every one of those blockers either gone or close to gone, and I've quietly stopped…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to797n/ai_quietly_turned_html_into_a_real_alternative_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-26T13:38:34+00:00"
+    },
+    {
+      "id": "b8d406de1078",
+      "title": "I let Claude rank every YC Spring 26 startup — round 2",
+      "summary": "Follow-up to my W26 post a few months back. Ran the same Claude pipeline on the YC Spring 26 (X26) batch. Same setup: for each company, Claude scrapes founder LinkedIn profiles, searches for press and traction signals, and checks the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to4ie6/i_let_claude_rank_every_yc_spring_26_startup/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-26T11:47:01+00:00"
+    },
+    {
+      "id": "779c93d5cbc2",
+      "title": "Paying for the Pro sub at 18€ / month?",
+      "summary": "Hello, I'm having a tight budget but so far I've been using Claude for free, with limited messages, for work research, brainstorming and life coaching. It is a great tool and I like the perspective and analysis, the consistent memory is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to11c4/paying_for_the_pro_sub_at_18_month/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-26T08:47:55+00:00"
+    },
+    {
+      "id": "badd22f95182",
+      "title": "Anthropic subs switching process killing me on every month",
+      "summary": "Claude subs switching process killing me on every month Literally most inefficient on this subject, that a place which causes problems every month. I have no any issue with my card but I was still curious about why. I had take a look…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to6khk/anthropic_subs_switching_process_killing_me_on/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-26T13:13:11+00:00"
+    },
+    {
+      "id": "27cec2a53cb3",
+      "title": "Anthropic researcher: \"We keep finding things [inside AI models] that are unsettling\" ... \"We find structures that mirror results from human neuroscience. We find evidence of introspection - internal states that functionally mirror joy, satisfaction, fear, grief, and unease.\"",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to5q3s/anthropic_researcher_we_keep_finding_things/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-26T12:39:06+00:00"
+    },
+    {
+      "id": "fd2862617301",
+      "title": "Think we should talk about this.",
+      "summary": "Claude had involvement, so I’m posting this here. &#32; submitted by &#32; /u/FriendAlarmed4564 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1to4mso/think_we_should_talk_about_this/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-26T11:52:36+00:00"
+    }
+  ]
+}
