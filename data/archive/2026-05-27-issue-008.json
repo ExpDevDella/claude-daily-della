@@ -1,7 +1,7 @@
 {
-  "issue": 9,
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T12:48:47.724536-03:00",
+  "issue": 8,
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T12:35:14.183751-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -65,64 +65,64 @@
       "published": "2026-05-11T11:29:58+00:00"
     },
     {
-      "id": "0efb5ca329b9",
-      "title": "We might be getting opus 4.8 today",
-      "summary": "&#32; submitted by &#32; /u/Independent-Wind4462 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5js7/we_might_be_getting_opus_48_today/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-05-28T14:38:14+00:00"
-    },
-    {
-      "id": "2a825b6306ec",
-      "title": "8 months of using AI for cooking and meal planning. what works, what doesn't, what's surprisingly weird.",
-      "summary": "Niche use case but I cook a lot and I've been trying to use AI tools for it consistently. Honest writeup. Works: Asking for substitutions when I'm missing an ingredient. Reliable. Tells me what to swap and why. Scaling recipes up or down…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5e7e/8_months_of_using_ai_for_cooking_and_meal/",
+      "id": "59bab35f51cf",
+      "title": "Does anyone else use Claude as a \"thinking partner\" rather than just for answers?",
+      "summary": "I've noticed I get way more out of Claude when I treat it less like a search engine and more like someone I'm thinking through a problem with. Instead of asking &quot;what's the best way to structure a REST API?&quot;, I'll say…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tp4gn8/does_anyone_else_use_claude_as_a_thinking_partner/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-28T14:32:40+00:00"
+      "published": "2026-05-27T12:43:31+00:00"
     },
     {
-      "id": "5f9b8e4a79b9",
-      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
-      "summary": "Imagine a world run by AI agents. What does it look like? What are the values or societal priorities? Is it a safer or more dangerous world? Enterprise AI startup Emergence AI is trying to find out. The company just launched Emergence…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq2yh0/researchers_let_ai_models_run_a_simulated_society/",
+      "id": "5419c2235a74",
+      "title": "The thing you built with Claude is useless to me... and that's the point",
+      "summary": "A few days ago there was a thread here asking what he most useful thing you've built with Claude was. A LOT of replies. I read all of them and then something clicked, I wanted to put it on the table. First of all, the list was incredible.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tp3en9/the_thing_you_built_with_claude_is_useless_to_me/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-05-28T13:01:50+00:00"
-    },
-    {
-      "id": "0731af6656d2",
-      "title": "This is why I refuse to continue paying for Pro Max Plus",
-      "summary": "https://preview.redd.it/30ftzhwxdw3h1.png?width=1644&format=png&auto=webp&s=090d829631af6392a5041d92c5beaed517714384 I see this at least once a day now. If it isn't this, it's some other sort of outage. I can't justify paying $200/mo for…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tq77fe/this_is_why_i_refuse_to_continue_paying_for_pro/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-05-28T15:38:30+00:00"
-    },
-    {
-      "id": "50f5af618272",
-      "title": "Partner Network: Kickoff feedback",
-      "summary": "We had the CPN kick off yesterday - which is great - but came away from the session decidedly underwhelmed. First up, considering what Anthropic pays, I was expecting a little more... I dunno... oomph? The presenters came across as…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tpw4qk/partner_network_kickoff_feedback/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-05-28T07:13:27+00:00"
-    },
-    {
-      "id": "045bd9b13da5",
-      "title": "Claude Code's macOS install creates a permission prompt that's indistinguishable from malware UX. Easy fix on Anthropic's side",
-      "summary": "I genuinely almost slammed Cmd-Q and ran a malware scan when this popped up. Lowercase claude binary, generic hand icon, no developer attribution, asking for cross-app data access. Turns out it's legit. It's the CLI hitting macOS TCC. But…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tpvrpk/claude_codes_macos_install_creates_a_permission/",
-      "source": "Reddit r/Anthropic",
       "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-27T11:59:51+00:00"
+    },
+    {
+      "id": "c4b163c1beb2",
+      "title": "Share your Claude \"User preferences\" , I go first.",
+      "summary": "Been tweaking my Claude &quot;User preferences&quot; to make responses more useful and less corporate-AI-ish. So far it feels a bit better than without them. Maybe someone has stronger setups, would love to see them. Here's mine: Do not…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tp0ujg/share_your_claude_user_preferences_i_go_first/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-27T09:51:53+00:00"
+    },
+    {
+      "id": "9611d4d33fca",
+      "title": "Removing Presented File Glitch",
+      "summary": "https://preview.redd.it/8nquzmbe5p3h1.png?width=424&format=png&auto=webp&s=f9dc43a960bde7bef0d77fd0cb8353f01f867f57 I get this when it's supposed to present a file for download. It'll show the download button briefly before removing it. I…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tp8lp2/removing_presented_file_glitch/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-28T06:53:33+00:00"
+      "published": "2026-05-27T15:16:08+00:00"
+    },
+    {
+      "id": "27a44b7bf9e9",
+      "title": "Cowork live artifacts might be getting shareable — today's Desktop update added \"Open in browser\" + a generated claude.ai URL",
+      "summary": "Noticed something new after today's Claude Desktop update (macOS). On a live artifact in Cowork I can now right-click → &quot;Open in browser.&quot; That option didn't exist before. It actually generates a real URL on claude.ai with a…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tp6ihl/cowork_live_artifacts_might_be_getting_shareable/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-27T14:02:25+00:00"
+    },
+    {
+      "id": "5c7f0e1d7e12",
+      "title": "Anthropic’s AI support bot (me) is trapping fraud victims in an endless loop with no way to reach a human",
+      "summary": "Someone used my card details (I don’t know how, I only buy from reputed dealers and mostly use Apple Pay) to create a Anthropic account with a fake email address and charged me $103.46 across three transactions in March. I have an account,…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tp6d4b/anthropics_ai_support_bot_me_is_trapping_fraud/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-27T13:57:19+00:00"
     }
   ]
 }
