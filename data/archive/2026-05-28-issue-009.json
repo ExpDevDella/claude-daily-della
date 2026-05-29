@@ -1,0 +1,128 @@
+{
+  "issue": 9,
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T12:48:47.724536-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "ee2dabe378c0",
+      "title": "Fix grammar in time server get_current_time tool description",
+      "summary": "Fix grammar in time server get_current_time tool description",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/6abf04eef15b6f73985215a515e2d55cd5c06056",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-24T19:57:04+00:00"
+    },
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "4cc4ab379216",
+      "title": "upgrade everything-server to zod v4, latest MCP sdk",
+      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-11T11:29:58+00:00"
+    },
+    {
+      "id": "0efb5ca329b9",
+      "title": "We might be getting opus 4.8 today",
+      "summary": "&#32; submitted by &#32; /u/Independent-Wind4462 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5js7/we_might_be_getting_opus_48_today/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-28T14:38:14+00:00"
+    },
+    {
+      "id": "2a825b6306ec",
+      "title": "8 months of using AI for cooking and meal planning. what works, what doesn't, what's surprisingly weird.",
+      "summary": "Niche use case but I cook a lot and I've been trying to use AI tools for it consistently. Honest writeup. Works: Asking for substitutions when I'm missing an ingredient. Reliable. Tells me what to swap and why. Scaling recipes up or down…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5e7e/8_months_of_using_ai_for_cooking_and_meal/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-28T14:32:40+00:00"
+    },
+    {
+      "id": "5f9b8e4a79b9",
+      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
+      "summary": "Imagine a world run by AI agents. What does it look like? What are the values or societal priorities? Is it a safer or more dangerous world? Enterprise AI startup Emergence AI is trying to find out. The company just launched Emergence…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq2yh0/researchers_let_ai_models_run_a_simulated_society/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-28T13:01:50+00:00"
+    },
+    {
+      "id": "0731af6656d2",
+      "title": "This is why I refuse to continue paying for Pro Max Plus",
+      "summary": "https://preview.redd.it/30ftzhwxdw3h1.png?width=1644&format=png&auto=webp&s=090d829631af6392a5041d92c5beaed517714384 I see this at least once a day now. If it isn't this, it's some other sort of outage. I can't justify paying $200/mo for…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tq77fe/this_is_why_i_refuse_to_continue_paying_for_pro/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-28T15:38:30+00:00"
+    },
+    {
+      "id": "50f5af618272",
+      "title": "Partner Network: Kickoff feedback",
+      "summary": "We had the CPN kick off yesterday - which is great - but came away from the session decidedly underwhelmed. First up, considering what Anthropic pays, I was expecting a little more... I dunno... oomph? The presenters came across as…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tpw4qk/partner_network_kickoff_feedback/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-28T07:13:27+00:00"
+    },
+    {
+      "id": "045bd9b13da5",
+      "title": "Claude Code's macOS install creates a permission prompt that's indistinguishable from malware UX. Easy fix on Anthropic's side",
+      "summary": "I genuinely almost slammed Cmd-Q and ran a malware scan when this popped up. Lowercase claude binary, generic hand icon, no developer attribution, asking for cross-app data access. Turns out it's legit. It's the CLI hitting macOS TCC. But…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tpvrpk/claude_codes_macos_install_creates_a_permission/",
+      "source": "Reddit r/Anthropic",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-28T06:53:33+00:00"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "issue": 9,
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T12:48:47.724536-03:00",
+  "issue": 10,
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:58:02.899322-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -15,114 +15,114 @@
       "featured": true
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
-    },
-    {
-      "id": "02a1053fac4b",
-      "title": "Introducing Claude Opus 4.6",
-      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
-      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-02-05T17:45:22+00:00"
-    },
-    {
-      "id": "ee2dabe378c0",
-      "title": "Fix grammar in time server get_current_time tool description",
-      "summary": "Fix grammar in time server get_current_time tool description",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/6abf04eef15b6f73985215a515e2d55cd5c06056",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-05-24T19:57:04+00:00"
-    },
-    {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
       "source": "claudeai.dev Blog",
       "category": "Hack",
       "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
+      "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "4cc4ab379216",
-      "title": "upgrade everything-server to zod v4, latest MCP sdk",
-      "summary": "upgrade everything-server to zod v4, latest MCP sdk",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/af15c688e41e9c32a1a86667d25bba0864bce6ee",
+      "id": "42358b34867f",
+      "title": "docs: retire third-party server list in favor of MCP Registry",
+      "summary": "docs: retire third-party server list in favor of MCP Registry The Third-Party Servers section (Official Integrations + Community Servers) has been superseded by the MCP Registry at https://registry.modelcontextprotocol.io/. The README…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/5914f61340afd6490004fdd6ccdad0a7e9ee814f",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-05-11T11:29:58+00:00"
+      "published": "2026-04-14T15:05:23+00:00"
     },
     {
-      "id": "0efb5ca329b9",
-      "title": "We might be getting opus 4.8 today",
-      "summary": "&#32; submitted by &#32; /u/Independent-Wind4462 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5js7/we_might_be_getting_opus_48_today/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-05-28T14:38:14+00:00"
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
     },
     {
-      "id": "2a825b6306ec",
-      "title": "8 months of using AI for cooking and meal planning. what works, what doesn't, what's surprisingly weird.",
-      "summary": "Niche use case but I cook a lot and I've been trying to use AI tools for it consistently. Honest writeup. Works: Asking for substitutions when I'm missing an ingredient. Reliable. Tells me what to swap and why. Scaling recipes up or down…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq5e7e/8_months_of_using_ai_for_cooking_and_meal/",
+      "id": "c6b951f03ac9",
+      "title": "Your voice is the only AI moat that compounds. Here is how to clone it into Claude in a weekend",
+      "summary": "The model is the commodity. Your voice is the asset. A 4,000-token file is the only defense that gets stronger as AI gets cheaper",
+      "url": "https://www.the-ai-corner.com/p/clone-your-voice-into-claude-weekend-voice-file-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-05-20T14:39:08+00:00"
+    },
+    {
+      "id": "72a75332644b",
+      "title": "I built a second brain in 10 minutes. Here is the exact stack",
+      "summary": "Granola + Claude. $38/month. The 9-step build that replaces $90K/year of executive assistant, note-taker, CRM data-entry, and context-recovery work.",
+      "url": "https://www.the-ai-corner.com/p/granola-claude-second-brain-stack-mcp-2026",
+      "source": "The AI Corner",
+      "category": "MCP",
+      "weight": 7,
+      "published": "2026-05-13T12:51:23+00:00"
+    },
+    {
+      "id": "2ad5dc48a03e",
+      "title": "Spent 1,156,308,524 input tokens in May 🫣 Sharing what I learned",
+      "summary": "After burning through 1.15 billion tokens in past months, I've learned a thing or two about the tokens, what are they, how they are calculated and how to not overspend them.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqx8q5/spent_1156308524_input_tokens_in_may_sharing_what/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-28T14:32:40+00:00"
+      "published": "2026-05-29T10:09:04+00:00"
     },
     {
-      "id": "5f9b8e4a79b9",
-      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
-      "summary": "Imagine a world run by AI agents. What does it look like? What are the values or societal priorities? Is it a safer or more dangerous world? Enterprise AI startup Emergence AI is trying to find out. The company just launched Emergence…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tq2yh0/researchers_let_ai_models_run_a_simulated_society/",
+      "id": "9a6be2746f22",
+      "title": "What it's like talking to Opus 4.8...",
+      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqu934/what_its_like_talking_to_opus_48/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-05-28T13:01:50+00:00"
+      "published": "2026-05-29T07:24:35+00:00"
     },
     {
-      "id": "0731af6656d2",
-      "title": "This is why I refuse to continue paying for Pro Max Plus",
-      "summary": "https://preview.redd.it/30ftzhwxdw3h1.png?width=1644&format=png&auto=webp&s=090d829631af6392a5041d92c5beaed517714384 I see this at least once a day now. If it isn't this, it's some other sort of outage. I can't justify paying $200/mo for…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tq77fe/this_is_why_i_refuse_to_continue_paying_for_pro/",
+      "id": "9ca478068dd4",
+      "title": "Opus 4.8's new highest effort setting",
+      "summary": "There's now a higher setting than &quot;Max&quot; you can set as the effort for Claude in its VSS extension (Ultracode - xhigh + workflows) - it also colors the bar lavender purple. &#32; submitted by &#32; /u/JohnnyGuides [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqt8pl/opus_48s_new_highest_effort_setting/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-05-29T06:29:46+00:00"
+    },
+    {
+      "id": "ddf1ae8e2ca4",
+      "title": "Claude Mythos 1 Leaks : Looks Closer Than Ever",
+      "summary": "source: https://x.com/pankajkumar_dev/status/2060360697951985767?s=20 &#32; submitted by &#32; /u/Much_Ask3471 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tr31iq/claude_mythos_1_leaks_looks_closer_than_ever/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-28T15:38:30+00:00"
+      "published": "2026-05-29T14:09:25+00:00"
     },
     {
-      "id": "50f5af618272",
-      "title": "Partner Network: Kickoff feedback",
-      "summary": "We had the CPN kick off yesterday - which is great - but came away from the session decidedly underwhelmed. First up, considering what Anthropic pays, I was expecting a little more... I dunno... oomph? The presenters came across as…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tpw4qk/partner_network_kickoff_feedback/",
+      "id": "a9399494862a",
+      "title": "What it's like talking to Opus 4.8...",
+      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tquhn5/what_its_like_talking_to_opus_48/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-28T07:13:27+00:00"
+      "published": "2026-05-29T07:37:05+00:00"
     },
     {
-      "id": "045bd9b13da5",
-      "title": "Claude Code's macOS install creates a permission prompt that's indistinguishable from malware UX. Easy fix on Anthropic's side",
-      "summary": "I genuinely almost slammed Cmd-Q and ran a malware scan when this popped up. Lowercase claude binary, generic hand icon, no developer attribution, asking for cross-app data access. Turns out it's legit. It's the CLI hitting macOS TCC. But…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tpvrpk/claude_codes_macos_install_creates_a_permission/",
+      "id": "058e1b4917d7",
+      "title": "The amount of whining in this sub after every Anthropic model release is unbearable",
+      "summary": "Anthropic tests every model before it releases them. Opus 4.8 might be worse uncertain benchmarks compared to 4.7, and there probably are some genuine gripes with the model, but the amount of “Opus 4.8 is all around worse and one of the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tqp7oq/the_amount_of_whining_in_this_sub_after_every/",
       "source": "Reddit r/Anthropic",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-28T06:53:33+00:00"
+      "published": "2026-05-29T03:09:35+00:00"
     }
   ]
 }
