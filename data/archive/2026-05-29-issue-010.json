@@ -1,0 +1,128 @@
+{
+  "issue": 10,
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:58:02.899322-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "42358b34867f",
+      "title": "docs: retire third-party server list in favor of MCP Registry",
+      "summary": "docs: retire third-party server list in favor of MCP Registry The Third-Party Servers section (Official Integrations + Community Servers) has been superseded by the MCP Registry at https://registry.modelcontextprotocol.io/. The README…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/5914f61340afd6490004fdd6ccdad0a7e9ee814f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-04-14T15:05:23+00:00"
+    },
+    {
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "c6b951f03ac9",
+      "title": "Your voice is the only AI moat that compounds. Here is how to clone it into Claude in a weekend",
+      "summary": "The model is the commodity. Your voice is the asset. A 4,000-token file is the only defense that gets stronger as AI gets cheaper",
+      "url": "https://www.the-ai-corner.com/p/clone-your-voice-into-claude-weekend-voice-file-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-05-20T14:39:08+00:00"
+    },
+    {
+      "id": "72a75332644b",
+      "title": "I built a second brain in 10 minutes. Here is the exact stack",
+      "summary": "Granola + Claude. $38/month. The 9-step build that replaces $90K/year of executive assistant, note-taker, CRM data-entry, and context-recovery work.",
+      "url": "https://www.the-ai-corner.com/p/granola-claude-second-brain-stack-mcp-2026",
+      "source": "The AI Corner",
+      "category": "MCP",
+      "weight": 7,
+      "published": "2026-05-13T12:51:23+00:00"
+    },
+    {
+      "id": "2ad5dc48a03e",
+      "title": "Spent 1,156,308,524 input tokens in May 🫣 Sharing what I learned",
+      "summary": "After burning through 1.15 billion tokens in past months, I've learned a thing or two about the tokens, what are they, how they are calculated and how to not overspend them.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqx8q5/spent_1156308524_input_tokens_in_may_sharing_what/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-29T10:09:04+00:00"
+    },
+    {
+      "id": "9a6be2746f22",
+      "title": "What it's like talking to Opus 4.8...",
+      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqu934/what_its_like_talking_to_opus_48/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-29T07:24:35+00:00"
+    },
+    {
+      "id": "9ca478068dd4",
+      "title": "Opus 4.8's new highest effort setting",
+      "summary": "There's now a higher setting than &quot;Max&quot; you can set as the effort for Claude in its VSS extension (Ultracode - xhigh + workflows) - it also colors the bar lavender purple. &#32; submitted by &#32; /u/JohnnyGuides [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqt8pl/opus_48s_new_highest_effort_setting/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-05-29T06:29:46+00:00"
+    },
+    {
+      "id": "ddf1ae8e2ca4",
+      "title": "Claude Mythos 1 Leaks : Looks Closer Than Ever",
+      "summary": "source: https://x.com/pankajkumar_dev/status/2060360697951985767?s=20 &#32; submitted by &#32; /u/Much_Ask3471 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tr31iq/claude_mythos_1_leaks_looks_closer_than_ever/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-29T14:09:25+00:00"
+    },
+    {
+      "id": "a9399494862a",
+      "title": "What it's like talking to Opus 4.8...",
+      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tquhn5/what_its_like_talking_to_opus_48/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-29T07:37:05+00:00"
+    },
+    {
+      "id": "058e1b4917d7",
+      "title": "The amount of whining in this sub after every Anthropic model release is unbearable",
+      "summary": "Anthropic tests every model before it releases them. Opus 4.8 might be worse uncertain benchmarks compared to 4.7, and there probably are some genuine gripes with the model, but the amount of “Opus 4.8 is all around worse and one of the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tqp7oq/the_amount_of_whining_in_this_sub_after_every/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-29T03:09:35+00:00"
+    }
+  ]
+}

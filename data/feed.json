@@ -1,7 +1,7 @@
 {
-  "issue": 10,
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T11:58:02.899322-03:00",
+  "issue": 11,
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:24:03.277518-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -15,6 +15,16 @@
       "featured": true
     },
     {
+      "id": "b7bc30562a73",
+      "title": "fix(filesystem): preserve literal dollar replacements (#4225)",
+      "summary": "fix(filesystem): preserve literal dollar replacements (#4225) Co-authored-by: Ola Hungerford &lt;olahungerford@gmail.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/00ce9cf134bbcb2dd3ff7834e7211d7c26f26b04",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T04:27:03+00:00"
+    },
+    {
       "id": "66eaee28fa5c",
       "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
       "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
@@ -23,16 +33,6 @@
       "category": "Hack",
       "weight": 8,
       "published": "2026-05-29T00:00:00+00:00"
-    },
-    {
-      "id": "42358b34867f",
-      "title": "docs: retire third-party server list in favor of MCP Registry",
-      "summary": "docs: retire third-party server list in favor of MCP Registry The Third-Party Servers section (Official Integrations + Community Servers) has been superseded by the MCP Registry at https://registry.modelcontextprotocol.io/. The README…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/5914f61340afd6490004fdd6ccdad0a7e9ee814f",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-04-14T15:05:23+00:00"
     },
     {
       "id": "ac29be22e84b",
@@ -65,64 +65,64 @@
       "published": "2026-05-13T12:51:23+00:00"
     },
     {
-      "id": "2ad5dc48a03e",
-      "title": "Spent 1,156,308,524 input tokens in May 🫣 Sharing what I learned",
-      "summary": "After burning through 1.15 billion tokens in past months, I've learned a thing or two about the tokens, what are they, how they are calculated and how to not overspend them.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqx8q5/spent_1156308524_input_tokens_in_may_sharing_what/",
+      "id": "1de26606744e",
+      "title": "The touchbar was too early and didn't deserve to die",
+      "summary": "Imagine seeing your Claude session usage, quick shortcuts such as ultrathink, workflow, plan or other commands... Im the type of user that really enjoyed the touch bar and this will be a great workflow &#32; submitted by &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trwhsw/the_touchbar_was_too_early_and_didnt_deserve_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-05-30T10:42:01+00:00"
+    },
+    {
+      "id": "e508d56c5a02",
+      "title": "RANT If Claude \"correcting you too much\" makes you want to move somewhere else the problem isn't Claude its YOU",
+      "summary": "I'm seeing this everywhere in the comments &quot;Claude used to just agree with me and now it keeps pushing back and I hate it&quot; &quot;It pointed out a flaw in my argument and I didn't ASK for that&quot; &quot;It's gotten too critical…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trvm2y/rant_if_claude_correcting_you_too_much_makes_you/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-29T10:09:04+00:00"
+      "published": "2026-05-30T09:52:48+00:00"
     },
     {
-      "id": "9a6be2746f22",
-      "title": "What it's like talking to Opus 4.8...",
-      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqu934/what_its_like_talking_to_opus_48/",
+      "id": "bed65cd25de9",
+      "title": "Just got this weird message from Sonnet",
+      "summary": "Was just chatting and saw that. &#32; submitted by &#32; /u/davidinterest [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trt9w7/just_got_this_weird_message_from_sonnet/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-05-29T07:24:35+00:00"
+      "published": "2026-05-30T07:38:34+00:00"
     },
     {
-      "id": "9ca478068dd4",
-      "title": "Opus 4.8's new highest effort setting",
-      "summary": "There's now a higher setting than &quot;Max&quot; you can set as the effort for Claude in its VSS extension (Ultracode - xhigh + workflows) - it also colors the bar lavender purple. &#32; submitted by &#32; /u/JohnnyGuides [link] &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tqt8pl/opus_48s_new_highest_effort_setting/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "399456361ba4",
+      "title": "Claude Code uses 5% just to launch Claude Code",
+      "summary": "&#32; submitted by &#32; /u/Rare-Hotel6267 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1trw18h/claude_code_uses_5_just_to_launch_claude_code/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-30T10:16:23+00:00"
+    },
+    {
+      "id": "5750bfb281d6",
+      "title": "Why I moved away from skills.md and CLAUDE.md for rule management and what I replaced them.",
+      "summary": "I've been using Claude Code daily on a production Magento 2 codebase. I like the product. This isn't a complaint post. But I hit a wall with the default approach to rules and skills that I think other heavy users are hitting too. The…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1trvn1s/why_i_moved_away_from_skillsmd_and_claudemd_for/",
+      "source": "Reddit r/Anthropic",
       "category": "Plugin",
-      "weight": 6,
-      "published": "2026-05-29T06:29:46+00:00"
+      "weight": 5,
+      "published": "2026-05-30T09:54:20+00:00"
     },
     {
-      "id": "ddf1ae8e2ca4",
-      "title": "Claude Mythos 1 Leaks : Looks Closer Than Ever",
-      "summary": "source: https://x.com/pankajkumar_dev/status/2060360697951985767?s=20 &#32; submitted by &#32; /u/Much_Ask3471 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tr31iq/claude_mythos_1_leaks_looks_closer_than_ever/",
+      "id": "fe4a0fcf6da6",
+      "title": "Anthropic's futuristic Agentic IT-Support",
+      "summary": "Actually one would think Anthropic is the pinnacle of manual-labor replacement. Now i have had an occasion to see this replacement in action...At least to one of the most simple manual labor things in IT, namely customer support.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1trv3y4/anthropics_futuristic_agentic_itsupport/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-29T14:09:25+00:00"
-    },
-    {
-      "id": "a9399494862a",
-      "title": "What it's like talking to Opus 4.8...",
-      "summary": "&#32; submitted by &#32; /u/thecosmicskye [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tquhn5/what_its_like_talking_to_opus_48/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-05-29T07:37:05+00:00"
-    },
-    {
-      "id": "058e1b4917d7",
-      "title": "The amount of whining in this sub after every Anthropic model release is unbearable",
-      "summary": "Anthropic tests every model before it releases them. Opus 4.8 might be worse uncertain benchmarks compared to 4.7, and there probably are some genuine gripes with the model, but the amount of “Opus 4.8 is all around worse and one of the…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tqp7oq/the_amount_of_whining_in_this_sub_after_every/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-05-29T03:09:35+00:00"
+      "published": "2026-05-30T09:23:41+00:00"
     }
   ]
 }
