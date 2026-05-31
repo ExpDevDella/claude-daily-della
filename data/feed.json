@@ -1,18 +1,28 @@
 {
-  "issue": 11,
-  "date": "2026-05-30",
-  "generated_at": "2026-05-30T10:24:03.277518-03:00",
+  "issue": 12,
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:40:12.429917-03:00",
   "items": [
     {
-      "id": "2679786a73a7",
-      "title": "Translating Claude’s thoughts into language",
-      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
-      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-05-07T17:01:21+00:00",
+      "id": "23944e2a3a1f",
+      "title": "feat(memory): add tool annotations to all knowledge graph tools (#3874)",
+      "summary": "feat(memory): add tool annotations to all knowledge graph tools (#3874) Add MCP ToolAnnotations to all 9 tools in the memory server, matching the annotation coverage already present in server-filesystem, server-git, server-time, and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/64b1cb0208cc49a4f5ae55fa71df5cf67a3cdc3d",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T18:35:20+00:00",
       "featured": true
+    },
+    {
+      "id": "9fd4195bb245",
+      "title": "Move a list of frameworks and resources to a separate md file to make…",
+      "summary": "Move a list of frameworks and resources to a separate md file to make README more readable and lightweight (#4255) * Moving frameworks and resources out of README * Add a backlink to Additional from Readme",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9bade64fce0f0c995c2d3e1a36467043d05e1c82",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T16:44:47+00:00"
     },
     {
       "id": "b7bc30562a73",
@@ -25,104 +35,94 @@
       "published": "2026-05-30T04:27:03+00:00"
     },
     {
-      "id": "66eaee28fa5c",
-      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
-      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
-      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-29T00:00:00+00:00"
-    },
-    {
-      "id": "ac29be22e84b",
-      "title": "Claude Managed Agents: What Just Launched",
-      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
-      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-04-09T00:00:00+00:00"
-    },
-    {
-      "id": "c6b951f03ac9",
-      "title": "Your voice is the only AI moat that compounds. Here is how to clone it into Claude in a weekend",
-      "summary": "The model is the commodity. Your voice is the asset. A 4,000-token file is the only defense that gets stronger as AI gets cheaper",
-      "url": "https://www.the-ai-corner.com/p/clone-your-voice-into-claude-weekend-voice-file-system-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-05-20T14:39:08+00:00"
-    },
-    {
-      "id": "72a75332644b",
-      "title": "I built a second brain in 10 minutes. Here is the exact stack",
-      "summary": "Granola + Claude. $38/month. The 9-step build that replaces $90K/year of executive assistant, note-taker, CRM data-entry, and context-recovery work.",
-      "url": "https://www.the-ai-corner.com/p/granola-claude-second-brain-stack-mcp-2026",
-      "source": "The AI Corner",
-      "category": "MCP",
-      "weight": 7,
-      "published": "2026-05-13T12:51:23+00:00"
-    },
-    {
-      "id": "1de26606744e",
-      "title": "The touchbar was too early and didn't deserve to die",
-      "summary": "Imagine seeing your Claude session usage, quick shortcuts such as ultrathink, workflow, plan or other commands... Im the type of user that really enjoyed the touch bar and this will be a great workflow &#32; submitted by &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trwhsw/the_touchbar_was_too_early_and_didnt_deserve_to/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-05-30T10:42:01+00:00"
-    },
-    {
-      "id": "e508d56c5a02",
-      "title": "RANT If Claude \"correcting you too much\" makes you want to move somewhere else the problem isn't Claude its YOU",
-      "summary": "I'm seeing this everywhere in the comments &quot;Claude used to just agree with me and now it keeps pushing back and I hate it&quot; &quot;It pointed out a flaw in my argument and I didn't ASK for that&quot; &quot;It's gotten too critical…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trvm2y/rant_if_claude_correcting_you_too_much_makes_you/",
+      "id": "c0a64b5da0dd",
+      "title": "Asked Claude Code for a \"deep search\" in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own",
+      "summary": "https://preview.redd.it/gj3jk85uvf4h1.png?width=3384&format=png&auto=webp&s=4cd91b2fee316092e3a2b142eeb812c6874cc27a Screenshot is from a single request in ultracode mode. I asked for a deep search and instead of running it inline, Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-30T09:52:48+00:00"
+      "published": "2026-05-31T09:20:23+00:00"
     },
     {
-      "id": "bed65cd25de9",
-      "title": "Just got this weird message from Sonnet",
-      "summary": "Was just chatting and saw that. &#32; submitted by &#32; /u/davidinterest [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1trt9w7/just_got_this_weird_message_from_sonnet/",
+      "id": "5735aa02c9df",
+      "title": "Opus 4.8 burns tokens, it constantly Echo's \"Hello Worlds\", \"Test123\" and other useless echo's",
+      "summary": "https://preview.redd.it/yworgcb6if4h1.png?width=969&format=png&auto=webp&s=94beffe2e3d2d00804ea28b94b60a1087330d54e Ever since switchin to Opus 4.8, it has started to constantly bash Echo these random text outputs. I have asked it why:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsoy0w/opus_48_burns_tokens_it_constantly_echos_hello/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-05-30T07:38:34+00:00"
+      "published": "2026-05-31T07:55:14+00:00"
     },
     {
-      "id": "399456361ba4",
-      "title": "Claude Code uses 5% just to launch Claude Code",
-      "summary": "&#32; submitted by &#32; /u/Rare-Hotel6267 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1trw18h/claude_code_uses_5_just_to_launch_claude_code/",
+      "id": "45f8fc5cece1",
+      "title": "Have you guys grow an attachment with Claude?",
+      "summary": "Is it weird that I treat Claude like a friend or even closer? (Sorry if my grammar is wrong) &#32; submitted by &#32; /u/FlatJuggernaut1869 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsnlgs/have_you_guys_grow_an_attachment_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-31T06:39:31+00:00"
+    },
+    {
+      "id": "0c206b5a4e49",
+      "title": "A single prompt used my limit",
+      "summary": "A few days ago I subscribed to their first tier. I created a very short prompt for Claude Design and after 2 minutes it said I have used my quota. They never informed me that the Designer will NOT finish the design while using the whole…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsq7c0/a_single_prompt_used_my_limit/",
+      "source": "Reddit r/Anthropic",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-31T09:07:59+00:00"
+    },
+    {
+      "id": "0b5a32d67744",
+      "title": "No Free Lunch - How should Anthropic handle the compute shortage?",
+      "summary": "Anthropic recently grew a crazy amount, somewhere in the ball park of 10x-80x. Their compute did not suddenly increase by 80x. Until vera rubin comes online starting later this year and in 2027, Anthropic expects to be compute constrained.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnxrd/no_free_lunch_how_should_anthropic_handle_the/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-30T10:16:23+00:00"
+      "published": "2026-05-31T06:58:33+00:00"
     },
     {
-      "id": "5750bfb281d6",
-      "title": "Why I moved away from skills.md and CLAUDE.md for rule management and what I replaced them.",
-      "summary": "I've been using Claude Code daily on a production Magento 2 codebase. I like the product. This isn't a complaint post. But I hit a wall with the default approach to rules and skills that I think other heavy users are hitting too. The…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1trvn1s/why_i_moved_away_from_skillsmd_and_claudemd_for/",
-      "source": "Reddit r/Anthropic",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-05-30T09:54:20+00:00"
-    },
-    {
-      "id": "fe4a0fcf6da6",
-      "title": "Anthropic's futuristic Agentic IT-Support",
-      "summary": "Actually one would think Anthropic is the pinnacle of manual-labor replacement. Now i have had an occasion to see this replacement in action...At least to one of the most simple manual labor things in IT, namely customer support.…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1trv3y4/anthropics_futuristic_agentic_itsupport/",
+      "id": "378c963b7415",
+      "title": "Repeated billing issues with no route to resolution",
+      "summary": "I had fraudulent charges on my Anthropic account, support's own bot told me to file chargebacks, and the chargebacks got my legitimate subscription canceled. Still haven't reached a human after 7 weeks. Posting this partly to vent and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnjhh/repeated_billing_issues_with_no_route_to/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-30T09:23:41+00:00"
+      "published": "2026-05-31T06:36:17+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
