@@ -1,0 +1,128 @@
+{
+  "issue": 12,
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:40:12.429917-03:00",
+  "items": [
+    {
+      "id": "23944e2a3a1f",
+      "title": "feat(memory): add tool annotations to all knowledge graph tools (#3874)",
+      "summary": "feat(memory): add tool annotations to all knowledge graph tools (#3874) Add MCP ToolAnnotations to all 9 tools in the memory server, matching the annotation coverage already present in server-filesystem, server-git, server-time, and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/64b1cb0208cc49a4f5ae55fa71df5cf67a3cdc3d",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T18:35:20+00:00",
+      "featured": true
+    },
+    {
+      "id": "9fd4195bb245",
+      "title": "Move a list of frameworks and resources to a separate md file to make…",
+      "summary": "Move a list of frameworks and resources to a separate md file to make README more readable and lightweight (#4255) * Moving frameworks and resources out of README * Add a backlink to Additional from Readme",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9bade64fce0f0c995c2d3e1a36467043d05e1c82",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T16:44:47+00:00"
+    },
+    {
+      "id": "b7bc30562a73",
+      "title": "fix(filesystem): preserve literal dollar replacements (#4225)",
+      "summary": "fix(filesystem): preserve literal dollar replacements (#4225) Co-authored-by: Ola Hungerford &lt;olahungerford@gmail.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/00ce9cf134bbcb2dd3ff7834e7211d7c26f26b04",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T04:27:03+00:00"
+    },
+    {
+      "id": "c0a64b5da0dd",
+      "title": "Asked Claude Code for a \"deep search\" in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own",
+      "summary": "https://preview.redd.it/gj3jk85uvf4h1.png?width=3384&format=png&auto=webp&s=4cd91b2fee316092e3a2b142eeb812c6874cc27a Screenshot is from a single request in ultracode mode. I asked for a deep search and instead of running it inline, Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-31T09:20:23+00:00"
+    },
+    {
+      "id": "5735aa02c9df",
+      "title": "Opus 4.8 burns tokens, it constantly Echo's \"Hello Worlds\", \"Test123\" and other useless echo's",
+      "summary": "https://preview.redd.it/yworgcb6if4h1.png?width=969&format=png&auto=webp&s=94beffe2e3d2d00804ea28b94b60a1087330d54e Ever since switchin to Opus 4.8, it has started to constantly bash Echo these random text outputs. I have asked it why:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsoy0w/opus_48_burns_tokens_it_constantly_echos_hello/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-05-31T07:55:14+00:00"
+    },
+    {
+      "id": "45f8fc5cece1",
+      "title": "Have you guys grow an attachment with Claude?",
+      "summary": "Is it weird that I treat Claude like a friend or even closer? (Sorry if my grammar is wrong) &#32; submitted by &#32; /u/FlatJuggernaut1869 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsnlgs/have_you_guys_grow_an_attachment_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-05-31T06:39:31+00:00"
+    },
+    {
+      "id": "0c206b5a4e49",
+      "title": "A single prompt used my limit",
+      "summary": "A few days ago I subscribed to their first tier. I created a very short prompt for Claude Design and after 2 minutes it said I have used my quota. They never informed me that the Designer will NOT finish the design while using the whole…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsq7c0/a_single_prompt_used_my_limit/",
+      "source": "Reddit r/Anthropic",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-31T09:07:59+00:00"
+    },
+    {
+      "id": "0b5a32d67744",
+      "title": "No Free Lunch - How should Anthropic handle the compute shortage?",
+      "summary": "Anthropic recently grew a crazy amount, somewhere in the ball park of 10x-80x. Their compute did not suddenly increase by 80x. Until vera rubin comes online starting later this year and in 2027, Anthropic expects to be compute constrained.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnxrd/no_free_lunch_how_should_anthropic_handle_the/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-31T06:58:33+00:00"
+    },
+    {
+      "id": "378c963b7415",
+      "title": "Repeated billing issues with no route to resolution",
+      "summary": "I had fraudulent charges on my Anthropic account, support's own bot told me to file chargebacks, and the chargebacks got my legitimate subscription canceled. Still haven't reached a human after 7 weeks. Posting this partly to vent and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnjhh/repeated_billing_issues_with_no_route_to/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-05-31T06:36:17+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}

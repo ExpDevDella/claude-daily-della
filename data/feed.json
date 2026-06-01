@@ -1,7 +1,7 @@
 {
-  "issue": 12,
-  "date": "2026-05-31",
-  "generated_at": "2026-05-31T10:40:12.429917-03:00",
+  "issue": 13,
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T14:33:29.897302-03:00",
   "items": [
     {
       "id": "23944e2a3a1f",
@@ -25,74 +25,74 @@
       "published": "2026-05-30T16:44:47+00:00"
     },
     {
-      "id": "b7bc30562a73",
-      "title": "fix(filesystem): preserve literal dollar replacements (#4225)",
-      "summary": "fix(filesystem): preserve literal dollar replacements (#4225) Co-authored-by: Ola Hungerford &lt;olahungerford@gmail.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/00ce9cf134bbcb2dd3ff7834e7211d7c26f26b04",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-05-30T04:27:03+00:00"
+      "id": "5d17fa7df3d5",
+      "title": "Dario Amodei named \"the zeroth world.\" You probably live in it.",
+      "summary": "Anthropic's CEO gave a one-word answer to the most important question in business right now. He is not speculating. He is reporting.",
+      "url": "https://www.the-ai-corner.com/p/dario-amodei-zeroth-world-davos-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-01T13:49:49+00:00"
     },
     {
-      "id": "c0a64b5da0dd",
-      "title": "Asked Claude Code for a \"deep search\" in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own",
-      "summary": "https://preview.redd.it/gj3jk85uvf4h1.png?width=3384&format=png&auto=webp&s=4cd91b2fee316092e3a2b142eeb812c6874cc27a Screenshot is from a single request in ultracode mode. I asked for a deep search and instead of running it inline, Claude…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/",
+      "id": "ee269ee8c292",
+      "title": "Claude’s personality is somehow overly placating and rude at the same time",
+      "summary": "note: I don’t think this is a bug. I am confident this was intentionally added as part of the safety guardrails. I’d like to discuss that choice, not bug report. I don’t code often. I use Claude almost exclusively for low-end tasks like…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tty8ra/claudes_personality_is_somehow_overly_placating/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-31T09:20:23+00:00"
+      "published": "2026-06-01T16:53:32+00:00"
     },
     {
-      "id": "5735aa02c9df",
-      "title": "Opus 4.8 burns tokens, it constantly Echo's \"Hello Worlds\", \"Test123\" and other useless echo's",
-      "summary": "https://preview.redd.it/yworgcb6if4h1.png?width=969&format=png&auto=webp&s=94beffe2e3d2d00804ea28b94b60a1087330d54e Ever since switchin to Opus 4.8, it has started to constantly bash Echo these random text outputs. I have asked it why:…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsoy0w/opus_48_burns_tokens_it_constantly_echos_hello/",
+      "id": "5dc0a8a2d9a9",
+      "title": "Anthropic finally going public with IPO",
+      "summary": "What's the most you'd pay for a share of Claude? https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html https://www.anthropic.com/news/confidential-draft-s1-sec &#32; submitted by &#32; /u/fsharpman [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ttx9ae/anthropic_finally_going_public_with_ipo/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-05-31T07:55:14+00:00"
+      "published": "2026-06-01T16:20:34+00:00"
     },
     {
-      "id": "45f8fc5cece1",
-      "title": "Have you guys grow an attachment with Claude?",
-      "summary": "Is it weird that I treat Claude like a friend or even closer? (Sorry if my grammar is wrong) &#32; submitted by &#32; /u/FlatJuggernaut1869 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tsnlgs/have_you_guys_grow_an_attachment_with_claude/",
+      "id": "1a83ff177c26",
+      "title": "I made an app to generate Turing Patterns with any picture",
+      "summary": "iPhone Download Turn your photos into living, breathing patterns inspired by nature’s hidden rules. This app uses Turing’s famous reaction-diffusion equations — the same math that shapes animal markings and chemical patterns — to transform…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ttugcs/i_made_an_app_to_generate_turing_patterns_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-05-31T06:39:31+00:00"
+      "published": "2026-06-01T14:46:15+00:00"
     },
     {
-      "id": "0c206b5a4e49",
-      "title": "A single prompt used my limit",
-      "summary": "A few days ago I subscribed to their first tier. I created a very short prompt for Claude Design and after 2 minutes it said I have used my quota. They never informed me that the Designer will NOT finish the design while using the whole…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tsq7c0/a_single_prompt_used_my_limit/",
-      "source": "Reddit r/Anthropic",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-05-31T09:07:59+00:00"
-    },
-    {
-      "id": "0b5a32d67744",
-      "title": "No Free Lunch - How should Anthropic handle the compute shortage?",
-      "summary": "Anthropic recently grew a crazy amount, somewhere in the ball park of 10x-80x. Their compute did not suddenly increase by 80x. Until vera rubin comes online starting later this year and in 2027, Anthropic expects to be compute constrained.…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnxrd/no_free_lunch_how_should_anthropic_handle_the/",
+      "id": "f8a6f73f6c6d",
+      "title": "Anthropic Files to Go Public",
+      "summary": "&#32; submitted by &#32; /u/WanderLuster11 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1ttxj91/anthropic_files_to_go_public/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-31T06:58:33+00:00"
+      "published": "2026-06-01T16:29:35+00:00"
     },
     {
-      "id": "378c963b7415",
-      "title": "Repeated billing issues with no route to resolution",
-      "summary": "I had fraudulent charges on my Anthropic account, support's own bot told me to file chargebacks, and the chargebacks got my legitimate subscription canceled. Still haven't reached a human after 7 weeks. Posting this partly to vent and…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tsnjhh/repeated_billing_issues_with_no_route_to/",
+      "id": "9665bf5556cc",
+      "title": "No Customize Option in Navigation",
+      "summary": "Why is it that the Connectors content in Claude Desktop says it has moved to &quot;Customize&quot;, but there seems to be no option to go directly to Customize in the navigation? This is a small issue, but I don't get the need for the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1ttv75y/no_customize_option_in_navigation/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-05-31T06:36:17+00:00"
+      "published": "2026-06-01T15:11:46+00:00"
+    },
+    {
+      "id": "69b63791d36f",
+      "title": "Anthropic seems to have caught up with chatgpt 5.5 opus 4.8",
+      "summary": "&#32; submitted by &#32; /u/DepartmentOk9720 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tttlmq/anthropic_seems_to_have_caught_up_with_chatgpt_55/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-01T14:16:56+00:00"
     },
     {
       "id": "400dba2965d1",
