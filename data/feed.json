@@ -1,28 +1,28 @@
 {
-  "issue": 13,
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T14:33:29.897302-03:00",
+  "issue": 14,
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T13:19:31.219821-03:00",
   "items": [
     {
-      "id": "23944e2a3a1f",
-      "title": "feat(memory): add tool annotations to all knowledge graph tools (#3874)",
-      "summary": "feat(memory): add tool annotations to all knowledge graph tools (#3874) Add MCP ToolAnnotations to all 9 tools in the memory server, matching the annotation coverage already present in server-filesystem, server-git, server-time, and…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/64b1cb0208cc49a4f5ae55fa71df5cf67a3cdc3d",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-05-30T18:35:20+00:00",
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
       "featured": true
     },
     {
-      "id": "9fd4195bb245",
-      "title": "Move a list of frameworks and resources to a separate md file to make…",
-      "summary": "Move a list of frameworks and resources to a separate md file to make README more readable and lightweight (#4255) * Moving frameworks and resources out of README * Add a backlink to Additional from Readme",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/9bade64fce0f0c995c2d3e1a36467043d05e1c82",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-05-30T16:44:47+00:00"
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
     },
     {
       "id": "5d17fa7df3d5",
@@ -35,94 +35,94 @@
       "published": "2026-06-01T13:49:49+00:00"
     },
     {
-      "id": "ee269ee8c292",
-      "title": "Claude’s personality is somehow overly placating and rude at the same time",
-      "summary": "note: I don’t think this is a bug. I am confident this was intentionally added as part of the safety guardrails. I’d like to discuss that choice, not bug report. I don’t code often. I use Claude almost exclusively for low-end tasks like…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tty8ra/claudes_personality_is_somehow_overly_placating/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-01T16:53:32+00:00"
+      "id": "158d68d47f5f",
+      "title": "Claude Dispatch: The AI That Keeps Working When You Don't",
+      "summary": "Anthropic launched a remote control for desktop AI. The success rate is 50/50. You should still use it.",
+      "url": "https://www.the-ai-corner.com/p/claude-dispatch-guide",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-05-25T13:41:08+00:00"
     },
     {
-      "id": "5dc0a8a2d9a9",
-      "title": "Anthropic finally going public with IPO",
-      "summary": "What's the most you'd pay for a share of Claude? https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html https://www.anthropic.com/news/confidential-draft-s1-sec &#32; submitted by &#32; /u/fsharpman [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ttx9ae/anthropic_finally_going_public_with_ipo/",
+      "id": "9548dd4a48b4",
+      "title": "Built a personalized news front page. Looking for feedback.",
+      "summary": "I've spent the last couple months building this after work and after the kids were in bed. Primarily used Claude Code with a little Codex. Finally at the point where I'm comfortable showing it to strangers. It's called The Daily Relay. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuskj2/built_a_personalized_news_front_page_looking_for/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-01T16:20:34+00:00"
+      "published": "2026-06-02T14:26:11+00:00"
     },
     {
-      "id": "1a83ff177c26",
-      "title": "I made an app to generate Turing Patterns with any picture",
-      "summary": "iPhone Download Turn your photos into living, breathing patterns inspired by nature’s hidden rules. This app uses Turing’s famous reaction-diffusion equations — the same math that shapes animal markings and chemical patterns — to transform…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ttugcs/i_made_an_app_to_generate_turing_patterns_with/",
+      "id": "c8e9cd060018",
+      "title": "I ship AI agents in production. The mess is MCP.",
+      "summary": "Been building agents for clients across logistics, fintech, and a few indie SaaS shops for about a year and a half. Most of what gets written about AI agents online doesn't match the day-to-day. The day-to-day is mess. One specific kind of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuqqpn/i_ship_ai_agents_in_production_the_mess_is_mcp/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "MCP",
       "weight": 6,
-      "published": "2026-06-01T14:46:15+00:00"
+      "published": "2026-06-02T13:19:03+00:00"
     },
     {
-      "id": "f8a6f73f6c6d",
-      "title": "Anthropic Files to Go Public",
-      "summary": "&#32; submitted by &#32; /u/WanderLuster11 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1ttxj91/anthropic_files_to_go_public/",
+      "id": "76f4f5586adb",
+      "title": "My attempt at a 1 prompt Temu'd game. Temu version of Anno 1602.",
+      "summary": "&#32; submitted by &#32; /u/zndr-cs [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuopn2/my_attempt_at_a_1_prompt_temud_game_temu_version/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-02T11:56:41+00:00"
+    },
+    {
+      "id": "ca9fcb096857",
+      "title": "Anthropic Whales Dominate Usage Ahead of IPO",
+      "summary": "&#32; submitted by &#32; /u/hissingkittycom [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tuvd3l/anthropic_whales_dominate_usage_ahead_of_ipo/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-01T16:29:35+00:00"
+      "published": "2026-06-02T16:02:24+00:00"
     },
     {
-      "id": "9665bf5556cc",
-      "title": "No Customize Option in Navigation",
-      "summary": "Why is it that the Connectors content in Claude Desktop says it has moved to &quot;Customize&quot;, but there seems to be no option to go directly to Customize in the navigation? This is a small issue, but I don't get the need for the…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1ttv75y/no_customize_option_in_navigation/",
+      "id": "083a18819e9b",
+      "title": "Bug in claude setup-token",
+      "summary": "I am writing automatic account switching into my VS Code extension. I need the tokens that claude setup-token generates. However, it has a bug. You run claude setup-token, it have you login to claude.ai. However, it just takes you to the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tuv6dq/bug_in_claude_setuptoken/",
+      "source": "Reddit r/Anthropic",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-06-02T15:56:21+00:00"
+    },
+    {
+      "id": "0f44cd6c5efa",
+      "title": "Is Claude down for everyone right now? Any fixes?",
+      "summary": "Claude Sonnet 4.6 is stuck on &quot;Taking longer than usual. Trying again shortly...&quot; and messages stay on &quot;Sending...&quot;. Anyone else facing this today? &#32; submitted by &#32; /u/IntrepidCouple6977 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tut2d2/is_claude_down_for_everyone_right_now_any_fixes/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-01T15:11:46+00:00"
+      "published": "2026-06-02T14:43:48+00:00"
     },
     {
-      "id": "69b63791d36f",
-      "title": "Anthropic seems to have caught up with chatgpt 5.5 opus 4.8",
-      "summary": "&#32; submitted by &#32; /u/DepartmentOk9720 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tttlmq/anthropic_seems_to_have_caught_up_with_chatgpt_55/",
-      "source": "Reddit r/Anthropic",
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-01T14:16:56+00:00"
+      "published": "2026-03-23T21:01:41+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
       "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
