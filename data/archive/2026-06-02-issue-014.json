@@ -1,0 +1,128 @@
+{
+  "issue": 14,
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T13:19:31.219821-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "5d17fa7df3d5",
+      "title": "Dario Amodei named \"the zeroth world.\" You probably live in it.",
+      "summary": "Anthropic's CEO gave a one-word answer to the most important question in business right now. He is not speculating. He is reporting.",
+      "url": "https://www.the-ai-corner.com/p/dario-amodei-zeroth-world-davos-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-01T13:49:49+00:00"
+    },
+    {
+      "id": "158d68d47f5f",
+      "title": "Claude Dispatch: The AI That Keeps Working When You Don't",
+      "summary": "Anthropic launched a remote control for desktop AI. The success rate is 50/50. You should still use it.",
+      "url": "https://www.the-ai-corner.com/p/claude-dispatch-guide",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-05-25T13:41:08+00:00"
+    },
+    {
+      "id": "9548dd4a48b4",
+      "title": "Built a personalized news front page. Looking for feedback.",
+      "summary": "I've spent the last couple months building this after work and after the kids were in bed. Primarily used Claude Code with a little Codex. Finally at the point where I'm comfortable showing it to strangers. It's called The Daily Relay. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuskj2/built_a_personalized_news_front_page_looking_for/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-02T14:26:11+00:00"
+    },
+    {
+      "id": "c8e9cd060018",
+      "title": "I ship AI agents in production. The mess is MCP.",
+      "summary": "Been building agents for clients across logistics, fintech, and a few indie SaaS shops for about a year and a half. Most of what gets written about AI agents online doesn't match the day-to-day. The day-to-day is mess. One specific kind of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuqqpn/i_ship_ai_agents_in_production_the_mess_is_mcp/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-06-02T13:19:03+00:00"
+    },
+    {
+      "id": "76f4f5586adb",
+      "title": "My attempt at a 1 prompt Temu'd game. Temu version of Anno 1602.",
+      "summary": "&#32; submitted by &#32; /u/zndr-cs [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tuopn2/my_attempt_at_a_1_prompt_temud_game_temu_version/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-02T11:56:41+00:00"
+    },
+    {
+      "id": "ca9fcb096857",
+      "title": "Anthropic Whales Dominate Usage Ahead of IPO",
+      "summary": "&#32; submitted by &#32; /u/hissingkittycom [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tuvd3l/anthropic_whales_dominate_usage_ahead_of_ipo/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-02T16:02:24+00:00"
+    },
+    {
+      "id": "083a18819e9b",
+      "title": "Bug in claude setup-token",
+      "summary": "I am writing automatic account switching into my VS Code extension. I need the tokens that claude setup-token generates. However, it has a bug. You run claude setup-token, it have you login to claude.ai. However, it just takes you to the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tuv6dq/bug_in_claude_setuptoken/",
+      "source": "Reddit r/Anthropic",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-06-02T15:56:21+00:00"
+    },
+    {
+      "id": "0f44cd6c5efa",
+      "title": "Is Claude down for everyone right now? Any fixes?",
+      "summary": "Claude Sonnet 4.6 is stuck on &quot;Taking longer than usual. Trying again shortly...&quot; and messages stay on &quot;Sending...&quot;. Anyone else facing this today? &#32; submitted by &#32; /u/IntrepidCouple6977 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tut2d2/is_claude_down_for_everyone_right_now_any_fixes/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-02T14:43:48+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
