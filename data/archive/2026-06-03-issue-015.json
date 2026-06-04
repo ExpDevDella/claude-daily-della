@@ -1,0 +1,128 @@
+{
+  "issue": 15,
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T13:43:36.000198-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "23944e2a3a1f",
+      "title": "feat(memory): add tool annotations to all knowledge graph tools (#3874)",
+      "summary": "feat(memory): add tool annotations to all knowledge graph tools (#3874) Add MCP ToolAnnotations to all 9 tools in the memory server, matching the annotation coverage already present in server-filesystem, server-git, server-time, and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/64b1cb0208cc49a4f5ae55fa71df5cf67a3cdc3d",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-05-30T18:35:20+00:00"
+    },
+    {
+      "id": "d78f3aacea07",
+      "title": "I built a $0 second brain that compounds for life",
+      "summary": "Obsidian has 2,700+ plugins. The CEO just shipped official Claude Skills with 12,900 GitHub stars. The integration is the personal AI moat nobody is talking about.",
+      "url": "https://www.the-ai-corner.com/p/obsidian-claude-second-brain-playbook-30-workflows-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-06-02T17:16:31+00:00"
+    },
+    {
+      "id": "158d68d47f5f",
+      "title": "Claude Dispatch: The AI That Keeps Working When You Don't",
+      "summary": "Anthropic launched a remote control for desktop AI. The success rate is 50/50. You should still use it.",
+      "url": "https://www.the-ai-corner.com/p/claude-dispatch-guide",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-05-25T13:41:08+00:00"
+    },
+    {
+      "id": "d57bcfc432b4",
+      "title": "I guess Claude don't need to be helpful all the time",
+      "summary": "I was referring to a line in the song ( genius ), then it escalated to a tattoo idea/reference based on Saturn Devouring His Son (second image, also check the wiki ). Claude gave me this masterpiece. &#32; submitted by &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvq2hl/i_guess_claude_dont_need_to_be_helpful_all_the/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-03T13:54:35+00:00"
+    },
+    {
+      "id": "70ba9b0b65e0",
+      "title": "12 hours with Opus 4.8, zero deliverables. Switched to 4.6 — got results in one session.",
+      "summary": "So here's the thing. I've been using Claude as a work tool for over a year - not to chat, to work. Bots, parsers, format engines, all that. Somewhere around late 2025 I figured out how to live with Opus: you had to make it think first,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvmqx0/12_hours_with_opus_48_zero_deliverables_switched/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-03T11:40:07+00:00"
+    },
+    {
+      "id": "2a15099d9ae0",
+      "title": "Claude is my entire SEO team. 1.5M+ impressions in 3 months as a solo founder.",
+      "summary": "TL;DR: I use Claude to analyse my Google Search Console data weekly, find SEO problems, draft content for keyword gaps, and write the code fixes I ship through Lovable. 1.5M+ impressions and 13K+ clicks in 3 months, zero ad spend, zero…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tvjjdj/claude_is_my_entire_seo_team_15m_impressions_in_3/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-03T08:54:06+00:00"
+    },
+    {
+      "id": "9877cd5a8b82",
+      "title": "Opus 4.8 seems like it was overfitted during training.",
+      "summary": "So I've been using Opus 4.8 and even on low effort the model displays signs of overfitting during training. I've seen people talking about harness issues with toolcalls and such but there seems to be an underlying model issue. Some of the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tvrak1/opus_48_seems_like_it_was_overfitted_during/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-03T14:37:21+00:00"
+    },
+    {
+      "id": "19ffa1cd94dd",
+      "title": "Got a response from support for my ticket!!!!!!!!!!!!!!",
+      "summary": "...a chat session ticket I completely forgot about and had to go find to see what the problem was, not the one I wanted help for, still waiting on that one. 3 months later. Glad I did not stay waiting on that chat session the whole time.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tvlwsi/got_a_response_from_support_for_my_ticket/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-03T11:00:25+00:00"
+    },
+    {
+      "id": "8413b06f17a4",
+      "title": "Are usage limits just usage suggestions?",
+      "summary": "If i have set €2 as the limit, and nowhere does it say that you may end up spending almost double of whatever limit you have set, how is this not a blatant misrepresentation of the &quot;limit&quot; function? And when I complained to the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tvk1dm/are_usage_limits_just_usage_suggestions/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-03T09:22:44+00:00"
+    }
+  ]
+}
