@@ -1,7 +1,7 @@
 {
-  "issue": 16,
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T11:54:02.105734-03:00",
+  "issue": 17,
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:44:55.901266-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -13,6 +13,16 @@
       "weight": 9,
       "published": "2026-05-07T17:01:21+00:00",
       "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
     },
     {
       "id": "02a1053fac4b",
@@ -55,74 +65,64 @@
       "published": "2026-06-03T20:24:29+00:00"
     },
     {
-      "id": "d78f3aacea07",
-      "title": "I built a $0 second brain that compounds for life",
-      "summary": "Obsidian has 2,700+ plugins. The CEO just shipped official Claude Skills with 12,900 GitHub stars. The integration is the personal AI moat nobody is talking about.",
-      "url": "https://www.the-ai-corner.com/p/obsidian-claude-second-brain-playbook-30-workflows-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-06-02T17:16:31+00:00"
-    },
-    {
-      "id": "aedb453f9b14",
-      "title": "AI has not fixed my chronic pain, but it has made living with it a little less impossible",
-      "summary": "I have been thinking a lot about AI from the chronic pain side of life, not the hype side. I deal with chronic back and neck pain, fibromyalgia, and the aftermath of shoulder surgery. AI has not fixed any of that. It has not replaced…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twog86/ai_has_not_fixed_my_chronic_pain_but_it_has_made/",
+      "id": "4740b6097e3c",
+      "title": "I’ve built 4 iOS apps with Claude. 5 more in progress. Zero users. Zero revenue. Let me save you some time.",
+      "summary": "Claude will build you an iOS app. A real one. SwiftUI, StoreKit, widgets, Live Activities, the whole thing. It took me longer to write the PRDs than it did to get working builds. That part is not the hard part anymore. I have 4 shipped…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txkn86/ive_built_4_ios_apps_with_claude_5_more_in/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-04T13:56:54+00:00"
+      "published": "2026-06-05T13:13:50+00:00"
     },
     {
-      "id": "638fa138c4c3",
-      "title": "How it feels like looking for anything AI related on X these days",
-      "summary": "&#32; submitted by &#32; /u/aditipawarr [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twlewx/how_it_feels_like_looking_for_anything_ai_related/",
+      "id": "0302dea09ef6",
+      "title": "Claude now writes 80% of the code at Anthropic",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txisil/claude_now_writes_80_of_the_code_at_anthropic/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-04T11:54:32+00:00"
+      "published": "2026-06-05T11:55:46+00:00"
     },
     {
-      "id": "c18958bb1605",
-      "title": "9 things about using Claude for actual work that took me way too long to figure out",
-      "summary": "Been using it daily for about 8 months, mostly writing and research, not code. Wish someone had told me these on day one instead of me bumping into them. It edits better than it generates. If I write a messy first draft and ask it to…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twkht5/9_things_about_using_claude_for_actual_work_that/",
+      "id": "6da0a245bf2f",
+      "title": "Setup your first Claude Code colleague today using clem",
+      "summary": "Hi, I am the creator of ClaudeSync. It was the first CLI for claude.ai. You may not have heard of it, because I only received about 700 GH stars. I’m not writing this with AI, for what it’s worth. I had this idea years ago, tried it and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txhwsj/setup_your_first_claude_code_colleague_today/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-04T11:10:44+00:00"
+      "published": "2026-06-05T11:13:21+00:00"
     },
     {
-      "id": "7a0b3c698768",
-      "title": "Do LLMs perform better if you treat them like a coworker or collaborator rather than a lifeless algorithm?",
-      "summary": "My opinion: They mirror us - their attitude is a response to ours. If you approach them coldly, they instinctively distance themselves from you and your task, becoming cold and indifferent to your success of not; their functional…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1twog77/do_llms_perform_better_if_you_treat_them_like_a/",
+      "id": "8ebaf015fa10",
+      "title": "Banned twice in 24 hours on Claude Code – What could have triggered it?",
+      "summary": "Hey everyone, I need some insight into Anthropic’s fraud system since support hasn’t responded yet. Here is exactly what happened: ​The First Account I registered a new account using a fresh ProtonMail just because I didn't want to use my…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txjnq9/banned_twice_in_24_hours_on_claude_code_what/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-04T13:56:52+00:00"
+      "published": "2026-06-05T12:33:30+00:00"
     },
     {
-      "id": "544ec2c8ff28",
-      "title": "4.8 and 4.6 Are arguing back so much they don't wanna check online nor even do proper research.",
-      "summary": ". &#32; submitted by &#32; /u/Confident-Language46 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1twnut4/48_and_46_are_arguing_back_so_much_they_dont/",
+      "id": "50b9146b23f7",
+      "title": "Anthropic Is Too Expensive, Microsoft's AI Chief Warns — US Firms Turn to China's DeepSeek",
+      "summary": "&#32; submitted by &#32; /u/Useful_Tangerine4340 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txjmju/anthropic_is_too_expensive_microsofts_ai_chief/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-04T13:34:16+00:00"
+      "published": "2026-06-05T12:32:07+00:00"
     },
     {
-      "id": "4c759ffce5cb",
-      "title": "Why AI model performance is worsening",
-      "summary": "Over the last few months, I have repeatedly seen posts where people complain about AI models getting worse, even though their version numbers suggest improvement. Reading the comments of these posts, I have noticed that the majority of…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1twnmtj/why_ai_model_performance_is_worsening/",
+      "id": "c52bba70db89",
+      "title": "Really? Disabling my account AND still charge me?",
+      "summary": "https://preview.redd.it/cnbvdmkbgg5h1.png?width=387&format=png&auto=webp&s=b0bf47e11b9595934a2aef2b5f0e6a926734fbb8 Is this robbery? Unblock my account or give me a refund! &#32; submitted by &#32; /u/bLackCatt79 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txj3sz/really_disabling_my_account_and_still_charge_me/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-04T13:25:54+00:00"
+      "published": "2026-06-05T12:09:23+00:00"
     }
   ]
 }

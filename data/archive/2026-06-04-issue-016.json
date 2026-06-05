@@ -1,0 +1,128 @@
+{
+  "issue": 16,
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:54:02.105734-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "728f9ec0d4cf",
+      "title": "Add URL Elicitation cases (#3334)",
+      "summary": "Add URL Elicitation cases (#3334) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm workspaces) - Drop redundant…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3a32d1024b3d0fde13d78a2e26cb392460fe63da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-04T01:10:07+00:00"
+    },
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "023fcfe3bc6a",
+      "title": "Your AI agent is going to hallucinate at scale",
+      "summary": "The bigger the memory, the worse it gets. The 6 architectures that fix it, the 12 prompts that constrain Claude into structured output, and the 30-day rollout to rebuild your stack",
+      "url": "https://www.the-ai-corner.com/p/ai-agent-memory-context-as-topology-playbook-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-03T20:24:29+00:00"
+    },
+    {
+      "id": "d78f3aacea07",
+      "title": "I built a $0 second brain that compounds for life",
+      "summary": "Obsidian has 2,700+ plugins. The CEO just shipped official Claude Skills with 12,900 GitHub stars. The integration is the personal AI moat nobody is talking about.",
+      "url": "https://www.the-ai-corner.com/p/obsidian-claude-second-brain-playbook-30-workflows-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-06-02T17:16:31+00:00"
+    },
+    {
+      "id": "aedb453f9b14",
+      "title": "AI has not fixed my chronic pain, but it has made living with it a little less impossible",
+      "summary": "I have been thinking a lot about AI from the chronic pain side of life, not the hype side. I deal with chronic back and neck pain, fibromyalgia, and the aftermath of shoulder surgery. AI has not fixed any of that. It has not replaced…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twog86/ai_has_not_fixed_my_chronic_pain_but_it_has_made/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-04T13:56:54+00:00"
+    },
+    {
+      "id": "638fa138c4c3",
+      "title": "How it feels like looking for anything AI related on X these days",
+      "summary": "&#32; submitted by &#32; /u/aditipawarr [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twlewx/how_it_feels_like_looking_for_anything_ai_related/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-04T11:54:32+00:00"
+    },
+    {
+      "id": "c18958bb1605",
+      "title": "9 things about using Claude for actual work that took me way too long to figure out",
+      "summary": "Been using it daily for about 8 months, mostly writing and research, not code. Wish someone had told me these on day one instead of me bumping into them. It edits better than it generates. If I write a messy first draft and ask it to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1twkht5/9_things_about_using_claude_for_actual_work_that/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-04T11:10:44+00:00"
+    },
+    {
+      "id": "7a0b3c698768",
+      "title": "Do LLMs perform better if you treat them like a coworker or collaborator rather than a lifeless algorithm?",
+      "summary": "My opinion: They mirror us - their attitude is a response to ours. If you approach them coldly, they instinctively distance themselves from you and your task, becoming cold and indifferent to your success of not; their functional…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1twog77/do_llms_perform_better_if_you_treat_them_like_a/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-04T13:56:52+00:00"
+    },
+    {
+      "id": "544ec2c8ff28",
+      "title": "4.8 and 4.6 Are arguing back so much they don't wanna check online nor even do proper research.",
+      "summary": ". &#32; submitted by &#32; /u/Confident-Language46 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1twnut4/48_and_46_are_arguing_back_so_much_they_dont/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-04T13:34:16+00:00"
+    },
+    {
+      "id": "4c759ffce5cb",
+      "title": "Why AI model performance is worsening",
+      "summary": "Over the last few months, I have repeatedly seen posts where people complain about AI models getting worse, even though their version numbers suggest improvement. Reading the comments of these posts, I have noticed that the majority of…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1twnmtj/why_ai_model_performance_is_worsening/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-04T13:25:54+00:00"
+    }
+  ]
+}
