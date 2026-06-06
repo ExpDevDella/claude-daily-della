@@ -1,0 +1,128 @@
+{
+  "issue": 17,
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:44:55.901266-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "02a1053fac4b",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
+      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-02-05T17:45:22+00:00"
+    },
+    {
+      "id": "728f9ec0d4cf",
+      "title": "Add URL Elicitation cases (#3334)",
+      "summary": "Add URL Elicitation cases (#3334) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm workspaces) - Drop redundant…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3a32d1024b3d0fde13d78a2e26cb392460fe63da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-04T01:10:07+00:00"
+    },
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "023fcfe3bc6a",
+      "title": "Your AI agent is going to hallucinate at scale",
+      "summary": "The bigger the memory, the worse it gets. The 6 architectures that fix it, the 12 prompts that constrain Claude into structured output, and the 30-day rollout to rebuild your stack",
+      "url": "https://www.the-ai-corner.com/p/ai-agent-memory-context-as-topology-playbook-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-03T20:24:29+00:00"
+    },
+    {
+      "id": "4740b6097e3c",
+      "title": "I’ve built 4 iOS apps with Claude. 5 more in progress. Zero users. Zero revenue. Let me save you some time.",
+      "summary": "Claude will build you an iOS app. A real one. SwiftUI, StoreKit, widgets, Live Activities, the whole thing. It took me longer to write the PRDs than it did to get working builds. That part is not the hard part anymore. I have 4 shipped…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txkn86/ive_built_4_ios_apps_with_claude_5_more_in/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-05T13:13:50+00:00"
+    },
+    {
+      "id": "0302dea09ef6",
+      "title": "Claude now writes 80% of the code at Anthropic",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txisil/claude_now_writes_80_of_the_code_at_anthropic/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-05T11:55:46+00:00"
+    },
+    {
+      "id": "6da0a245bf2f",
+      "title": "Setup your first Claude Code colleague today using clem",
+      "summary": "Hi, I am the creator of ClaudeSync. It was the first CLI for claude.ai. You may not have heard of it, because I only received about 700 GH stars. I’m not writing this with AI, for what it’s worth. I had this idea years ago, tried it and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txhwsj/setup_your_first_claude_code_colleague_today/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-05T11:13:21+00:00"
+    },
+    {
+      "id": "8ebaf015fa10",
+      "title": "Banned twice in 24 hours on Claude Code – What could have triggered it?",
+      "summary": "Hey everyone, I need some insight into Anthropic’s fraud system since support hasn’t responded yet. Here is exactly what happened: ​The First Account I registered a new account using a fresh ProtonMail just because I didn't want to use my…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txjnq9/banned_twice_in_24_hours_on_claude_code_what/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-05T12:33:30+00:00"
+    },
+    {
+      "id": "50b9146b23f7",
+      "title": "Anthropic Is Too Expensive, Microsoft's AI Chief Warns — US Firms Turn to China's DeepSeek",
+      "summary": "&#32; submitted by &#32; /u/Useful_Tangerine4340 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txjmju/anthropic_is_too_expensive_microsofts_ai_chief/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-05T12:32:07+00:00"
+    },
+    {
+      "id": "c52bba70db89",
+      "title": "Really? Disabling my account AND still charge me?",
+      "summary": "https://preview.redd.it/cnbvdmkbgg5h1.png?width=387&format=png&auto=webp&s=b0bf47e11b9595934a2aef2b5f0e6a926734fbb8 Is this robbery? Unblock my account or give me a refund! &#32; submitted by &#32; /u/bLackCatt79 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1txj3sz/really_disabling_my_account_and_still_charge_me/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-05T12:09:23+00:00"
+    }
+  ]
+}

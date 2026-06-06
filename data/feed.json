@@ -1,7 +1,7 @@
 {
-  "issue": 17,
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T11:44:55.901266-03:00",
+  "issue": 18,
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:26:32.410533-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -25,104 +25,104 @@
       "published": "2026-04-07T18:03:51+00:00"
     },
     {
-      "id": "02a1053fac4b",
-      "title": "Introducing Claude Opus 4.6",
-      "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6",
-      "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-02-05T17:45:22+00:00"
-    },
-    {
-      "id": "728f9ec0d4cf",
-      "title": "Add URL Elicitation cases (#3334)",
-      "summary": "Add URL Elicitation cases (#3334) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm workspaces) - Drop redundant…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/3a32d1024b3d0fde13d78a2e26cb392460fe63da",
+      "id": "5afe302b899b",
+      "title": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts…",
+      "summary": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts (#4283) - git: gitpython &gt;=3.1.45 -&gt; &gt;=3.1.50 (lock 3.1.49 -&gt; 3.1.50) Fixes GHSA-mv93-w799-cj2w: newline injection in config_writer() bypasses the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f5054df1fb8665f4c224cf4f46d5314266ab5b45",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
+      "category": "Novidade",
       "weight": 8,
-      "published": "2026-06-04T01:10:07+00:00"
+      "published": "2026-06-05T15:24:07+00:00"
     },
     {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
       "source": "claudeai.dev Blog",
       "category": "Hack",
       "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
+      "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "023fcfe3bc6a",
-      "title": "Your AI agent is going to hallucinate at scale",
-      "summary": "The bigger the memory, the worse it gets. The 6 architectures that fix it, the 12 prompts that constrain Claude into structured output, and the 30-day rollout to rebuild your stack",
-      "url": "https://www.the-ai-corner.com/p/ai-agent-memory-context-as-topology-playbook-2026",
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "9ba180d44ccf",
+      "title": "You are still chaining prompts. Anthropic's engineers stopped a month ago",
+      "summary": "The 6 patterns and 14 steps the frontier company actually uses to migrate code, sort 1,000 items, and verify agents at scale",
+      "url": "https://www.the-ai-corner.com/p/claude-code-dynamic-workflows-6-patterns-14-steps-anthropic-engineers-2026",
       "source": "The AI Corner",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 7,
-      "published": "2026-06-03T20:24:29+00:00"
+      "published": "2026-06-06T11:35:58+00:00"
     },
     {
-      "id": "4740b6097e3c",
-      "title": "I’ve built 4 iOS apps with Claude. 5 more in progress. Zero users. Zero revenue. Let me save you some time.",
-      "summary": "Claude will build you an iOS app. A real one. SwiftUI, StoreKit, widgets, Live Activities, the whole thing. It took me longer to write the PRDs than it did to get working builds. That part is not the hard part anymore. I have 4 shipped…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txkn86/ive_built_4_ios_apps_with_claude_5_more_in/",
+      "id": "b8631128f3e6",
+      "title": "Claude Status Update : Opus 4.8 degraded service on 2026-06-06T09:27:59.000Z",
+      "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. Incident: Opus 4.8 degraded service Check on progress and whether or not the incident has been resolved yet here :…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tycoqs/claude_status_update_opus_48_degraded_service_on/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-05T13:13:50+00:00"
+      "published": "2026-06-06T09:31:03+00:00"
     },
     {
-      "id": "0302dea09ef6",
-      "title": "Claude now writes 80% of the code at Anthropic",
+      "id": "63bb4db5c514",
+      "title": "Anthropic is not a normal company",
       "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txisil/claude_now_writes_80_of_the_code_at_anthropic/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tybrpv/anthropic_is_not_a_normal_company/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-05T11:55:46+00:00"
+      "published": "2026-06-06T08:36:09+00:00"
     },
     {
-      "id": "6da0a245bf2f",
-      "title": "Setup your first Claude Code colleague today using clem",
-      "summary": "Hi, I am the creator of ClaudeSync. It was the first CLI for claude.ai. You may not have heard of it, because I only received about 700 GH stars. I’m not writing this with AI, for what it’s worth. I had this idea years ago, tried it and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1txhwsj/setup_your_first_claude_code_colleague_today/",
+      "id": "f2c9a2c91f07",
+      "title": "suddenly limits seemed to be increased a lot",
+      "summary": "From not being able to use Claude at all, even on a $200 plan, to using Claude all day and never hitting the limit. Claude limits are at least quadrupled. &#32; submitted by &#32; /u/Feeling-Heron4277 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tyb6t2/suddenly_limits_seemed_to_be_increased_a_lot/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-05T11:13:21+00:00"
+      "published": "2026-06-06T08:01:28+00:00"
     },
     {
-      "id": "8ebaf015fa10",
-      "title": "Banned twice in 24 hours on Claude Code – What could have triggered it?",
-      "summary": "Hey everyone, I need some insight into Anthropic’s fraud system since support hasn’t responded yet. Here is exactly what happened: ​The First Account I registered a new account using a fresh ProtonMail just because I didn't want to use my…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1txjnq9/banned_twice_in_24_hours_on_claude_code_what/",
+      "id": "6ce00403519e",
+      "title": "How is the 20 dollar plan now with sonnet? Does it hit limit quickly?",
+      "summary": "two months ago I left Claude thinking its not worth it cause it keeps hitting the limit, what is the situation now? Does it hit limit frequently? I use sonnet &#32; submitted by &#32; /u/Remote-Ad-8129 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzpg/how_is_the_20_dollar_plan_now_with_sonnet_does_it/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-05T12:33:30+00:00"
+      "published": "2026-06-06T08:49:50+00:00"
     },
     {
-      "id": "50b9146b23f7",
-      "title": "Anthropic Is Too Expensive, Microsoft's AI Chief Warns — US Firms Turn to China's DeepSeek",
-      "summary": "&#32; submitted by &#32; /u/Useful_Tangerine4340 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1txjmju/anthropic_is_too_expensive_microsofts_ai_chief/",
+      "id": "c8041444471e",
+      "title": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzle/anthropic_warns_ai_could_soon_build_itself/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-05T12:32:07+00:00"
+      "published": "2026-06-06T08:49:38+00:00"
     },
     {
-      "id": "c52bba70db89",
-      "title": "Really? Disabling my account AND still charge me?",
-      "summary": "https://preview.redd.it/cnbvdmkbgg5h1.png?width=387&format=png&auto=webp&s=b0bf47e11b9595934a2aef2b5f0e6a926734fbb8 Is this robbery? Unblock my account or give me a refund! &#32; submitted by &#32; /u/bLackCatt79 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1txj3sz/really_disabling_my_account_and_still_charge_me/",
+      "id": "b288330001b9",
+      "title": "Anthropic calls for pause of global AI development",
+      "summary": "That wont happen brah… &#32; submitted by &#32; /u/TrisolaranPrinceps- [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybw2c/anthropic_calls_for_pause_of_global_ai_development/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-05T12:09:23+00:00"
+      "published": "2026-06-06T08:43:41+00:00"
     }
   ]
 }
