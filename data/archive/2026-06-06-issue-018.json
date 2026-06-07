@@ -1,0 +1,128 @@
+{
+  "issue": 18,
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:26:32.410533-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "5afe302b899b",
+      "title": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts…",
+      "summary": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts (#4283) - git: gitpython &gt;=3.1.45 -&gt; &gt;=3.1.50 (lock 3.1.49 -&gt; 3.1.50) Fixes GHSA-mv93-w799-cj2w: newline injection in config_writer() bypasses the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f5054df1fb8665f4c224cf4f46d5314266ab5b45",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-05T15:24:07+00:00"
+    },
+    {
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "9ba180d44ccf",
+      "title": "You are still chaining prompts. Anthropic's engineers stopped a month ago",
+      "summary": "The 6 patterns and 14 steps the frontier company actually uses to migrate code, sort 1,000 items, and verify agents at scale",
+      "url": "https://www.the-ai-corner.com/p/claude-code-dynamic-workflows-6-patterns-14-steps-anthropic-engineers-2026",
+      "source": "The AI Corner",
+      "category": "Hack",
+      "weight": 7,
+      "published": "2026-06-06T11:35:58+00:00"
+    },
+    {
+      "id": "b8631128f3e6",
+      "title": "Claude Status Update : Opus 4.8 degraded service on 2026-06-06T09:27:59.000Z",
+      "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. Incident: Opus 4.8 degraded service Check on progress and whether or not the incident has been resolved yet here :…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tycoqs/claude_status_update_opus_48_degraded_service_on/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-06T09:31:03+00:00"
+    },
+    {
+      "id": "63bb4db5c514",
+      "title": "Anthropic is not a normal company",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tybrpv/anthropic_is_not_a_normal_company/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-06T08:36:09+00:00"
+    },
+    {
+      "id": "f2c9a2c91f07",
+      "title": "suddenly limits seemed to be increased a lot",
+      "summary": "From not being able to use Claude at all, even on a $200 plan, to using Claude all day and never hitting the limit. Claude limits are at least quadrupled. &#32; submitted by &#32; /u/Feeling-Heron4277 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tyb6t2/suddenly_limits_seemed_to_be_increased_a_lot/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-06T08:01:28+00:00"
+    },
+    {
+      "id": "6ce00403519e",
+      "title": "How is the 20 dollar plan now with sonnet? Does it hit limit quickly?",
+      "summary": "two months ago I left Claude thinking its not worth it cause it keeps hitting the limit, what is the situation now? Does it hit limit frequently? I use sonnet &#32; submitted by &#32; /u/Remote-Ad-8129 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzpg/how_is_the_20_dollar_plan_now_with_sonnet_does_it/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-06T08:49:50+00:00"
+    },
+    {
+      "id": "c8041444471e",
+      "title": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzle/anthropic_warns_ai_could_soon_build_itself/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-06T08:49:38+00:00"
+    },
+    {
+      "id": "b288330001b9",
+      "title": "Anthropic calls for pause of global AI development",
+      "summary": "That wont happen brah… &#32; submitted by &#32; /u/TrisolaranPrinceps- [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tybw2c/anthropic_calls_for_pause_of_global_ai_development/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-06T08:43:41+00:00"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "issue": 18,
-  "date": "2026-06-06",
-  "generated_at": "2026-06-06T10:26:32.410533-03:00",
+  "issue": 19,
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:47:50.840931-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -15,14 +15,14 @@
       "featured": true
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
     },
     {
       "id": "5afe302b899b",
@@ -65,64 +65,64 @@
       "published": "2026-06-06T11:35:58+00:00"
     },
     {
-      "id": "b8631128f3e6",
-      "title": "Claude Status Update : Opus 4.8 degraded service on 2026-06-06T09:27:59.000Z",
-      "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. Incident: Opus 4.8 degraded service Check on progress and whether or not the incident has been resolved yet here :…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tycoqs/claude_status_update_opus_48_degraded_service_on/",
+      "id": "aa7f756f311c",
+      "title": "How are they getting worse with every release lol?",
+      "summary": "But it's somewhat impressive that they're totally mogging the arena leaderboard now with all top 6 places. &#32; submitted by &#32; /u/Terrible-Priority-21 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tzbyz2/how_are_they_getting_worse_with_every_release_lol/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-06T09:31:03+00:00"
+      "published": "2026-06-07T13:19:57+00:00"
     },
     {
-      "id": "63bb4db5c514",
-      "title": "Anthropic is not a normal company",
-      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tybrpv/anthropic_is_not_a_normal_company/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-06T08:36:09+00:00"
-    },
-    {
-      "id": "f2c9a2c91f07",
-      "title": "suddenly limits seemed to be increased a lot",
-      "summary": "From not being able to use Claude at all, even on a $200 plan, to using Claude all day and never hitting the limit. Claude limits are at least quadrupled. &#32; submitted by &#32; /u/Feeling-Heron4277 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tyb6t2/suddenly_limits_seemed_to_be_increased_a_lot/",
+      "id": "68aa69b1c268",
+      "title": "Browser agents ate my entire API budget and i didn't even know why until now",
+      "summary": "so i've been running AI agents on actual web tasks for a few weeks — not toy demos, like real stuff: job application forms, booking flows, dashboard scraping — and i kept watching my token costs balloon and i genuinely couldn't figure out…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz9bpv/browser_agents_ate_my_entire_api_budget_and_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-06T08:01:28+00:00"
+      "published": "2026-06-07T11:11:59+00:00"
     },
     {
-      "id": "6ce00403519e",
-      "title": "How is the 20 dollar plan now with sonnet? Does it hit limit quickly?",
-      "summary": "two months ago I left Claude thinking its not worth it cause it keeps hitting the limit, what is the situation now? Does it hit limit frequently? I use sonnet &#32; submitted by &#32; /u/Remote-Ad-8129 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzpg/how_is_the_20_dollar_plan_now_with_sonnet_does_it/",
+      "id": "a48302e61d75",
+      "title": "POV: A character in your writing project has ED and Claude needs to make very sure you're OK",
+      "summary": "I'm doing a longer writing project where one of my main characters has an eating disorder. So now, in that very chat, whenever I set up a new response, Claude now warns me minimum once, normally 2-3 times before the actual response that…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz905n/pov_a_character_in_your_writing_project_has_ed/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-07T10:54:54+00:00"
+    },
+    {
+      "id": "df0d4017f978",
+      "title": "Does anyone else want a Pro 2.5x or is it just me?",
+      "summary": "a $50 Tier would be the ducks nuts - don't ya think? &#32; submitted by &#32; /u/Novel-Climate9727 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzc3sd/does_anyone_else_want_a_pro_25x_or_is_it_just_me/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-06T08:49:50+00:00"
+      "published": "2026-06-07T13:25:33+00:00"
     },
     {
-      "id": "c8041444471e",
-      "title": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development",
-      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tybzle/anthropic_warns_ai_could_soon_build_itself/",
+      "id": "65205cbea844",
+      "title": "this just isn't sustainable.",
+      "summary": "I had a work version of CLaude do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzb7y1/this_just_isnt_sustainable/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-06T08:49:38+00:00"
+      "published": "2026-06-07T12:46:51+00:00"
     },
     {
-      "id": "b288330001b9",
-      "title": "Anthropic calls for pause of global AI development",
-      "summary": "That wont happen brah… &#32; submitted by &#32; /u/TrisolaranPrinceps- [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tybw2c/anthropic_calls_for_pause_of_global_ai_development/",
+      "id": "213bc3455bbe",
+      "title": "Shocked by image capabilities of opus 4.8",
+      "summary": "&#x200b; I was looking to buy alcohol to remove thermal paste on my CPU and was shocked by how it was able to pickup the ingredients list from the small bottle. Initially I thought it was hallucinating, but then I zoomed into the image and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tz93ll/shocked_by_image_capabilities_of_opus_48/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-06T08:43:41+00:00"
+      "published": "2026-06-07T11:00:01+00:00"
     }
   ]
 }
