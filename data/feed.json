@@ -1,7 +1,7 @@
 {
-  "issue": 19,
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T10:47:50.840931-03:00",
+  "issue": 20,
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:44:24.369584-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -15,6 +15,16 @@
       "featured": true
     },
     {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
       "id": "d1d5a1787d6c",
       "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
       "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
@@ -25,104 +35,94 @@
       "published": "2026-06-07T01:47:20+00:00"
     },
     {
-      "id": "5afe302b899b",
-      "title": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts…",
-      "summary": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts (#4283) - git: gitpython &gt;=3.1.45 -&gt; &gt;=3.1.50 (lock 3.1.49 -&gt; 3.1.50) Fixes GHSA-mv93-w799-cj2w: newline injection in config_writer() bypasses the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f5054df1fb8665f4c224cf4f46d5314266ab5b45",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-05T15:24:07+00:00"
-    },
-    {
-      "id": "66eaee28fa5c",
-      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
-      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
-      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-29T00:00:00+00:00"
-    },
-    {
-      "id": "ac29be22e84b",
-      "title": "Claude Managed Agents: What Just Launched",
-      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
-      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-04-09T00:00:00+00:00"
-    },
-    {
-      "id": "9ba180d44ccf",
-      "title": "You are still chaining prompts. Anthropic's engineers stopped a month ago",
-      "summary": "The 6 patterns and 14 steps the frontier company actually uses to migrate code, sort 1,000 items, and verify agents at scale",
-      "url": "https://www.the-ai-corner.com/p/claude-code-dynamic-workflows-6-patterns-14-steps-anthropic-engineers-2026",
-      "source": "The AI Corner",
-      "category": "Hack",
-      "weight": 7,
-      "published": "2026-06-06T11:35:58+00:00"
-    },
-    {
-      "id": "aa7f756f311c",
-      "title": "How are they getting worse with every release lol?",
-      "summary": "But it's somewhat impressive that they're totally mogging the arena leaderboard now with all top 6 places. &#32; submitted by &#32; /u/Terrible-Priority-21 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tzbyz2/how_are_they_getting_worse_with_every_release_lol/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-06-07T13:19:57+00:00"
-    },
-    {
-      "id": "68aa69b1c268",
-      "title": "Browser agents ate my entire API budget and i didn't even know why until now",
-      "summary": "so i've been running AI agents on actual web tasks for a few weeks — not toy demos, like real stuff: job application forms, booking flows, dashboard scraping — and i kept watching my token costs balloon and i genuinely couldn't figure out…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz9bpv/browser_agents_ate_my_entire_api_budget_and_i/",
+      "id": "a954de2705e0",
+      "title": "I built a 16-step multi-agent content pipeline. Claude runs the writing and reasoning agents. Here is the architecture and what surprised me.",
+      "summary": "Sharing this because it is built on Claude and I think the orchestration part is the interesting bit, not the marketing. Full disclosure up front, I am the one who built it. The problem I had: I wanted a steady flow of SEO articles on my…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0araf/i_built_a_16step_multiagent_content_pipeline/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-07T11:11:59+00:00"
+      "published": "2026-06-08T15:12:31+00:00"
     },
     {
-      "id": "a48302e61d75",
-      "title": "POV: A character in your writing project has ED and Claude needs to make very sure you're OK",
-      "summary": "I'm doing a longer writing project where one of my main characters has an eating disorder. So now, in that very chat, whenever I set up a new response, Claude now warns me minimum once, normally 2-3 times before the actual response that…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz905n/pov_a_character_in_your_writing_project_has_ed/",
+      "id": "8b8a061ee04c",
+      "title": "If you want it to actually disagree with you, don't ask it to disagree. Make it grade two versions you wrote.",
+      "summary": "The &quot;argue against this&quot; prompts get me polite, hedged pushback. Useful but soft. What gets me real critique: I write two versions of the thing myself, even if the second is lazy, and I ask it to score both and say which is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u07668/if_you_want_it_to_actually_disagree_with_you_dont/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-07T10:54:54+00:00"
+      "published": "2026-06-08T12:59:00+00:00"
     },
     {
-      "id": "df0d4017f978",
-      "title": "Does anyone else want a Pro 2.5x or is it just me?",
-      "summary": "a $50 Tier would be the ducks nuts - don't ya think? &#32; submitted by &#32; /u/Novel-Climate9727 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tzc3sd/does_anyone_else_want_a_pro_25x_or_is_it_just_me/",
+      "id": "4a3f912c9b7a",
+      "title": "An active attack is planting backdoors inside Claude Code right now. If you use npm, your credentials may already be compromised.",
+      "summary": "Last week a malware campaign hit 32 npm packages under `@redhat-cloud-services`. About 117,000 weekly downloads. If you installed an affected version, the malware planted itself inside your Claude Code startup settings and your VS Code…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u05t5e/an_active_attack_is_planting_backdoors_inside/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-08T11:59:46+00:00"
+    },
+    {
+      "id": "a08552840414",
+      "title": "Ist jemand im Claude Community Ambassadors Program und kann Erfahrungen teilen?",
+      "summary": "Hey zusammen, ich schaue mir gerade das Claude Community Ambassadors Program von Anthropic an und würde gern wissen, ob hier jemand schon dabei ist, sich beworben hat oder den Prozess kennt. Mich interessieren vor allem: Wie lange hat die…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u099il/ist_jemand_im_claude_community_ambassadors/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-07T13:25:33+00:00"
+      "published": "2026-06-08T14:17:38+00:00"
     },
     {
-      "id": "65205cbea844",
-      "title": "this just isn't sustainable.",
-      "summary": "I had a work version of CLaude do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars.…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tzb7y1/this_just_isnt_sustainable/",
+      "id": "8d99898d1f2d",
+      "title": "Got banned from Claude for being a child by studying math.",
+      "summary": "&#32; submitted by &#32; /u/AragonOfWorld [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzlol6/got_banned_from_claude_for_being_a_child_by/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-07T12:46:51+00:00"
+      "published": "2026-06-07T19:33:42+00:00"
     },
     {
-      "id": "213bc3455bbe",
-      "title": "Shocked by image capabilities of opus 4.8",
-      "summary": "&#x200b; I was looking to buy alcohol to remove thermal paste on my CPU and was shocked by how it was able to pickup the ingredients list from the small bottle. Initially I thought it was hallucinating, but then I zoomed into the image and…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tz93ll/shocked_by_image_capabilities_of_opus_48/",
+      "id": "d8447cd83428",
+      "title": "Opus is so fucking slow i cant even finish my usage",
+      "summary": "It takes an hour to implement something this fella used to be faster for same effort &#32; submitted by &#32; /u/sadphilosophylover [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzhwg4/opus_is_so_fucking_slow_i_cant_even_finish_my/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-07T11:00:01+00:00"
+      "published": "2026-06-07T17:13:54+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }

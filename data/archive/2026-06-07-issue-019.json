@@ -1,0 +1,128 @@
+{
+  "issue": 19,
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:47:50.840931-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
+    },
+    {
+      "id": "5afe302b899b",
+      "title": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts…",
+      "summary": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts (#4283) - git: gitpython &gt;=3.1.45 -&gt; &gt;=3.1.50 (lock 3.1.49 -&gt; 3.1.50) Fixes GHSA-mv93-w799-cj2w: newline injection in config_writer() bypasses the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f5054df1fb8665f4c224cf4f46d5314266ab5b45",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-05T15:24:07+00:00"
+    },
+    {
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "ac29be22e84b",
+      "title": "Claude Managed Agents: What Just Launched",
+      "summary": "Anthropic launched Claude Managed Agents in public beta on April 8, 2026. Here is what shipped, how it works, and what it means for developers.",
+      "url": "https://claudeai.dev/blog/claude-managed-agents-what-just-launched",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "9ba180d44ccf",
+      "title": "You are still chaining prompts. Anthropic's engineers stopped a month ago",
+      "summary": "The 6 patterns and 14 steps the frontier company actually uses to migrate code, sort 1,000 items, and verify agents at scale",
+      "url": "https://www.the-ai-corner.com/p/claude-code-dynamic-workflows-6-patterns-14-steps-anthropic-engineers-2026",
+      "source": "The AI Corner",
+      "category": "Hack",
+      "weight": 7,
+      "published": "2026-06-06T11:35:58+00:00"
+    },
+    {
+      "id": "aa7f756f311c",
+      "title": "How are they getting worse with every release lol?",
+      "summary": "But it's somewhat impressive that they're totally mogging the arena leaderboard now with all top 6 places. &#32; submitted by &#32; /u/Terrible-Priority-21 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tzbyz2/how_are_they_getting_worse_with_every_release_lol/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-07T13:19:57+00:00"
+    },
+    {
+      "id": "68aa69b1c268",
+      "title": "Browser agents ate my entire API budget and i didn't even know why until now",
+      "summary": "so i've been running AI agents on actual web tasks for a few weeks — not toy demos, like real stuff: job application forms, booking flows, dashboard scraping — and i kept watching my token costs balloon and i genuinely couldn't figure out…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz9bpv/browser_agents_ate_my_entire_api_budget_and_i/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-07T11:11:59+00:00"
+    },
+    {
+      "id": "a48302e61d75",
+      "title": "POV: A character in your writing project has ED and Claude needs to make very sure you're OK",
+      "summary": "I'm doing a longer writing project where one of my main characters has an eating disorder. So now, in that very chat, whenever I set up a new response, Claude now warns me minimum once, normally 2-3 times before the actual response that…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tz905n/pov_a_character_in_your_writing_project_has_ed/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-07T10:54:54+00:00"
+    },
+    {
+      "id": "df0d4017f978",
+      "title": "Does anyone else want a Pro 2.5x or is it just me?",
+      "summary": "a $50 Tier would be the ducks nuts - don't ya think? &#32; submitted by &#32; /u/Novel-Climate9727 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzc3sd/does_anyone_else_want_a_pro_25x_or_is_it_just_me/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-07T13:25:33+00:00"
+    },
+    {
+      "id": "65205cbea844",
+      "title": "this just isn't sustainable.",
+      "summary": "I had a work version of CLaude do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars.…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tzb7y1/this_just_isnt_sustainable/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-07T12:46:51+00:00"
+    },
+    {
+      "id": "213bc3455bbe",
+      "title": "Shocked by image capabilities of opus 4.8",
+      "summary": "&#x200b; I was looking to buy alcohol to remove thermal paste on my CPU and was shocked by how it was able to pickup the ingredients list from the small bottle. Initially I thought it was hallucinating, but then I zoomed into the image and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1tz93ll/shocked_by_image_capabilities_of_opus_48/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-07T11:00:01+00:00"
+    }
+  ]
+}
