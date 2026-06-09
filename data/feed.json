@@ -1,7 +1,7 @@
 {
-  "issue": 20,
-  "date": "2026-06-08",
-  "generated_at": "2026-06-08T12:44:24.369584-03:00",
+  "issue": 21,
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:44:50.913570-03:00",
   "items": [
     {
       "id": "2679786a73a7",
@@ -15,84 +15,84 @@
       "featured": true
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
+      "id": "19e81bea9de2",
+      "title": "Rumor: Anthropic Planning to Release Public Version of Claude Mythos Tomorrow (with Guardrails)",
+      "summary": "According to tech journalist Alex Heath (Sources newsletter), Anthropic is planning to release a public version of Mythos tomorrow. Key details from the report: • It will include substantial guardrails, notably not as cyber-permissive as…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u13ljr/rumor_anthropic_planning_to_release_public/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-09T12:29:46+00:00"
     },
     {
-      "id": "d1d5a1787d6c",
-      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
-      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-07T01:47:20+00:00"
-    },
-    {
-      "id": "a954de2705e0",
-      "title": "I built a 16-step multi-agent content pipeline. Claude runs the writing and reasoning agents. Here is the architecture and what surprised me.",
-      "summary": "Sharing this because it is built on Claude and I think the orchestration part is the interesting bit, not the marketing. Full disclosure up front, I am the one who built it. The problem I had: I wanted a steady flow of SEO articles on my…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0araf/i_built_a_16step_multiagent_content_pipeline/",
+      "id": "ee32cb4b90d9",
+      "title": "Will I ever be satisfied?",
+      "summary": "I've been making apps with Claude for about 2 months, they're all apps that fill a niche for myself, I dont plan on publishing them ever. With that being said one would thought that the apps im making dont need to be perfect, but you'd be…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0zq42/will_i_ever_be_satisfied/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-08T15:12:31+00:00"
+      "published": "2026-06-09T09:06:38+00:00"
     },
     {
-      "id": "8b8a061ee04c",
-      "title": "If you want it to actually disagree with you, don't ask it to disagree. Make it grade two versions you wrote.",
-      "summary": "The &quot;argue against this&quot; prompts get me polite, hedged pushback. Useful but soft. What gets me real critique: I write two versions of the thing myself, even if the second is lazy, and I ask it to score both and say which is…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u07668/if_you_want_it_to_actually_disagree_with_you_dont/",
+      "id": "e61a0c7f9b79",
+      "title": "Thanks for the help Claude",
+      "summary": "&#32; submitted by &#32; /u/AllUpInYourAO [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0uvfz/thanks_for_the_help_claude/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-06-08T12:59:00+00:00"
+      "published": "2026-06-09T04:30:07+00:00"
     },
     {
-      "id": "4a3f912c9b7a",
-      "title": "An active attack is planting backdoors inside Claude Code right now. If you use npm, your credentials may already be compromised.",
-      "summary": "Last week a malware campaign hit 32 npm packages under `@redhat-cloud-services`. About 117,000 weekly downloads. If you installed an affected version, the malware planted itself inside your Claude Code startup settings and your VS Code…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u05t5e/an_active_attack_is_planting_backdoors_inside/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-06-08T11:59:46+00:00"
-    },
-    {
-      "id": "a08552840414",
-      "title": "Ist jemand im Claude Community Ambassadors Program und kann Erfahrungen teilen?",
-      "summary": "Hey zusammen, ich schaue mir gerade das Claude Community Ambassadors Program von Anthropic an und würde gern wissen, ob hier jemand schon dabei ist, sich beworben hat oder den Prozess kennt. Mich interessieren vor allem: Wie lange hat die…",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1u099il/ist_jemand_im_claude_community_ambassadors/",
+      "id": "bd223137a998",
+      "title": "Claude AI vs Claude Code vs models (this confused me for a while)",
+      "summary": "I kept mixing up Claude AI, Claude Code, and the models for a while, so just writing this down the way I understand it now. Might be obvious to some people, but this confused me more than it should have. Claude AI is basically just the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u11vdg/claude_ai_vs_claude_code_vs_models_this_confused/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-08T14:17:38+00:00"
+      "published": "2026-06-09T11:07:55+00:00"
     },
     {
-      "id": "8d99898d1f2d",
-      "title": "Got banned from Claude for being a child by studying math.",
-      "summary": "&#32; submitted by &#32; /u/AragonOfWorld [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tzlol6/got_banned_from_claude_for_being_a_child_by/",
+      "id": "e300593a49fe",
+      "title": "Mythos releasing by tomorrow",
+      "summary": "Mythos release by tomorrow now seems certain. Hope they do release for subscription based users too and not only for API or Enterprise Also hoping they would release a good Sonnet 4.8 model so people can use Mythos for planning and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u113dd/mythos_releasing_by_tomorrow/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-07T19:33:42+00:00"
+      "published": "2026-06-09T10:26:22+00:00"
     },
     {
-      "id": "d8447cd83428",
-      "title": "Opus is so fucking slow i cant even finish my usage",
-      "summary": "It takes an hour to implement something this fella used to be faster for same effort &#32; submitted by &#32; /u/sadphilosophylover [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1tzhwg4/opus_is_so_fucking_slow_i_cant_even_finish_my/",
+      "id": "394ecc6c9288",
+      "title": "SF Native Researcher (Connecting with the Anthropic team)",
+      "summary": "Hi Anthropic Team, I am a San Francisco native, researcher, and independent scientist deeply passionate about human consciousness, & linguistic frameworks. I am eager to introduce myself to the anthropic research team and explore…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u0z61a/sf_native_researcher_connecting_with_the/",
       "source": "Reddit r/Anthropic",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-06-07T17:13:54+00:00"
+      "published": "2026-06-09T08:32:49+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     },
     {
       "id": "400dba2965d1",
