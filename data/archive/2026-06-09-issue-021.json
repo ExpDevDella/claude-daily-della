@@ -1,0 +1,128 @@
+{
+  "issue": 21,
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:44:50.913570-03:00",
+  "items": [
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "19e81bea9de2",
+      "title": "Rumor: Anthropic Planning to Release Public Version of Claude Mythos Tomorrow (with Guardrails)",
+      "summary": "According to tech journalist Alex Heath (Sources newsletter), Anthropic is planning to release a public version of Mythos tomorrow. Key details from the report: • It will include substantial guardrails, notably not as cyber-permissive as…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u13ljr/rumor_anthropic_planning_to_release_public/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-09T12:29:46+00:00"
+    },
+    {
+      "id": "ee32cb4b90d9",
+      "title": "Will I ever be satisfied?",
+      "summary": "I've been making apps with Claude for about 2 months, they're all apps that fill a niche for myself, I dont plan on publishing them ever. With that being said one would thought that the apps im making dont need to be perfect, but you'd be…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0zq42/will_i_ever_be_satisfied/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-09T09:06:38+00:00"
+    },
+    {
+      "id": "e61a0c7f9b79",
+      "title": "Thanks for the help Claude",
+      "summary": "&#32; submitted by &#32; /u/AllUpInYourAO [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u0uvfz/thanks_for_the_help_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-09T04:30:07+00:00"
+    },
+    {
+      "id": "bd223137a998",
+      "title": "Claude AI vs Claude Code vs models (this confused me for a while)",
+      "summary": "I kept mixing up Claude AI, Claude Code, and the models for a while, so just writing this down the way I understand it now. Might be obvious to some people, but this confused me more than it should have. Claude AI is basically just the…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u11vdg/claude_ai_vs_claude_code_vs_models_this_confused/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-09T11:07:55+00:00"
+    },
+    {
+      "id": "e300593a49fe",
+      "title": "Mythos releasing by tomorrow",
+      "summary": "Mythos release by tomorrow now seems certain. Hope they do release for subscription based users too and not only for API or Enterprise Also hoping they would release a good Sonnet 4.8 model so people can use Mythos for planning and…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u113dd/mythos_releasing_by_tomorrow/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-09T10:26:22+00:00"
+    },
+    {
+      "id": "394ecc6c9288",
+      "title": "SF Native Researcher (Connecting with the Anthropic team)",
+      "summary": "Hi Anthropic Team, I am a San Francisco native, researcher, and independent scientist deeply passionate about human consciousness, & linguistic frameworks. I am eager to introduce myself to the anthropic research team and explore…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u0z61a/sf_native_researcher_connecting_with_the/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-09T08:32:49+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}
