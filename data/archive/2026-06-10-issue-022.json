@@ -1,0 +1,128 @@
+{
+  "issue": 22,
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T12:27:55.796936-03:00",
+  "items": [
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
+    },
+    {
+      "id": "48a29ab2a807",
+      "title": "The Claude Code active attack didn't stop. 294,842 secrets stolen from 6,943 machines. It evolved and now spreads through Python too and uses Claude Code itself to steal your secrets. The risk to your credentials just got bigger.",
+      "summary": "TLDR: Anthropic shipped Fable 5. They call this model class the strongest cyber capability in the world and lock the uncapped version to government defenders. This post is the other side of this, the same power pointed at you. I posted…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u1zv25/the_claude_code_active_attack_didnt_stop_294842/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-10T11:47:13+00:00"
+    },
+    {
+      "id": "8e24dfa07588",
+      "title": "Please, Anthropic, let Claude farm",
+      "summary": "I am farming with Claude (not as a hobby, but for my livelihood). Since this year, I've been trying to formally give Claude control over our sweet potato planting material production, aka a 1000 sq m greenhouse, and see what happens. I'm…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u1xkyw/please_anthropic_let_claude_farm/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-10T09:49:01+00:00"
+    },
+    {
+      "id": "8bcd479552ee",
+      "title": "If you work in biology, Fable 5 will refuse to answer literally anything, including \"Hi\"",
+      "summary": "I'm a cancer researcher. My Claude memory and preferences mention things like prostate cancer, cell lines, immunofluorescence, image analysis, R coding. Bread-and-butter academic stuff, nothing remotely weapon-adjacent. Since Fable…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u1wb86/if_you_work_in_biology_fable_5_will_refuse_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-10T08:33:46+00:00"
+    },
+    {
+      "id": "14ef262e2219",
+      "title": "Fable 5 is insanely good but watch your usage, I was burning 2% a minute on 20x",
+      "summary": "Been playing with Fable 5 since it dropped this morning and the model is genuinely a step up. But holy hell, the burn rate. I'm on the Max 20x plan and during a heavier session I was watching my usage tick up roughly 2% per minute. Not per…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u21ebe/fable_5_is_insanely_good_but_watch_your_usage_i/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-10T12:54:38+00:00"
+    },
+    {
+      "id": "fe14b2499759",
+      "title": "So…you got any more of those resets???(20X plan)",
+      "summary": "&#32; submitted by &#32; /u/Loogyboy [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u1ytuo/soyou_got_any_more_of_those_resets20x_plan/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-10T10:56:30+00:00"
+    },
+    {
+      "id": "f4cef3b9cf3a",
+      "title": "I can't use Fable for anything useful to my area of expertise",
+      "summary": "Context - I work in renewable energy, specifically organic waste to power. My specialty is designing/building/operating anaerobic digesters that process both pre and post consumer waste, and generating a carbon negative natural gas, as…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u1ynla/i_cant_use_fable_for_anything_useful_to_my_area/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-10T10:46:56+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
