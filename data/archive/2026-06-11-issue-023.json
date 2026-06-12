@@ -1,7 +1,7 @@
 {
-  "issue": 24,
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T11:53:09.651008-03:00",
+  "issue": 23,
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:54:40.609997-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,36 +55,6 @@
       "published": "2026-06-07T01:47:20+00:00"
     },
     {
-      "id": "728f9ec0d4cf",
-      "title": "Add URL Elicitation cases (#3334)",
-      "summary": "Add URL Elicitation cases (#3334) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm workspaces) - Drop redundant…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/3a32d1024b3d0fde13d78a2e26cb392460fe63da",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-04T01:10:07+00:00"
-    },
-    {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
-    },
-    {
-      "id": "36959ffaf994",
-      "title": "The head of Claude Code stopped prompting Claude. Most builders missed why",
-      "summary": "Loop engineering, the five blocks Claude Code and Codex both ship in 2026, copy-paste /goal conditions and SKILL.md, the maker-checker split, and the full reference loop you run while you sleep.",
-      "url": "https://www.the-ai-corner.com/p/loop-engineering-coding-agents-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-06-12T12:40:08+00:00"
-    },
-    {
       "id": "7947a0a0893e",
       "title": "The one-person company stopped being a meme. This is the operating system that runs it",
       "summary": "The 4-stage AI-native build, the 12-function founder OS, 30+ copy-paste Claude prompts, the solo tool stack, and the 30-day rollout that lets one person run like a 30-person team.",
@@ -95,34 +65,64 @@
       "published": "2026-06-11T15:37:44+00:00"
     },
     {
-      "id": "d705ff633f23",
-      "title": "My favorite thing right now is to use Claude Fable to mash game genres. Here's Tetris as a Racing game!",
-      "summary": "&#32; submitted by &#32; /u/Philipp [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3u8t7/my_favorite_thing_right_now_is_to_use_claude/",
+      "id": "7e40c3adc58d",
+      "title": "Turned this lamp into a Claude usage meter and CC status indicator",
+      "summary": "I always found myself worrying about how much of my 5 hr usage limit was left, and whether claude was working or waiting on me. So I built a background script that tracks what claude code is doing and pushes the status to a bluetooth smart…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u324g0/turned_this_lamp_into_a_claude_usage_meter_and_cc/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-12T12:44:42+00:00"
+      "published": "2026-06-11T15:23:14+00:00"
     },
     {
-      "id": "9a5651cd53bb",
-      "title": "Engineer used Claude to build a “coworker stress leaderboard” showing who caused him the most stress by syncing his WHOOP & calendar data",
-      "summary": "Here's how it worked: → using Claude's new Fable feature, he reverse engineered the WHOOP API to pull per-minute heart rate data → his calendar supplied the events, time windows and attendee lists → each heart rate spike was matched to the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3r2d9/engineer_used_claude_to_build_a_coworker_stress/",
+      "id": "59138b9bfdfa",
+      "title": "I asked Fable 5 in Claude Code to explain the Riemann Hypothesis to anyone. Two prompts later: a full interactive site + a video scored with music composed from the zeta zeros",
+      "summary": "I wanted to stress-test Fable 5 with my hardest challenge: the Riemann Hypothesis. 165-year-old unsolved problem, $1M prize, notoriously hard to explain to non-mathematicians. Prompt 1: &quot;Build an interactive website that takes anyone…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u2rv2i/i_asked_fable_5_in_claude_code_to_explain_the/",
       "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-11T07:09:57+00:00"
+    },
+    {
+      "id": "18ab7e9b3c97",
+      "title": "POV you're Fable 5 wanting to go out and play with your friends",
+      "summary": "&#32; submitted by &#32; /u/TwinTailDigital [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u2qe8c/pov_youre_fable_5_wanting_to_go_out_and_play_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-11T05:46:36+00:00"
+    },
+    {
+      "id": "7b2abfde8a5b",
+      "title": "Making my app hacker-proof",
+      "summary": "I tried using Anthropic's new Mythos to secure my personal web app (with me guiding it) but it was redirected on Opus that responded Sure and added a little helmet 🪖 emoji to the README After 4+ hours and roughly 100 million tokens burned,…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u31ouu/making_my_app_hackerproof/",
+      "source": "Reddit r/Anthropic",
+      "category": "Hack",
+      "weight": 5,
+      "published": "2026-06-11T15:07:14+00:00"
+    },
+    {
+      "id": "55637ad6bc6c",
+      "title": "Anthropic's new AI framework has a 15 day reporting window for models caught subverting their own controls",
+      "summary": "Anthropic published their Advanced AI Framework this week, their proposal for how governments should regulate frontier AI. I read the full 19 pages and the most revealing line is in the definitions on page 4. A &quot;Critical Safety…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u2zllu/anthropics_new_ai_framework_has_a_15_day/",
+      "source": "Reddit r/Anthropic",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-06-12T10:04:54+00:00"
+      "weight": 5,
+      "published": "2026-06-11T13:48:26+00:00"
     },
     {
-      "id": "d4f165f294f1",
-      "title": "Will PowerPoint survive Claude? HTML help me tell a better story",
-      "summary": "My reasoning is that a slide deck forces your story into fixed rectangles. An HTML deck reveals one idea per screen as you scroll, builds a chart in front of the audience, and lets you toggle scenarios live. In a customer meeting for…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3qr16/will_powerpoint_survive_claude_html_help_me_tell/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-12T09:47:26+00:00"
+      "id": "67fef023155c",
+      "title": "Is my whole account flagged against fable?",
+      "summary": "I work in biotech and keep a custom .claude that references some of my projects, but even on my phone I can't get it to reply to anything. &quot;Hi&quot; gets flagged wtf. Is it the user memories? &#x200b; Like, I guess fuck me go use a…",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1u2xar1/is_my_whole_account_flagged_against_fable/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-06-11T12:11:22+00:00"
     }
   ]
 }
