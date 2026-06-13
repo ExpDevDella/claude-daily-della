@@ -1,7 +1,7 @@
 {
-  "issue": 25,
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T10:53:47.647998-03:00",
+  "issue": 24,
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:53:09.651008-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,16 +55,6 @@
       "published": "2026-06-07T01:47:20+00:00"
     },
     {
-      "id": "5afe302b899b",
-      "title": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts…",
-      "summary": "fix(deps): bump gitpython and urllib3 to resolve HIGH security alerts (#4283) - git: gitpython &gt;=3.1.45 -&gt; &gt;=3.1.50 (lock 3.1.49 -&gt; 3.1.50) Fixes GHSA-mv93-w799-cj2w: newline injection in config_writer() bypasses the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f5054df1fb8665f4c224cf4f46d5314266ab5b45",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-05T15:24:07+00:00"
-    },
-    {
       "id": "728f9ec0d4cf",
       "title": "Add URL Elicitation cases (#3334)",
       "summary": "Add URL Elicitation cases (#3334) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm workspaces) - Drop redundant…",
@@ -95,34 +85,44 @@
       "published": "2026-06-12T12:40:08+00:00"
     },
     {
-      "id": "c87d3eb6bcce",
-      "title": "Claude Competitors' Responsible For Pulling The Strings?",
-      "summary": "https://preview.redd.it/14p2sbqws07h1.png?width=500&format=png&auto=webp&s=fe5aa015b585cf627e0cc14f1771cd5b7526056f WSJ is now reporting the jailbreak was found by researchers at Amazon, who reported it to Commerce, and Axios says the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4mcro/claude_competitors_responsible_for_pulling_the/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "7947a0a0893e",
+      "title": "The one-person company stopped being a meme. This is the operating system that runs it",
+      "summary": "The 4-stage AI-native build, the 12-function founder OS, 30+ copy-paste Claude prompts, the solo tool stack, and the 30-day rollout that lets one person run like a 30-person team.",
+      "url": "https://www.the-ai-corner.com/p/one-person-startup-operating-system-2026",
+      "source": "The AI Corner",
       "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-13T09:23:07+00:00"
+      "weight": 7,
+      "published": "2026-06-11T15:37:44+00:00"
     },
     {
-      "id": "e3c5e64aa417",
-      "title": "Don’t you guys worry, I got this😮‍💨✋",
-      "summary": "&#32; submitted by &#32; /u/Mission-Dentist-5971 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4m1ag/dont_you_guys_worry_i_got_this/",
+      "id": "d705ff633f23",
+      "title": "My favorite thing right now is to use Claude Fable to mash game genres. Here's Tetris as a Racing game!",
+      "summary": "&#32; submitted by &#32; /u/Philipp [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3u8t7/my_favorite_thing_right_now_is_to_use_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-13T09:03:24+00:00"
+      "published": "2026-06-12T12:44:42+00:00"
     },
     {
-      "id": "a050eb6cc563",
-      "title": "Is anyone else super bothered by the fact that Fable 5 got taken down and we have no legal remedy or way to limit the governments ability to do that?",
-      "summary": "I know this is probably gonna be turned into a mega thread but I just wanted to get out that I find the fact that we have so few laws pertaining to this distressing. Like the government took a huge thing of value away from us. Something…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4jmqf/is_anyone_else_super_bothered_by_the_fact_that/",
+      "id": "9a5651cd53bb",
+      "title": "Engineer used Claude to build a “coworker stress leaderboard” showing who caused him the most stress by syncing his WHOOP & calendar data",
+      "summary": "Here's how it worked: → using Claude's new Fable feature, he reverse engineered the WHOOP API to pull per-minute heart rate data → his calendar supplied the events, time windows and attendee lists → each heart rate spike was matched to the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3r2d9/engineer_used_claude_to_build_a_coworker_stress/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-12T10:04:54+00:00"
+    },
+    {
+      "id": "d4f165f294f1",
+      "title": "Will PowerPoint survive Claude? HTML help me tell a better story",
+      "summary": "My reasoning is that a slide deck forces your story into fixed rectangles. An HTML deck reveals one idea per screen as you scroll, builds a chart in front of the audience, and lets you toggle scenarios live. In a customer meeting for…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u3qr16/will_powerpoint_survive_claude_html_help_me_tell/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-13T06:40:19+00:00"
+      "published": "2026-06-12T09:47:26+00:00"
     }
   ]
 }
