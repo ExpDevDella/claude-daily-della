@@ -1,7 +1,7 @@
 {
-  "issue": 26,
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T10:57:10.336165-03:00",
+  "issue": 25,
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:53:47.647998-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -75,54 +75,54 @@
       "published": "2026-06-04T01:10:07+00:00"
     },
     {
-      "id": "66eaee28fa5c",
-      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
-      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
-      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
       "source": "claudeai.dev Blog",
       "category": "Hack",
       "weight": 8,
-      "published": "2026-05-29T00:00:00+00:00"
+      "published": "2026-05-23T00:00:00+00:00"
     },
     {
-      "id": "cc5e3f5c1d55",
-      "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
-      "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
-      "url": "https://www.the-ai-corner.com/p/the-us-government-switched-off-anthropics",
+      "id": "36959ffaf994",
+      "title": "The head of Claude Code stopped prompting Claude. Most builders missed why",
+      "summary": "Loop engineering, the five blocks Claude Code and Codex both ship in 2026, copy-paste /goal conditions and SKILL.md, the maker-checker split, and the full reference loop you run while you sleep.",
+      "url": "https://www.the-ai-corner.com/p/loop-engineering-coding-agents-2026",
       "source": "The AI Corner",
-      "category": "Novidade",
+      "category": "Plugin",
       "weight": 7,
-      "published": "2026-06-13T21:51:25+00:00"
+      "published": "2026-06-12T12:40:08+00:00"
     },
     {
-      "id": "34847e108d8d",
-      "title": "How will the whole only US citizens even work out?",
-      "summary": "I was just considering how Anthropic could even deliver the latest models to US citizens. Even with some proof of citizenship before logging in, it could still be a foreign national actually using the model - by borrowing the computer or…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u5g7fd/how_will_the_whole_only_us_citizens_even_work_out/",
+      "id": "c87d3eb6bcce",
+      "title": "Claude Competitors' Responsible For Pulling The Strings?",
+      "summary": "https://preview.redd.it/14p2sbqws07h1.png?width=500&format=png&auto=webp&s=fe5aa015b585cf627e0cc14f1771cd5b7526056f WSJ is now reporting the jailbreak was found by researchers at Amazon, who reported it to Commerce, and Axios says the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4mcro/claude_competitors_responsible_for_pulling_the/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-14T09:04:04+00:00"
+      "published": "2026-06-13T09:23:07+00:00"
     },
     {
-      "id": "819940eb779c",
-      "title": "For the past couple of months I've been making a small music music program which is slowly turning into a niche DAW.",
-      "summary": "This Originally started out as an external option to an in-game music editor of a game I played because it was super clunky too use. After a while I lost interest in the game and I added a MIDI mode in which I can load sound-fonts to make…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u5cgqs/for_the_past_couple_of_months_ive_been_making_a/",
+      "id": "e3c5e64aa417",
+      "title": "Don’t you guys worry, I got this😮‍💨✋",
+      "summary": "&#32; submitted by &#32; /u/Mission-Dentist-5971 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4m1ag/dont_you_guys_worry_i_got_this/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-14T05:25:15+00:00"
+      "published": "2026-06-13T09:03:24+00:00"
     },
     {
-      "id": "4b32c4790be5",
-      "title": "I had Claude Opus 4.6 review code written by Fable 5",
-      "summary": "&#32; submitted by &#32; /u/anasbelmadani [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u56ty1/i_had_claude_opus_46_review_code_written_by_fable/",
+      "id": "a050eb6cc563",
+      "title": "Is anyone else super bothered by the fact that Fable 5 got taken down and we have no legal remedy or way to limit the governments ability to do that?",
+      "summary": "I know this is probably gonna be turned into a mega thread but I just wanted to get out that I find the fact that we have so few laws pertaining to this distressing. Like the government took a huge thing of value away from us. Something…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u4jmqf/is_anyone_else_super_bothered_by_the_fact_that/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-06-14T00:40:10+00:00"
+      "published": "2026-06-13T06:40:19+00:00"
     }
   ]
 }
