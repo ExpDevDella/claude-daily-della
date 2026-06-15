@@ -1,7 +1,7 @@
 {
-  "issue": 27,
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T14:11:31.250928-03:00",
+  "issue": 26,
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:57:10.336165-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -95,34 +95,34 @@
       "published": "2026-06-13T21:51:25+00:00"
     },
     {
-      "id": "43b498888f19",
-      "title": "Anthropic has been sued for allegedly misleading customers on usage limits.",
-      "summary": "https://preview.redd.it/2f4egjyd0h7h1.png?width=680&format=png&auto=webp&s=1a8c94c4c5cd486f76a669f4f04f4db3653d186b A proposed class-action lawsuit was filed today in the U.S. District Court for the Northern District of California against…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u6kzsr/anthropic_has_been_sued_for_allegedly_misleading/",
+      "id": "34847e108d8d",
+      "title": "How will the whole only US citizens even work out?",
+      "summary": "I was just considering how Anthropic could even deliver the latest models to US citizens. Even with some proof of citizenship before logging in, it could still be a foreign national actually using the model - by borrowing the computer or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u5g7fd/how_will_the_whole_only_us_citizens_even_work_out/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-15T16:09:54+00:00"
+      "published": "2026-06-14T09:04:04+00:00"
     },
     {
-      "id": "da77521986d1",
-      "title": "Anthropic Sued Over Limits on Its $200-a-Month AI Plans",
-      "summary": "The Wall Street Journal is reporting Anthropic got hit with a class action today saying that the Max plans did not provide the amount of extra usage promised ( link ). Do you guys agree with this? I always felt like I was getting way more…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u6j6v2/anthropic_sued_over_limits_on_its_200amonth_ai/",
+      "id": "819940eb779c",
+      "title": "For the past couple of months I've been making a small music music program which is slowly turning into a niche DAW.",
+      "summary": "This Originally started out as an external option to an in-game music editor of a game I played because it was super clunky too use. After a while I lost interest in the game and I added a MIDI mode in which I can load sound-fonts to make…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u5cgqs/for_the_past_couple_of_months_ive_been_making_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-15T15:05:10+00:00"
+      "published": "2026-06-14T05:25:15+00:00"
     },
     {
-      "id": "21f8f4bd2c2f",
-      "title": "Back to the Stone Age? Our company slashed our AI budget and we're back to manual coding.",
-      "summary": "Recently, my organization downgraded our Copilot/Claude plans because the budget was getting out of hand. Now, we can barely &quot;vibe code&quot; anymore. We have to do all the heavy lifting—analyzing legacy code written by coworkers,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u6hyki/back_to_the_stone_age_our_company_slashed_our_ai/",
+      "id": "4b32c4790be5",
+      "title": "I had Claude Opus 4.6 review code written by Fable 5",
+      "summary": "&#32; submitted by &#32; /u/anasbelmadani [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u56ty1/i_had_claude_opus_46_review_code_written_by_fable/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-15T14:19:09+00:00"
+      "published": "2026-06-14T00:40:10+00:00"
     }
   ]
 }
