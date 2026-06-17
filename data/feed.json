@@ -1,7 +1,7 @@
 {
-  "issue": 28,
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T13:46:26.333155-03:00",
+  "issue": 29,
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:20:47.291230-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -25,14 +25,14 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
+      "id": "4f81274efeae",
+      "title": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
+      "summary": "feat(memory): expose knowledge graph as MCP Resource (#3323) * feat(memory): expose knowledge graph as MCP Resource Register the knowledge graph as a readable MCP Resource at memory://knowledge-graph, enabling clients to discover and read…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-17T01:40:51+00:00"
     },
     {
       "id": "35976480970c",
@@ -45,54 +45,54 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
-      "id": "691769d74121",
-      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
-      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
-      "source": "claudeai.dev Blog",
+      "id": "a928d826f4e4",
+      "title": "Maybe Sonnet 5 matters more than Fable 5 for most people",
+      "summary": "I get why everyone wants Fable 5 back. Top models are fun, and for hard Claude Code tasks they can feel like a different class. But for actual daily work, I’m starting to think Sonnet 5 would matter more for most people. Most of my Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u87y2g/maybe_sonnet_5_matters_more_than_fable_5_for_most/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-11T00:00:00+00:00"
+      "weight": 6,
+      "published": "2026-06-17T11:48:18+00:00"
     },
     {
-      "id": "d1d5a1787d6c",
-      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
-      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
-      "source": "GitHub - Anthropic MCP Servers",
+      "id": "0d24825a14cd",
+      "title": "I come here for Claude-AI-mod-bot",
+      "summary": "Whenever I open a popular post, I immediately scroll to the mod bot comment. &#x200b; I love its witty sarcastic tone and saw it nowhere else on any AI generated content. It's both funny and concise in explaining the gist of all comments.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u87uzs/i_come_here_for_claudeaimodbot/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-17T11:44:06+00:00"
+    },
+    {
+      "id": "3406278551c4",
+      "title": "I built a memory + loop detection layer for AI agents almost entirely with Claude Code (it also works as an MCP so Claude remembers things between sessions)",
+      "summary": "I've been building this with Claude Code for the last few months and figured this sub would actually get why it exists, maybe? Also disclaimer if radio head has no fans it means I have perished. Quick background. I kept hitting the same…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u86ygd/i_built_a_memory_loop_detection_layer_for_ai/",
+      "source": "Reddit r/ClaudeAI",
       "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-07T01:47:20+00:00"
+      "weight": 6,
+      "published": "2026-06-17T10:58:10+00:00"
     },
     {
-      "id": "0847a3c283bd",
-      "title": "I see the full picture now!",
-      "summary": "&#32; submitted by &#32; /u/alberge [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7gl55/i_see_the_full_picture_now/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-16T15:22:03+00:00"
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     },
     {
-      "id": "bad3503c6f30",
-      "title": "Fable 5 being gone made me realize how hard it is to go back",
-      "summary": "I know this probably sounds dramatic, but Fable 5 disappearing has genuinely killed my motivation for the last few days. Before Fable 5, I was already using both Claude and ChatGPT pretty heavily. I have the $100 plans for both. For…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7cifh/fable_5_being_gone_made_me_realize_how_hard_it_is/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-16T12:45:26+00:00"
-    },
-    {
-      "id": "9278f78732b3",
-      "title": "How do Karpathy and other AI power users avoid turning their codebases into AI slop?",
-      "summary": "I do all of my development work using Claude code. The problem is that I run Claude code in auto mode, and I don’t have time to review every single code change. As I keep adding code, the feature starts to drift and eventually turns into…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7aiay/how_do_karpathy_and_other_ai_power_users_avoid/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-16T11:11:06+00:00"
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     },
     {
       "id": "400dba2965d1",

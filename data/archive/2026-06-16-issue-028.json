@@ -1,0 +1,128 @@
+{
+  "issue": 28,
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T13:46:26.333155-03:00",
+  "items": [
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "35976480970c",
+      "title": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth)",
+      "summary": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth) Real fixes (deps): - python (git/fetch/time): idna 3.10-&gt;3.18 (GHSA-65pc), starlette 0.49.1-&gt;1.3.1 (GHSA-86qp) - npm: vitest ^2.1.8-&gt;^4.1.8 (critical GHSA-5xrq…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-14T20:46:02+00:00"
+    },
+    {
+      "id": "691769d74121",
+      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
+      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
+    },
+    {
+      "id": "0847a3c283bd",
+      "title": "I see the full picture now!",
+      "summary": "&#32; submitted by &#32; /u/alberge [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7gl55/i_see_the_full_picture_now/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-16T15:22:03+00:00"
+    },
+    {
+      "id": "bad3503c6f30",
+      "title": "Fable 5 being gone made me realize how hard it is to go back",
+      "summary": "I know this probably sounds dramatic, but Fable 5 disappearing has genuinely killed my motivation for the last few days. Before Fable 5, I was already using both Claude and ChatGPT pretty heavily. I have the $100 plans for both. For…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7cifh/fable_5_being_gone_made_me_realize_how_hard_it_is/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-16T12:45:26+00:00"
+    },
+    {
+      "id": "9278f78732b3",
+      "title": "How do Karpathy and other AI power users avoid turning their codebases into AI slop?",
+      "summary": "I do all of my development work using Claude code. The problem is that I run Claude code in auto mode, and I don’t have time to review every single code change. As I keep adding code, the feature starts to drift and eventually turns into…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u7aiay/how_do_karpathy_and_other_ai_power_users_avoid/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-16T11:11:06+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}
