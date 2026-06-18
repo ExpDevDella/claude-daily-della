@@ -1,7 +1,7 @@
 {
-  "issue": 30,
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T12:17:54.407358-03:00",
+  "issue": 29,
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:20:47.291230-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -25,16 +25,6 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
-    },
-    {
       "id": "4f81274efeae",
       "title": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
       "summary": "feat(memory): expose knowledge graph as MCP Resource (#3323) * feat(memory): expose knowledge graph as MCP Resource Register the knowledge graph as a readable MCP Resource at memory://knowledge-graph, enabling clients to discover and read…",
@@ -55,54 +45,34 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
-      "id": "691769d74121",
-      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
-      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
-      "source": "claudeai.dev Blog",
+      "id": "a928d826f4e4",
+      "title": "Maybe Sonnet 5 matters more than Fable 5 for most people",
+      "summary": "I get why everyone wants Fable 5 back. Top models are fun, and for hard Claude Code tasks they can feel like a different class. But for actual daily work, I’m starting to think Sonnet 5 would matter more for most people. Most of my Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u87y2g/maybe_sonnet_5_matters_more_than_fable_5_for_most/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-11T00:00:00+00:00"
+      "weight": 6,
+      "published": "2026-06-17T11:48:18+00:00"
     },
     {
-      "id": "d1d5a1787d6c",
-      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
-      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
-      "source": "GitHub - Anthropic MCP Servers",
+      "id": "0d24825a14cd",
+      "title": "I come here for Claude-AI-mod-bot",
+      "summary": "Whenever I open a popular post, I immediately scroll to the mod bot comment. &#x200b; I love its witty sarcastic tone and saw it nowhere else on any AI generated content. It's both funny and concise in explaining the gist of all comments.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u87uzs/i_come_here_for_claudeaimodbot/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-17T11:44:06+00:00"
+    },
+    {
+      "id": "3406278551c4",
+      "title": "I built a memory + loop detection layer for AI agents almost entirely with Claude Code (it also works as an MCP so Claude remembers things between sessions)",
+      "summary": "I've been building this with Claude Code for the last few months and figured this sub would actually get why it exists, maybe? Also disclaimer if radio head has no fans it means I have perished. Quick background. I kept hitting the same…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u86ygd/i_built_a_memory_loop_detection_layer_for_ai/",
+      "source": "Reddit r/ClaudeAI",
       "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-07T01:47:20+00:00"
-    },
-    {
-      "id": "1fab27f204e0",
-      "title": "Anthropic is \"confident that in the coming days [Fable 5] will become available again\" - Anthropic's International Managing Director",
-      "summary": "The context in which he said this - at a conference in Seoul about Anthropic's work to expand internationally - also makes it unlikely it will relaunch only for US citizens (or at least Anthropic is confident it will be able to relaunch…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u95x3l/anthropic_is_confident_that_in_the_coming_days/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-18T13:12:47+00:00"
-    },
-    {
-      "id": "1bbf46eba5eb",
-      "title": "8 things about Claude Projects that took me too long to figure out",
-      "summary": "ive been on Pro since forever and only started using Projects seriously a few months ago. here's the stuff i wish someone had told me on day one instead of figuring out the hard way. project instructions beat custom styles for consistency.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u92t33/8_things_about_claude_projects_that_took_me_too/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-18T10:40:39+00:00"
-    },
-    {
-      "id": "2be1405fab04",
-      "title": "Day 23 of building GTA 6 using claude",
-      "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u90nmg/day_23_of_building_gta_6_using_claude/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-18T08:32:12+00:00"
+      "published": "2026-06-17T10:58:10+00:00"
     },
     {
       "id": "fbc19a0d1e1e",
@@ -123,6 +93,36 @@
       "category": "Novidade",
       "weight": 5,
       "published": "2026-02-23T22:59:46+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
