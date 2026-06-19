@@ -1,7 +1,7 @@
 {
-  "issue": 31,
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T11:58:51.199749-03:00",
+  "issue": 30,
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T12:17:54.407358-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -75,54 +75,54 @@
       "published": "2026-06-07T01:47:20+00:00"
     },
     {
-      "id": "66eaee28fa5c",
-      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
-      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
-      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-29T00:00:00+00:00"
-    },
-    {
-      "id": "7947a0a0893e",
-      "title": "The one-person company stopped being a meme. This is the operating system that runs it",
-      "summary": "The 4-stage AI-native build, the 12-function founder OS, 30+ copy-paste Claude prompts, the solo tool stack, and the 30-day rollout that lets one person run like a 30-person team.",
-      "url": "https://www.the-ai-corner.com/p/one-person-startup-operating-system-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-11T15:37:44+00:00"
-    },
-    {
-      "id": "ec5455ecce00",
-      "title": "I used Fable to make my terminal app use the iPad's hand-tracking function & microphone to approximate the Tony Stark - Jarvis coding sessions",
-      "summary": "I mean, the v1.0 of the Tony Stark - Jarvis coding sessions. I have an app called Terminal Champion that is for managing multiple terminal screens at the same time (among other things). Unlike the other versions of my app on mac, iPhone,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua1q02/i_used_fable_to_make_my_terminal_app_use_the/",
+      "id": "1fab27f204e0",
+      "title": "Anthropic is \"confident that in the coming days [Fable 5] will become available again\" - Anthropic's International Managing Director",
+      "summary": "The context in which he said this - at a conference in Seoul about Anthropic's work to expand internationally - also makes it unlikely it will relaunch only for US citizens (or at least Anthropic is confident it will be able to relaunch…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u95x3l/anthropic_is_confident_that_in_the_coming_days/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-19T13:15:09+00:00"
+      "published": "2026-06-18T13:12:47+00:00"
     },
     {
-      "id": "df3e4653afbd",
-      "title": "Running a long-term experiment: an AI governs a fictional village, day 6 in",
-      "summary": "I'm running a live experiment called Thornfield: a fictional English village where Claude acts as the elected council leader, making real budget and policy decisions every 15 simulated days. In between, a separate daily pass narrates…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u9z5ol/running_a_longterm_experiment_an_ai_governs_a/",
+      "id": "1bbf46eba5eb",
+      "title": "8 things about Claude Projects that took me too long to figure out",
+      "summary": "ive been on Pro since forever and only started using Projects seriously a few months ago. here's the stuff i wish someone had told me on day one instead of figuring out the hard way. project instructions beat custom styles for consistency.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u92t33/8_things_about_claude_projects_that_took_me_too/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-19T11:13:33+00:00"
+      "published": "2026-06-18T10:40:39+00:00"
     },
     {
-      "id": "56ae57128932",
-      "title": "Claude Code is a context-engineering harness, and most \"it got dumber\" moments are context rot",
-      "summary": "There's a name for it: context rot. As the window fills, the model's ability to recall any specific thing in it drops. More context in the window can make the agent worse, not better. (Anthropic's own framing: good context engineering is…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u9wuaq/claude_code_is_a_contextengineering_harness_and/",
+      "id": "2be1405fab04",
+      "title": "Day 23 of building GTA 6 using claude",
+      "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u90nmg/day_23_of_building_gta_6_using_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-19T09:01:02+00:00"
+      "published": "2026-06-18T08:32:12+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
