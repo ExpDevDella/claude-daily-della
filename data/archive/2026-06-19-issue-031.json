@@ -1,7 +1,7 @@
 {
-  "issue": 32,
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T10:56:27.421739-03:00",
+  "issue": 31,
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T11:58:51.199749-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,24 +65,24 @@
       "published": "2026-06-11T00:00:00+00:00"
     },
     {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
+    },
+    {
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
       "source": "claudeai.dev Blog",
       "category": "Hack",
       "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
-    },
-    {
-      "id": "36959ffaf994",
-      "title": "The head of Claude Code stopped prompting Claude. Most builders missed why",
-      "summary": "Loop engineering, the five blocks Claude Code and Codex both ship in 2026, copy-paste /goal conditions and SKILL.md, the maker-checker split, and the full reference loop you run while you sleep.",
-      "url": "https://www.the-ai-corner.com/p/loop-engineering-coding-agents-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-06-12T12:40:08+00:00"
+      "published": "2026-05-29T00:00:00+00:00"
     },
     {
       "id": "7947a0a0893e",
@@ -95,34 +95,34 @@
       "published": "2026-06-11T15:37:44+00:00"
     },
     {
-      "id": "856f0ef6e3b0",
-      "title": "Trump on Anthropic, CEO Dario and AI National Security",
-      "summary": "From a recent Axios interview, President Trump was asked about Anthropic, CEO Dario Amodei and whether AI could become a national security concern. He also discussed the possibility of using the Defense Production Act for AI regulation and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uat4bc/trump_on_anthropic_ceo_dario_and_ai_national/",
+      "id": "ec5455ecce00",
+      "title": "I used Fable to make my terminal app use the iPad's hand-tracking function & microphone to approximate the Tony Stark - Jarvis coding sessions",
+      "summary": "I mean, the v1.0 of the Tony Stark - Jarvis coding sessions. I have an app called Terminal Champion that is for managing multiple terminal screens at the same time (among other things). Unlike the other versions of my app on mac, iPhone,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua1q02/i_used_fable_to_make_my_terminal_app_use_the/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-20T10:24:08+00:00"
+      "published": "2026-06-19T13:15:09+00:00"
     },
     {
-      "id": "4b93fc1c3647",
-      "title": "Cheating or clever working",
-      "summary": "I have to admit that I'm confused. I'm a scientist - not a programmer - and I use Python and R mainly for data analysis. And while I'm reasonably proficient in the areas that I need, I'm utterly useless beyond. I've been using various LLMs…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uasvt3/cheating_or_clever_working/",
+      "id": "df3e4653afbd",
+      "title": "Running a long-term experiment: an AI governs a fictional village, day 6 in",
+      "summary": "I'm running a live experiment called Thornfield: a fictional English village where Claude acts as the elected council leader, making real budget and policy decisions every 15 simulated days. In between, a separate daily pass narrates…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u9z5ol/running_a_longterm_experiment_an_ai_governs_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-20T10:10:17+00:00"
+      "published": "2026-06-19T11:13:33+00:00"
     },
     {
-      "id": "d9799ff9da43",
-      "title": "AI has revealed that most people have the reading ability at a third-grade level",
-      "summary": "Like, where do you think the AI learned all these phrases and em dashes from? &#32; submitted by &#32; /u/Terrible-Priority-21 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uaqyni/ai_has_revealed_that_most_people_have_the_reading/",
+      "id": "56ae57128932",
+      "title": "Claude Code is a context-engineering harness, and most \"it got dumber\" moments are context rot",
+      "summary": "There's a name for it: context rot. As the window fills, the model's ability to recall any specific thing in it drops. More context in the window can make the agent worse, not better. (Anthropic's own framing: good context engineering is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1u9wuaq/claude_code_is_a_contextengineering_harness_and/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-20T08:09:47+00:00"
+      "published": "2026-06-19T09:01:02+00:00"
     }
   ]
 }
