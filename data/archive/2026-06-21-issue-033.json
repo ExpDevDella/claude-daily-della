@@ -1,7 +1,7 @@
 {
-  "issue": 34,
-  "date": "2026-06-22",
-  "generated_at": "2026-06-22T13:51:17.250174-03:00",
+  "issue": 33,
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:03:54.328367-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -75,54 +75,54 @@
       "published": "2026-06-07T01:47:20+00:00"
     },
     {
-      "id": "cc5e3f5c1d55",
-      "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
-      "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
-      "url": "https://www.the-ai-corner.com/p/the-us-government-switched-off-anthropics",
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "36959ffaf994",
+      "title": "The head of Claude Code stopped prompting Claude. Most builders missed why",
+      "summary": "Loop engineering, the five blocks Claude Code and Codex both ship in 2026, copy-paste /goal conditions and SKILL.md, the maker-checker split, and the full reference loop you run while you sleep.",
+      "url": "https://www.the-ai-corner.com/p/loop-engineering-coding-agents-2026",
       "source": "The AI Corner",
-      "category": "Novidade",
+      "category": "Plugin",
       "weight": 7,
-      "published": "2026-06-13T21:51:25+00:00"
+      "published": "2026-06-12T12:40:08+00:00"
     },
     {
-      "id": "70e8319c44ff",
-      "title": "Claude Cowork + Nano Banana is insane for images",
-      "summary": "Why aren’t more people doing this? Used my Gemini api key to build an MCP into Claude Cowork using the MCP-creator skill. It’s incredible. Claude acts as a brain layer to get me the best generations with consistency. It will make the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ucny0i/claude_cowork_nano_banana_is_insane_for_images/",
+      "id": "48c29c3f9ddf",
+      "title": "kinda proud when office teammates understand this",
+      "summary": "&#32; submitted by &#32; /u/sofflink [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ubp7mw/kinda_proud_when_office_teammates_understand_this/",
       "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-06-22T15:35:45+00:00"
+      "published": "2026-06-21T12:48:06+00:00"
     },
     {
-      "id": "d59ad645f9ce",
-      "title": "I stopped writing rules in CLAUDE.md and started writing hooks. The rules finally hold.",
-      "summary": "For months my CLAUDE.md held a list of rules. Never run the deploy script. Do not touch the migrations folder. Always run the formatter before committing. They worked most of the time, which is the problem. Most of the time is not a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ucnasw/i_stopped_writing_rules_in_claudemd_and_started/",
+      "id": "87ab80940d69",
+      "title": "Anthropic is rolling out identity verification. Updated just yesterday.",
+      "summary": "The verification provider is Persona, a 3rd party backed by Peter Thiel. https://web.archive.org/web/20260415064244/https://support.claude.com/en/articles/14328960-identity-verification-on-claude &#32; submitted by &#32; /u/Tiny_Dirt6979…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uboasr/anthropic_is_rolling_out_identity_verification/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-22T15:12:49+00:00"
+      "published": "2026-06-21T12:01:07+00:00"
     },
     {
-      "id": "1bbbe219ecf0",
-      "title": "\"Sorry I did the exact opposite to CLAUDE.md, never again I promise\"",
-      "summary": "This is a little scary. I don't even know what things they ask permission to do anymore. Less and less everyday it seems. And this is a very simple and harmless example, luckily I keep LLMs in closed environments and try to calculate the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uclctr/sorry_i_did_the_exact_opposite_to_claudemd_never/",
+      "id": "1ad5442ace85",
+      "title": "Official: Anthropic to Require Identity Verification for Certain Capabilities Starting July 8, 2026",
+      "summary": "Anthropic updated its Privacy Policy this week. Starting July 8, 2026, certain capabilities will require identity verification and it will be handled by Persona. Persona is a third party identity verification company backed by Peter Thiel.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-22T13:59:21+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "published": "2026-06-21T09:58:14+00:00"
     }
   ]
 }
