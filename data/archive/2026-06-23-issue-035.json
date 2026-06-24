@@ -1,7 +1,7 @@
 {
-  "issue": 36,
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T11:28:14.319649-03:00",
+  "issue": 35,
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:42:44.500987-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,6 +55,16 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
+      "id": "691769d74121",
+      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
+      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-11T00:00:00+00:00"
+    },
+    {
       "id": "2d6fe15b02a5",
       "title": "The AI Upgrade Trap: Why Switching to a Better Model Breaks Everything You Built",
       "summary": "Twice in six weeks, Anthropic shipped a model with better benchmarks across the board. Twice, production systems broke anyway.",
@@ -65,64 +75,54 @@
       "published": "2026-06-23T14:37:26+00:00"
     },
     {
-      "id": "fdb9194fc2f0",
-      "title": "Dangerous Ducks; “Safety Filter” is a Quack",
-      "summary": "It’s not about the actual words. I saw the thread about Opus 4.8 flagging an innocent fabric/moisture-trapping question. I started swapping the suspicious-sounding words (“vapour,” “substance,” etc.) for “duck” and “goose,” and it still…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uedhmc/dangerous_ducks_safety_filter_is_a_quack/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "cc5e3f5c1d55",
+      "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
+      "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
+      "url": "https://www.the-ai-corner.com/p/the-us-government-switched-off-anthropics",
+      "source": "The AI Corner",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-06-24T13:26:34+00:00"
+      "weight": 7,
+      "published": "2026-06-13T21:51:25+00:00"
     },
     {
-      "id": "0959196ab97a",
-      "title": "Day 28 of building GTA 6 using claude",
-      "summary": "Building a GTA online clone in voxel style but the whole world runs on AI agents. - prompt your own building, car, and weapon - raid other players homes - if catches you and puts you in jail you have to convince them to let you go Having…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ue7r84/day_28_of_building_gta_6_using_claude/",
+      "id": "e39169a38ffb",
+      "title": "Claude code on Google glass",
+      "summary": "Connects my my pc as the host using websockets. Has voice input when you tap the touchpad on the side of the glass. Running on glass XE-C. Screen is really clear, can see around 6 lines of text with 8 or so words on each line. Claude Code…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1udc99r/claude_code_on_google_glass/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-24T08:32:29+00:00"
+      "published": "2026-06-23T09:22:39+00:00"
     },
     {
-      "id": "48ecd8a80f58",
-      "title": "Software development has entered its \"infinite monkeys\" era",
-      "summary": "With the rise of agentic coding tools like Claude Code, Cursor, and Codex, the barrier to entry is gone. Now, anyone with an internet connection can &quot;type.&quot; We have essentially reached the infinite monkey phase of software…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ue4zw0/software_development_has_entered_its_infinite/",
+      "id": "30c924bf778f",
+      "title": "Claude is brutally honest at times",
+      "summary": "&#32; submitted by &#32; /u/superBoredJerry [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1udalrb/claude_is_brutally_honest_at_times/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-24T05:50:48+00:00"
+      "published": "2026-06-23T07:45:16+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
+      "id": "fe1473fd868a",
+      "title": "Using Claude Code to reverse engineer car data",
+      "summary": "I've published a new intro article on reverse engineering CAN bus data with AI - using a Claude Code skill. If you're interested in collecting/analyzing data from your vehicle, check this out! This is a direct sequel to my original intro…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uda0l6/using_claude_code_to_reverse_engineer_car_data/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-06-23T07:10:09+00:00"
     },
     {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
       "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "published": "2026-06-22T14:11:53+00:00"
     }
   ]
 }
