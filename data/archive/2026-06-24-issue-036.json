@@ -1,7 +1,7 @@
 {
-  "issue": 37,
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T11:26:37.344884-03:00",
+  "issue": 36,
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T11:28:14.319649-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,44 +55,44 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
-      "id": "691769d74121",
-      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
-      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-11T00:00:00+00:00"
+      "id": "2d6fe15b02a5",
+      "title": "The AI Upgrade Trap: Why Switching to a Better Model Breaks Everything You Built",
+      "summary": "Twice in six weeks, Anthropic shipped a model with better benchmarks across the board. Twice, production systems broke anyway.",
+      "url": "https://www.the-ai-corner.com/p/the-ai-upgrade-trap-why-switching",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-23T14:37:26+00:00"
     },
     {
-      "id": "56e923ef225c",
-      "title": "Running Sonnet 4.6 on every Instagram DM for a 7-location restaurant. 97% cache hit is the only reason it's affordable",
-      "summary": "I figured the agent would be the tough part. Turned out the cost was the real story, and that's what closed the deal. A sushi chain with 7 locations runs about 90% of its orders through Instagram DMs. I put a Claude agent (Sonnet 4.6) on…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf8gd5/running_sonnet_46_on_every_instagram_dm_for_a/",
+      "id": "fdb9194fc2f0",
+      "title": "Dangerous Ducks; “Safety Filter” is a Quack",
+      "summary": "It’s not about the actual words. I saw the thread about Opus 4.8 flagging an innocent fabric/moisture-trapping question. I started swapping the suspicious-sounding words (“vapour,” “substance,” etc.) for “duck” and “goose,” and it still…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uedhmc/dangerous_ducks_safety_filter_is_a_quack/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-25T12:21:27+00:00"
+      "published": "2026-06-24T13:26:34+00:00"
     },
     {
-      "id": "a1a64031d7f3",
-      "title": "Claude helping me understand the core truth",
-      "summary": "&#32; submitted by &#32; /u/DontSleepIAmWatching [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf7ogq/claude_helping_me_understand_the_core_truth/",
+      "id": "0959196ab97a",
+      "title": "Day 28 of building GTA 6 using claude",
+      "summary": "Building a GTA online clone in voxel style but the whole world runs on AI agents. - prompt your own building, car, and weapon - raid other players homes - if catches you and puts you in jail you have to convince them to let you go Having…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ue7r84/day_28_of_building_gta_6_using_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-25T11:45:01+00:00"
+      "published": "2026-06-24T08:32:29+00:00"
     },
     {
-      "id": "8a86fabebc41",
-      "title": "Finding a Wife with Ai week 1.5 update, Gov Blocks Fable, Fable Suggested I get a Gun and a Tesla, Yes Really ✨️",
-      "summary": "Welcome Back Everyone, Week 1.5 update: Claude-led execution phase. Over the last 1.5 weeks, Claude helped turn the plan from a idea into measurable execution, with the unfortunate demise of Fable and the block from the US government, we…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf314f/finding_a_wife_with_ai_week_15_update_gov_blocks/",
+      "id": "48ecd8a80f58",
+      "title": "Software development has entered its \"infinite monkeys\" era",
+      "summary": "With the rise of agentic coding tools like Claude Code, Cursor, and Codex, the barrier to entry is gone. Now, anyone with an internet connection can &quot;type.&quot; We have essentially reached the infinite monkey phase of software…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ue4zw0/software_development_has_entered_its_infinite/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-06-25T07:18:00+00:00"
+      "published": "2026-06-24T05:50:48+00:00"
     },
     {
       "id": "400dba2965d1",
