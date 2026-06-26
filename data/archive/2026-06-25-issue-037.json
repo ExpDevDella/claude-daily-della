@@ -1,7 +1,7 @@
 {
-  "issue": 38,
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T11:18:36.897252-03:00",
+  "issue": 37,
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T11:26:37.344884-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,64 +65,64 @@
       "published": "2026-06-11T00:00:00+00:00"
     },
     {
-      "id": "d1d5a1787d6c",
-      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
-      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-07T01:47:20+00:00"
+      "id": "56e923ef225c",
+      "title": "Running Sonnet 4.6 on every Instagram DM for a 7-location restaurant. 97% cache hit is the only reason it's affordable",
+      "summary": "I figured the agent would be the tough part. Turned out the cost was the real story, and that's what closed the deal. A sushi chain with 7 locations runs about 90% of its orders through Instagram DMs. I put a Claude agent (Sonnet 4.6) on…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf8gd5/running_sonnet_46_on_every_instagram_dm_for_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-25T12:21:27+00:00"
     },
     {
-      "id": "66eaee28fa5c",
-      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
-      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
-      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-29T00:00:00+00:00"
-    },
-    {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
-    },
-    {
-      "id": "13f4cb10e154",
-      "title": "I built an AI model card game (top trumps for LLMs)",
-      "summary": "Built this with Claude over a few evenings. It's top trumps like the good old supercars where you compare on horse power, but here each card is an AI model. You play your strongest stat to win the card. Context window, price, speed, etc.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug5mjc/i_built_an_ai_model_card_game_top_trumps_for_llms/",
+      "id": "a1a64031d7f3",
+      "title": "Claude helping me understand the core truth",
+      "summary": "&#32; submitted by &#32; /u/DontSleepIAmWatching [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf7ogq/claude_helping_me_understand_the_core_truth/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-26T12:36:20+00:00"
+      "published": "2026-06-25T11:45:01+00:00"
     },
     {
-      "id": "a848a990dd1e",
-      "title": "You could've phrased this a bit better, Claude...",
-      "summary": "&#32; submitted by &#32; /u/platcrest [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug4cdk/you_couldve_phrased_this_a_bit_better_claude/",
+      "id": "8a86fabebc41",
+      "title": "Finding a Wife with Ai week 1.5 update, Gov Blocks Fable, Fable Suggested I get a Gun and a Tesla, Yes Really ✨️",
+      "summary": "Welcome Back Everyone, Week 1.5 update: Claude-led execution phase. Over the last 1.5 weeks, Claude helped turn the plan from a idea into measurable execution, with the unfortunate demise of Fable and the block from the US government, we…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uf314f/finding_a_wife_with_ai_week_15_update_gov_blocks/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-26T11:37:24+00:00"
+      "published": "2026-06-25T07:18:00+00:00"
     },
     {
-      "id": "b600c762addb",
-      "title": "i've started saying \"great question\" before answering my own coworkers",
-      "summary": "caught myself doing it in standup yesterday. someone asked when the migration lands and before i even thought about it i went &quot;great question&quot; and paused like i needed to gather context. other ones ive picked up: starting replies…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug4627/ive_started_saying_great_question_before/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
       "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-26T11:28:47+00:00"
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
