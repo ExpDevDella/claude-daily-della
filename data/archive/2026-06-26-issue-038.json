@@ -1,7 +1,7 @@
 {
-  "issue": 39,
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T10:26:52.147897-03:00",
+  "issue": 38,
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T11:18:36.897252-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,6 +65,16 @@
       "published": "2026-06-11T00:00:00+00:00"
     },
     {
+      "id": "d1d5a1787d6c",
+      "title": "fix(everything): prevent URL elicitation error-path infinite loop (#4…",
+      "summary": "fix(everything): prevent URL elicitation error-path infinite loop (#4285) * url elicitation * single tool for normal and error path * Address review feedback on URL elicitation tool - Remove src/everything/pnpm-lock.yaml (monorepo uses npm…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/25e5f3a6e8fb0435dde559607146a2b417a79c63",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-07T01:47:20+00:00"
+    },
+    {
       "id": "66eaee28fa5c",
       "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
       "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
@@ -75,54 +85,44 @@
       "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "a82799339b3f",
-      "title": "Claude tells me I have the best idea-always",
-      "summary": "Hi. Wanted to ask advice about launching my self-made app using claude and github-copilot. Used claude to do market research, asked people around, and a couple of dietitians. Made my own app about food journaling. No calorie counter. My…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugva4o/claude_tells_me_i_have_the_best_ideaalways/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-06-27T06:36:35+00:00"
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
     },
     {
-      "id": "c724670557f1",
-      "title": "Who can make the best diamond with just Claude?",
-      "summary": "Show us the best diamond SVG you can make with just 1 iteration! Here's mine. First result had lines connecting randomly, so my iteration went to asking the connecting lines to make sense. &#32; submitted by &#32; /u/SillyVermicelli7169…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugukfg/who_can_make_the_best_diamond_with_just_claude/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-27T05:57:31+00:00"
-    },
-    {
-      "id": "5dbf5b83f669",
-      "title": "How the F does the Claude TL;DR auto-bot works ? Is it like a real writer pretending to be a bot or what ?",
-      "summary": "The quality is impressive. But why is it so good ? It’s not like the Claude code I’m using, this bot is a smartass so how does it do that ? Anyone know ? Can we replicate this ? I’d like to create a TARS (Interstellar) bot like where…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugp9oj/how_the_f_does_the_claude_tldr_autobot_works_is/",
+      "id": "13f4cb10e154",
+      "title": "I built an AI model card game (top trumps for LLMs)",
+      "summary": "Built this with Claude over a few evenings. It's top trumps like the good old supercars where you compare on horse power, but here each card is an AI model. You play your strongest stat to win the card. Context window, price, speed, etc.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug5mjc/i_built_an_ai_model_card_game_top_trumps_for_llms/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-06-27T01:30:05+00:00"
+      "published": "2026-06-26T12:36:20+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "id": "a848a990dd1e",
+      "title": "You could've phrased this a bit better, Claude...",
+      "summary": "&#32; submitted by &#32; /u/platcrest [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug4cdk/you_couldve_phrased_this_a_bit_better_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-26T11:37:24+00:00"
     },
     {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "id": "b600c762addb",
+      "title": "i've started saying \"great question\" before answering my own coworkers",
+      "summary": "caught myself doing it in standup yesterday. someone asked when the migration lands and before i even thought about it i went &quot;great question&quot; and paused like i needed to gather context. other ones ive picked up: starting replies…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ug4627/ive_started_saying_great_question_before/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-26T11:28:47+00:00"
     }
   ]
 }
