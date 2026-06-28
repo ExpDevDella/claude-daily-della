@@ -1,7 +1,7 @@
 {
-  "issue": 40,
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T10:40:39.693321-03:00",
+  "issue": 39,
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:26:52.147897-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,44 +65,44 @@
       "published": "2026-06-11T00:00:00+00:00"
     },
     {
-      "id": "0963e5caecd5",
-      "title": "What actually moves the needle with Claude",
-      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
-      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-27T16:47:00+00:00"
-    },
-    {
-      "id": "df8062e4e3ea",
-      "title": "$20 of lapdance in Miami last longer than $20 of tokens with Claude",
-      "summary": "I was lazy enough to click around UI and test a new feature. That would take me 10 minutes, so asked Claude. I've adopted a workflow where I do not care about how UI is built at all, pure vibe-code, as long as the backend is secure and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uhu8s4/20_of_lapdance_in_miami_last_longer_than_20_of/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
       "category": "Hack",
-      "weight": 6,
-      "published": "2026-06-28T10:54:05+00:00"
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "1425158a98d7",
-      "title": "Found this today. How correct is it? I do use 4.8 over 5.5 because it feels better",
-      "summary": "&#32; submitted by &#32; /u/rohansrma1 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uhrrh3/found_this_today_how_correct_is_it_i_do_use_48/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-06-28T08:26:44+00:00"
-    },
-    {
-      "id": "7e36bc79786f",
-      "title": "Weekend exercise: I've been using Claude Code to port SQLite from C to Zig, module by module — 90 of 102 translation units now run as Zig, ~919M tokens in, validated against SQLite's own test suite every step",
-      "summary": "I used Claude Code (Opus) to incrementally port SQLite 3.54.0 from C to Zig I have been an application / web / enterprise systems developer for 30+ years, but I am not a systems programmer. I only have basic working knowledge of C and Zig.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uhnn6o/weekend_exercise_ive_been_using_claude_code_to/",
+      "id": "a82799339b3f",
+      "title": "Claude tells me I have the best idea-always",
+      "summary": "Hi. Wanted to ask advice about launching my self-made app using claude and github-copilot. Used claude to do market research, asked people around, and a couple of dietitians. Made my own app about food journaling. No calorie counter. My…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugva4o/claude_tells_me_i_have_the_best_ideaalways/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-28T04:35:43+00:00"
+      "published": "2026-06-27T06:36:35+00:00"
+    },
+    {
+      "id": "c724670557f1",
+      "title": "Who can make the best diamond with just Claude?",
+      "summary": "Show us the best diamond SVG you can make with just 1 iteration! Here's mine. First result had lines connecting randomly, so my iteration went to asking the connecting lines to make sense. &#32; submitted by &#32; /u/SillyVermicelli7169…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugukfg/who_can_make_the_best_diamond_with_just_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-27T05:57:31+00:00"
+    },
+    {
+      "id": "5dbf5b83f669",
+      "title": "How the F does the Claude TL;DR auto-bot works ? Is it like a real writer pretending to be a bot or what ?",
+      "summary": "The quality is impressive. But why is it so good ? It’s not like the Claude code I’m using, this bot is a smartass so how does it do that ? Anyone know ? Can we replicate this ? I’d like to create a TARS (Interstellar) bot like where…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ugp9oj/how_the_f_does_the_claude_tldr_autobot_works_is/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-06-27T01:30:05+00:00"
     },
     {
       "id": "fbc19a0d1e1e",
