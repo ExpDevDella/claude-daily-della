@@ -1,7 +1,7 @@
 {
-  "issue": 42,
-  "date": "2026-06-30",
-  "generated_at": "2026-06-30T11:13:16.123687-03:00",
+  "issue": 41,
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:41:32.232824-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,44 +65,54 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
-      "id": "cc5e3f5c1d55",
-      "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
-      "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
-      "url": "https://www.the-ai-corner.com/p/the-us-government-switched-off-anthropics",
+      "id": "691769d74121",
+      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
+      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "0963e5caecd5",
+      "title": "What actually moves the needle with Claude",
+      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
+      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
       "source": "The AI Corner",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 7,
-      "published": "2026-06-13T21:51:25+00:00"
+      "published": "2026-06-27T16:47:00+00:00"
     },
     {
-      "id": "773da70526a4",
-      "title": "Claude Code 2.1.197 has Sonnet 5 in /model list",
-      "summary": "Basically title: it doesn't work to select yet but I assume the release is imminent. https://imgur.com/a/aM64QR1 &#32; submitted by &#32; /u/Veraticus [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujpq1d/claude_code_21197_has_sonnet_5_in_model_list/",
+      "id": "6d87e61ba229",
+      "title": "How come big corp can't manage costs?",
+      "summary": "The news about Microsoft burning their yearly budget in 4 months left me in awe. Because I don't understand where's the difficulty in managing token budget per IC, even more at companies like Microsoft or Uber who have literally billions…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uiutvj/how_come_big_corp_cant_manage_costs/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-30T13:46:46+00:00"
+      "published": "2026-06-29T14:57:24+00:00"
     },
     {
-      "id": "04e16eb1ba69",
-      "title": "I kept missing when my Claude Code sessions paused for input, so I built a menu bar watcher (it can now ping my phone too)",
-      "summary": "I usually have a few Claude Code sessions going at once, sometimes with Codex or Cursor in the mix. My problem is catching the moment one stops to ask me something. I'd be heads-down in one tab while a &quot;waiting for approval&quot; sat…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujnf5b/i_kept_missing_when_my_claude_code_sessions/",
+      "id": "1242cea8eba4",
+      "title": "What’s the most useful thing Claude helped you build that nobody else would ever use?",
+      "summary": "The front page is full of big launches and polished demos, but I’m more curious about the tiny private stuff. Like the ugly script, personal tracker, one-off spreadsheet, weird workflow, or tiny helper that would never become a startup but…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uisq7w/whats_the_most_useful_thing_claude_helped_you/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-06-30T12:09:54+00:00"
+      "published": "2026-06-29T13:36:21+00:00"
     },
     {
-      "id": "13cc1921cd73",
-      "title": "Claude users who work with it daily, what's the most useful thing you've discovered recently?",
-      "summary": "Could be a prompting approach, a use case you didn't expect to work well, or just a shift in how Claude's been performing lately. genuinely curious what people closer to daily use are noticing that casual users might be missing. &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujj8au/claude_users_who_work_with_it_daily_whats_the/",
+      "id": "dad245307a62",
+      "title": "It takes a day or two to build a working idea. it takes months to create a product.",
+      "summary": "I have been playing around with Claude tools for a long time. As an entrepreneur who works on the product and business side, my biggest learning is this: it takes a couple of days to get the high of working idea. To turn into a product is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uirhv4/it_takes_a_day_or_two_to_build_a_working_idea_it/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-06-30T08:19:40+00:00"
+      "published": "2026-06-29T12:45:11+00:00"
     },
     {
       "id": "d3856bc083d4",
@@ -113,16 +123,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-06-29T07:50:57+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
     }
   ]
 }
