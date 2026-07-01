@@ -1,7 +1,7 @@
 {
-  "issue": 43,
-  "date": "2026-07-01",
-  "generated_at": "2026-07-01T11:29:18.153621-03:00",
+  "issue": 42,
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T11:13:16.123687-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -65,16 +65,6 @@
       "published": "2026-06-14T20:46:02+00:00"
     },
     {
-      "id": "2d6fe15b02a5",
-      "title": "The AI Upgrade Trap: Why Switching to a Better Model Breaks Everything You Built",
-      "summary": "Twice in six weeks, Anthropic shipped a model with better benchmarks across the board. Twice, production systems broke anyway.",
-      "url": "https://www.the-ai-corner.com/p/the-ai-upgrade-trap-why-switching",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-23T14:37:26+00:00"
-    },
-    {
       "id": "cc5e3f5c1d55",
       "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
       "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
@@ -85,34 +75,44 @@
       "published": "2026-06-13T21:51:25+00:00"
     },
     {
-      "id": "5e578ab6addc",
-      "title": "Fable and Mythos Revival Megathread",
-      "summary": "Obviously a ton of interest around the pending return of Fable and Mythos. So to keep track of what's happening, please direct your questions and observations to this Megathread. For those out of the loop :…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukhfk7/fable_and_mythos_revival_megathread/",
+      "id": "773da70526a4",
+      "title": "Claude Code 2.1.197 has Sonnet 5 in /model list",
+      "summary": "Basically title: it doesn't work to select yet but I assume the release is imminent. https://imgur.com/a/aM64QR1 &#32; submitted by &#32; /u/Veraticus [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujpq1d/claude_code_21197_has_sonnet_5_in_model_list/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-06-30T13:46:46+00:00"
+    },
+    {
+      "id": "04e16eb1ba69",
+      "title": "I kept missing when my Claude Code sessions paused for input, so I built a menu bar watcher (it can now ping my phone too)",
+      "summary": "I usually have a few Claude Code sessions going at once, sometimes with Codex or Cursor in the mix. My problem is catching the moment one stops to ask me something. I'd be heads-down in one tab while a &quot;waiting for approval&quot; sat…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujnf5b/i_kept_missing_when_my_claude_code_sessions/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-01T10:04:37+00:00"
+      "published": "2026-06-30T12:09:54+00:00"
     },
     {
-      "id": "1c0aa8f25657",
-      "title": "Sonnet 5 vs Fable 5 vs GPT-5.5 vs Gemini - write a cyberpunk alley in Three.js from scratch, one shot",
-      "summary": "Claude Sonnet 5 shipped yesterday, so I've re-run this threejs benchmark - a neon cyberpunk alley in the rain. It's one shot, so no edits, and exactly the same prompt for each model. Same locked 10-second camera dolly for all of them, so…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukh9fn/sonnet_5_vs_fable_5_vs_gpt55_vs_gemini_write_a/",
+      "id": "13cc1921cd73",
+      "title": "Claude users who work with it daily, what's the most useful thing you've discovered recently?",
+      "summary": "Could be a prompting approach, a use case you didn't expect to work well, or just a shift in how Claude's been performing lately. genuinely curious what people closer to daily use are noticing that casual users might be missing. &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujj8au/claude_users_who_work_with_it_daily_whats_the/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-01T09:54:54+00:00"
+      "published": "2026-06-30T08:19:40+00:00"
     },
     {
-      "id": "5a3b1bcf6c7d",
-      "title": "Looks like Anthropic quietly updated the Sonnet 5 'Agentic search' benchmark graph overnight",
-      "summary": "&#32; submitted by &#32; /u/cent0nZz [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukgqwr/looks_like_anthropic_quietly_updated_the_sonnet_5/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "id": "d3856bc083d4",
+      "title": "Add files via upload (#2146)",
+      "summary": "Add files via upload (#2146)",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aee61758faef4482f94e54b4d9534a8d2a9a9131",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-01T09:24:34+00:00"
+      "published": "2026-06-29T07:50:57+00:00"
     },
     {
       "id": "f7d9dd9a8831",
