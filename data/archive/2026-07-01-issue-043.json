@@ -1,7 +1,7 @@
 {
-  "issue": 44,
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T10:52:54.297221-03:00",
+  "issue": 43,
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:29:18.153621-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,6 +55,16 @@
       "published": "2026-06-17T01:40:51+00:00"
     },
     {
+      "id": "35976480970c",
+      "title": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth)",
+      "summary": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth) Real fixes (deps): - python (git/fetch/time): idna 3.10-&gt;3.18 (GHSA-65pc), starlette 0.49.1-&gt;1.3.1 (GHSA-86qp) - npm: vitest ^2.1.8-&gt;^4.1.8 (critical GHSA-5xrq…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-14T20:46:02+00:00"
+    },
+    {
       "id": "2d6fe15b02a5",
       "title": "The AI Upgrade Trap: Why Switching to a Better Model Breaks Everything You Built",
       "summary": "Twice in six weeks, Anthropic shipped a model with better benchmarks across the board. Twice, production systems broke anyway.",
@@ -65,64 +75,54 @@
       "published": "2026-06-23T14:37:26+00:00"
     },
     {
-      "id": "cb604b41be1c",
-      "title": "Fable 5 being back really shows that using LLMs properly is genuinely a skill.",
-      "summary": "Since Fable 5 has landed back, I have been picking up where I left off and seeing fantastic results with the desktop app I have been building. What’s interesting though, I go on x and other sub reddits to see other people claiming “it’s…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ulhjao/fable_5_being_back_really_shows_that_using_llms/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-07-02T12:57:00+00:00"
+      "id": "cc5e3f5c1d55",
+      "title": "The US government switched off Anthropic’s most powerful model 3 days after launch",
+      "summary": "Inside the Fable 5 and Mythos 5 suspension, both sides of the jailbreak fight, the Amazon twist few saw coming, and the precedent every AI builder should track",
+      "url": "https://www.the-ai-corner.com/p/the-us-government-switched-off-anthropics",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-06-13T21:51:25+00:00"
     },
     {
-      "id": "6bf981fee8da",
-      "title": "I let Fable 5 redesign my landing page and it compiled the whole Rust app to WASM so the app IS the page",
-      "summary": "Context: pixtuoid turns your Claude Code sessions into pixel-art characters working in a little office. I asked Fable 5 to redesign the demo site, expecting nicer CSS. Instead it asked &quot;why show a *recording* of the office?&quot;,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ulbhgh/i_let_fable_5_redesign_my_landing_page_and_it/",
+      "id": "5e578ab6addc",
+      "title": "Fable and Mythos Revival Megathread",
+      "summary": "Obviously a ton of interest around the pending return of Fable and Mythos. So to keep track of what's happening, please direct your questions and observations to this Megathread. For those out of the loop :…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukhfk7/fable_and_mythos_revival_megathread/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-02T07:35:51+00:00"
+      "published": "2026-07-01T10:04:37+00:00"
     },
     {
-      "id": "3592be490d0d",
-      "title": "Pricing: Fable today vs Opus 4.1 on release",
-      "summary": "https://preview.redd.it/l5ox367zjrah1.png?width=852&format=png&auto=webp&s=322edb685ae7e60fe6179e05c4ca8a0c5d1db495 https://preview.redd.it/yu11tsn1krah1.png?width=852&format=png&auto=webp&s=2af32d0b422a5045cd6f6ef937b89eccc32ae118 Opus…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ular7g/pricing_fable_today_vs_opus_41_on_release/",
+      "id": "1c0aa8f25657",
+      "title": "Sonnet 5 vs Fable 5 vs GPT-5.5 vs Gemini - write a cyberpunk alley in Three.js from scratch, one shot",
+      "summary": "Claude Sonnet 5 shipped yesterday, so I've re-run this threejs benchmark - a neon cyberpunk alley in the rain. It's one shot, so no edits, and exactly the same prompt for each model. Same locked 10-second camera dolly for all of them, so…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukh9fn/sonnet_5_vs_fable_5_vs_gpt55_vs_gemini_write_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-02T06:53:36+00:00"
+      "published": "2026-07-01T09:54:54+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
+      "id": "5a3b1bcf6c7d",
+      "title": "Looks like Anthropic quietly updated the Sonnet 5 'Agentic search' benchmark graph overnight",
+      "summary": "&#32; submitted by &#32; /u/cent0nZz [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukgqwr/looks_like_anthropic_quietly_updated_the_sonnet_5/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-01T09:24:34+00:00"
     },
     {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
       "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "published": "2026-06-22T14:11:53+00:00"
     }
   ]
 }
