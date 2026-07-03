@@ -1,7 +1,7 @@
 {
-  "issue": 45,
-  "date": "2026-07-03",
-  "generated_at": "2026-07-03T10:56:54.517148-03:00",
+  "issue": 44,
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:52:54.297221-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -55,44 +55,44 @@
       "published": "2026-06-17T01:40:51+00:00"
     },
     {
-      "id": "9b2ab79dfb23",
-      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
-      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
-      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-05-23T00:00:00+00:00"
+      "id": "2d6fe15b02a5",
+      "title": "The AI Upgrade Trap: Why Switching to a Better Model Breaks Everything You Built",
+      "summary": "Twice in six weeks, Anthropic shipped a model with better benchmarks across the board. Twice, production systems broke anyway.",
+      "url": "https://www.the-ai-corner.com/p/the-ai-upgrade-trap-why-switching",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-23T14:37:26+00:00"
     },
     {
-      "id": "570d5b7e3152",
-      "title": "Anyone else letting an AI run their book ads? sharing my numbers, they're not pretty",
-      "summary": "So about 6 weeks ago I did something probably stupid and gave an AI agent actual control of my amazon ads account. Not the &quot;chatgpt give me keywords&quot; thing, I mean it connects to the Ads API on a schedule, pulls the reports,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1umauys/anyone_else_letting_an_ai_run_their_book_ads/",
+      "id": "cb604b41be1c",
+      "title": "Fable 5 being back really shows that using LLMs properly is genuinely a skill.",
+      "summary": "Since Fable 5 has landed back, I have been picking up where I left off and seeing fantastic results with the desktop app I have been building. What’s interesting though, I go on x and other sub reddits to see other people claiming “it’s…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ulhjao/fable_5_being_back_really_shows_that_using_llms/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-02T12:57:00+00:00"
+    },
+    {
+      "id": "6bf981fee8da",
+      "title": "I let Fable 5 redesign my landing page and it compiled the whole Rust app to WASM so the app IS the page",
+      "summary": "Context: pixtuoid turns your Claude Code sessions into pixel-art characters working in a little office. I asked Fable 5 to redesign the demo site, expecting nicer CSS. Instead it asked &quot;why show a *recording* of the office?&quot;,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ulbhgh/i_let_fable_5_redesign_my_landing_page_and_it/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-03T10:34:26+00:00"
+      "published": "2026-07-02T07:35:51+00:00"
     },
     {
-      "id": "b524385d02f0",
-      "title": "Fable 5 Max hit limit, I topped up $250, then one “hey” cost me ~$20?",
-      "summary": "My Fable 5 usage on the $200 Max plan hit the limit, so I topped up $250 in credits. Then I sent a tiny test message: “hey”. On screen it showed only a few tokens used, but my credits dropped by around $20. After that, I sent actual longer…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1um9j1u/fable_5_max_hit_limit_i_topped_up_250_then_one/",
+      "id": "3592be490d0d",
+      "title": "Pricing: Fable today vs Opus 4.1 on release",
+      "summary": "https://preview.redd.it/l5ox367zjrah1.png?width=852&format=png&auto=webp&s=322edb685ae7e60fe6179e05c4ca8a0c5d1db495 https://preview.redd.it/yu11tsn1krah1.png?width=852&format=png&auto=webp&s=2af32d0b422a5045cd6f6ef937b89eccc32ae118 Opus…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ular7g/pricing_fable_today_vs_opus_41_on_release/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-03T09:19:35+00:00"
-    },
-    {
-      "id": "2ba26c2f7739",
-      "title": "Every month, developers migrate between Codex and Claude. Anature documentary.",
-      "summary": "The beginning of the month has come. Once again, it is migration season. The quotas of the old savanna have run dry. A balding adult developer is the first to raise his head and test the air. From across the Pacific rolls a low thunder —…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1um8olj/every_month_developers_migrate_between_codex_and/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-03T08:29:02+00:00"
+      "published": "2026-07-02T06:53:36+00:00"
     },
     {
       "id": "400dba2965d1",
