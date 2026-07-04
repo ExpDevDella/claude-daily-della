@@ -1,0 +1,128 @@
+{
+  "issue": 45,
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:56:54.517148-03:00",
+  "items": [
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "ae545c829ca8",
+      "title": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH a…",
+      "summary": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH alerts (#4398) Resolves a fresh batch of Dependabot alerts (disclosed 2026-06-15/16, after PR #4376 merged) across the fetch, git, and time server lockfiles: -…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-06-29T07:13:57+00:00"
+    },
+    {
+      "id": "4f81274efeae",
+      "title": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
+      "summary": "feat(memory): expose knowledge graph as MCP Resource (#3323) * feat(memory): expose knowledge graph as MCP Resource Register the knowledge graph as a readable MCP Resource at memory://knowledge-graph, enabling clients to discover and read…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-17T01:40:51+00:00"
+    },
+    {
+      "id": "9b2ab79dfb23",
+      "title": "Claude Code and the Unreasonable Effectiveness of HTML Artifacts",
+      "summary": "Anthropic's Claude Code team is using HTML instead of Markdown for richer specs, reports, reviews, and interactive workflows. Here is why that shift matters for developers.",
+      "url": "https://claudeai.dev/blog/claude-code-html-artifacts",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "570d5b7e3152",
+      "title": "Anyone else letting an AI run their book ads? sharing my numbers, they're not pretty",
+      "summary": "So about 6 weeks ago I did something probably stupid and gave an AI agent actual control of my amazon ads account. Not the &quot;chatgpt give me keywords&quot; thing, I mean it connects to the Ads API on a schedule, pulls the reports,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1umauys/anyone_else_letting_an_ai_run_their_book_ads/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-03T10:34:26+00:00"
+    },
+    {
+      "id": "b524385d02f0",
+      "title": "Fable 5 Max hit limit, I topped up $250, then one “hey” cost me ~$20?",
+      "summary": "My Fable 5 usage on the $200 Max plan hit the limit, so I topped up $250 in credits. Then I sent a tiny test message: “hey”. On screen it showed only a few tokens used, but my credits dropped by around $20. After that, I sent actual longer…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1um9j1u/fable_5_max_hit_limit_i_topped_up_250_then_one/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-03T09:19:35+00:00"
+    },
+    {
+      "id": "2ba26c2f7739",
+      "title": "Every month, developers migrate between Codex and Claude. Anature documentary.",
+      "summary": "The beginning of the month has come. Once again, it is migration season. The quotas of the old savanna have run dry. A balding adult developer is the first to raise his head and test the air. From across the Pacific rolls a low thunder —…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1um8olj/every_month_developers_migrate_between_codex_and/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-03T08:29:02+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}
