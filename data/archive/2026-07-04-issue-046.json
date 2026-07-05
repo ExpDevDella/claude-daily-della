@@ -1,0 +1,128 @@
+{
+  "issue": 46,
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:18:29.474981-03:00",
+  "items": [
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "253ce1bf5f47",
+      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
+      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
+      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-03T00:00:00+00:00"
+    },
+    {
+      "id": "ae545c829ca8",
+      "title": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH a…",
+      "summary": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH alerts (#4398) Resolves a fresh batch of Dependabot alerts (disclosed 2026-06-15/16, after PR #4376 merged) across the fetch, git, and time server lockfiles: -…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-06-29T07:13:57+00:00"
+    },
+    {
+      "id": "4f81274efeae",
+      "title": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
+      "summary": "feat(memory): expose knowledge graph as MCP Resource (#3323) * feat(memory): expose knowledge graph as MCP Resource Register the knowledge graph as a readable MCP Resource at memory://knowledge-graph, enabling clients to discover and read…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-17T01:40:51+00:00"
+    },
+    {
+      "id": "35976480970c",
+      "title": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth)",
+      "summary": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth) Real fixes (deps): - python (git/fetch/time): idna 3.10-&gt;3.18 (GHSA-65pc), starlette 0.49.1-&gt;1.3.1 (GHSA-86qp) - npm: vitest ^2.1.8-&gt;^4.1.8 (critical GHSA-5xrq…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-06-14T20:46:02+00:00"
+    },
+    {
+      "id": "691769d74121",
+      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
+      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "0275fbe82f9f",
+      "title": "Day 37 of building GTA 6 using claude",
+      "summary": "Building a GTA Online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. New this week :…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un5xjf/day_37_of_building_gta_6_using_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-04T10:46:52+00:00"
+    },
+    {
+      "id": "8fabd86bc5fb",
+      "title": "Who’s spending this weekend squeezing every drop out of Fable 5 before it switches to usage credits? 👀",
+      "summary": "i usually don’t code on weekends. Most weekends are for marketing my SaaS, writing content, talking to users, and trying to convince strangers on the internet that my product is worth trying. 😅 But not this weekend. Since Fable 5 is only…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un3irw/whos_spending_this_weekend_squeezing_every_drop/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-04T08:19:37+00:00"
+    },
+    {
+      "id": "b8b8353a9c5d",
+      "title": "Building a Unity 2d game with claude",
+      "summary": "I'm remaking an old mobile game with Claude Code in my spare time. The majority of the art was generated with chatgpt, and the entirety of the code is claude code. It's a physics based mobile game where the user needs to defend the house…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un1svd/building_a_unity_2d_game_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-04T06:38:52+00:00"
+    }
+  ]
+}

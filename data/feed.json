@@ -1,7 +1,7 @@
 {
-  "issue": 46,
-  "date": "2026-07-04",
-  "generated_at": "2026-07-04T10:18:29.474981-03:00",
+  "issue": 47,
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:24:46.813104-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -35,6 +35,36 @@
       "published": "2026-04-07T18:03:51+00:00"
     },
     {
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
+    },
+    {
+      "id": "861b73239ea2",
+      "title": "ci: don't cancel in-progress CI runs on main",
+      "summary": "ci: don't cancel in-progress CI runs on main Per-ref cancellation is for superseded branch amend-pushes; on main, every merge keeps its own CI run so failures stay attributable to a specific commit. Co-Authored-By: Claude Fable 5…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/5850690363a1dd85a6efa205cf654787d91f8239",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-04T22:44:47+00:00"
+    },
+    {
+      "id": "41e63f35cd18",
+      "title": "ci: run CI on pushes to any branch, cancel superseded runs",
+      "summary": "ci: run CI on pushes to any branch, cancel superseded runs Previously push-triggered CI ran only on main, so same-repo branches got no CI until a PR was opened (fork contributions were and remain covered by pull_request, which fires on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3b9d38fbac0f34c6b9ad6247a8f276bf45eb0b8c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-04T22:36:43+00:00"
+    },
+    {
       "id": "253ce1bf5f47",
       "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
       "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
@@ -43,36 +73,6 @@
       "category": "Hack",
       "weight": 8,
       "published": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "id": "ae545c829ca8",
-      "title": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH a…",
-      "summary": "fix(deps): bump python-multipart, cryptography, pyjwt to clear HIGH alerts (#4398) Resolves a fresh batch of Dependabot alerts (disclosed 2026-06-15/16, after PR #4376 merged) across the fetch, git, and time server lockfiles: -…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Dica",
-      "weight": 8,
-      "published": "2026-06-29T07:13:57+00:00"
-    },
-    {
-      "id": "4f81274efeae",
-      "title": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
-      "summary": "feat(memory): expose knowledge graph as MCP Resource (#3323) * feat(memory): expose knowledge graph as MCP Resource Register the knowledge graph as a readable MCP Resource at memory://knowledge-graph, enabling clients to discover and read…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-17T01:40:51+00:00"
-    },
-    {
-      "id": "35976480970c",
-      "title": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth)",
-      "summary": "fix(security): bump vulnerable deps; harden git_add (defense-in-depth) Real fixes (deps): - python (git/fetch/time): idna 3.10-&gt;3.18 (GHSA-65pc), starlette 0.49.1-&gt;1.3.1 (GHSA-86qp) - npm: vitest ^2.1.8-&gt;^4.1.8 (critical GHSA-5xrq…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-06-14T20:46:02+00:00"
     },
     {
       "id": "691769d74121",
@@ -95,34 +95,34 @@
       "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "0275fbe82f9f",
-      "title": "Day 37 of building GTA 6 using claude",
-      "summary": "Building a GTA Online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. New this week :…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un5xjf/day_37_of_building_gta_6_using_claude/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-04T10:46:52+00:00"
-    },
-    {
-      "id": "8fabd86bc5fb",
-      "title": "Who’s spending this weekend squeezing every drop out of Fable 5 before it switches to usage credits? 👀",
-      "summary": "i usually don’t code on weekends. Most weekends are for marketing my SaaS, writing content, talking to users, and trying to convince strangers on the internet that my product is worth trying. 😅 But not this weekend. Since Fable 5 is only…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un3irw/whos_spending_this_weekend_squeezing_every_drop/",
+      "id": "cc7bfefe00ca",
+      "title": "3d modeling with Claude Code",
+      "summary": "I have been trying to build a city builder game. I have a programming background but nothing in art/design or asset modeling, so I feared that would be pretty much impossible without buying/licensing assets from somewhere. I tried big AI…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uo0uxg/3d_modeling_with_claude_code/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-04T08:19:37+00:00"
+      "published": "2026-07-05T12:22:50+00:00"
     },
     {
-      "id": "b8b8353a9c5d",
-      "title": "Building a Unity 2d game with claude",
-      "summary": "I'm remaking an old mobile game with Claude Code in my spare time. The majority of the art was generated with chatgpt, and the entirety of the code is claude code. It's a physics based mobile game where the user needs to defend the house…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1un1svd/building_a_unity_2d_game_with_claude/",
+      "id": "274082d5bbd3",
+      "title": "Fable 5's security is a sure-fire strategy to protect profits.",
+      "summary": "Fable 5 is Mythos with a classifier bolted on. Same weights. Anthropic said so. You pay for thinking you'll never see. Raw chain of thought is never returned . Not optionally hidden. Never. Default returns an empty thinking field.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1unv73k/fable_5s_security_is_a_surefire_strategy_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-04T06:38:52+00:00"
+      "published": "2026-07-05T06:51:07+00:00"
+    },
+    {
+      "id": "90b4bbfbb229",
+      "title": "Humanity's biggest universal lie according to Claude",
+      "summary": "&#32; submitted by &#32; /u/onion_man_4ever [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1unuajt/humanitys_biggest_universal_lie_according_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-05T05:59:03+00:00"
     }
   ]
 }
