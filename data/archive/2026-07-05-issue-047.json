@@ -1,7 +1,7 @@
 {
-  "issue": 48,
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T12:25:34.819470-03:00",
+  "issue": 47,
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:24:46.813104-03:00",
   "items": [
     {
       "id": "9d62ac82355a",
@@ -85,44 +85,44 @@
       "published": "2026-06-11T00:00:00+00:00"
     },
     {
-      "id": "0963e5caecd5",
-      "title": "What actually moves the needle with Claude",
-      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
-      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-27T16:47:00+00:00"
+      "id": "66eaee28fa5c",
+      "title": "Claude Opus 4.8: What Changed, What Users Are Saying, and How Claude Code Teams Should Adopt It",
+      "summary": "Anthropic released Claude Opus 4.8 on May 28, 2026. Here is a practical read of the launch, outside feedback, early community reactions, and what to change in Claude Code workflows.",
+      "url": "https://claudeai.dev/blog/claude-opus-4-8-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-05-29T00:00:00+00:00"
     },
     {
-      "id": "f61c984c889c",
-      "title": "Thank you anthropic. As a teacher claude cowork has been Godsend.",
-      "summary": "I am not a techie..but in a.space.of.month using Claude cowork this beast that anthropic has created has transformed my life. I am not being hyperbolic. Literally saved me hours and as a teacher who has to do curriculum design, grade…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uox9uu/thank_you_anthropic_as_a_teacher_claude_cowork/",
+      "id": "cc7bfefe00ca",
+      "title": "3d modeling with Claude Code",
+      "summary": "I have been trying to build a city builder game. I have a programming background but nothing in art/design or asset modeling, so I feared that would be pretty much impossible without buying/licensing assets from somewhere. I tried big AI…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uo0uxg/3d_modeling_with_claude_code/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-06T13:24:15+00:00"
+      "published": "2026-07-05T12:22:50+00:00"
     },
     {
-      "id": "312c46cb56a2",
-      "title": "How is Anthropic ever going to make this profitable?",
-      "summary": "https://preview.redd.it/xnuokyd2nlbh1.png?width=952&format=png&auto=webp&s=973b446c7602c135ff272dee7e1e2473e15c2877 30d usage at API rates would have been just shy of $2500 but I'm paying $100 USD ish (exchange rate depending). If we are…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uovfb9/how_is_anthropic_ever_going_to_make_this/",
+      "id": "274082d5bbd3",
+      "title": "Fable 5's security is a sure-fire strategy to protect profits.",
+      "summary": "Fable 5 is Mythos with a classifier bolted on. Same weights. Anthropic said so. You pay for thinking you'll never see. Raw chain of thought is never returned . Not optionally hidden. Never. Default returns an empty thinking field.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1unv73k/fable_5s_security_is_a_surefire_strategy_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-06T12:05:56+00:00"
+      "published": "2026-07-05T06:51:07+00:00"
     },
     {
-      "id": "8a1aa9d479fe",
-      "title": "Friendly reminder what to fix before Fable 5 disappears again. Use it to upgrade your Claude Code system to work like Fable 5.",
-      "summary": "I’ve been playing around with Fable 5 in Claude Code and honestly, the biggest thing I’ve realized is this: Stop burning the whole window trying to ship one more random project. Instead, use this beast while you still have it to improve…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uou7ow/friendly_reminder_what_to_fix_before_fable_5/",
+      "id": "90b4bbfbb229",
+      "title": "Humanity's biggest universal lie according to Claude",
+      "summary": "&#32; submitted by &#32; /u/onion_man_4ever [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1unuajt/humanitys_biggest_universal_lie_according_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-06T11:07:41+00:00"
+      "published": "2026-07-05T05:59:03+00:00"
     }
   ]
 }
