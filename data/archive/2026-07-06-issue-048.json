@@ -1,0 +1,128 @@
+{
+  "issue": 48,
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:25:34.819470-03:00",
+  "items": [
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "7536ae2daabf",
+      "title": "An initiative to secure the world's software | Project Glasswing",
+      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
+      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-04-07T18:03:51+00:00"
+    },
+    {
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
+    },
+    {
+      "id": "861b73239ea2",
+      "title": "ci: don't cancel in-progress CI runs on main",
+      "summary": "ci: don't cancel in-progress CI runs on main Per-ref cancellation is for superseded branch amend-pushes; on main, every merge keeps its own CI run so failures stay attributable to a specific commit. Co-Authored-By: Claude Fable 5…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/5850690363a1dd85a6efa205cf654787d91f8239",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-04T22:44:47+00:00"
+    },
+    {
+      "id": "41e63f35cd18",
+      "title": "ci: run CI on pushes to any branch, cancel superseded runs",
+      "summary": "ci: run CI on pushes to any branch, cancel superseded runs Previously push-triggered CI ran only on main, so same-repo branches got no CI until a PR was opened (fork contributions were and remain covered by pull_request, which fires on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3b9d38fbac0f34c6b9ad6247a8f276bf45eb0b8c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-04T22:36:43+00:00"
+    },
+    {
+      "id": "253ce1bf5f47",
+      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
+      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
+      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-03T00:00:00+00:00"
+    },
+    {
+      "id": "691769d74121",
+      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
+      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "0963e5caecd5",
+      "title": "What actually moves the needle with Claude",
+      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
+      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-27T16:47:00+00:00"
+    },
+    {
+      "id": "f61c984c889c",
+      "title": "Thank you anthropic. As a teacher claude cowork has been Godsend.",
+      "summary": "I am not a techie..but in a.space.of.month using Claude cowork this beast that anthropic has created has transformed my life. I am not being hyperbolic. Literally saved me hours and as a teacher who has to do curriculum design, grade…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uox9uu/thank_you_anthropic_as_a_teacher_claude_cowork/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-06T13:24:15+00:00"
+    },
+    {
+      "id": "312c46cb56a2",
+      "title": "How is Anthropic ever going to make this profitable?",
+      "summary": "https://preview.redd.it/xnuokyd2nlbh1.png?width=952&format=png&auto=webp&s=973b446c7602c135ff272dee7e1e2473e15c2877 30d usage at API rates would have been just shy of $2500 but I'm paying $100 USD ish (exchange rate depending). If we are…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uovfb9/how_is_anthropic_ever_going_to_make_this/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-06T12:05:56+00:00"
+    },
+    {
+      "id": "8a1aa9d479fe",
+      "title": "Friendly reminder what to fix before Fable 5 disappears again. Use it to upgrade your Claude Code system to work like Fable 5.",
+      "summary": "I’ve been playing around with Fable 5 in Claude Code and honestly, the biggest thing I’ve realized is this: Stop burning the whole window trying to ship one more random project. Instead, use this beast while you still have it to improve…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uou7ow/friendly_reminder_what_to_fix_before_fable_5/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-06T11:07:41+00:00"
+    }
+  ]
+}

@@ -1,8 +1,19 @@
 {
-  "issue": 48,
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T12:25:34.819470-03:00",
+  "issue": 49,
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:26:31.163458-03:00",
   "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "What’s at the center of Claude’s mind?",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
     {
       "id": "9d62ac82355a",
       "title": "Introducing Claude Fable 5",
@@ -11,8 +22,7 @@
       "source": "YouTube - Anthropic",
       "category": "Video",
       "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00",
-      "featured": true
+      "published": "2026-06-09T17:00:05+00:00"
     },
     {
       "id": "2679786a73a7",
@@ -25,14 +35,34 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "7536ae2daabf",
-      "title": "An initiative to secure the world's software | Project Glasswing",
-      "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure…",
-      "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-04-07T18:03:51+00:00"
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
+      "category": "Plugin",
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
     },
     {
       "id": "93582e814cd8",
@@ -45,44 +75,14 @@
       "published": "2026-07-04T23:03:24+00:00"
     },
     {
-      "id": "861b73239ea2",
-      "title": "ci: don't cancel in-progress CI runs on main",
-      "summary": "ci: don't cancel in-progress CI runs on main Per-ref cancellation is for superseded branch amend-pushes; on main, every merge keeps its own CI run so failures stay attributable to a specific commit. Co-Authored-By: Claude Fable 5…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/5850690363a1dd85a6efa205cf654787d91f8239",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-04T22:44:47+00:00"
-    },
-    {
-      "id": "41e63f35cd18",
-      "title": "ci: run CI on pushes to any branch, cancel superseded runs",
-      "summary": "ci: run CI on pushes to any branch, cancel superseded runs Previously push-triggered CI ran only on main, so same-repo branches got no CI until a PR was opened (fork contributions were and remain covered by pull_request, which fires on…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/3b9d38fbac0f34c6b9ad6247a8f276bf45eb0b8c",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-04T22:36:43+00:00"
-    },
-    {
-      "id": "253ce1bf5f47",
-      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
-      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
-      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "id": "691769d74121",
-      "title": "Claude Fable 5: Powerful, Expensive, and Constrained by Design",
-      "summary": "Claude Fable 5 brings Mythos-class capability to general users, but the early feedback is as much about guardrails, routing, cost, and trust as it is about benchmark gains.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-06-11T00:00:00+00:00"
+      "id": "8c20b6c9596b",
+      "title": "Stop prompting. Start writing loops",
+      "summary": "The Claude Code team just published how loops actually work. Here is the mental model free, and the 12 ready-to-run loop recipes that hand your busywork to an agent",
+      "url": "https://www.the-ai-corner.com/p/claude-code-loops-library-goal-schedule-recipes-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-07T13:48:59+00:00"
     },
     {
       "id": "0963e5caecd5",
@@ -95,34 +95,34 @@
       "published": "2026-06-27T16:47:00+00:00"
     },
     {
-      "id": "f61c984c889c",
-      "title": "Thank you anthropic. As a teacher claude cowork has been Godsend.",
-      "summary": "I am not a techie..but in a.space.of.month using Claude cowork this beast that anthropic has created has transformed my life. I am not being hyperbolic. Literally saved me hours and as a teacher who has to do curriculum design, grade…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uox9uu/thank_you_anthropic_as_a_teacher_claude_cowork/",
+      "id": "6f137b9107c1",
+      "title": "Fable 5 found actual malware on my PC, and then its own safety filters flagged the warning.",
+      "summary": "I was doing some routine work and had Fable 5 checking the Run registry key for some test residue. Out of nowhere, it drops a massive warning about an &quot;unrelated security finding.&quot; It turns out Fable 5 found a hidden PowerShell…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upu3e2/fable_5_found_actual_malware_on_my_pc_and_then/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-06T13:24:15+00:00"
+      "published": "2026-07-07T12:48:05+00:00"
     },
     {
-      "id": "312c46cb56a2",
-      "title": "How is Anthropic ever going to make this profitable?",
-      "summary": "https://preview.redd.it/xnuokyd2nlbh1.png?width=952&format=png&auto=webp&s=973b446c7602c135ff272dee7e1e2473e15c2877 30d usage at API rates would have been just shy of $2500 but I'm paying $100 USD ish (exchange rate depending). If we are…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uovfb9/how_is_anthropic_ever_going_to_make_this/",
+      "id": "56b3b22b87d1",
+      "title": "Fable 5 Built a Deep Reasoning Machine.",
+      "summary": "I built THIS with Claudes Fable 5. It's a reasoning machine based on Karl Poppers epistemology. Repo Specs HERE Research Agenda HERE ----- DeepReason is a harness that makes an LLM argue with itself, on the record. You give it a hard open…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upqzun/fable_5_built_a_deep_reasoning_machine/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-06T12:05:56+00:00"
+      "published": "2026-07-07T10:23:13+00:00"
     },
     {
-      "id": "8a1aa9d479fe",
-      "title": "Friendly reminder what to fix before Fable 5 disappears again. Use it to upgrade your Claude Code system to work like Fable 5.",
-      "summary": "I’ve been playing around with Fable 5 in Claude Code and honestly, the biggest thing I’ve realized is this: Stop burning the whole window trying to ship one more random project. Instead, use this beast while you still have it to improve…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uou7ow/friendly_reminder_what_to_fix_before_fable_5/",
+      "id": "cc45321c58a7",
+      "title": "Curating a circle of heavy Claude Users to do biweekly knowledge sharing",
+      "summary": "Anyone interested? my bg: degree in computer engineering, worked in big tech, now running my own startup with a team of 3. heavy claude users: using claude cowork, claude code everyday Created 10+ skills I use daily for running my startup…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upklrx/curating_a_circle_of_heavy_claude_users_to_do/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-06T11:07:41+00:00"
+      "published": "2026-07-07T04:30:16+00:00"
     }
   ]
 }
