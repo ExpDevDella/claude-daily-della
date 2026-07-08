@@ -1,11 +1,11 @@
 {
-  "issue": 49,
-  "date": "2026-07-07",
-  "generated_at": "2026-07-07T11:26:31.163458-03:00",
+  "issue": 50,
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:57:05.974604-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
-      "title": "What’s at the center of Claude’s mind?",
+      "title": "The different levels of how Claude thinks",
       "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
       "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
       "source": "YouTube - Anthropic",
@@ -13,26 +13,6 @@
       "weight": 9,
       "published": "2026-07-06T16:59:51+00:00",
       "featured": true
-    },
-    {
-      "id": "9d62ac82355a",
-      "title": "Introducing Claude Fable 5",
-      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
-      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00"
-    },
-    {
-      "id": "2679786a73a7",
-      "title": "Translating Claude’s thoughts into language",
-      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
-      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-05-07T17:01:21+00:00"
     },
     {
       "id": "a09e2be02142",
@@ -65,14 +45,14 @@
       "published": "2026-07-06T17:15:03+00:00"
     },
     {
-      "id": "93582e814cd8",
-      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
-      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-04T23:03:24+00:00"
+      "id": "401eda866211",
+      "title": "Claude Fable 5 is free for 4 more days. Here is the full guide",
+      "summary": "Anthropic&#8217;s strongest model ever is included in paid plans until July 12. The best practices, the copy-paste prompts, and the two patterns that keep 90%+ of its power once the bill starts.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide-free-until-july-12-best-practices-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-08T08:50:15+00:00"
     },
     {
       "id": "8c20b6c9596b",
@@ -85,44 +65,64 @@
       "published": "2026-07-07T13:48:59+00:00"
     },
     {
-      "id": "0963e5caecd5",
-      "title": "What actually moves the needle with Claude",
-      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
-      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-27T16:47:00+00:00"
-    },
-    {
-      "id": "6f137b9107c1",
-      "title": "Fable 5 found actual malware on my PC, and then its own safety filters flagged the warning.",
-      "summary": "I was doing some routine work and had Fable 5 checking the Run registry key for some test residue. Out of nowhere, it drops a massive warning about an &quot;unrelated security finding.&quot; It turns out Fable 5 found a hidden PowerShell…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upu3e2/fable_5_found_actual_malware_on_my_pc_and_then/",
+      "id": "ced8b643508c",
+      "title": "How long after sex is it appropriate to open Claude code?",
+      "summary": "There you have it &#32; submitted by &#32; /u/Historical_Most_3749 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqr3vi/how_long_after_sex_is_it_appropriate_to_open/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-07T12:48:05+00:00"
+      "published": "2026-07-08T12:22:10+00:00"
     },
     {
-      "id": "56b3b22b87d1",
-      "title": "Fable 5 Built a Deep Reasoning Machine.",
-      "summary": "I built THIS with Claudes Fable 5. It's a reasoning machine based on Karl Poppers epistemology. Repo Specs HERE Research Agenda HERE ----- DeepReason is a harness that makes an LLM argue with itself, on the record. You give it a hard open…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upqzun/fable_5_built_a_deep_reasoning_machine/",
+      "id": "fb9741cf21ec",
+      "title": "Anthropic in 2028 be like...",
+      "summary": "&#32; submitted by &#32; /u/Ryoiki-Tokuiten [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqp70p/anthropic_in_2028_be_like/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-07T10:23:13+00:00"
+      "published": "2026-07-08T10:52:10+00:00"
     },
     {
-      "id": "cc45321c58a7",
-      "title": "Curating a circle of heavy Claude Users to do biweekly knowledge sharing",
-      "summary": "Anyone interested? my bg: degree in computer engineering, worked in big tech, now running my own startup with a team of 3. heavy claude users: using claude cowork, claude code everyday Created 10+ skills I use daily for running my startup…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upklrx/curating_a_circle_of_heavy_claude_users_to_do/",
+      "id": "72f7186ca856",
+      "title": "Anthropic silently enrolled my Claude Code install in an A/B experiment, overrode my settings, and updated the CLI even with auto-updates disabled",
+      "summary": "I'm a senior developer and I was finishing up a rush project for a client this evening. I use a custom launcher that wraps the native Claude launcher and injects several features Anthropic has removed or broken, including thinking…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqov49/anthropic_silently_enrolled_my_claude_code/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-07T04:30:16+00:00"
+      "published": "2026-07-08T10:35:06+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
