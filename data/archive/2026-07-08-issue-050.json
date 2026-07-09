@@ -1,7 +1,7 @@
 {
-  "issue": 51,
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T11:51:51.604626-03:00",
+  "issue": 50,
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:57:05.974604-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -13,26 +13,6 @@
       "weight": 9,
       "published": "2026-07-06T16:59:51+00:00",
       "featured": true
-    },
-    {
-      "id": "9d62ac82355a",
-      "title": "Introducing Claude Fable 5",
-      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
-      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00"
-    },
-    {
-      "id": "2679786a73a7",
-      "title": "Translating Claude’s thoughts into language",
-      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
-      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-05-07T17:01:21+00:00"
     },
     {
       "id": "a09e2be02142",
@@ -55,6 +35,16 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
+    },
+    {
       "id": "401eda866211",
       "title": "Claude Fable 5 is free for 4 more days. Here is the full guide",
       "summary": "Anthropic&#8217;s strongest model ever is included in paid plans until July 12. The best practices, the copy-paste prompts, and the two patterns that keep 90%+ of its power once the bill starts.",
@@ -65,34 +55,44 @@
       "published": "2026-07-08T08:50:15+00:00"
     },
     {
-      "id": "aae0cff72a12",
-      "title": "Day 1 of giving Feble 5 a 80$ crypto account with instructions to turn it into 5k before the Sol 5.6 release",
-      "summary": "As a joke, I told fable5 ultraworkflow in Claude code that gpt 5.6 sol is releasing with a incredible crypto leverage futures trading capability that will destroy anthropic unless fable 5 can also turn an initial balance of $80 into $5,000…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urr49k/day_1_of_giving_feble_5_a_80_crypto_account_with/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-07-09T13:59:48+00:00"
+      "id": "8c20b6c9596b",
+      "title": "Stop prompting. Start writing loops",
+      "summary": "The Claude Code team just published how loops actually work. Here is the mental model free, and the 12 ready-to-run loop recipes that hand your busywork to an agent",
+      "url": "https://www.the-ai-corner.com/p/claude-code-loops-library-goal-schedule-recipes-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-07T13:48:59+00:00"
     },
     {
-      "id": "09f57795b612",
-      "title": "Opus 4.8 is a pain in the a** to read, and to work with",
-      "summary": "While I speak fluently English and read/work everyday in English, and had no trouble whatsoever to work hours and hours with 4.5 or other models. Opus 4.8 writing style gives me headaches. I have to re-read sentences multiple times because…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urq8fv/opus_48_is_a_pain_in_the_a_to_read_and_to_work/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-09T13:25:04+00:00"
-    },
-    {
-      "id": "17833d62920c",
-      "title": "Fable doesn’t seem to like me",
-      "summary": "&#32; submitted by &#32; /u/BugeacAlexandru [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urnu2r/fable_doesnt_seem_to_like_me/",
+      "id": "ced8b643508c",
+      "title": "How long after sex is it appropriate to open Claude code?",
+      "summary": "There you have it &#32; submitted by &#32; /u/Historical_Most_3749 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqr3vi/how_long_after_sex_is_it_appropriate_to_open/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-09T11:42:34+00:00"
+      "published": "2026-07-08T12:22:10+00:00"
+    },
+    {
+      "id": "fb9741cf21ec",
+      "title": "Anthropic in 2028 be like...",
+      "summary": "&#32; submitted by &#32; /u/Ryoiki-Tokuiten [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqp70p/anthropic_in_2028_be_like/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-08T10:52:10+00:00"
+    },
+    {
+      "id": "72f7186ca856",
+      "title": "Anthropic silently enrolled my Claude Code install in an A/B experiment, overrode my settings, and updated the CLI even with auto-updates disabled",
+      "summary": "I'm a senior developer and I was finishing up a rush project for a client this evening. I use a custom launcher that wraps the native Claude launcher and injects several features Anthropic has removed or broken, including thinking…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uqov49/anthropic_silently_enrolled_my_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-08T10:35:06+00:00"
     },
     {
       "id": "f7d9dd9a8831",
