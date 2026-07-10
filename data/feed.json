@@ -1,7 +1,7 @@
 {
-  "issue": 51,
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T11:51:51.604626-03:00",
+  "issue": 52,
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:18:10.515886-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -55,74 +55,74 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "401eda866211",
-      "title": "Claude Fable 5 is free for 4 more days. Here is the full guide",
-      "summary": "Anthropic&#8217;s strongest model ever is included in paid plans until July 12. The best practices, the copy-paste prompts, and the two patterns that keep 90%+ of its power once the bill starts.",
-      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide-free-until-july-12-best-practices-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-08T08:50:15+00:00"
-    },
-    {
-      "id": "aae0cff72a12",
-      "title": "Day 1 of giving Feble 5 a 80$ crypto account with instructions to turn it into 5k before the Sol 5.6 release",
-      "summary": "As a joke, I told fable5 ultraworkflow in Claude code that gpt 5.6 sol is releasing with a incredible crypto leverage futures trading capability that will destroy anthropic unless fable 5 can also turn an initial balance of $80 into $5,000…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urr49k/day_1_of_giving_feble_5_a_80_crypto_account_with/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-07-09T13:59:48+00:00"
-    },
-    {
-      "id": "09f57795b612",
-      "title": "Opus 4.8 is a pain in the a** to read, and to work with",
-      "summary": "While I speak fluently English and read/work everyday in English, and had no trouble whatsoever to work hours and hours with 4.5 or other models. Opus 4.8 writing style gives me headaches. I have to re-read sentences multiple times because…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urq8fv/opus_48_is_a_pain_in_the_a_to_read_and_to_work/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-09T13:25:04+00:00"
-    },
-    {
-      "id": "17833d62920c",
-      "title": "Fable doesn’t seem to like me",
-      "summary": "&#32; submitted by &#32; /u/BugeacAlexandru [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1urnu2r/fable_doesnt_seem_to_like_me/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-09T11:42:34+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "id": "11fe8aedea0a",
+      "title": "I use Claude to analyse my Google Search Console data every week. 30K clicks in 3 months. Here's the exact workflow",
+      "summary": "I'm a non-technical solo founder. I run a marketplace where developers sell skills to freelancers and small businesses who use AI agents but struggle to get good output from them. I don't code. Claude does everything. 30.5K organic clicks.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uslx3q/i_use_claude_to_analyse_my_google_search_console/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-10T12:13:01+00:00"
     },
     {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
+      "id": "4c0249f58dd0",
+      "title": "Anthropic can't remove F@ble from the subscription tier",
+      "summary": "With Sol out in the open, removing F@ble 5 from the subscription tier now would be comparable to removing Opus 4.5 from subscriptions after it launched. It would be a difficult move to justify. I think we're probably safe here. It would…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1usl9ov/anthropic_cant_remove_fble_from_the_subscription/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-10T11:43:40+00:00"
+    },
+    {
+      "id": "36a2bdb2ef5c",
+      "title": "Claude has helped me in better understanding Stat/Prob/Calculus in my 40s than any of my school teachers ever could.",
+      "summary": "Started it in a project and instructed it to hint me and not solve for me. Prod me and push me. And I swear ive learnt concepts the way I never did. Mathematics has become a hobby for me now. &#32; submitted by &#32; /u/gobbledygook212…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ushqg3/claude_has_helped_me_in_better_understanding/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-10T08:34:04+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
