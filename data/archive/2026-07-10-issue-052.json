@@ -1,7 +1,7 @@
 {
-  "issue": 53,
-  "date": "2026-07-11",
-  "generated_at": "2026-07-11T10:12:00.451699-03:00",
+  "issue": 52,
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:18:10.515886-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -35,16 +35,6 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "c4674677ee7a",
-      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
-      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
-      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-11T00:00:00+00:00"
-    },
-    {
       "id": "a09e2be02142",
       "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
       "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
@@ -65,34 +55,44 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "cd6a49e3409f",
-      "title": "Dog was hit by a car, Claude helped me get info quite fast and made my day better in the end",
-      "summary": "Before anything else, my dog is fine. Poor guy was hit by a speeding car and went off flying, which was both our fault. He‘s relaxing at home now under watch. I did use a too strong modeI could have used a lower model but my brain was not…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uthdx9/dog_was_hit_by_a_car_claude_helped_me_get_info/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-11T11:18:32+00:00"
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
     },
     {
-      "id": "fa032c84a582",
-      "title": "Future perspectives on modern human practices according to Claude",
-      "summary": "&#32; submitted by &#32; /u/onion_man_4ever [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utb2ae/future_perspectives_on_modern_human_practices/",
+      "id": "11fe8aedea0a",
+      "title": "I use Claude to analyse my Google Search Console data every week. 30K clicks in 3 months. Here's the exact workflow",
+      "summary": "I'm a non-technical solo founder. I run a marketplace where developers sell skills to freelancers and small businesses who use AI agents but struggle to get good output from them. I don't code. Claude does everything. 30.5K organic clicks.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uslx3q/i_use_claude_to_analyse_my_google_search_console/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-11T05:18:41+00:00"
+      "published": "2026-07-10T12:13:01+00:00"
     },
     {
-      "id": "2f994d30f82e",
-      "title": "Why can't claude read reddit?",
-      "summary": "&#32; submitted by &#32; /u/BrownMtnLites [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utab6f/why_cant_claude_read_reddit/",
+      "id": "4c0249f58dd0",
+      "title": "Anthropic can't remove F@ble from the subscription tier",
+      "summary": "With Sol out in the open, removing F@ble 5 from the subscription tier now would be comparable to removing Opus 4.5 from subscriptions after it launched. It would be a difficult move to justify. I think we're probably safe here. It would…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1usl9ov/anthropic_cant_remove_fble_from_the_subscription/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-10T11:43:40+00:00"
+    },
+    {
+      "id": "36a2bdb2ef5c",
+      "title": "Claude has helped me in better understanding Stat/Prob/Calculus in my 40s than any of my school teachers ever could.",
+      "summary": "Started it in a project and instructed it to hint me and not solve for me. Prod me and push me. And I swear ive learnt concepts the way I never did. Mathematics has become a hobby for me now. &#32; submitted by &#32; /u/gobbledygook212…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ushqg3/claude_has_helped_me_in_better_understanding/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-11T04:39:18+00:00"
+      "published": "2026-07-10T08:34:04+00:00"
     },
     {
       "id": "400dba2965d1",
