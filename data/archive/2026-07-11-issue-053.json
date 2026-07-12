@@ -1,7 +1,7 @@
 {
-  "issue": 54,
-  "date": "2026-07-12",
-  "generated_at": "2026-07-12T10:13:23.565780-03:00",
+  "issue": 53,
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T10:12:00.451699-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,64 +65,64 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "b67144b24447",
-      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
-      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:03+00:00"
-    },
-    {
-      "id": "93582e814cd8",
-      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
-      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-04T23:03:24+00:00"
-    },
-    {
-      "id": "253ce1bf5f47",
-      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
-      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
-      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "id": "4d38e75b001d",
-      "title": "I'm paying $200/month, and after tomorrow, I can't access Anthropic's best model with my sub?",
-      "summary": "If Fable is more expensive to run, just make it consume tokens faster than Opus. Set whatever multiplier makes sense for your unit economics. I genuinely don't understand the current approach. From my perspective, giving us access seems…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-12T11:58:54+00:00"
-    },
-    {
-      "id": "7a306784db91",
-      "title": "i'm a high school teacher and Claude quietly gave me back the one thing i had none of, which was time to actually teach",
-      "summary": "i teach 11th grade english. 140 students. and the thing nobody outside teaching understands is that the teaching part is maybe a third of the job, and the other two thirds is a paperwork machine that grinds you down until you have nothing…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8y0/im_a_high_school_teacher_and_claude_quietly_gave/",
+      "id": "cd6a49e3409f",
+      "title": "Dog was hit by a car, Claude helped me get info quite fast and made my day better in the end",
+      "summary": "Before anything else, my dog is fine. Poor guy was hit by a speeding car and went off flying, which was both our fault. He‘s relaxing at home now under watch. I did use a too strong modeI could have used a lower model but my brain was not…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uthdx9/dog_was_hit_by_a_car_claude_helped_me_get_info/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-12T11:45:52+00:00"
+      "published": "2026-07-11T11:18:32+00:00"
     },
     {
-      "id": "8a44efd90a94",
-      "title": "New mode tomorrow from Anthropic(parody)",
-      "summary": "Yes I know ironic that I could only recreate this video because of the model still in max plan. This one took a few more prompts than the last just straight up recreation of old claude code's &quot;Agent View&quot; mode, which was more or…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8rd/new_mode_tomorrow_from_anthropicparody/",
+      "id": "fa032c84a582",
+      "title": "Future perspectives on modern human practices according to Claude",
+      "summary": "&#32; submitted by &#32; /u/onion_man_4ever [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utb2ae/future_perspectives_on_modern_human_practices/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-12T11:45:36+00:00"
+      "published": "2026-07-11T05:18:41+00:00"
+    },
+    {
+      "id": "2f994d30f82e",
+      "title": "Why can't claude read reddit?",
+      "summary": "&#32; submitted by &#32; /u/BrownMtnLites [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utab6f/why_cant_claude_read_reddit/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-11T04:39:18+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
