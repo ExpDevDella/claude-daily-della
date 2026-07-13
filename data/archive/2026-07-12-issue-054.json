@@ -1,7 +1,7 @@
 {
-  "issue": 55,
-  "date": "2026-07-13",
-  "generated_at": "2026-07-13T11:27:24.886281-03:00",
+  "issue": 54,
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T10:13:23.565780-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -75,6 +75,16 @@
       "published": "2026-07-06T17:15:03+00:00"
     },
     {
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
+    },
+    {
       "id": "253ce1bf5f47",
       "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
       "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
@@ -85,44 +95,34 @@
       "published": "2026-07-03T00:00:00+00:00"
     },
     {
-      "id": "a26395733033",
-      "title": "Honest question: What are you building that you need fable 5 so badly?",
-      "summary": "I don't mean to be mean or insulting, it is a genuine question and a ton of curiosity. A little background on why I am asking this. I code at home for my homelab, currently with about 4 servers (Pi, Mac Mini, router, and NAS) and my…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/",
+      "id": "4d38e75b001d",
+      "title": "I'm paying $200/month, and after tomorrow, I can't access Anthropic's best model with my sub?",
+      "summary": "If Fable is more expensive to run, just make it consume tokens faster than Opus. Set whatever multiplier makes sense for your unit economics. I genuinely don't understand the current approach. From my perspective, giving us access seems…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-12T11:58:54+00:00"
+    },
+    {
+      "id": "7a306784db91",
+      "title": "i'm a high school teacher and Claude quietly gave me back the one thing i had none of, which was time to actually teach",
+      "summary": "i teach 11th grade english. 140 students. and the thing nobody outside teaching understands is that the teaching part is maybe a third of the job, and the other two thirds is a paperwork machine that grinds you down until you have nothing…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8y0/im_a_high_school_teacher_and_claude_quietly_gave/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-13T09:50:13+00:00"
+      "published": "2026-07-12T11:45:52+00:00"
     },
     {
-      "id": "43d1fdf2afbd",
-      "title": "Visually appealing infographics",
-      "summary": "Has anyone here mastered nice infographics? I’ve tried Claude, ChatGPT and Copilot with ChatGPT. None were great. And I accept it’s my skill that’s lacking. It’s obviously about writing a good prompt and I have given Claude the steps and a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/",
+      "id": "8a44efd90a94",
+      "title": "New mode tomorrow from Anthropic(parody)",
+      "summary": "Yes I know ironic that I could only recreate this video because of the model still in max plan. This one took a few more prompts than the last just straight up recreation of old claude code's &quot;Agent View&quot; mode, which was more or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8rd/new_mode_tomorrow_from_anthropicparody/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-13T09:45:28+00:00"
-    },
-    {
-      "id": "65ade98d7c15",
-      "title": "Made a flight landing simulator weighing just 102 kilobytes with Claude",
-      "summary": "Try it here: gamestovibe.com/crosswind/ I tried pushing Claude to the limit by optimising and re-optimising my html flight simulator as much as I could. Took me a few days, mostly just to wait for the 5 hour limits to get refreshed. The…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv54e0/made_a_flight_landing_simulator_weighing_just_102/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-13T07:59:28+00:00"
-    },
-    {
-      "id": "36a019ff4334",
-      "title": "Add resource: Claude Overlay (#2216)",
-      "summary": "Add resource: Claude Overlay (#2216) Category: Alternative Clients Author: shengyanlin From issue: #2190 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/69d3b50df1d7d683697c7f1d79c44fcfccccf568",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-07-12T14:30:51+00:00"
+      "published": "2026-07-12T11:45:36+00:00"
     }
   ]
 }
