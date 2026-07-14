@@ -1,7 +1,7 @@
 {
-  "issue": 56,
-  "date": "2026-07-14",
-  "generated_at": "2026-07-14T10:27:41.225811-03:00",
+  "issue": 55,
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:27:24.886281-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -75,44 +75,44 @@
       "published": "2026-07-06T17:15:03+00:00"
     },
     {
-      "id": "0963e5caecd5",
-      "title": "What actually moves the needle with Claude",
-      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
-      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-06-27T16:47:00+00:00"
+      "id": "253ce1bf5f47",
+      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
+      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
+      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-03T00:00:00+00:00"
     },
     {
-      "id": "1dc12f68ba30",
-      "title": "When your toxic situationship tweets “available until July 19”",
-      "summary": "&#32; submitted by &#32; /u/No_Call3116 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
+      "id": "a26395733033",
+      "title": "Honest question: What are you building that you need fable 5 so badly?",
+      "summary": "I don't mean to be mean or insulting, it is a genuine question and a ton of curiosity. A little background on why I am asking this. I code at home for my homelab, currently with about 4 servers (Pi, Mac Mini, router, and NAS) and my…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-14T11:52:13+00:00"
+      "published": "2026-07-13T09:50:13+00:00"
     },
     {
-      "id": "c71229af1897",
-      "title": "Sol vs Fable creating a drum machine (UI only)",
-      "summary": "I decided to put GPT 5.6 Sol (Ultra) against Claude Fable (Max) as Sol is supposed to be so much better at design that GPT 5.5... The idea was to come up with several designs for a drum sequencer VST I'm building. Both started with the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw4fvt/sol_vs_fable_creating_a_drum_machine_ui_only/",
+      "id": "43d1fdf2afbd",
+      "title": "Visually appealing infographics",
+      "summary": "Has anyone here mastered nice infographics? I’ve tried Claude, ChatGPT and Copilot with ChatGPT. None were great. And I accept it’s my skill that’s lacking. It’s obviously about writing a good prompt and I have given Claude the steps and a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-13T09:45:28+00:00"
+    },
+    {
+      "id": "65ade98d7c15",
+      "title": "Made a flight landing simulator weighing just 102 kilobytes with Claude",
+      "summary": "Try it here: gamestovibe.com/crosswind/ I tried pushing Claude to the limit by optimising and re-optimising my html flight simulator as much as I could. Took me a few days, mostly just to wait for the 5 hour limits to get refreshed. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv54e0/made_a_flight_landing_simulator_weighing_just_102/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-14T10:08:23+00:00"
-    },
-    {
-      "id": "2692464515c1",
-      "title": "Why can I only buy $1,000,000 worth of tokens?",
-      "summary": "&#32; submitted by &#32; /u/relativelyrich [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-14T08:57:52+00:00"
+      "published": "2026-07-13T07:59:28+00:00"
     },
     {
       "id": "36a019ff4334",
