@@ -1,7 +1,7 @@
 {
-  "issue": 57,
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T10:37:56.131388-03:00",
+  "issue": 56,
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:27:41.225811-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,14 +65,14 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "8c20b6c9596b",
-      "title": "Stop prompting. Start writing loops",
-      "summary": "The Claude Code team just published how loops actually work. Here is the mental model free, and the 12 ready-to-run loop recipes that hand your busywork to an agent",
-      "url": "https://www.the-ai-corner.com/p/claude-code-loops-library-goal-schedule-recipes-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-07T13:48:59+00:00"
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
     },
     {
       "id": "0963e5caecd5",
@@ -85,44 +85,44 @@
       "published": "2026-06-27T16:47:00+00:00"
     },
     {
-      "id": "44b351fffef3",
-      "title": "I Used Claude to fix my biggest frustration with AI Agents",
-      "summary": "The thing that pisses me of most about agents is not memory or speed, its without doubt thinking your agent is doing the right thing, and then the next time you check, its done something super random, oh and then I have a bill for $30…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux2wtm/i_used_claude_to_fix_my_biggest_frustration_with/",
+      "id": "1dc12f68ba30",
+      "title": "When your toxic situationship tweets “available until July 19”",
+      "summary": "&#32; submitted by &#32; /u/No_Call3116 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-15T11:16:38+00:00"
+      "published": "2026-07-14T11:52:13+00:00"
     },
     {
-      "id": "9077942e1024",
-      "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
-      "summary": "I built this to settle an argument with a friend who thinks he can time the market. You get $10,000 and a random two-year window of real S&P 500 daily history (1928-2019). You don't know which years you're in. One button: buy or sell. Your…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
+      "id": "c71229af1897",
+      "title": "Sol vs Fable creating a drum machine (UI only)",
+      "summary": "I decided to put GPT 5.6 Sol (Ultra) against Claude Fable (Max) as Sol is supposed to be so much better at design that GPT 5.5... The idea was to come up with several designs for a drum sequencer VST I'm building. Both started with the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw4fvt/sol_vs_fable_creating_a_drum_machine_ui_only/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-15T10:27:08+00:00"
+      "published": "2026-07-14T10:08:23+00:00"
     },
     {
-      "id": "5b638ac9bf21",
-      "title": "Add resource: Vox director skill (#2263)",
-      "summary": "Add resource: Vox director skill (#2263) Category: Creative Media Author: Alisa Qian From issue: #2238 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2575d5360dc2fe8709b02221ee4223971500edf1",
+      "id": "2692464515c1",
+      "title": "Why can I only buy $1,000,000 worth of tokens?",
+      "summary": "&#32; submitted by &#32; /u/relativelyrich [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-14T08:57:52+00:00"
+    },
+    {
+      "id": "36a019ff4334",
+      "title": "Add resource: Claude Overlay (#2216)",
+      "summary": "Add resource: Claude Overlay (#2216) Category: Alternative Clients Author: shengyanlin From issue: #2190 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/69d3b50df1d7d683697c7f1d79c44fcfccccf568",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-15T08:09:10+00:00"
-    },
-    {
-      "id": "a12b7659d50e",
-      "title": "Has anyone gotten imposter syndrome from using Claude?",
-      "summary": "I think I’ve gotten to the point where now I have no clue how Claude is doing the work I want, it just is. I can barely keep up, but now I’m just doing tests and making further feedback to refine. I would have zero clue how to explain if I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwu1ng/has_anyone_gotten_imposter_syndrome_from_using/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-15T03:18:17+00:00"
+      "published": "2026-07-12T14:30:51+00:00"
     }
   ]
 }
