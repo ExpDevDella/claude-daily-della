@@ -1,0 +1,128 @@
+{
+  "issue": 57,
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:37:56.131388-03:00",
+  "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
+      "category": "Plugin",
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "8c20b6c9596b",
+      "title": "Stop prompting. Start writing loops",
+      "summary": "The Claude Code team just published how loops actually work. Here is the mental model free, and the 12 ready-to-run loop recipes that hand your busywork to an agent",
+      "url": "https://www.the-ai-corner.com/p/claude-code-loops-library-goal-schedule-recipes-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-07T13:48:59+00:00"
+    },
+    {
+      "id": "0963e5caecd5",
+      "title": "What actually moves the needle with Claude",
+      "summary": "The 10 habits that compound, the traps that only look productive, and where to spend your effort. With the copy-paste setup.",
+      "url": "https://www.the-ai-corner.com/p/what-moves-the-needle-with-claude-leverage-kit-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-06-27T16:47:00+00:00"
+    },
+    {
+      "id": "44b351fffef3",
+      "title": "I Used Claude to fix my biggest frustration with AI Agents",
+      "summary": "The thing that pisses me of most about agents is not memory or speed, its without doubt thinking your agent is doing the right thing, and then the next time you check, its done something super random, oh and then I have a bill for $30…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux2wtm/i_used_claude_to_fix_my_biggest_frustration_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-15T11:16:38+00:00"
+    },
+    {
+      "id": "9077942e1024",
+      "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
+      "summary": "I built this to settle an argument with a friend who thinks he can time the market. You get $10,000 and a random two-year window of real S&P 500 daily history (1928-2019). You don't know which years you're in. One button: buy or sell. Your…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-15T10:27:08+00:00"
+    },
+    {
+      "id": "5b638ac9bf21",
+      "title": "Add resource: Vox director skill (#2263)",
+      "summary": "Add resource: Vox director skill (#2263) Category: Creative Media Author: Alisa Qian From issue: #2238 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2575d5360dc2fe8709b02221ee4223971500edf1",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-15T08:09:10+00:00"
+    },
+    {
+      "id": "a12b7659d50e",
+      "title": "Has anyone gotten imposter syndrome from using Claude?",
+      "summary": "I think I’ve gotten to the point where now I have no clue how Claude is doing the work I want, it just is. I can barely keep up, but now I’m just doing tests and making further feedback to refine. I would have zero clue how to explain if I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwu1ng/has_anyone_gotten_imposter_syndrome_from_using/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-15T03:18:17+00:00"
+    }
+  ]
+}
