@@ -1,0 +1,128 @@
+{
+  "issue": 58,
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:43:38.893834-03:00",
+  "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "401eda866211",
+      "title": "Claude Fable 5 is free for 4 more days. Here is the full guide",
+      "summary": "Anthropic&#8217;s strongest model ever is included in paid plans until July 12. The best practices, the copy-paste prompts, and the two patterns that keep 90%+ of its power once the bill starts.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide-free-until-july-12-best-practices-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-08T08:50:15+00:00"
+    },
+    {
+      "id": "8c20b6c9596b",
+      "title": "Stop prompting. Start writing loops",
+      "summary": "The Claude Code team just published how loops actually work. Here is the mental model free, and the 12 ready-to-run loop recipes that hand your busywork to an agent",
+      "url": "https://www.the-ai-corner.com/p/claude-code-loops-library-goal-schedule-recipes-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-07T13:48:59+00:00"
+    },
+    {
+      "id": "dc1728a65703",
+      "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
+      "summary": "Try it: https://universeatlas.org (needs WebGPU: Chrome/Edge, Firefox on Windows, Safari on macOS/iOS 26) Source (MIT): https://github.com/chrisjz/universe Quick intro My background is general software engineering, with some hobby game dev…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-16T09:43:41+00:00"
+    },
+    {
+      "id": "cd0fa790a671",
+      "title": "20X Max plan gives you 1 hour a week of intensive f@ble",
+      "summary": "this is not an angry post or complaining or whatever, it is what it is i'm a big fan of anthropic's actual models, but their behaviour and performance and decisions around communicating things etc... is a bit strange to me anthropic…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxwzbu/20x_max_plan_gives_you_1_hour_a_week_of_intensive/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-16T08:36:26+00:00"
+    },
+    {
+      "id": "217b4a9bf30e",
+      "title": "Any reason to use claude co-work rather than just move to claude code?",
+      "summary": "I am a commercial person, and I've been using Claude Code quite extensively, but I noticed that Claude Code has more capabilities. For example, loading a repo and then having that context in the background: is there any reason for me to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxstye/any_reason_to_use_claude_cowork_rather_than_just/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-16T04:44:19+00:00"
+    },
+    {
+      "id": "5b638ac9bf21",
+      "title": "Add resource: Vox director skill (#2263)",
+      "summary": "Add resource: Vox director skill (#2263) Category: Creative Media Author: Alisa Qian From issue: #2238 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2575d5360dc2fe8709b02221ee4223971500edf1",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-15T08:09:10+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
