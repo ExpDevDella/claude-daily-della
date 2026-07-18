@@ -1,7 +1,7 @@
 {
-  "issue": 60,
-  "date": "2026-07-18",
-  "generated_at": "2026-07-18T10:07:11.634681-03:00",
+  "issue": 59,
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:21:27.494626-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,64 +65,64 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "d951ccf4b4a4",
-      "title": "“I’d gently push back on that”",
-      "summary": "Does anyone else get this constantly? It drives me up the wall. It doesn’t matter if you’ve explicitly asked for directness, Claude always seems to have this one phrase, “gently push back” whenever it disagrees, followed by three sentences…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzrb2b/id_gently_push_back_on_that/",
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
+    },
+    {
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
+    },
+    {
+      "id": "401eda866211",
+      "title": "Claude Fable 5 is free for 4 more days. Here is the full guide",
+      "summary": "Anthropic&#8217;s strongest model ever is included in paid plans until July 12. The best practices, the copy-paste prompts, and the two patterns that keep 90%+ of its power once the bill starts.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide-free-until-july-12-best-practices-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-08T08:50:15+00:00"
+    },
+    {
+      "id": "07b91c1d5e66",
+      "title": "I built an app with Claude Code that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.",
+      "summary": "I’m excited to share a project I’ve been building over the past few months, created entirely using Claude Code! It’s a mobile app that turns any text into high-quality audio. Whether it’s a webpage, a Substack or Medium article, a PDF, or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uyydpy/i_built_an_app_with_claude_code_that_converts_any/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-18T09:28:03+00:00"
+      "published": "2026-07-17T12:31:37+00:00"
     },
     {
-      "id": "2c4707b553e6",
-      "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
+      "id": "43ccf6796077",
+      "title": "Anyone else generating MIDI with Claude? Here’s what it produced when asked to compose a track for its own funeral",
+      "summary": "&#32; submitted by &#32; /u/cool_architect [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uywrg1/anyone_else_generating_midi_with_claude_heres/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-18T07:32:02+00:00"
+      "published": "2026-07-17T11:16:31+00:00"
     },
     {
-      "id": "2bca689a7dc3",
-      "title": "just got claude oss sponsorhip despite having 25 stars in my project",
-      "summary": "every single person i saw posting about getting in had thousands of stars and years of commits. my project has 25 stars. i almost didn't bother applying. so if you saw that 5,000 star requirement and closed the tab, go read section 2.2…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/",
+      "id": "0f2a7fa696d2",
+      "title": "Can we stop with the \"reset my limits\" posts?",
+      "summary": "​I get it, hitting a message limit mid-workflow is frustrating. But this sub is drowning in the exact same complaints: &quot;Give us the model for free,&quot; &quot;Reset my limits,&quot; or &quot;I'm leaving for OpenAI.&quot; ​Here is the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uytz1n/can_we_stop_with_the_reset_my_limits_posts/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-07-18T04:56:10+00:00"
-    },
-    {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "published": "2026-07-17T08:40:46+00:00"
     }
   ]
 }
