@@ -1,7 +1,7 @@
 {
-  "issue": 61,
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T10:11:26.234557-03:00",
+  "issue": 60,
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T10:07:11.634681-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -45,54 +45,54 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "66cc59caaa42",
-      "title": "Anthropic Raised $580M With No Product. Here Is the Deck",
-      "summary": "The safety-first pitch every AI founder copies now, and the ten slides that made it work in 2022",
-      "url": "https://www.the-ai-corner.com/p/anthropic-2022-pitch-deck-leaked-965-billion-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-18T17:28:23+00:00"
-    },
-    {
-      "id": "fd0a921d84ce",
-      "title": "asked fable 5 to make its own website pretty. now my claude has falling sakura petals and i cant go back",
-      "summary": "so this is a bit meta. i asked claude (fable 5) to help me restyle claude.ai itself and it just... did it. now cherry blossom petals drift down while im working and the default look feels like a hospital in comparison whole thing took one…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0pl6d/asked_fable_5_to_make_its_own_website_pretty_now/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-19T12:41:28+00:00"
-    },
-    {
-      "id": "1dc5eb4d9254",
-      "title": "Should I be using Claude Code desktop app instead of the VSCode extension?",
-      "summary": "Are they practically the same or am I missing out on stuff? &#32; submitted by &#32; /u/NiceFirmNeck [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mnwx/should_i_be_using_claude_code_desktop_app_instead/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
       "category": "Plugin",
-      "weight": 6,
-      "published": "2026-07-19T10:07:41+00:00"
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
     },
     {
-      "id": "7c97e9297e45",
-      "title": "What is anthropic's logic even for not keeping fable on pro but allowing it on max?",
-      "summary": "Just reduce the fable quota for pro if thats what you need to do??? We know that fable is roughly twice as expensive as opus. if it wasnt then they would simply price the api higher, theyve had more expensive models than fable before. so…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mmwm/what_is_anthropics_logic_even_for_not_keeping/",
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "d951ccf4b4a4",
+      "title": "“I’d gently push back on that”",
+      "summary": "Does anyone else get this constantly? It drives me up the wall. It doesn’t matter if you’ve explicitly asked for directness, Claude always seems to have this one phrase, “gently push back” whenever it disagrees, followed by three sentences…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzrb2b/id_gently_push_back_on_that/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-19T10:06:02+00:00"
+      "published": "2026-07-18T09:28:03+00:00"
     },
     {
-      "id": "2f071f504352",
-      "title": "feat: restore maintainer welcome-issue notification on resource merge",
-      "summary": "feat: restore maintainer welcome-issue notification on resource merge Reimplements the old notify-on-merge badge notifier for the current pipeline (the old one needed PyGithub + scripts.utils.*, removed in the redesign). Matches the real…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8830aaf6381b0c22ce25f20143707f6bd5b43c4b",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "2c4707b553e6",
+      "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+      "summary": "&#32; submitted by &#32; /u/EchoOfOppenheimer [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-19T06:58:42+00:00"
+      "published": "2026-07-18T07:32:02+00:00"
+    },
+    {
+      "id": "2bca689a7dc3",
+      "title": "just got claude oss sponsorhip despite having 25 stars in my project",
+      "summary": "every single person i saw posting about getting in had thousands of stars and years of commits. my project has 25 stars. i almost didn't bother applying. so if you saw that 5,000 star requirement and closed the tab, go read section 2.2…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-18T04:56:10+00:00"
     },
     {
       "id": "400dba2965d1",
