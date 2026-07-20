@@ -1,7 +1,7 @@
 {
-  "issue": 62,
-  "date": "2026-07-20",
-  "generated_at": "2026-07-20T10:59:30.496634-03:00",
+  "issue": 61,
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T10:11:26.234557-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -45,36 +45,6 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "a09e2be02142",
-      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
-      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
-      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
-      "source": "claudeai.dev Blog",
-      "category": "Plugin",
-      "weight": 8,
-      "published": "2026-07-07T00:00:00+00:00"
-    },
-    {
-      "id": "253ce1bf5f47",
-      "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
-      "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
-      "url": "https://claudeai.dev/blog/claude-sonnet-5-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "id": "677f89ee0cd6",
-      "title": "China just open-sourced Opus-level intelligence. Here is the playbook",
-      "summary": "Kimi K3 matches Claude Opus 4.8 on measured intelligence, wins entire categories outright, and ships its weights on July 27. The full guide: where it wins, where it lies, and the exact setup to run it",
-      "url": "https://www.the-ai-corner.com/p/kimi-k3-playbook-benchmarks-cost-setup-2026",
-      "source": "The AI Corner",
-      "category": "Novidade",
-      "weight": 7,
-      "published": "2026-07-19T18:00:30+00:00"
-    },
-    {
       "id": "66cc59caaa42",
       "title": "Anthropic Raised $580M With No Product. Here Is the Deck",
       "summary": "The safety-first pitch every AI founder copies now, and the ten slides that made it work in 2022",
@@ -85,34 +55,34 @@
       "published": "2026-07-18T17:28:23+00:00"
     },
     {
-      "id": "8cc69ffbb9d9",
-      "title": "I built a no-auth MCP server for 62,000 Japanese ramen shops — just ask Claude to find you ramen",
-      "summary": "I'm a network engineer in Tokyo who posts ramen photos on Reddit, so naturally I ended up building a nationwide ramen database and serving it over MCP. 62,000+ shops, all 47 prefectures No auth, no API key, no signup — add the endpoint and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1it21/i_built_a_noauth_mcp_server_for_62000_japanese/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
-      "weight": 6,
-      "published": "2026-07-20T11:27:45+00:00"
-    },
-    {
-      "id": "68300e23a15f",
-      "title": "anthropic nuked the pro plans on the app for some reason",
-      "summary": "Does anyone know what happened to the pro plans, i found my subcription was cancelled, and I didnt cancel it myself to find out that anthropic just removed the pro plans from the IOS store or was this some mistake by someone at anthropic.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1hiu8/anthropic_nuked_the_pro_plans_on_the_app_for_some/",
+      "id": "fd0a921d84ce",
+      "title": "asked fable 5 to make its own website pretty. now my claude has falling sakura petals and i cant go back",
+      "summary": "so this is a bit meta. i asked claude (fable 5) to help me restyle claude.ai itself and it just... did it. now cherry blossom petals drift down while im working and the default look feels like a hospital in comparison whole thing took one…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0pl6d/asked_fable_5_to_make_its_own_website_pretty_now/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-20T10:21:05+00:00"
+      "published": "2026-07-19T12:41:28+00:00"
     },
     {
-      "id": "7b9c01fe711c",
-      "title": "Creating virtual rooms that you can share with friends.",
-      "summary": "Hi guys. Been coding for about 10 years as a gamedev and 3 with distributed iot devices and about 6 months ago transitioned fully to agentic/vibe coding and in about 3 months I made this platform where you can do stuff with Claude Codes…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1hftg/creating_virtual_rooms_that_you_can_share_with/",
+      "id": "1dc5eb4d9254",
+      "title": "Should I be using Claude Code desktop app instead of the VSCode extension?",
+      "summary": "Are they practically the same or am I missing out on stuff? &#32; submitted by &#32; /u/NiceFirmNeck [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mnwx/should_i_be_using_claude_code_desktop_app_instead/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-20T10:16:18+00:00"
+      "published": "2026-07-19T10:07:41+00:00"
+    },
+    {
+      "id": "7c97e9297e45",
+      "title": "What is anthropic's logic even for not keeping fable on pro but allowing it on max?",
+      "summary": "Just reduce the fable quota for pro if thats what you need to do??? We know that fable is roughly twice as expensive as opus. if it wasnt then they would simply price the api higher, theyve had more expensive models than fable before. so…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mmwm/what_is_anthropics_logic_even_for_not_keeping/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-19T10:06:02+00:00"
     },
     {
       "id": "2f071f504352",
@@ -123,6 +93,36 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-07-19T06:58:42+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
