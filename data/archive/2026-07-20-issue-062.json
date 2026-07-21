@@ -1,7 +1,7 @@
 {
-  "issue": 63,
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T10:42:13.070456-03:00",
+  "issue": 62,
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:59:30.496634-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -55,16 +55,6 @@
       "published": "2026-07-07T00:00:00+00:00"
     },
     {
-      "id": "3f76e5d45184",
-      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
-      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:49+00:00"
-    },
-    {
       "id": "253ce1bf5f47",
       "title": "Claude Sonnet 5: The New Default Agent Model for Claude Code",
       "summary": "Claude Sonnet 5 is cheaper than Opus and more agentic than Sonnet 4.6, but teams migrating Claude Code workflows need to watch tokenizer changes, adaptive thinking, cyber safeguards, and cost.",
@@ -85,44 +75,54 @@
       "published": "2026-07-19T18:00:30+00:00"
     },
     {
-      "id": "9f6883bcd7f8",
-      "title": "I think we're going to forget how good we were at Googling.",
-      "summary": "This crossed my mind the other day. I used to know exactly how to search for things. Which keywords to use. Which sites to ignore. How to dig through forum posts. Now I catch myself opening Claude before I've even thought about what I'd…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2h9op/i_think_were_going_to_forget_how_good_we_were_at/",
+      "id": "66cc59caaa42",
+      "title": "Anthropic Raised $580M With No Product. Here Is the Deck",
+      "summary": "The safety-first pitch every AI founder copies now, and the ten slides that made it work in 2022",
+      "url": "https://www.the-ai-corner.com/p/anthropic-2022-pitch-deck-leaked-965-billion-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-18T17:28:23+00:00"
+    },
+    {
+      "id": "8cc69ffbb9d9",
+      "title": "I built a no-auth MCP server for 62,000 Japanese ramen shops — just ask Claude to find you ramen",
+      "summary": "I'm a network engineer in Tokyo who posts ramen photos on Reddit, so naturally I ended up building a nationwide ramen database and serving it over MCP. 62,000+ shops, all 47 prefectures No auth, no API key, no signup — add the endpoint and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1it21/i_built_a_noauth_mcp_server_for_62000_japanese/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-07-20T11:27:45+00:00"
+    },
+    {
+      "id": "68300e23a15f",
+      "title": "anthropic nuked the pro plans on the app for some reason",
+      "summary": "Does anyone know what happened to the pro plans, i found my subcription was cancelled, and I didnt cancel it myself to find out that anthropic just removed the pro plans from the IOS store or was this some mistake by someone at anthropic.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1hiu8/anthropic_nuked_the_pro_plans_on_the_app_for_some/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-21T12:39:15+00:00"
+      "published": "2026-07-20T10:21:05+00:00"
     },
     {
-      "id": "6306243ed574",
-      "title": "If you're not already using a CI pipeline with your larger Claude Code projects, switch ASAP.",
-      "summary": "For context: I've been a software engineer for 30 years and I have two Max accounts and blow through both of them each week. What started as a pet project has quickly grown to a pretty sophisticated SaaS product. As the complexity grew, I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v28snk/if_youre_not_already_using_a_ci_pipeline_with/",
+      "id": "7b9c01fe711c",
+      "title": "Creating virtual rooms that you can share with friends.",
+      "summary": "Hi guys. Been coding for about 10 years as a gamedev and 3 with distributed iot devices and about 6 months ago transitioned fully to agentic/vibe coding and in about 3 months I made this platform where you can do stuff with Claude Codes…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1hftg/creating_virtual_rooms_that_you_can_share_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-21T05:05:01+00:00"
+      "published": "2026-07-20T10:16:18+00:00"
     },
     {
-      "id": "e68f036d8a00",
-      "title": "Add resource: claude-replay (#2312)",
-      "summary": "Add resource: claude-replay (#2312) Category: Creative Media Author: es617 From issue: #2311 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/569b290f0f476db3364f365909fc868b02b4934e",
+      "id": "2f071f504352",
+      "title": "feat: restore maintainer welcome-issue notification on resource merge",
+      "summary": "feat: restore maintainer welcome-issue notification on resource merge Reimplements the old notify-on-merge badge notifier for the current pipeline (the old one needed PyGithub + scripts.utils.*, removed in the redesign). Matches the real…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8830aaf6381b0c22ce25f20143707f6bd5b43c4b",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-07-21T03:26:18+00:00"
-    },
-    {
-      "id": "5b953450dd3c",
-      "title": "Call me crazy.. I kind of like Opus 4.8",
-      "summary": "It's me. I'm the one that everyone will roll their eyes at. I just subscribed to pro (annual.. I know.. what a moron.. I'm a sucker for a discount) a few days ago. Why? Well.. I'd been an avid sonnet 4.6 users on free tier for a long time…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v26l6p/call_me_crazy_i_kind_of_like_opus_48/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-21T03:15:04+00:00"
+      "published": "2026-07-19T06:58:42+00:00"
     }
   ]
 }
