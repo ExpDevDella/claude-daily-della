@@ -1,7 +1,7 @@
 {
-  "issue": 65,
-  "date": "2026-07-23",
-  "generated_at": "2026-07-23T10:50:25.441594-03:00",
+  "issue": 64,
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:44:53.755011-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,64 +65,64 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "04c97fee7d5f",
-      "title": "i edited this video using fable 5",
-      "summary": "a few days ago i recorded a video. before editing it, i decided to try fable 5, and the results were pretty good. the video is just a bunch of clips stitched together, but what surprised me the most was how it handled all the extra…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4atkf/i_edited_this_video_using_fable_5/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-23T11:11:12+00:00"
-    },
-    {
-      "id": "cec726417942",
-      "title": "Claude Code just added native codebase security scanning",
-      "summary": "&#32; submitted by &#32; /u/davidavvv [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v48e9x/claude_code_just_added_native_codebase_security/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-23T09:01:26+00:00"
-    },
-    {
-      "id": "3af09c901e14",
-      "title": "Feature Request: Temporal awareness in long-running chats — timestamps per message block",
-      "summary": "TL;DR: Claude has no awareness of when messages were sent in a conversation. In long-running topic-specific chats (health tracking, trip planning, project work), this means month-old context gets treated as current — completed trips…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v43yty/feature_request_temporal_awareness_in_longrunning/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-23T04:56:14+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
       "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
     },
     {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "id": "69e8692c9149",
+      "title": "Anthropic Claims 50% usage boost that doesn't exist :)",
+      "summary": "https://preview.redd.it/x9n1yreklreh1.png?width=553&format=png&auto=webp&s=59e6494128541ff8558f31a826aedfb811257492 Remember this ? Well, Anthropic claims to still have the 50% extra usage boost. Welp nope, they deactivated it even though…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3d8iz/anthropic_claims_50_usage_boost_that_doesnt_exist/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-22T11:21:11+00:00"
+    },
+    {
+      "id": "4288d50a93c7",
+      "title": "Claude Fable 5 was strong in this 3D dashboard test, but I’m unsure about the cost tradeoff",
+      "summary": "The part I keep going back and forth on is whether I’m judging this too much by price. I was looking at AIHubMix’s model comparison and focused on the last test, where 4 models generated the same 3D global logistics dashboard from one…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3d87t/claude_fable_5_was_strong_in_this_3d_dashboard/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-22T11:20:46+00:00"
+    },
+    {
+      "id": "1d3b3d0dc242",
+      "title": "I built Frugal: a plugin that routes Claude Code work to the cheapest model that can do it",
+      "summary": "Most of what an agent does in a session is not reasoning. It is locating files, reading logs, pulling fields out of a doc, mechanical edits. Paying Opus/Fable rates for that is money on fire. Frugal is a Claude Code plugin that turns the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3b4pt/i_built_frugal_a_plugin_that_routes_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-22T09:30:48+00:00"
+    },
+    {
+      "id": "e68f036d8a00",
+      "title": "Add resource: claude-replay (#2312)",
+      "summary": "Add resource: claude-replay (#2312) Category: Creative Media Author: es617 From issue: #2311 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/569b290f0f476db3364f365909fc868b02b4934e",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-21T03:26:18+00:00"
     }
   ]
 }
