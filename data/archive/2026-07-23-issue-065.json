@@ -1,7 +1,7 @@
 {
-  "issue": 66,
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T10:37:31.795167-03:00",
+  "issue": 65,
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:50:25.441594-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -55,44 +55,44 @@
       "published": "2026-07-07T00:00:00+00:00"
     },
     {
-      "id": "293fc4df7214",
-      "title": "Yang Zhilin's Agent Playbook: 10 Bets Founders Should Steal",
-      "summary": "The Kimi K2 founder just explained why Claude's weak reasoning doesn't matter, why AGI has no finish line, and why running a company is reinforcement learning.",
-      "url": "https://www.the-ai-corner.com/p/yang-zhilin-kimi-agent-playbook-10-takeaways-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-23T14:21:02+00:00"
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "1f1be3353394",
-      "title": "Thought blocks gone on opus also",
-      "summary": "This can be filed under dissapointment number 1000 for the year. I can not read ai writing. Sonnet is like 4o fluffy, opus is insufferable. It's an AI problem not a claude problem - everyone's focused on coding and it seems like no real…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v56mcy/thought_blocks_gone_on_opus_also/",
+      "id": "04c97fee7d5f",
+      "title": "i edited this video using fable 5",
+      "summary": "a few days ago i recorded a video. before editing it, i decided to try fable 5, and the results were pretty good. the video is just a bunch of clips stitched together, but what surprised me the most was how it handled all the extra…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4atkf/i_edited_this_video_using_fable_5/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-24T09:38:46+00:00"
+      "published": "2026-07-23T11:11:12+00:00"
     },
     {
-      "id": "262990152835",
-      "title": "Claude isn't partially \"blind\" anymore",
+      "id": "cec726417942",
+      "title": "Claude Code just added native codebase security scanning",
       "summary": "&#32; submitted by &#32; /u/davidavvv [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55n08/claude_isnt_partially_blind_anymore/",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v48e9x/claude_code_just_added_native_codebase_security/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-24T08:42:32+00:00"
+      "published": "2026-07-23T09:01:26+00:00"
     },
     {
-      "id": "03e5fd08996d",
-      "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
-      "summary": "Wrote my alphabet in a notebook, dragged the photo into Claude Code, said &quot;make my font&quot;. Got a TTF I installed in Font Book. The skill drives a deterministic npm CLI (potrace + font assembly). Claude does what code can't: finds…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
+      "id": "3af09c901e14",
+      "title": "Feature Request: Temporal awareness in long-running chats — timestamps per message block",
+      "summary": "TL;DR: Claude has no awareness of when messages were sent in a conversation. In long-running topic-specific chats (health tracking, trip planning, project work), this means month-old context gets treated as current — completed trips…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v43yty/feature_request_temporal_awareness_in_longrunning/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-24T08:33:21+00:00"
+      "published": "2026-07-23T04:56:14+00:00"
     },
     {
       "id": "f7d9dd9a8831",
