@@ -1,7 +1,7 @@
 {
-  "issue": 67,
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T10:17:58.648494-03:00",
+  "issue": 66,
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:37:31.795167-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -35,16 +35,6 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
-    },
-    {
       "id": "c4674677ee7a",
       "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
       "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
@@ -65,26 +55,6 @@
       "published": "2026-07-07T00:00:00+00:00"
     },
     {
-      "id": "3f76e5d45184",
-      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
-      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:49+00:00"
-    },
-    {
-      "id": "5d1430b0677c",
-      "title": "Anthropic just cut the price of frontier intelligence in half",
-      "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
-      "url": "https://www.the-ai-corner.com/p/claude-opus-5-playbook-benchmarks-pricing-effort-dial-2026",
-      "source": "The AI Corner",
-      "category": "Novidade",
-      "weight": 7,
-      "published": "2026-07-24T18:48:34+00:00"
-    },
-    {
       "id": "293fc4df7214",
       "title": "Yang Zhilin's Agent Playbook: 10 Bets Founders Should Steal",
       "summary": "The Kimi K2 founder just explained why Claude's weak reasoning doesn't matter, why AGI has no finish line, and why running a company is reinforcement learning.",
@@ -95,34 +65,64 @@
       "published": "2026-07-23T14:21:02+00:00"
     },
     {
-      "id": "303468922f4e",
-      "title": "Anthropic cut 80% of Claude Code's system prompt for Opus 5 vs Fable 5",
-      "summary": "Anthropic just confirmed they trimmed Claude Code's system prompt by over 80%, from roughly 800 tokens down to 164, specifically for Opus 5 and Fable 5. The reasoning from their engineer is simple. Newer models don't need the prompt to…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v649j8/anthropic_cut_80_of_claude_codes_system_prompt/",
+      "id": "1f1be3353394",
+      "title": "Thought blocks gone on opus also",
+      "summary": "This can be filed under dissapointment number 1000 for the year. I can not read ai writing. Sonnet is like 4o fluffy, opus is insufferable. It's an AI problem not a claude problem - everyone's focused on coding and it seems like no real…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v56mcy/thought_blocks_gone_on_opus_also/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-25T10:03:25+00:00"
+      "published": "2026-07-24T09:38:46+00:00"
     },
     {
-      "id": "ff008e6e56a8",
-      "title": "From Kimi K3 to Claude Opus 5",
-      "summary": "&#32; submitted by &#32; /u/Low_Brilliant_2597 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6224v/from_kimi_k3_to_claude_opus_5/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-25T07:58:17+00:00"
-    },
-    {
-      "id": "44d1356fb734",
-      "title": "Passed the CCAR-F with 904/1000!",
-      "summary": "I just passed the Claude Certified Architect - Foundations (CCAR-F) exam with a score of 904/1000, following my CCAO-F certification. For preparation, I took the official Prep course and also relied a lot on my day-to-day experience…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5zrru/passed_the_ccarf_with_9041000/",
+      "id": "262990152835",
+      "title": "Claude isn't partially \"blind\" anymore",
+      "summary": "&#32; submitted by &#32; /u/davidavvv [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55n08/claude_isnt_partially_blind_anymore/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-25T05:54:18+00:00"
+      "published": "2026-07-24T08:42:32+00:00"
+    },
+    {
+      "id": "03e5fd08996d",
+      "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
+      "summary": "Wrote my alphabet in a notebook, dragged the photo into Claude Code, said &quot;make my font&quot;. Got a TTF I installed in Font Book. The skill drives a deterministic npm CLI (potrace + font assembly). Claude does what code can't: finds…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-24T08:33:21+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
