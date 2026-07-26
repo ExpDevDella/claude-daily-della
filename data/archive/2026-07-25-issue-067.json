@@ -1,7 +1,7 @@
 {
-  "issue": 68,
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T10:13:57.409108-03:00",
+  "issue": 67,
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T10:17:58.648494-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -75,16 +75,6 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "b67144b24447",
-      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
-      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:03+00:00"
-    },
-    {
       "id": "5d1430b0677c",
       "title": "Anthropic just cut the price of frontier intelligence in half",
       "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
@@ -95,34 +85,44 @@
       "published": "2026-07-24T18:48:34+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "293fc4df7214",
+      "title": "Yang Zhilin's Agent Playbook: 10 Bets Founders Should Steal",
+      "summary": "The Kimi K2 founder just explained why Claude's weak reasoning doesn't matter, why AGI has no finish line, and why running a company is reinforcement learning.",
+      "url": "https://www.the-ai-corner.com/p/yang-zhilin-kimi-agent-playbook-10-takeaways-2026",
+      "source": "The AI Corner",
       "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
+      "weight": 7,
+      "published": "2026-07-23T14:21:02+00:00"
     },
     {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
+      "id": "303468922f4e",
+      "title": "Anthropic cut 80% of Claude Code's system prompt for Opus 5 vs Fable 5",
+      "summary": "Anthropic just confirmed they trimmed Claude Code's system prompt by over 80%, from roughly 800 tokens down to 164, specifically for Opus 5 and Fable 5. The reasoning from their engineer is simple. Newer models don't need the prompt to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v649j8/anthropic_cut_80_of_claude_codes_system_prompt/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-25T10:03:25+00:00"
     },
     {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "ff008e6e56a8",
+      "title": "From Kimi K3 to Claude Opus 5",
+      "summary": "&#32; submitted by &#32; /u/Low_Brilliant_2597 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6224v/from_kimi_k3_to_claude_opus_5/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-25T07:58:17+00:00"
+    },
+    {
+      "id": "44d1356fb734",
+      "title": "Passed the CCAR-F with 904/1000!",
+      "summary": "I just passed the Claude Certified Architect - Foundations (CCAR-F) exam with a score of 904/1000, following my CCAO-F certification. For preparation, I took the official Prep course and also relied a lot on my day-to-day experience…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5zrru/passed_the_ccarf_with_9041000/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "weight": 6,
+      "published": "2026-07-25T05:54:18+00:00"
     }
   ]
 }
