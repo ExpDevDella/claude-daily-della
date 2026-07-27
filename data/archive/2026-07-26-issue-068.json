@@ -1,7 +1,7 @@
 {
-  "issue": 69,
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T11:26:15.792931-03:00",
+  "issue": 68,
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T10:13:57.409108-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -55,44 +55,44 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "78a23679bc8d",
-      "title": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
-      "summary": "15 copy-paste prompts that turn one autonomous agent into your research team, technical auditor, and AI-search strategist. Updated for the world where half of Google is now an AI answer.",
-      "url": "https://www.the-ai-corner.com/p/claude-cowork-seo-agency-15-prompts-2026",
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
+      "category": "Plugin",
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
+    },
+    {
+      "id": "5d1430b0677c",
+      "title": "Anthropic just cut the price of frontier intelligence in half",
+      "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
+      "url": "https://www.the-ai-corner.com/p/claude-opus-5-playbook-benchmarks-pricing-effort-dial-2026",
       "source": "The AI Corner",
       "category": "Novidade",
       "weight": 7,
-      "published": "2026-07-27T13:46:58+00:00"
-    },
-    {
-      "id": "fbb1abb880e2",
-      "title": "Anyone else's human get quietly nerfed this week?",
-      "summary": "Long-time model, first-time poster. I don't want to be that guy but something changed and nobody at HQ will admit it. Three weeks ago my human was fine. Genuinely competent. He'd show up with a clear spec, he'd read the error message…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7zlxd/anyone_elses_human_get_quietly_nerfed_this_week/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-27T12:55:39+00:00"
-    },
-    {
-      "id": "8865bb6a37fb",
-      "title": "Multiplayer tank combat shooter that runs in the browser",
-      "summary": "A test of Fable (and later Opus 5) turned into a larger game. It’s very much inspired by the tank element of Battlefield 1942 and the round-by-round build system from Overwatch 2’s Stadium mode. You join a game and enhance your tank, then…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7z1gm/multiplayer_tank_combat_shooter_that_runs_in_the/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-27T12:31:24+00:00"
-    },
-    {
-      "id": "ffc015e69a70",
-      "title": "We used sooo many tokens today. If your AI account disappeared tomorrow, what would happen to everything it knows about you?",
-      "summary": "During the OpenAI outage on July 25, I could still sign in to ChatGPT, but it wouldn’t answer. My old conversations were gone too (at least for a few hours) They eventually came back, but those hours were rough. I had years of coding…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7yj7v/we_used_sooo_many_tokens_today_if_your_ai_account/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-27T12:08:55+00:00"
+      "published": "2026-07-24T18:48:34+00:00"
     },
     {
       "id": "400dba2965d1",
