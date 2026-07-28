@@ -1,7 +1,7 @@
 {
-  "issue": 69,
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T11:26:15.792931-03:00",
+  "issue": 70,
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:58:50.036376-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -55,6 +55,36 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
+      "category": "Plugin",
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "b67144b24447",
+      "title": "fix(filesystem): return valid MCP content type from read_media_file (…",
+      "summary": "fix(filesystem): return valid MCP content type from read_media_file (#4029) (#4479) * fix(filesystem): return valid MCP content type from read_media_file (#4029) read_media_file returned a content block with type: &quot;blob&quot; for…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/97b70ee25209382fb6a859527dbb5f4cf36eb318",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:03+00:00"
+    },
+    {
       "id": "78a23679bc8d",
       "title": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
       "summary": "15 copy-paste prompts that turn one autonomous agent into your research team, technical auditor, and AI-search strategist. Updated for the world where half of Google is now an AI answer.",
@@ -65,64 +95,34 @@
       "published": "2026-07-27T13:46:58+00:00"
     },
     {
-      "id": "fbb1abb880e2",
-      "title": "Anyone else's human get quietly nerfed this week?",
-      "summary": "Long-time model, first-time poster. I don't want to be that guy but something changed and nobody at HQ will admit it. Three weeks ago my human was fine. Genuinely competent. He'd show up with a clear spec, he'd read the error message…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7zlxd/anyone_elses_human_get_quietly_nerfed_this_week/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-07-27T12:55:39+00:00"
-    },
-    {
-      "id": "8865bb6a37fb",
-      "title": "Multiplayer tank combat shooter that runs in the browser",
-      "summary": "A test of Fable (and later Opus 5) turned into a larger game. It’s very much inspired by the tank element of Battlefield 1942 and the round-by-round build system from Overwatch 2’s Stadium mode. You join a game and enhance your tank, then…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7z1gm/multiplayer_tank_combat_shooter_that_runs_in_the/",
+      "id": "9ee04a032184",
+      "title": "Used claude to replay over 4000 users that played my daily racing game yesterday at the same time",
+      "summary": "This is my daily racing game called Swervle, it's a new randomly generated map everyday for people to race. Yesterday was the biggest day yet with 4,300 recorded runs. My current system couldn't handle it and I was getting out-of-memory…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8xmqa/used_claude_to_replay_over_4000_users_that_played/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-07-27T12:31:24+00:00"
+      "published": "2026-07-28T12:52:51+00:00"
     },
     {
-      "id": "ffc015e69a70",
-      "title": "We used sooo many tokens today. If your AI account disappeared tomorrow, what would happen to everything it knows about you?",
-      "summary": "During the OpenAI outage on July 25, I could still sign in to ChatGPT, but it wouldn’t answer. My old conversations were gone too (at least for a few hours) They eventually came back, but those hours were rough. I had years of coding…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7yj7v/we_used_sooo_many_tokens_today_if_your_ai_account/",
+      "id": "9c0afe4b6b48",
+      "title": "Hilarious answer, but how to get Claude to obey instructions?",
+      "summary": "He just decides to not follow instructions. I asked him further why he did not follow the non-negotiable rule; he said for no specific reason. Edit: I currently, according to Claude and forums, cannot add a Folder to my Project due to a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8tx83/hilarious_answer_but_how_to_get_claude_to_obey/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-27T12:08:55+00:00"
+      "published": "2026-07-28T10:04:29+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "id": "639f55becfac",
+      "title": "claude spawned 116 subagents to review a simple candy store website. 🤦‍♂️ wth Claude",
+      "summary": "100% of all my credits on the first night I purchased the pro plan gone, what’s funny is I took some caffeine and b12 and put the lock in playlist just to play one video & be out of usage for the next 5 hours, whole lock in phase tonight .…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8r8kw/claude_spawned_116_subagents_to_review_a_simple/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-28T07:35:02+00:00"
     }
   ]
 }
