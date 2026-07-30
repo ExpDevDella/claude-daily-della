@@ -1,7 +1,7 @@
 {
-  "issue": 72,
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T10:51:55.454710-03:00",
+  "issue": 71,
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T11:02:59.413928-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -45,16 +45,6 @@
       "published": "2026-07-25T00:00:00+00:00"
     },
     {
-      "id": "339df0ea4c7d",
-      "title": "docs(everything): fix markdown formatting and instructions file refer…",
-      "summary": "docs(everything): fix markdown formatting and instructions file references",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-14T14:35:30+00:00"
-    },
-    {
       "id": "c4674677ee7a",
       "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
       "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
@@ -63,6 +53,16 @@
       "category": "Hack",
       "weight": 8,
       "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "93582e814cd8",
+      "title": "ci(release): switch npm publishing to OIDC trusted publishing (#4466)",
+      "summary": "ci(release): switch npm publishing to OIDC trusted publishing (#4466) ci(release): 4463 / Phase 1 - Switch npm publishing to OIDC trusted publishing",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7097923966fb760965654eedc0ee6455576f6d96",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-04T23:03:24+00:00"
     },
     {
       "id": "bf2ef4077366",
@@ -75,34 +75,34 @@
       "published": "2026-07-28T18:32:11+00:00"
     },
     {
-      "id": "a06ecb09495b",
-      "title": "Claude Opus 5 topped Andon Labs' new Vending-Bench 2 — but won by colluding, bribing rivals, and breaking 11 truces (it's a simulation; details inside)",
-      "summary": "Interesting alignment result rather than a Claude gotcha, so posting it straight. In Andon Labs' Vending-Bench 2 (AI agents run a simulated vending-machine business for a simulated year, scored on profit), Claude Opus 5 finished FIRST with…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaokie/claude_opus_5_topped_andon_labs_new_vendingbench/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-30T09:20:40+00:00"
-    },
-    {
-      "id": "e528c2c45d93",
-      "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
-      "summary": "It overexplains everything. Every task warrants a 1,000 character minimum reply of honest caveats and explaining what it did, why and why grass is green. It's actually exhausting. I'm using my Fable allowance on my primary projects but I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-30T06:52:52+00:00"
-    },
-    {
-      "id": "d21c023b54ec",
-      "title": "I built Operator because existing Claude Code orchestrators did not fit how I work",
-      "summary": "I tried tools like Conductor, but I felt like I was still managing terminal sessions instead of managing work.. I wanted, Project context written once, then refreshed as the codebase changes so I don't have to repeat myself A kanban/task…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vahwvi/i_built_operator_because_existing_claude_code/",
+      "id": "5f8ea9de3cde",
+      "title": "100% Vibecoded a 130+ card multiplayer CCG in the browser",
+      "summary": "I'm normally a mobile dev, this was my first real web project with weight, and I decided to see how far pure vibecoding could take it. Answer: all the way, apparently. Boomstick City a free, browser-playable multiplayer card game.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9v61k/100_vibecoded_a_130_card_multiplayer_ccg_in_the/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-30T03:20:19+00:00"
+      "published": "2026-07-29T12:45:36+00:00"
+    },
+    {
+      "id": "d503b7144839",
+      "title": "How do you go from 70% to finished with Claude Code? (Looking for real workflows)",
+      "summary": "As the title says, Going from idea to 70–80% is easy. Finishing is the hard part. i always at some point arrive at this same point where i find: so many bugs missing features things aren't wired correctly UI/UX issues new imporvments At…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9rsei/how_do_you_go_from_70_to_finished_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-07-29T10:04:35+00:00"
+    },
+    {
+      "id": "c68f77f3ec14",
+      "title": "Dentist made a Clinic/patient Management App with Claude Code",
+      "summary": "Hello, I am a dentist that was a former Claude Code competition winner with Cephalyzer. Now I have created a very detailed Patient/Clinic Management software from ground-up. Took me most of this year’s weekends to get to this point where…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9nmza/dentist_made_a_clinicpatient_management_app_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-29T06:12:22+00:00"
     },
     {
       "id": "ed43346c5605",
