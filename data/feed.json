@@ -1,7 +1,7 @@
 {
-  "issue": 72,
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T10:51:55.454710-03:00",
+  "issue": 73,
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:58:09.725121-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,64 +65,64 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "bf2ef4077366",
-      "title": "Everything You Need to Know to Master Claude's Fable 5",
-      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
-      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-28T18:32:11+00:00"
-    },
-    {
-      "id": "a06ecb09495b",
-      "title": "Claude Opus 5 topped Andon Labs' new Vending-Bench 2 — but won by colluding, bribing rivals, and breaking 11 truces (it's a simulation; details inside)",
-      "summary": "Interesting alignment result rather than a Claude gotcha, so posting it straight. In Andon Labs' Vending-Bench 2 (AI agents run a simulated vending-machine business for a simulated year, scored on profit), Claude Opus 5 finished FIRST with…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaokie/claude_opus_5_topped_andon_labs_new_vendingbench/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-30T09:20:40+00:00"
-    },
-    {
-      "id": "e528c2c45d93",
-      "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
-      "summary": "It overexplains everything. Every task warrants a 1,000 character minimum reply of honest caveats and explaining what it did, why and why grass is green. It's actually exhausting. I'm using my Fable allowance on my primary projects but I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-07-30T06:52:52+00:00"
-    },
-    {
-      "id": "d21c023b54ec",
-      "title": "I built Operator because existing Claude Code orchestrators did not fit how I work",
-      "summary": "I tried tools like Conductor, but I felt like I was still managing terminal sessions instead of managing work.. I wanted, Project context written once, then refreshed as the codebase changes so I don't have to repeat myself A kanban/task…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vahwvi/i_built_operator_because_existing_claude_code/",
+      "id": "bfd9fe253938",
+      "title": "Claude, ADHD, and Discipline aka Claude rubbing off",
+      "summary": "I'm a classic ADHD chaotic type. A thousand ideas, a thousand possibilities, a thousand projects, and a thousand &quot;would this happen- this could this be done-approaches&quot;. And I work with Claude... in an ultra-chaotic work…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vblszg/claude_adhd_and_discipline_aka_claude_rubbing_off/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-07-30T03:20:19+00:00"
+      "published": "2026-07-31T09:15:27+00:00"
     },
     {
-      "id": "ed43346c5605",
-      "title": "Add resource: Caveman (#2347)",
-      "summary": "Add resource: Caveman (#2347) Category: Skills Author: Julius Brussee From issue: #2346 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt; Co-authored-by: Really Him &lt;git-dev@hesreallyhim.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/665c5747a41ee17b46b2bf1227001d46dc0851a9",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "33f93d501bc6",
+      "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
+      "summary": "Simple habit, not a framework, nothing behind it. Before I accept a chunk of work, I ask two things. First: &quot;What are you least confident about in what you just did?&quot; It usually lists a few things it glossed over. Maybe one in…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-29T00:02:59+00:00"
+      "published": "2026-07-31T08:13:39+00:00"
     },
     {
-      "id": "3d9d918a3c26",
-      "title": "Add resource: My Claude Code Setup (#2344)",
-      "summary": "Add resource: My Claude Code Setup (#2344) Category: Research & Scientific Inquiry Author: Pedro H. C. Sant'Anna From issue: #2343 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2a34a8a56156a9d93d39b62056d942e36edd568",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "951c4d753501",
+      "title": "I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯",
+      "summary": "It runs nicely in the browser: https://aifnet-public.b-cdn.net/games/worms.html Idea is based on Matt Shumer Gauntlet Loop The loop: &quot; I want you to build a Worms Armageddon look alike game at the level of the most recent Worms…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-07-28T18:26:14+00:00"
+      "published": "2026-07-31T07:19:13+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }

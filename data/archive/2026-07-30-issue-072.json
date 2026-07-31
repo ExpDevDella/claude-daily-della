@@ -1,0 +1,128 @@
+{
+  "issue": 72,
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:51:55.454710-03:00",
+  "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "339df0ea4c7d",
+      "title": "docs(everything): fix markdown formatting and instructions file refer…",
+      "summary": "docs(everything): fix markdown formatting and instructions file references",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-14T14:35:30+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "bf2ef4077366",
+      "title": "Everything You Need to Know to Master Claude's Fable 5",
+      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-07-28T18:32:11+00:00"
+    },
+    {
+      "id": "a06ecb09495b",
+      "title": "Claude Opus 5 topped Andon Labs' new Vending-Bench 2 — but won by colluding, bribing rivals, and breaking 11 truces (it's a simulation; details inside)",
+      "summary": "Interesting alignment result rather than a Claude gotcha, so posting it straight. In Andon Labs' Vending-Bench 2 (AI agents run a simulated vending-machine business for a simulated year, scored on profit), Claude Opus 5 finished FIRST with…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaokie/claude_opus_5_topped_andon_labs_new_vendingbench/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-30T09:20:40+00:00"
+    },
+    {
+      "id": "e528c2c45d93",
+      "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
+      "summary": "It overexplains everything. Every task warrants a 1,000 character minimum reply of honest caveats and explaining what it did, why and why grass is green. It's actually exhausting. I'm using my Fable allowance on my primary projects but I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-07-30T06:52:52+00:00"
+    },
+    {
+      "id": "d21c023b54ec",
+      "title": "I built Operator because existing Claude Code orchestrators did not fit how I work",
+      "summary": "I tried tools like Conductor, but I felt like I was still managing terminal sessions instead of managing work.. I wanted, Project context written once, then refreshed as the codebase changes so I don't have to repeat myself A kanban/task…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vahwvi/i_built_operator_because_existing_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-30T03:20:19+00:00"
+    },
+    {
+      "id": "ed43346c5605",
+      "title": "Add resource: Caveman (#2347)",
+      "summary": "Add resource: Caveman (#2347) Category: Skills Author: Julius Brussee From issue: #2346 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt; Co-authored-by: Really Him &lt;git-dev@hesreallyhim.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/665c5747a41ee17b46b2bf1227001d46dc0851a9",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-29T00:02:59+00:00"
+    },
+    {
+      "id": "3d9d918a3c26",
+      "title": "Add resource: My Claude Code Setup (#2344)",
+      "summary": "Add resource: My Claude Code Setup (#2344) Category: Research & Scientific Inquiry Author: Pedro H. C. Sant'Anna From issue: #2343 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2a34a8a56156a9d93d39b62056d942e36edd568",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-07-28T18:26:14+00:00"
+    }
+  ]
+}
