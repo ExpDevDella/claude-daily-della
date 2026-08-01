@@ -1,7 +1,7 @@
 {
-  "issue": 74,
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01T10:12:56.232152-03:00",
+  "issue": 73,
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:58:09.725121-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -65,64 +65,64 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "a09e2be02142",
-      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
-      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
-      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
-      "source": "claudeai.dev Blog",
-      "category": "Plugin",
-      "weight": 8,
-      "published": "2026-07-07T00:00:00+00:00"
+      "id": "bfd9fe253938",
+      "title": "Claude, ADHD, and Discipline aka Claude rubbing off",
+      "summary": "I'm a classic ADHD chaotic type. A thousand ideas, a thousand possibilities, a thousand projects, and a thousand &quot;would this happen- this could this be done-approaches&quot;. And I work with Claude... in an ultra-chaotic work…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vblszg/claude_adhd_and_discipline_aka_claude_rubbing_off/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-31T09:15:27+00:00"
     },
     {
-      "id": "3f76e5d45184",
-      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
-      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
-      "source": "GitHub - Anthropic MCP Servers",
+      "id": "33f93d501bc6",
+      "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
+      "summary": "Simple habit, not a framework, nothing behind it. Before I accept a chunk of work, I ask two things. First: &quot;What are you least confident about in what you just did?&quot; It usually lists a few things it glossed over. Maybe one in…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-31T08:13:39+00:00"
+    },
+    {
+      "id": "951c4d753501",
+      "title": "I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯",
+      "summary": "It runs nicely in the browser: https://aifnet-public.b-cdn.net/games/worms.html Idea is based on Matt Shumer Gauntlet Loop The loop: &quot; I want you to build a Worms Armageddon look alike game at the level of the most recent Worms…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-07-31T07:19:13+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
       "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:49+00:00"
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
     },
     {
-      "id": "bf2ef4077366",
-      "title": "Everything You Need to Know to Master Claude's Fable 5",
-      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
-      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-28T18:32:11+00:00"
-    },
-    {
-      "id": "06ebea3e1c5f",
-      "title": "10 months building a UE5 RTS as a solo 3D artist non coder (c++)",
-      "summary": "​I’m a 3D artist (high-to-low poly modeling), not a programmer. But over the last 10 months, I’ve used Claude to solo-develop a large-scale ancient warfare RTS called Koryos: Sons of Mars in Unreal Engine 5. I just launched my first…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vck1bu/10_months_building_a_ue5_rts_as_a_solo_3d_artist/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-01T10:43:06+00:00"
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     },
     {
-      "id": "47f5b685d9c6",
-      "title": "Al isn't replacing jobs, it's replacing human economic value itself",
-      "summary": "The biggest mistake people make about AI is thinking it’s coming for artists, writers, musicians, or programmers. They’re just first. AI is coming for almost every profession that depends more on a brain than a body. Accountants. Lawyers.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vchn01/al_isnt_replacing_jobs_its_replacing_human/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-01T08:24:38+00:00"
-    },
-    {
-      "id": "9fbc889090c0",
-      "title": "I don't see the tech sector surviving this timeline",
-      "summary": "I'm already doing like 95% of my work through Claude Code while being at least 10x as productive as have I been before AI while producing way less errors. Especially the newer models for the most part just know what to do and more often…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcg25v/i_dont_see_the_tech_sector_surviving_this_timeline/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-01T06:54:33+00:00"
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
