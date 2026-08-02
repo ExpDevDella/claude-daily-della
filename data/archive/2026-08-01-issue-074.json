@@ -1,7 +1,7 @@
 {
-  "issue": 75,
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T10:14:11.319506-03:00",
+  "issue": 74,
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T10:12:56.232152-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -85,44 +85,44 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "5d1430b0677c",
-      "title": "Anthropic just cut the price of frontier intelligence in half",
-      "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
-      "url": "https://www.the-ai-corner.com/p/claude-opus-5-playbook-benchmarks-pricing-effort-dial-2026",
+      "id": "bf2ef4077366",
+      "title": "Everything You Need to Know to Master Claude's Fable 5",
+      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
       "source": "The AI Corner",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 7,
-      "published": "2026-07-24T18:48:34+00:00"
+      "published": "2026-07-28T18:32:11+00:00"
     },
     {
-      "id": "370710916626",
-      "title": "NotchBasket – a 1 MB basketball hoop for your Mac, for while your AI codes",
-      "summary": "Like half of this sub, I spend my day watching an AI agent write code. So I built a toy for exactly those moments: a little basketball hoop that lives on top of your desktop, over whatever you're doing. You flick the ball like a slingshot…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdfd8j/notchbasket_a_1_mb_basketball_hoop_for_your_mac/",
+      "id": "06ebea3e1c5f",
+      "title": "10 months building a UE5 RTS as a solo 3D artist non coder (c++)",
+      "summary": "​I’m a 3D artist (high-to-low poly modeling), not a programmer. But over the last 10 months, I’ve used Claude to solo-develop a large-scale ancient warfare RTS called Koryos: Sons of Mars in Unreal Engine 5. I just launched my first…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vck1bu/10_months_building_a_ue5_rts_as_a_solo_3d_artist/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-01T10:43:06+00:00"
+    },
+    {
+      "id": "47f5b685d9c6",
+      "title": "Al isn't replacing jobs, it's replacing human economic value itself",
+      "summary": "The biggest mistake people make about AI is thinking it’s coming for artists, writers, musicians, or programmers. They’re just first. AI is coming for almost every profession that depends more on a brain than a body. Accountants. Lawyers.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vchn01/al_isnt_replacing_jobs_its_replacing_human/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-02T11:12:33+00:00"
+      "published": "2026-08-01T08:24:38+00:00"
     },
     {
-      "id": "93714721568d",
-      "title": "Claude Code just randomly spat out Kimi K2 Thinking output mid-response",
-      "summary": "Was working on a side project, asking Claude Code questions in manual mode. Opened a new session, asked questions 5-7 times, and out of nowhere the response came back with a paragraph from Kimi K2 Thinking mixed in, like in the screenshot.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdbtzy/claude_code_just_randomly_spat_out_kimi_k2/",
+      "id": "9fbc889090c0",
+      "title": "I don't see the tech sector surviving this timeline",
+      "summary": "I'm already doing like 95% of my work through Claude Code while being at least 10x as productive as have I been before AI while producing way less errors. Especially the newer models for the most part just know what to do and more often…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcg25v/i_dont_see_the_tech_sector_surviving_this_timeline/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-02T07:46:31+00:00"
-    },
-    {
-      "id": "c5faf8a90946",
-      "title": "How to update your skills tip",
-      "summary": "There have been several times where I have tried to update a skill and then had Claude tell me my skill is read only and therefore it can’t be updated but would then either give me the addition I needed to add to my skill and try to make…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd83yw/how_to_update_your_skills_tip/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-08-02T04:21:41+00:00"
+      "published": "2026-08-01T06:54:33+00:00"
     }
   ]
 }
