@@ -1,7 +1,7 @@
 {
-  "issue": 75,
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T10:14:11.319506-03:00",
+  "issue": 76,
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:31:58.752522-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -35,94 +35,94 @@
       "published": "2026-05-07T17:01:21+00:00"
     },
     {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
-    },
-    {
-      "id": "339df0ea4c7d",
-      "title": "docs(everything): fix markdown formatting and instructions file refer…",
-      "summary": "docs(everything): fix markdown formatting and instructions file references",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-14T14:35:30+00:00"
-    },
-    {
-      "id": "c4674677ee7a",
-      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
-      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
-      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-11T00:00:00+00:00"
-    },
-    {
-      "id": "a09e2be02142",
-      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
-      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
-      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
-      "source": "claudeai.dev Blog",
-      "category": "Plugin",
-      "weight": 8,
-      "published": "2026-07-07T00:00:00+00:00"
-    },
-    {
-      "id": "3f76e5d45184",
-      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
-      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-06T17:15:49+00:00"
-    },
-    {
-      "id": "5d1430b0677c",
-      "title": "Anthropic just cut the price of frontier intelligence in half",
-      "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
-      "url": "https://www.the-ai-corner.com/p/claude-opus-5-playbook-benchmarks-pricing-effort-dial-2026",
+      "id": "04d9db45f080",
+      "title": "The $10K Etsy niche nobody is running with Claude yet",
+      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
+      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
       "source": "The AI Corner",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 7,
-      "published": "2026-07-24T18:48:34+00:00"
+      "published": "2026-08-02T14:48:08+00:00"
     },
     {
-      "id": "370710916626",
-      "title": "NotchBasket – a 1 MB basketball hoop for your Mac, for while your AI codes",
-      "summary": "Like half of this sub, I spend my day watching an AI agent write code. So I built a toy for exactly those moments: a little basketball hoop that lives on top of your desktop, over whatever you're doing. You flick the ball like a slingshot…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdfd8j/notchbasket_a_1_mb_basketball_hoop_for_your_mac/",
+      "id": "338276569f18",
+      "title": "Claude shows its thinking again!",
+      "summary": "Yay, Claude's thinking is back! We have something to do again while waiting for its response! (Sonnet 5 still seems to keep its thinking hidden.) &#32; submitted by &#32; /u/anttilk [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ved6x1/claude_shows_its_thinking_again/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-03T13:17:55+00:00"
+    },
+    {
+      "id": "eaa885b5f89c",
+      "title": "Claude built me a multiplayer ant tree game",
+      "summary": "made a little browser game with claude basically i wanted a fun way to show the leaderboards from my other fishing and gathering game. so now you play as an ant crawling around on this giant tree. people leave notes all over the branches…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vec1iw/claude_built_me_a_multiplayer_ant_tree_game/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-02T11:12:33+00:00"
+      "published": "2026-08-03T12:28:33+00:00"
     },
     {
-      "id": "93714721568d",
-      "title": "Claude Code just randomly spat out Kimi K2 Thinking output mid-response",
-      "summary": "Was working on a side project, asking Claude Code questions in manual mode. Opened a new session, asked questions 5-7 times, and out of nowhere the response came back with a paragraph from Kimi K2 Thinking mixed in, like in the screenshot.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdbtzy/claude_code_just_randomly_spat_out_kimi_k2/",
+      "id": "68cdbf6b4c8a",
+      "title": "What's the biggest mistake people make when they first use Claude Code?",
+      "summary": "Most people I know start by treating Claude Code like a chatbot. It seems much more useful once you start treating it like a coding partner instead. What's one mistake you think almost every new Claude Code user makes? &#32; submitted by…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vea9rk/whats_the_biggest_mistake_people_make_when_they/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-02T07:46:31+00:00"
+      "published": "2026-08-03T11:02:24+00:00"
     },
     {
-      "id": "c5faf8a90946",
-      "title": "How to update your skills tip",
-      "summary": "There have been several times where I have tried to update a skill and then had Claude tell me my skill is read only and therefore it can’t be updated but would then either give me the addition I needed to add to my skill and try to make…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd83yw/how_to_update_your_skills_tip/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "a337e9e095df",
+      "title": "fix(ci): tighten GitHub URL parsing in the submission gate",
+      "summary": "fix(ci): tighten GitHub URL parsing in the submission gate The previous pattern used [^/\\s#?]+ for both path segments, which accepted path traversal, percent-encoding and unicode, and could not distinguish a repo URL from other github.com…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4c9e44053719a57c9a9841f3e656301250afc37",
+      "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-08-02T04:21:41+00:00"
+      "published": "2026-08-03T07:15:38+00:00"
+    },
+    {
+      "id": "48bc86e35e73",
+      "title": "feat(ci): gate resource submissions on maturity conditions",
+      "summary": "feat(ci): gate resource submissions on maturity conditions Auto-close submissions that don't meet the CONTRIBUTING eligibility bar before any other validation runs. A GitHub-hosted resource passes if EITHER: (i) &gt;= 100 stars, or (ii)…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41289b0002eca0fcd4e1fabebc7363962b3c93c9",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-03T07:15:37+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }

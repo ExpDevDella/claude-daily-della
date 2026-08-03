@@ -1,0 +1,128 @@
+{
+  "issue": 75,
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T10:14:11.319506-03:00",
+  "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "339df0ea4c7d",
+      "title": "docs(everything): fix markdown formatting and instructions file refer…",
+      "summary": "docs(everything): fix markdown formatting and instructions file references",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-14T14:35:30+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "a09e2be02142",
+      "title": "Claude Fable and the Real Skill of Agentic Coding: Finding Your Unknowns",
+      "summary": "Anthropic's field guide to Claude Fable is really a workflow lesson: stronger agents make unknowns more expensive. Here is how Claude Code teams can surface them before they become rework.",
+      "url": "https://claudeai.dev/blog/finding-your-unknowns-with-claude-fable",
+      "source": "claudeai.dev Blog",
+      "category": "Plugin",
+      "weight": 8,
+      "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
+      "id": "5d1430b0677c",
+      "title": "Anthropic just cut the price of frontier intelligence in half",
+      "summary": "Claude Opus 5 lands within 0.5% of Fable 5 on coding at half the cost, triples the field on ARC-AGI 3, and ships with 85% fewer safety blocks. The full playbook: effort dial, routing table, prompts, m",
+      "url": "https://www.the-ai-corner.com/p/claude-opus-5-playbook-benchmarks-pricing-effort-dial-2026",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-07-24T18:48:34+00:00"
+    },
+    {
+      "id": "370710916626",
+      "title": "NotchBasket – a 1 MB basketball hoop for your Mac, for while your AI codes",
+      "summary": "Like half of this sub, I spend my day watching an AI agent write code. So I built a toy for exactly those moments: a little basketball hoop that lives on top of your desktop, over whatever you're doing. You flick the ball like a slingshot…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdfd8j/notchbasket_a_1_mb_basketball_hoop_for_your_mac/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-02T11:12:33+00:00"
+    },
+    {
+      "id": "93714721568d",
+      "title": "Claude Code just randomly spat out Kimi K2 Thinking output mid-response",
+      "summary": "Was working on a side project, asking Claude Code questions in manual mode. Opened a new session, asked questions 5-7 times, and out of nowhere the response came back with a paragraph from Kimi K2 Thinking mixed in, like in the screenshot.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdbtzy/claude_code_just_randomly_spat_out_kimi_k2/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-02T07:46:31+00:00"
+    },
+    {
+      "id": "c5faf8a90946",
+      "title": "How to update your skills tip",
+      "summary": "There have been several times where I have tried to update a skill and then had Claude tell me my skill is read only and therefore it can’t be updated but would then either give me the addition I needed to add to my skill and try to make…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd83yw/how_to_update_your_skills_tip/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-02T04:21:41+00:00"
+    }
+  ]
+}
