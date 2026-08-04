@@ -1,7 +1,7 @@
 {
-  "issue": 77,
-  "date": "2026-08-04",
-  "generated_at": "2026-08-04T11:03:13.846817-03:00",
+  "issue": 76,
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:31:58.752522-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -15,6 +15,26 @@
       "featured": true
     },
     {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
       "id": "04d9db45f080",
       "title": "The $10K Etsy niche nobody is running with Claude yet",
       "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
@@ -25,64 +45,34 @@
       "published": "2026-08-02T14:48:08+00:00"
     },
     {
-      "id": "78a23679bc8d",
-      "title": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
-      "summary": "15 copy-paste prompts that turn one autonomous agent into your research team, technical auditor, and AI-search strategist. Updated for the world where half of Google is now an AI answer.",
-      "url": "https://www.the-ai-corner.com/p/claude-cowork-seo-agency-15-prompts-2026",
-      "source": "The AI Corner",
-      "category": "Novidade",
-      "weight": 7,
-      "published": "2026-07-27T13:46:58+00:00"
-    },
-    {
-      "id": "9f60848021e7",
-      "title": "Max 20x usage went from 0% to 100% in half an hour while I was not using Claude",
-      "summary": "As the title says. And the best part is that I never knowingly signed up for this plan. I woke up this morning to find two Anthropic invoices in my inbox: one for a Max 20x subscription, and another for an “auto-recharge extra usage”…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf6i4y/max_20x_usage_went_from_0_to_100_in_half_an_hour/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-04T10:28:47+00:00"
-    },
-    {
-      "id": "1c5ce1da1d85",
-      "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
-      "summary": "&#32; submitted by &#32; /u/Suspicious_Orchid770 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-04T08:21:59+00:00"
-    },
-    {
-      "id": "74a99089a8e0",
-      "title": "Introducing the New Frontier of the GPQA-Dumb",
-      "summary": "Introducing Bongochat, the current leader globally in the GPQA-Dumb category, where the lower the score the higher it's weighted. Repo/open-weights: https://github.com/ninjahawk/bongochat I used Claude Code to train the model from nanochat…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf3fqu/introducing_the_new_frontier_of_the_gpqadumb/",
+      "id": "338276569f18",
+      "title": "Claude shows its thinking again!",
+      "summary": "Yay, Claude's thinking is back! We have something to do again while waiting for its response! (Sonnet 5 still seems to keep its thinking hidden.) &#32; submitted by &#32; /u/anttilk [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ved6x1/claude_shows_its_thinking_again/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-04T07:31:23+00:00"
+      "published": "2026-08-03T13:17:55+00:00"
     },
     {
-      "id": "4f51ee958dbc",
-      "title": "Add resource: CC Harness (#2425)",
-      "summary": "Add resource: CC Harness (#2425) Category: Observability & Monitoring Author: lookfree From issue: #2416 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49d51b604adab7156f3d9ee28d6ea7ad6727ed21",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "eaa885b5f89c",
+      "title": "Claude built me a multiplayer ant tree game",
+      "summary": "made a little browser game with claude basically i wanted a fun way to show the leaderboards from my other fishing and gathering game. so now you play as an ant crawling around on this giant tree. people leave notes all over the branches…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vec1iw/claude_built_me_a_multiplayer_ant_tree_game/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-04T04:00:23+00:00"
+      "published": "2026-08-03T12:28:33+00:00"
     },
     {
-      "id": "5954c3c72c24",
-      "title": "Add resource: Claude Code Harness (#2424)",
-      "summary": "Add resource: Claude Code Harness (#2424) Category: Agent Orchestration Author: Chachamaru From issue: #2423 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8fc2634fb991a01cf7d6e9c581c9fd78600e544f",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "68cdbf6b4c8a",
+      "title": "What's the biggest mistake people make when they first use Claude Code?",
+      "summary": "Most people I know start by treating Claude Code like a chatbot. It seems much more useful once you start treating it like a coding partner instead. What's one mistake you think almost every new Claude Code user makes? &#32; submitted by…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vea9rk/whats_the_biggest_mistake_people_make_when_they/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-03T23:16:57+00:00"
+      "published": "2026-08-03T11:02:24+00:00"
     },
     {
       "id": "a337e9e095df",
@@ -93,6 +83,16 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-08-03T07:15:38+00:00"
+    },
+    {
+      "id": "48bc86e35e73",
+      "title": "feat(ci): gate resource submissions on maturity conditions",
+      "summary": "feat(ci): gate resource submissions on maturity conditions Auto-close submissions that don't meet the CONTRIBUTING eligibility bar before any other validation runs. A GitHub-hosted resource passes if EITHER: (i) &gt;= 100 stars, or (ii)…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41289b0002eca0fcd4e1fabebc7363962b3c93c9",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-03T07:15:37+00:00"
     },
     {
       "id": "400dba2965d1",
