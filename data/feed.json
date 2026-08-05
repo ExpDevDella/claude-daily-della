@@ -1,7 +1,7 @@
 {
-  "issue": 77,
-  "date": "2026-08-04",
-  "generated_at": "2026-08-04T11:03:13.846817-03:00",
+  "issue": 78,
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T11:00:58.119789-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -15,14 +15,54 @@
       "featured": true
     },
     {
-      "id": "04d9db45f080",
-      "title": "The $10K Etsy niche nobody is running with Claude yet",
-      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
-      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-08-02T14:48:08+00:00"
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "2679786a73a7",
+      "title": "Translating Claude’s thoughts into language",
+      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-05-07T17:01:21+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "339df0ea4c7d",
+      "title": "docs(everything): fix markdown formatting and instructions file refer…",
+      "summary": "docs(everything): fix markdown formatting and instructions file references",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-14T14:35:30+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
     },
     {
       "id": "78a23679bc8d",
@@ -35,34 +75,34 @@
       "published": "2026-07-27T13:46:58+00:00"
     },
     {
-      "id": "9f60848021e7",
-      "title": "Max 20x usage went from 0% to 100% in half an hour while I was not using Claude",
-      "summary": "As the title says. And the best part is that I never knowingly signed up for this plan. I woke up this morning to find two Anthropic invoices in my inbox: one for a Max 20x subscription, and another for an “auto-recharge extra usage”…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf6i4y/max_20x_usage_went_from_0_to_100_in_half_an_hour/",
+      "id": "c002407bbf4a",
+      "title": "PSA: your weekly limit doesn't reset when you resubscribe - you can pay for days you literally cannot use",
+      "summary": "TL;DR: The weekly limit is tied to your account's reset timer, not your subscription. If you're at 100% and your sub lapses, resubscribing does not hand you a fresh weekly allowance. You come back still at 100%, with the same countdown…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg47iu/psa_your_weekly_limit_doesnt_reset_when_you/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-04T10:28:47+00:00"
+      "published": "2026-08-05T11:03:19+00:00"
     },
     {
-      "id": "1c5ce1da1d85",
-      "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
-      "summary": "&#32; submitted by &#32; /u/Suspicious_Orchid770 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
+      "id": "b176fe83f8dc",
+      "title": "Why they can't use Fable 5?",
+      "summary": "Or is the Fable 5 more expensive than humans at the moment? Strange &#32; submitted by &#32; /u/NotGonnaLieBaby [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0dqg/why_they_cant_use_fable_5/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-04T08:21:59+00:00"
+      "published": "2026-08-05T07:27:16+00:00"
     },
     {
-      "id": "74a99089a8e0",
-      "title": "Introducing the New Frontier of the GPQA-Dumb",
-      "summary": "Introducing Bongochat, the current leader globally in the GPQA-Dumb category, where the lower the score the higher it's weighted. Repo/open-weights: https://github.com/ninjahawk/bongochat I used Claude Code to train the model from nanochat…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf3fqu/introducing_the_new_frontier_of_the_gpqadumb/",
+      "id": "2cefde0b9aee",
+      "title": "I trust Claude's guardrails but I just don't fully trust what happens to my data after a convo. Am I overthinking it?",
+      "summary": "I've been a Claude user for about six months now, and I don't think I've ever used an AI interface with customization this good. Today I actually went through my the memory in detail, and holy cow. It had everything. Everything I liked,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0a0t/i_trust_claudes_guardrails_but_i_just_dont_fully/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-04T07:31:23+00:00"
+      "published": "2026-08-05T07:21:22+00:00"
     },
     {
       "id": "4f51ee958dbc",
@@ -83,46 +123,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-08-03T23:16:57+00:00"
-    },
-    {
-      "id": "a337e9e095df",
-      "title": "fix(ci): tighten GitHub URL parsing in the submission gate",
-      "summary": "fix(ci): tighten GitHub URL parsing in the submission gate The previous pattern used [^/\\s#?]+ for both path segments, which accepted path traversal, percent-encoding and unicode, and could not distinguish a repo URL from other github.com…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4c9e44053719a57c9a9841f3e656301250afc37",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-08-03T07:15:38+00:00"
-    },
-    {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }

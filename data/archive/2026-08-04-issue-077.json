@@ -1,0 +1,128 @@
+{
+  "issue": 77,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:03:13.846817-03:00",
+  "items": [
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "04d9db45f080",
+      "title": "The $10K Etsy niche nobody is running with Claude yet",
+      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
+      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-02T14:48:08+00:00"
+    },
+    {
+      "id": "78a23679bc8d",
+      "title": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
+      "summary": "15 copy-paste prompts that turn one autonomous agent into your research team, technical auditor, and AI-search strategist. Updated for the world where half of Google is now an AI answer.",
+      "url": "https://www.the-ai-corner.com/p/claude-cowork-seo-agency-15-prompts-2026",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-07-27T13:46:58+00:00"
+    },
+    {
+      "id": "9f60848021e7",
+      "title": "Max 20x usage went from 0% to 100% in half an hour while I was not using Claude",
+      "summary": "As the title says. And the best part is that I never knowingly signed up for this plan. I woke up this morning to find two Anthropic invoices in my inbox: one for a Max 20x subscription, and another for an “auto-recharge extra usage”…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf6i4y/max_20x_usage_went_from_0_to_100_in_half_an_hour/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-04T10:28:47+00:00"
+    },
+    {
+      "id": "1c5ce1da1d85",
+      "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
+      "summary": "&#32; submitted by &#32; /u/Suspicious_Orchid770 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-04T08:21:59+00:00"
+    },
+    {
+      "id": "74a99089a8e0",
+      "title": "Introducing the New Frontier of the GPQA-Dumb",
+      "summary": "Introducing Bongochat, the current leader globally in the GPQA-Dumb category, where the lower the score the higher it's weighted. Repo/open-weights: https://github.com/ninjahawk/bongochat I used Claude Code to train the model from nanochat…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf3fqu/introducing_the_new_frontier_of_the_gpqadumb/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-04T07:31:23+00:00"
+    },
+    {
+      "id": "4f51ee958dbc",
+      "title": "Add resource: CC Harness (#2425)",
+      "summary": "Add resource: CC Harness (#2425) Category: Observability & Monitoring Author: lookfree From issue: #2416 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49d51b604adab7156f3d9ee28d6ea7ad6727ed21",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-04T04:00:23+00:00"
+    },
+    {
+      "id": "5954c3c72c24",
+      "title": "Add resource: Claude Code Harness (#2424)",
+      "summary": "Add resource: Claude Code Harness (#2424) Category: Agent Orchestration Author: Chachamaru From issue: #2423 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8fc2634fb991a01cf7d6e9c581c9fd78600e544f",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-03T23:16:57+00:00"
+    },
+    {
+      "id": "a337e9e095df",
+      "title": "fix(ci): tighten GitHub URL parsing in the submission gate",
+      "summary": "fix(ci): tighten GitHub URL parsing in the submission gate The previous pattern used [^/\\s#?]+ for both path segments, which accepted path traversal, percent-encoding and unicode, and could not distinguish a repo URL from other github.com…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4c9e44053719a57c9a9841f3e656301250afc37",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-03T07:15:38+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}
