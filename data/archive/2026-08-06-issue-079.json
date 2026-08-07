@@ -1,7 +1,7 @@
 {
-  "issue": 80,
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T09:55:42.911707-03:00",
+  "issue": 79,
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:59:54.237345-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -85,34 +85,34 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "a9643dd12dd5",
-      "title": "People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine",
-      "summary": "&#32; submitted by &#32; /u/jerryadc [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/",
+      "id": "1ae82481ae3c",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays",
+      "summary": "A couple of months back Claude and I put up a small browser game where you play the human-in-the-loop for an AI coding agent. There's 60 seconds on the clock to approve or deny as many commands as you can ( https://llmgame.scalex.dev ).…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vh1y03/humans_missed_1_in_3_threats_approving_ai_agent/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-06T11:47:03+00:00"
+    },
+    {
+      "id": "3ed8209ba04a",
+      "title": "An Empirical Comparision of Claude Pro and ChatGPT Plus",
+      "summary": "Pulled the Artificial Analysis numbers because every thread on this is vibes and no data. Opus 5 beats GPT-5.6 Sol on intelligence, 61 vs 59, which is basically nothing, and Sol does it at half the cost per task ($1.23 vs $2.34). Mid tier…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vh11k9/an_empirical_comparision_of_claude_pro_and/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-07T12:03:53+00:00"
+      "published": "2026-08-06T11:01:27+00:00"
     },
     {
-      "id": "adf92d4334be",
-      "title": "AntiVibe (my Claude Code skill) just got accepted into Mintlify's OSS Program",
-      "summary": "Built AntiVibe a while back , a Claude Code skill that generates deep-dives explaining why AI-written code works the way it does, instead of just letting you copy-paste and move on. It kind of blew up (900+ stars, 150K+ impressions on the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhxe9a/antivibe_my_claude_code_skill_just_got_accepted/",
+      "id": "1d0fa57b2266",
+      "title": "Top 15+ MCP servers that are actually useful in 2026? I’m tired of fake awesome lists",
+      "summary": "I’m trying to clean up my MCP setup and honestly I’m lost. Every best MCP servers list looks like SEO garbage now. Half the tools are abandoned, half need weird auth, and half sound useful until you actually plug them into…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vh0yd3/top_15_mcp_servers_that_are_actually_useful_in/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "MCP",
       "weight": 6,
-      "published": "2026-08-07T10:57:24+00:00"
-    },
-    {
-      "id": "adfa5e47745d",
-      "title": "Working with Opus 4.5 is .. fun",
-      "summary": "I've been using both Claude Code (Pro) and Codex (Plus) for a while on various hobby projects. I used Sonnet 4.6, Opus 4.7/5, ChatGPT 5.5, but nothing too complicated. Recently I've been helping a friend update his website. The work is a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhv3v9/working_with_opus_45_is_fun/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-07T08:45:56+00:00"
+      "published": "2026-08-06T10:57:02+00:00"
     },
     {
       "id": "731898999464",
