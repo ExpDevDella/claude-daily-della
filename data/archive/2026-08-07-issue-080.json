@@ -1,7 +1,7 @@
 {
-  "issue": 81,
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T09:40:37.974118-03:00",
+  "issue": 80,
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:55:42.911707-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -75,54 +75,54 @@
       "published": "2026-07-07T00:00:00+00:00"
     },
     {
-      "id": "e5746da90411",
-      "title": "Anthropic Deleted 80% of Claude Code's Prompt. It Got Smarter",
-      "summary": "Boris Cherny reveals the Claude Code playbook: delete prompts, build verification loops, and let Opus 5 run unattended coding tasks for weeks.",
-      "url": "https://www.the-ai-corner.com/p/claude-code-playbook-boris-cherny",
-      "source": "The AI Corner",
-      "category": "Novidade",
-      "weight": 7,
-      "published": "2026-08-07T15:11:38+00:00"
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "bf2ef4077366",
-      "title": "Everything You Need to Know to Master Claude's Fable 5",
-      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
-      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-07-28T18:32:11+00:00"
-    },
-    {
-      "id": "dc625880605d",
-      "title": "Magic auth links are terrible",
-      "summary": "Authenticating to Claude Code on the web is a terrible experience. I need to input my email address, then the UI asks for a one time code that doesn't exist, then I need to wait for the magic link email to be sent, click on the link (which…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1visvd5/magic_auth_links_are_terrible/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-08T10:50:30+00:00"
-    },
-    {
-      "id": "88159401ad4a",
-      "title": "Fable is still the best model at the end of the day :((",
-      "summary": "Regardless of the benchmark results, I still find that Fable is the best perform model. (My tokken creddits are paid for) Opus (5 and 4.8) are superslow, super rigid and uncreative. Also shit personality as a chatbot. Take into account the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vipsf5/fable_is_still_the_best_model_at_the_end_of_the/",
+      "id": "a9643dd12dd5",
+      "title": "People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine",
+      "summary": "&#32; submitted by &#32; /u/jerryadc [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-08T07:41:36+00:00"
+      "published": "2026-08-07T12:03:53+00:00"
     },
     {
-      "id": "f2fdcedbac3d",
-      "title": "Claude code : your sessions can now message each other.",
-      "summary": "With Claude Code v2.1.224 introducing cross-session messaging (agents syncing backend/frontend tasks independently), how do you plan to change your multi-terminal setup? Are you ready to let agents hand off context to each other? &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vio0w9/claude_code_your_sessions_can_now_message_each/",
+      "id": "adf92d4334be",
+      "title": "AntiVibe (my Claude Code skill) just got accepted into Mintlify's OSS Program",
+      "summary": "Built AntiVibe a while back , a Claude Code skill that generates deep-dives explaining why AI-written code works the way it does, instead of just letting you copy-paste and move on. It kind of blew up (900+ stars, 150K+ impressions on the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhxe9a/antivibe_my_claude_code_skill_just_got_accepted/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-08-08T06:00:08+00:00"
+      "published": "2026-08-07T10:57:24+00:00"
+    },
+    {
+      "id": "adfa5e47745d",
+      "title": "Working with Opus 4.5 is .. fun",
+      "summary": "I've been using both Claude Code (Pro) and Codex (Plus) for a while on various hobby projects. I used Sonnet 4.6, Opus 4.7/5, ChatGPT 5.5, but nothing too complicated. Recently I've been helping a friend update his website. The work is a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhv3v9/working_with_opus_45_is_fun/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-07T08:45:56+00:00"
+    },
+    {
+      "id": "731898999464",
+      "title": "Add resource: claude-context-optimizer (#2435)",
+      "summary": "Add resource: claude-context-optimizer (#2435) Category: Memory & Context Persistence Author: Egor Fedorov From issue: #2434 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e208042cb6273d1c657680288a465585714695a3",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-05T14:10:51+00:00"
     }
   ]
 }
