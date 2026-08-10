@@ -1,7 +1,7 @@
 {
-  "issue": 83,
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T09:59:49.427731-03:00",
+  "issue": 82,
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T09:42:37.637817-03:00",
   "items": [
     {
       "id": "024a4cae0ae6",
@@ -45,54 +45,54 @@
       "published": "2026-07-25T00:00:00+00:00"
     },
     {
-      "id": "b38d1bec3ca5",
-      "title": "General Advice to get the most out of Claude.",
-      "summary": "Hi All. I'm a 25 year old South African who runs my own GIS business for myself. I've always been tech savvy and have loved watching AI progress into what it is now. However, I know there is so much about Claude that I don't understand and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkdb4r/general_advice_to_get_the_most_out_of_claude/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-10T06:45:24+00:00"
+      "id": "e5746da90411",
+      "title": "Anthropic Deleted 80% of Claude Code's Prompt. It Got Smarter",
+      "summary": "Boris Cherny reveals the Claude Code playbook: delete prompts, build verification loops, and let Opus 5 run unattended coding tasks for weeks.",
+      "url": "https://www.the-ai-corner.com/p/claude-code-playbook-boris-cherny",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-08-07T15:11:38+00:00"
     },
     {
-      "id": "50ef4716d3e6",
-      "title": "What is the word you wish Claude would never ever used again?",
-      "summary": "Myself I am extremely irritated by &quot;honest&quot;: it is used way to often and as you know it is pointless. Wonder how and why... (Words, phrases, anything that is recurrent and extremely irritating) How about naming them &quot;Claude…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "bf2ef4077366",
+      "title": "Everything You Need to Know to Master Claude's Fable 5",
+      "summary": "Anthropic's most capable public model can work on its own for days. Here is how to point it at real work without burning your budget, your data, or your patience.",
+      "url": "https://www.the-ai-corner.com/p/claude-fable-5-guide",
+      "source": "The AI Corner",
       "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-10T05:11:47+00:00"
+      "weight": 7,
+      "published": "2026-07-28T18:32:11+00:00"
     },
     {
-      "id": "7a49c4934a14",
-      "title": "Apparently Opus 5 is better a photogrammetry",
-      "summary": "I’ve been testing different models abilities. gave it the reference of the futuristic looking chip fab (terafab) I’m not here to debate anyone about anything. Just thought it was interesting that opus 5 translated the reference to an svg…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vka93j/apparently_opus_5_is_better_a_photogrammetry/",
+      "id": "a039b1bb46d7",
+      "title": "Muse Code Sends claude.md to Meta On Start by Default",
+      "summary": "&#32; submitted by &#32; /u/ryanmerket [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vji3f8/muse_code_sends_claudemd_to_meta_on_start_by/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-09T06:12:11+00:00"
+    },
+    {
+      "id": "9b646342e744",
+      "title": "Just used Claude Motion for the first time and I'm genuinely impressed",
+      "summary": "My bad it's actually Claude Design - Animation. I asked it to create a video for me about New Zealand house prices vs Wages over 30 years, and it was able to produce something that actually looks polished, and it was able to pull real…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjh90a/just_used_claude_motion_for_the_first_time_and_im/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-10T03:55:59+00:00"
+      "published": "2026-08-09T05:23:31+00:00"
     },
     {
-      "id": "b3b58d16904d",
-      "title": "Add resource: Beyond the Prompt: Claude Code (#2480)",
-      "summary": "Add resource: Beyond the Prompt: Claude Code (#2480) Category: Start Here Author: Arpan Patel From issue: #2479 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5df9e12f8bd5ef7603685da308c3192bd7fcba31",
-      "source": "GitHub - Awesome Claude Code",
+      "id": "889ca78d87b6",
+      "title": "Using Claude to fight ADHD",
+      "summary": "One of the coolest thing about Claude as a software developer is being able to make super-personalized apps to mitigate my own flaws. As someone with crippling ADHD, I found that most todo list apps are designed for neurotypical people who…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjfeiv/using_claude_to_fight_adhd/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-09T20:06:09+00:00"
-    },
-    {
-      "id": "81fbd681c32b",
-      "title": "Add resource: A Field Guide to Claude Fable 5 (#2478)",
-      "summary": "Add resource: A Field Guide to Claude Fable 5 (#2478) Category: Start Here Author: Thariq Shihipar, Anthropic From issue: #2477 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/12a3a1522fe8282c29729055ee892c9680e6824b",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-09T19:42:16+00:00"
+      "published": "2026-08-09T03:44:14+00:00"
     },
     {
       "id": "f7d9dd9a8831",
