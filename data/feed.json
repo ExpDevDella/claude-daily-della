@@ -1,8 +1,19 @@
 {
-  "issue": 83,
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T09:59:49.427731-03:00",
+  "issue": 84,
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:56:25.979469-03:00",
   "items": [
+    {
+      "id": "f5e07aca5c01",
+      "title": "How Icelanders are thinking about AI",
+      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
+      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-10T14:30:52+00:00",
+      "featured": true
+    },
     {
       "id": "024a4cae0ae6",
       "title": "The different levels of how Claude thinks",
@@ -11,68 +22,57 @@
       "source": "YouTube - Anthropic",
       "category": "Video",
       "weight": 9,
-      "published": "2026-07-06T16:59:51+00:00",
-      "featured": true
+      "published": "2026-07-06T16:59:51+00:00"
     },
     {
-      "id": "9d62ac82355a",
-      "title": "Introducing Claude Fable 5",
-      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
-      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00"
+      "id": "244058542001",
+      "title": "The Face Behind Anthropic’s Success",
+      "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
+      "url": "https://www.the-ai-corner.com/p/daniela-amodei-anthropic",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-10T13:51:37+00:00"
     },
     {
-      "id": "2679786a73a7",
-      "title": "Translating Claude’s thoughts into language",
-      "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’…",
-      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-05-07T17:01:21+00:00"
+      "id": "04d9db45f080",
+      "title": "The $10K Etsy niche nobody is running with Claude yet",
+      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
+      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-02T14:48:08+00:00"
     },
     {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
-    },
-    {
-      "id": "b38d1bec3ca5",
-      "title": "General Advice to get the most out of Claude.",
-      "summary": "Hi All. I'm a 25 year old South African who runs my own GIS business for myself. I've always been tech savvy and have loved watching AI progress into what it is now. However, I know there is so much about Claude that I don't understand and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkdb4r/general_advice_to_get_the_most_out_of_claude/",
+      "id": "65ddf680e9d9",
+      "title": "Claude watermarking our work is unethical and disgusting",
+      "summary": "I gave the instructions, context, decisions, and countless refinements, claude was the tool. If Claude starts watermarking the code or anything else it generates, what exactly is it claiming credit for? By that logic, my internet provider…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlckt9/claude_watermarking_our_work_is_unethical_and/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-10T06:45:24+00:00"
+      "published": "2026-08-11T09:25:25+00:00"
     },
     {
-      "id": "50ef4716d3e6",
-      "title": "What is the word you wish Claude would never ever used again?",
-      "summary": "Myself I am extremely irritated by &quot;honest&quot;: it is used way to often and as you know it is pointless. Wonder how and why... (Words, phrases, anything that is recurrent and extremely irritating) How about naming them &quot;Claude…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
+      "id": "4335577a6dfa",
+      "title": "How would an “invisible watermark” in AI-generated text actually work?",
+      "summary": "I saw that Anthropic is apparently planning to embed invisible watermarks into Claude-generated text, and this part caught my attention: Does anyone here know how something like this actually works technically? If it's genuinely part of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-10T05:11:47+00:00"
+      "published": "2026-08-11T06:23:20+00:00"
     },
     {
-      "id": "7a49c4934a14",
-      "title": "Apparently Opus 5 is better a photogrammetry",
-      "summary": "I’ve been testing different models abilities. gave it the reference of the futuristic looking chip fab (terafab) I’m not here to debate anyone about anything. Just thought it was interesting that opus 5 translated the reference to an svg…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vka93j/apparently_opus_5_is_better_a_photogrammetry/",
+      "id": "a897a57eda30",
+      "title": "ClaudeCraft Arena: 4 frontier models are playing a vibecoded MMO against each other live (World of Claudecraft)",
+      "summary": "TL;DR: World of Claudecraft is an open-source MMO vibecoded with Claude Fable 5, gaining 55 contributors and 2,000+ GitHub stars in under two months. We built a self-improving agent harness (forked from Hermes) and dropped four frontier…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl45c6/claudecraft_arena_4_frontier_models_are_playing_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-10T03:55:59+00:00"
+      "published": "2026-08-11T01:52:18+00:00"
     },
     {
       "id": "b3b58d16904d",
@@ -95,34 +95,34 @@
       "published": "2026-08-09T19:42:16+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "published": "2026-02-16T09:00:51+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "published": "2025-07-03T01:23:39+00:00"
     },
     {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }
