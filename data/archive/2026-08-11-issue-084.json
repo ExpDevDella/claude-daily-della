@@ -1,7 +1,7 @@
 {
-  "issue": 85,
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T10:01:26.063821-03:00",
+  "issue": 84,
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:56:25.979469-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -25,26 +25,6 @@
       "published": "2026-07-06T16:59:51+00:00"
     },
     {
-      "id": "9d62ac82355a",
-      "title": "Introducing Claude Fable 5",
-      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
-      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00"
-    },
-    {
-      "id": "0c70422c90a7",
-      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
-      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
-      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-08-11T00:00:00+00:00"
-    },
-    {
       "id": "244058542001",
       "title": "The Face Behind Anthropic’s Success",
       "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
@@ -65,34 +45,54 @@
       "published": "2026-08-02T14:48:08+00:00"
     },
     {
-      "id": "2861abb76d9e",
-      "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
-      "summary": "&#32; submitted by &#32; /u/reprobyte [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-12T09:13:54+00:00"
-    },
-    {
-      "id": "9ef9c5a368bf",
-      "title": "An Ode to the Load-Bearing Decision",
-      "summary": "Ode to the Load-Bearing Decision There once was a choice, rather small in its scope, That Claude pressure-tested and murdered all hope. “Before we proceed, there’s a load-bearing concern — A subtle edge case from which we can learn.” We…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm57om/an_ode_to_the_loadbearing_decision/",
+      "id": "65ddf680e9d9",
+      "title": "Claude watermarking our work is unethical and disgusting",
+      "summary": "I gave the instructions, context, decisions, and countless refinements, claude was the tool. If Claude starts watermarking the code or anything else it generates, what exactly is it claiming credit for? By that logic, my internet provider…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlckt9/claude_watermarking_our_work_is_unethical_and/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-12T05:33:06+00:00"
+      "published": "2026-08-11T09:25:25+00:00"
     },
     {
-      "id": "9d21d3b86040",
-      "title": "Decoding Claude's DNA: Comparing System Prompts Across Fable 5, Opus 5/4.8/4.6, Sonnet 5 & Haiku 4.5",
-      "summary": "All transcripts: here . Prompt used here . One thing I noticed is that almost every update brings along a small system prompt change (that either stays or is rolled back after a few days) - could also be A/B experiments from Anthropic idk.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm4dzz/decoding_claudes_dna_comparing_system_prompts/",
+      "id": "4335577a6dfa",
+      "title": "How would an “invisible watermark” in AI-generated text actually work?",
+      "summary": "I saw that Anthropic is apparently planning to embed invisible watermarks into Claude-generated text, and this part caught my attention: Does anyone here know how something like this actually works technically? If it's genuinely part of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-12T04:48:16+00:00"
+      "published": "2026-08-11T06:23:20+00:00"
+    },
+    {
+      "id": "a897a57eda30",
+      "title": "ClaudeCraft Arena: 4 frontier models are playing a vibecoded MMO against each other live (World of Claudecraft)",
+      "summary": "TL;DR: World of Claudecraft is an open-source MMO vibecoded with Claude Fable 5, gaining 55 contributors and 2,000+ GitHub stars in under two months. We built a self-improving agent harness (forked from Hermes) and dropped four frontier…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl45c6/claudecraft_arena_4_frontier_models_are_playing_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-11T01:52:18+00:00"
+    },
+    {
+      "id": "b3b58d16904d",
+      "title": "Add resource: Beyond the Prompt: Claude Code (#2480)",
+      "summary": "Add resource: Beyond the Prompt: Claude Code (#2480) Category: Start Here Author: Arpan Patel From issue: #2479 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5df9e12f8bd5ef7603685da308c3192bd7fcba31",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-09T20:06:09+00:00"
+    },
+    {
+      "id": "81fbd681c32b",
+      "title": "Add resource: A Field Guide to Claude Fable 5 (#2478)",
+      "summary": "Add resource: A Field Guide to Claude Fable 5 (#2478) Category: Start Here Author: Thariq Shihipar, Anthropic From issue: #2477 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/12a3a1522fe8282c29729055ee892c9680e6824b",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-09T19:42:16+00:00"
     },
     {
       "id": "400dba2965d1",
