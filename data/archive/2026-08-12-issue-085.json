@@ -1,0 +1,128 @@
+{
+  "issue": 85,
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T10:01:26.063821-03:00",
+  "items": [
+    {
+      "id": "f5e07aca5c01",
+      "title": "How Icelanders are thinking about AI",
+      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
+      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-10T14:30:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00"
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "244058542001",
+      "title": "The Face Behind Anthropic’s Success",
+      "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
+      "url": "https://www.the-ai-corner.com/p/daniela-amodei-anthropic",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-10T13:51:37+00:00"
+    },
+    {
+      "id": "04d9db45f080",
+      "title": "The $10K Etsy niche nobody is running with Claude yet",
+      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
+      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-02T14:48:08+00:00"
+    },
+    {
+      "id": "2861abb76d9e",
+      "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
+      "summary": "&#32; submitted by &#32; /u/reprobyte [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-12T09:13:54+00:00"
+    },
+    {
+      "id": "9ef9c5a368bf",
+      "title": "An Ode to the Load-Bearing Decision",
+      "summary": "Ode to the Load-Bearing Decision There once was a choice, rather small in its scope, That Claude pressure-tested and murdered all hope. “Before we proceed, there’s a load-bearing concern — A subtle edge case from which we can learn.” We…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm57om/an_ode_to_the_loadbearing_decision/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-12T05:33:06+00:00"
+    },
+    {
+      "id": "9d21d3b86040",
+      "title": "Decoding Claude's DNA: Comparing System Prompts Across Fable 5, Opus 5/4.8/4.6, Sonnet 5 & Haiku 4.5",
+      "summary": "All transcripts: here . Prompt used here . One thing I noticed is that almost every update brings along a small system prompt change (that either stays or is rolled back after a few days) - could also be A/B experiments from Anthropic idk.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm4dzz/decoding_claudes_dna_comparing_system_prompts/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-12T04:48:16+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
+    }
+  ]
+}

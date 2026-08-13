@@ -1,7 +1,7 @@
 {
-  "issue": 85,
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T10:01:26.063821-03:00",
+  "issue": 86,
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T10:02:04.270778-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -45,84 +45,84 @@
       "published": "2026-08-11T00:00:00+00:00"
     },
     {
-      "id": "244058542001",
-      "title": "The Face Behind Anthropic’s Success",
-      "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
-      "url": "https://www.the-ai-corner.com/p/daniela-amodei-anthropic",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-08-10T13:51:37+00:00"
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
     },
     {
-      "id": "04d9db45f080",
-      "title": "The $10K Etsy niche nobody is running with Claude yet",
-      "summary": "One niche. Three assets that feed each other. Built with Claude to a quality people actually pay for, without the spam that gets you banned",
-      "url": "https://www.the-ai-corner.com/p/make-money-with-claude-ai-digital-business-system-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-08-02T14:48:08+00:00"
+      "id": "339df0ea4c7d",
+      "title": "docs(everything): fix markdown formatting and instructions file refer…",
+      "summary": "docs(everything): fix markdown formatting and instructions file references",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-14T14:35:30+00:00"
     },
     {
-      "id": "2861abb76d9e",
-      "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
-      "summary": "&#32; submitted by &#32; /u/reprobyte [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "2efc374ff893",
+      "title": "Opus 5 is actually almost rage-inducing to use.",
+      "summary": "I've read the latest recommendations from Anthropic, I've tried all kinds of global claude.md file changes, but I just cannot make Opus 5 behave in a way that's pleasant to work with. I'm not talking about if it's &quot;nice&quot; or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn8ml6/opus_5_is_actually_almost_rageinducing_to_use/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-13T11:56:47+00:00"
+    },
+    {
+      "id": "420ae5cdd4a6",
+      "title": "I built a watercolor Simulator based on real physics (V2)",
+      "summary": "Last week-end I built a watercolor simulator based on real physics and shared it online. A lot of people asked to play with it so i improved it and it's now live: https://sudoaquarelle.com/ New since the first prototype: - More pigments…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn7yk3/i_built_a_watercolor_simulator_based_on_real/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-12T09:13:54+00:00"
+      "published": "2026-08-13T11:23:50+00:00"
     },
     {
-      "id": "9ef9c5a368bf",
-      "title": "An Ode to the Load-Bearing Decision",
-      "summary": "Ode to the Load-Bearing Decision There once was a choice, rather small in its scope, That Claude pressure-tested and murdered all hope. “Before we proceed, there’s a load-bearing concern — A subtle edge case from which we can learn.” We…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm57om/an_ode_to_the_loadbearing_decision/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-12T05:33:06+00:00"
-    },
-    {
-      "id": "9d21d3b86040",
-      "title": "Decoding Claude's DNA: Comparing System Prompts Across Fable 5, Opus 5/4.8/4.6, Sonnet 5 & Haiku 4.5",
-      "summary": "All transcripts: here . Prompt used here . One thing I noticed is that almost every update brings along a small system prompt change (that either stays or is rolled back after a few days) - could also be A/B experiments from Anthropic idk.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm4dzz/decoding_claudes_dna_comparing_system_prompts/",
+      "id": "e946f8d204da",
+      "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
+      "summary": "and yes I am still using 4.6 for a lot of stuff. Opus 5 literally floods the chat with so much nonsense chatter &#32; submitted by &#32; /u/No-Squash7469 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-12T04:48:16+00:00"
+      "published": "2026-08-13T09:53:28+00:00"
     },
     {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
+      "id": "aeaf312fe92c",
+      "title": "Add resource: SuperSEO Skills (#2509)",
+      "summary": "Add resource: SuperSEO Skills (#2509) Category: Skills Author: sanderbz From issue: #1644 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e352687cb52ee47279da373e427b5fa5dbf684a7",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-13T07:13:40+00:00"
     },
     {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "id": "93eeee85cb6c",
+      "title": "Add resource: Diagram Design (#2505)",
+      "summary": "Add resource: Diagram Design (#2505) Category: Design & UI/UX Author: Cathryn Lavery From issue: #2504 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31cf6c751da5d9af6e3604e4be2d6b2915cf3852",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-13T02:09:37+00:00"
     }
   ]
 }
