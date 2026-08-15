@@ -1,7 +1,7 @@
 {
-  "issue": 88,
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T09:30:58.588648-03:00",
+  "issue": 87,
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:58:31.196746-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -65,16 +65,6 @@
       "published": "2026-07-14T14:35:30+00:00"
     },
     {
-      "id": "c4674677ee7a",
-      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
-      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
-      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-07-11T00:00:00+00:00"
-    },
-    {
       "id": "3f76e5d45184",
       "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
       "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
@@ -85,44 +75,54 @@
       "published": "2026-07-06T17:15:49+00:00"
     },
     {
-      "id": "00d87416a3c2",
-      "title": "The Claude Prompts That Close Rounds in 2026",
-      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
-      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-08-14T16:06:14+00:00"
-    },
-    {
-      "id": "d2ab33d33369",
-      "title": "I built Popwatch - your personal popcorn popping pal",
-      "summary": "It's staggering how quickly we can knock up an app now. I've long thought about creating some software for determining the perfect time to stop microwave popcorn. Typically the instructions say to wait until 3-4 seconds between pops. The…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+      "id": "4cb2ef2d7621",
+      "title": "You can now build yourself a clone to control your computer, if you have a claude subscription",
+      "summary": "I built Munder Difflin, a free and open source desktop app (Electron) that runs a multi-agent harness locally on your machine. It wraps CLI agents you already have, Claude Code included, so your clone works with your actual setup instead…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo3sj9/you_can_now_build_yourself_a_clone_to_control/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-15T11:19:49+00:00"
+      "published": "2026-08-14T10:43:25+00:00"
     },
     {
-      "id": "9a99d7d18f88",
-      "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
-      "summary": "Holy shit. Got Opus 4.6 to take over the project and finally the plans made sense. The language, my god Opus 5 speaks in riddles and weird sentence phrasing it is so difficult to understand wtf it is saying half the time without prompting,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
+      "id": "ec8092e2d823",
+      "title": "We gave Claude a real paint/vector canvas — DrawSimple for MacOS ships a localhost MCP server in every copy",
+      "summary": "&#32; submitted by &#32; /u/JordanRunsForFun [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo2wiq/we_gave_claude_a_real_paintvector_canvas/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "MCP",
       "weight": 6,
-      "published": "2026-08-15T10:18:55+00:00"
+      "published": "2026-08-14T09:53:35+00:00"
     },
     {
-      "id": "1db0acb14d0f",
-      "title": "Kind of burnt out reviewing every single line claude code writes",
-      "summary": "Hey guys, not sure if this is just me but lately i feel genuinely tired. Not of claude code itself, its great, but of the constant vigilance of reviewing everything it touches because i dont fully trust it yet. Feels like i traded typing…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1voyaox/kind_of_burnt_out_reviewing_every_single_line/",
+      "id": "88edddd7d823",
+      "title": "my own writing has started sounding like claude and someone at work noticed",
+      "summary": "Three separate people have now told me my Slack messages read like AI, and the last one was my manager in a one to one, which is the point where I stopped arguing and admitted they're probably right. I don't paste anything. That's what…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo2vr6/my_own_writing_has_started_sounding_like_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-15T09:24:31+00:00"
+      "published": "2026-08-14T09:52:16+00:00"
+    },
+    {
+      "id": "aeaf312fe92c",
+      "title": "Add resource: SuperSEO Skills (#2509)",
+      "summary": "Add resource: SuperSEO Skills (#2509) Category: Skills Author: sanderbz From issue: #1644 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e352687cb52ee47279da373e427b5fa5dbf684a7",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-13T07:13:40+00:00"
+    },
+    {
+      "id": "93eeee85cb6c",
+      "title": "Add resource: Diagram Design (#2505)",
+      "summary": "Add resource: Diagram Design (#2505) Category: Design & UI/UX Author: Cathryn Lavery From issue: #2504 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31cf6c751da5d9af6e3604e4be2d6b2915cf3852",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-13T02:09:37+00:00"
     }
   ]
 }
