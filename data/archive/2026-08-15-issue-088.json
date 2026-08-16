@@ -1,7 +1,7 @@
 {
-  "issue": 89,
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T09:32:41.963755-03:00",
+  "issue": 88,
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T09:30:58.588648-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -75,6 +75,16 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
+      "id": "3f76e5d45184",
+      "title": "fix(filesystem): declare openWorldHint on all tools (#4480)",
+      "summary": "fix(filesystem): declare openWorldHint on all tools (#4480) Every filesystem tool operates only on the local filesystem within its allowed directories — none reaches an open or external world — but none declared the MCP `openWorldHint`…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d31124c982401739917fd817c2a59db344529c16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-06T17:15:49+00:00"
+    },
+    {
       "id": "00d87416a3c2",
       "title": "The Claude Prompts That Close Rounds in 2026",
       "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
@@ -85,44 +95,34 @@
       "published": "2026-08-14T16:06:14+00:00"
     },
     {
-      "id": "e5746da90411",
-      "title": "Anthropic Deleted 80% of Claude Code's Prompt. It Got Smarter",
-      "summary": "Boris Cherny reveals the Claude Code playbook: delete prompts, build verification loops, and let Opus 5 run unattended coding tasks for weeks.",
-      "url": "https://www.the-ai-corner.com/p/claude-code-playbook-boris-cherny",
-      "source": "The AI Corner",
-      "category": "Novidade",
-      "weight": 7,
-      "published": "2026-08-07T15:11:38+00:00"
-    },
-    {
-      "id": "7e85c1d0a0ec",
-      "title": "The Absurd Math of $20 AI Coding Subs: Codex vs. Claude Code",
-      "summary": "Hey everyone, so I was basically curious what $20/month actually buys you, so I dug into my local session logs (~/.codex and ~/.claude) to calculate the exact token volume, caching hits, and real API value of both tools. The difference in…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vptwlz/the_absurd_math_of_20_ai_coding_subs_codex_vs/",
+      "id": "d2ab33d33369",
+      "title": "I built Popwatch - your personal popcorn popping pal",
+      "summary": "It's staggering how quickly we can knock up an app now. I've long thought about creating some software for determining the perfect time to stop microwave popcorn. Typically the instructions say to wait until 3-4 seconds between pops. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-16T10:49:13+00:00"
+      "published": "2026-08-15T11:19:49+00:00"
     },
     {
-      "id": "828a0d2c2ec7",
-      "title": "Nothing you generate with Claude today is watermarked, and nobody can check for marks anyway. What I found after actually reading it all",
-      "summary": "Honestly, my first reaction to the announcement was mild panic. I reread it three times before it clicked: the marking applies to models launched on or after August 2, and every model you can pick today came out earlier. So nothing you…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpro2f/nothing_you_generate_with_claude_today_is/",
+      "id": "9a99d7d18f88",
+      "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
+      "summary": "Holy shit. Got Opus 4.6 to take over the project and finally the plans made sense. The language, my god Opus 5 speaks in riddles and weird sentence phrasing it is so difficult to understand wtf it is saying half the time without prompting,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-16T08:32:39+00:00"
+      "published": "2026-08-15T10:18:55+00:00"
     },
     {
-      "id": "3b5da6ad8a75",
-      "title": "Just Making' my first Game - Fatherlode",
-      "summary": "For the past 3 weeks, I’ve been making a game with Claude Code called “Fatherlode” (as a reference to the game Motherlode released in 2004 on Miniclip), whose goal is fairly simple: You have a POD, you dig deeper and deeper, you collect…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpr8og/just_making_my_first_game_fatherlode/",
+      "id": "1db0acb14d0f",
+      "title": "Kind of burnt out reviewing every single line claude code writes",
+      "summary": "Hey guys, not sure if this is just me but lately i feel genuinely tired. Not of claude code itself, its great, but of the constant vigilance of reviewing everything it touches because i dont fully trust it yet. Feels like i traded typing…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1voyaox/kind_of_burnt_out_reviewing_every_single_line/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-16T08:06:55+00:00"
+      "published": "2026-08-15T09:24:31+00:00"
     }
   ]
 }
