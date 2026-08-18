@@ -1,7 +1,7 @@
 {
-  "issue": 91,
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T09:38:27.606550-03:00",
+  "issue": 90,
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T09:36:42.480901-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -55,44 +55,44 @@
       "published": "2026-07-25T00:00:00+00:00"
     },
     {
-      "id": "339df0ea4c7d",
-      "title": "docs(everything): fix markdown formatting and instructions file refer…",
-      "summary": "docs(everything): fix markdown formatting and instructions file references",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-07-14T14:35:30+00:00"
+      "id": "e5746da90411",
+      "title": "Anthropic Deleted 80% of Claude Code's Prompt. It Got Smarter",
+      "summary": "Boris Cherny reveals the Claude Code playbook: delete prompts, build verification loops, and let Opus 5 run unattended coding tasks for weeks.",
+      "url": "https://www.the-ai-corner.com/p/claude-code-playbook-boris-cherny",
+      "source": "The AI Corner",
+      "category": "Novidade",
+      "weight": 7,
+      "published": "2026-08-07T15:11:38+00:00"
     },
     {
-      "id": "bdab0023c1e8",
-      "title": "Gaslighting Claude with its own Verbal Tics",
-      "summary": "(TRIGGER WARNING! LOT'S OF CLAUDE-ISMS IN THE FOLLOWING DIALOGUE) The way Claude replies is getting out of hand, I almost can't take it anymore! It was bearable in the past, but the past couple of weeks it feels like it's just been getting…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
+      "id": "bbb949b0ac7a",
+      "title": "Weird statement when new conversation is started",
+      "summary": "This started yesterday. When I start a new conversation, most of the time I am hit something along the line of what the picture shows. It’s not the same every time with some differences, but same gist. I only had two preferences: to keep…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqi47s/weird_statement_when_new_conversation_is_started/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-17T04:21:53+00:00"
+    },
+    {
+      "id": "434c2cbf9c4d",
+      "title": "Will Claude be cheaper!!! Anthropic is in talks to acquire Decart",
+      "summary": "Anthropic is in talks to acquire Decart for around $6 billion roughly a 50% premium over Decart’s ~$4B valuation from May. The more interesting part is the optimization stack of decart Decart has been working on squeezing more performance…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqhazp/will_claude_be_cheaper_anthropic_is_in_talks_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-18T10:52:56+00:00"
+      "published": "2026-08-17T03:40:56+00:00"
     },
     {
-      "id": "75bf676d2881",
-      "title": "Passed the Claude Certified Architect, Professional (CCAR-P) exam. Here’s a breakdown for anyone prepping.",
-      "summary": "Took this yesterday and wanted to write down my impressions while they’re still fresh, mostly for my own reference but figured it’s worth sharing since there isn’t a lot of detailed writeup out there yet. Quick context: I have 4 to 5 years…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrl9ng/passed_the_claude_certified_architect/",
+      "id": "14e78743f142",
+      "title": "What is this behavior where it leaks info about the process of making the feature....INTO THE FEATURE?!!!!!!",
+      "summary": "https://preview.redd.it/mcccdo388ujh1.png?width=525&format=png&auto=webp&s=952203dcbcc808846554deb6e77b6c616235fc17 This is driving me up the wall. First there's the word salad bonanza when working with Claude that gives me a headache. But…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-18T10:26:14+00:00"
-    },
-    {
-      "id": "f75f009e391a",
-      "title": "I built a local gateway so Claude Code can use 48 AI providers. Six months later, it has 45,000 GitHub stars.",
-      "summary": "Initially, it was just a small buggy proxy for claude code, since then it has grown into a substantial project with a nice community whose feedback has been very good for me to improve its reliability and UX. Even got a free $200 Codex sub…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrkg1q/i_built_a_local_gateway_so_claude_code_can_use_48/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-18T09:39:54+00:00"
+      "published": "2026-08-17T01:24:42+00:00"
     },
     {
       "id": "f7d9dd9a8831",
