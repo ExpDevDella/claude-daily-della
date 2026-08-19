@@ -1,7 +1,7 @@
 {
-  "issue": 91,
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T09:38:27.606550-03:00",
+  "issue": 92,
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T09:39:10.352267-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -35,94 +35,94 @@
       "published": "2026-06-09T17:00:05+00:00"
     },
     {
-      "id": "0c70422c90a7",
-      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
-      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
-      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-08-11T00:00:00+00:00"
-    },
-    {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
-    },
-    {
-      "id": "339df0ea4c7d",
-      "title": "docs(everything): fix markdown formatting and instructions file refer…",
-      "summary": "docs(everything): fix markdown formatting and instructions file references",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "id": "71a027280734",
+      "title": "docs(python): note the mcp 1.x requirement in fetch, git, and time",
+      "summary": "docs(python): note the mcp 1.x requirement in fetch, git, and time Users hitting the 2.0.0 startup failure land on the README first. Also makes the three packages qualify for the next release: the release workflow selects packages by…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d811ba11f1243a55bcc2e78d72ddd9b63b25f25e",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-07-14T14:35:30+00:00"
+      "published": "2026-08-18T15:57:03+00:00"
     },
     {
-      "id": "bdab0023c1e8",
-      "title": "Gaslighting Claude with its own Verbal Tics",
-      "summary": "(TRIGGER WARNING! LOT'S OF CLAUDE-ISMS IN THE FOLLOWING DIALOGUE) The way Claude replies is getting out of hand, I almost can't take it anymore! It was bearable in the past, but the past couple of weeks it feels like it's just been getting…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-18T10:52:56+00:00"
-    },
-    {
-      "id": "75bf676d2881",
-      "title": "Passed the Claude Certified Architect, Professional (CCAR-P) exam. Here’s a breakdown for anyone prepping.",
-      "summary": "Took this yesterday and wanted to write down my impressions while they’re still fresh, mostly for my own reference but figured it’s worth sharing since there isn’t a lot of detailed writeup out there yet. Quick context: I have 4 to 5 years…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrl9ng/passed_the_claude_certified_architect/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-18T10:26:14+00:00"
-    },
-    {
-      "id": "f75f009e391a",
-      "title": "I built a local gateway so Claude Code can use 48 AI providers. Six months later, it has 45,000 GitHub stars.",
-      "summary": "Initially, it was just a small buggy proxy for claude code, since then it has grown into a substantial project with a nice community whose feedback has been very good for me to improve its reliability and UX. Even got a free $200 Codex sub…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrkg1q/i_built_a_local_gateway_so_claude_code_can_use_48/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-18T09:39:54+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
+      "id": "c281175039b7",
+      "title": "fix(python): require mcp>=1.29.0,<2 in fetch, git, and time",
+      "summary": "fix(python): require mcp&gt;=1.29.0,&lt;2 in fetch, git, and time mcp 2.0.0 renamed McpError to MCPError and replaced the low-level Server decorators with constructor handlers. The three servers had no upper bound, so a fresh uvx install…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/53dbe83b7a9ee1f597179ea395962383d333eac9",
+      "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "weight": 8,
+      "published": "2026-08-18T15:26:30+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "id": "244058542001",
+      "title": "The Face Behind Anthropic’s Success",
+      "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
+      "url": "https://www.the-ai-corner.com/p/daniela-amodei-anthropic",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-10T13:51:37+00:00"
     },
     {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
+      "id": "2f7e79f5aec1",
+      "title": "Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework",
+      "summary": "&#32; submitted by &#32; /u/ryanmerket [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-19T08:56:54+00:00"
+    },
+    {
+      "id": "07eff502285e",
+      "title": "I hooked Claude Cowork up to an iPhone Home Screen widget",
+      "summary": "I built Glance and designed this widget specifically to give Claude Cowork a place on my Home Screen. It shows Cowork’s current mission, progress, completed tasks, files updated, latest output, context usage, next step, and anything…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsg9p0/i_hooked_claude_cowork_up_to_an_iphone_home/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-19T08:17:43+00:00"
+    },
+    {
+      "id": "cb4dadb45967",
+      "title": "Anthropic has twice the revenue of OpenAI",
+      "summary": "Even if reading things here on Reddit or X makes it seem like everyone is ditching Claude, the rest of the world tells a different story. From the WSJ. &#32; submitted by &#32; /u/Data___Viz [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-19T06:02:12+00:00"
+    },
+    {
+      "id": "400dba2965d1",
+      "title": "Add Claudebin to resources",
+      "summary": "Add Claudebin to resources",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "published": "2026-02-16T09:00:51+00:00"
+    },
+    {
+      "id": "bd9667534072",
+      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
+      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-07-03T01:23:39+00:00"
+    },
+    {
+      "id": "1ccbaa186179",
+      "title": "add system prompt and tools from claude code",
+      "summary": "add system prompt and tools from claude code",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2025-03-01T00:29:08+00:00"
     }
   ]
 }

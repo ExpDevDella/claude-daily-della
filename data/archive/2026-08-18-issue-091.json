@@ -1,0 +1,128 @@
+{
+  "issue": 91,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T09:38:27.606550-03:00",
+  "items": [
+    {
+      "id": "f5e07aca5c01",
+      "title": "How Icelanders are thinking about AI",
+      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
+      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-10T14:30:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00"
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "339df0ea4c7d",
+      "title": "docs(everything): fix markdown formatting and instructions file refer…",
+      "summary": "docs(everything): fix markdown formatting and instructions file references",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/63df72cb15b14ba68d8eaedbe19127d4179131b1",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-07-14T14:35:30+00:00"
+    },
+    {
+      "id": "bdab0023c1e8",
+      "title": "Gaslighting Claude with its own Verbal Tics",
+      "summary": "(TRIGGER WARNING! LOT'S OF CLAUDE-ISMS IN THE FOLLOWING DIALOGUE) The way Claude replies is getting out of hand, I almost can't take it anymore! It was bearable in the past, but the past couple of weeks it feels like it's just been getting…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-18T10:52:56+00:00"
+    },
+    {
+      "id": "75bf676d2881",
+      "title": "Passed the Claude Certified Architect, Professional (CCAR-P) exam. Here’s a breakdown for anyone prepping.",
+      "summary": "Took this yesterday and wanted to write down my impressions while they’re still fresh, mostly for my own reference but figured it’s worth sharing since there isn’t a lot of detailed writeup out there yet. Quick context: I have 4 to 5 years…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrl9ng/passed_the_claude_certified_architect/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-18T10:26:14+00:00"
+    },
+    {
+      "id": "f75f009e391a",
+      "title": "I built a local gateway so Claude Code can use 48 AI providers. Six months later, it has 45,000 GitHub stars.",
+      "summary": "Initially, it was just a small buggy proxy for claude code, since then it has grown into a substantial project with a nice community whose feedback has been very good for me to improve its reliability and UX. Even got a free $200 Codex sub…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrkg1q/i_built_a_local_gateway_so_claude_code_can_use_48/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-18T09:39:54+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
