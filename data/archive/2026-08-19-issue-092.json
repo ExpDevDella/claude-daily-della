@@ -1,7 +1,7 @@
 {
-  "issue": 93,
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T09:40:48.225592-03:00",
+  "issue": 92,
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T09:39:10.352267-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -65,34 +65,34 @@
       "published": "2026-08-10T13:51:37+00:00"
     },
     {
-      "id": "60976586f4bb",
-      "title": "Claude is now stopping even before the actual limit is reached and refusing to do any work until limit is reset",
-      "summary": "Something seems to have changed with Claude’s usage limits. Claude is now refusing to continue working before the displayed weekly limit has actually been reached. In this case, it showed around 90% usage remaining in the current…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtg5qy/claude_is_now_stopping_even_before_the_actual/",
+      "id": "2f7e79f5aec1",
+      "title": "Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework",
+      "summary": "&#32; submitted by &#32; /u/ryanmerket [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-20T10:54:46+00:00"
+      "published": "2026-08-19T08:56:54+00:00"
     },
     {
-      "id": "ba85feae6cdc",
-      "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
-      "summary": "https://github.com/anthropics/claude-code/issues/77136#issuecomment-5310785154 &#32; submitted by &#32; /u/peterxsyd [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
+      "id": "07eff502285e",
+      "title": "I hooked Claude Cowork up to an iPhone Home Screen widget",
+      "summary": "I built Glance and designed this widget specifically to give Claude Cowork a place on my Home Screen. It shows Cowork’s current mission, progress, completed tasks, files updated, latest output, context usage, next step, and anything…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsg9p0/i_hooked_claude_cowork_up_to_an_iphone_home/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-08-20T10:31:55+00:00"
+      "published": "2026-08-19T08:17:43+00:00"
     },
     {
-      "id": "9e606f3faaff",
-      "title": "claude started hallucinating",
-      "summary": "i was playing 20 questions with it cuz i got bored and it started talking about napalm when i did nothing even remotely close to that ever (this was a almost fresh account) anyone know why this happened? &#32; submitted by &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtffi8/claude_started_hallucinating/",
+      "id": "cb4dadb45967",
+      "title": "Anthropic has twice the revenue of OpenAI",
+      "summary": "Even if reading things here on Reddit or X makes it seem like everyone is ditching Claude, the rest of the world tells a different story. From the WSJ. &#32; submitted by &#32; /u/Data___Viz [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-20T10:16:04+00:00"
+      "published": "2026-08-19T06:02:12+00:00"
     },
     {
       "id": "400dba2965d1",
