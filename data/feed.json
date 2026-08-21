@@ -1,7 +1,7 @@
 {
-  "issue": 93,
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T09:40:48.225592-03:00",
+  "issue": 94,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T09:39:20.173738-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -55,74 +55,74 @@
       "published": "2026-08-18T15:26:30+00:00"
     },
     {
-      "id": "244058542001",
-      "title": "The Face Behind Anthropic’s Success",
-      "summary": "Daniela Amodei, Dario&#8217;s sister, is probably the most important person in Anthropic&#8217;s billion dollar success story. And you should know about her.",
-      "url": "https://www.the-ai-corner.com/p/daniela-amodei-anthropic",
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-10T13:51:37+00:00"
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "60976586f4bb",
-      "title": "Claude is now stopping even before the actual limit is reached and refusing to do any work until limit is reset",
-      "summary": "Something seems to have changed with Claude’s usage limits. Claude is now refusing to continue working before the displayed weekly limit has actually been reached. In this case, it showed around 90% usage remaining in the current…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtg5qy/claude_is_now_stopping_even_before_the_actual/",
+      "id": "95a2e07e4503",
+      "title": "Life with Claude nowadays is use all Fable, suffer with Opus before reset",
+      "summary": "https://imgur.com/Est4CAF To be clear I use Claude as my daily driver. Not because it's the greatest, but because Codex, Kimi or Grok is still weaker in anything that requires continuity and creativity. However, the current dynamic between…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vud8sk/life_with_claude_nowadays_is_use_all_fable_suffer/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-21T11:05:32+00:00"
+    },
+    {
+      "id": "655fa5dc3cde",
+      "title": "Opus 5 feels, in a word, hostile",
+      "summary": "It's not even the language, though that contributes. There are several issues: - It *loves* to carp and to poke holes in whatever you give it. Every one of my conversations, bar the simplest ones, eventually devolves into me deflecting and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-21T08:10:43+00:00"
+    },
+    {
+      "id": "7717274d043c",
+      "title": "I love the fun thinking words!",
+      "summary": "When I am using Claude Code, it brings me a lot of joy to see the thinking words go by. Some of my favorites: Contemplating, Combobulating, Confounding, Composing, Compacting, Considering, Computing... I definitely love this kind of cutesy…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu7inv/i_love_the_fun_thinking_words/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-20T10:54:46+00:00"
-    },
-    {
-      "id": "ba85feae6cdc",
-      "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
-      "summary": "https://github.com/anthropics/claude-code/issues/77136#issuecomment-5310785154 &#32; submitted by &#32; /u/peterxsyd [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-20T10:31:55+00:00"
-    },
-    {
-      "id": "9e606f3faaff",
-      "title": "claude started hallucinating",
-      "summary": "i was playing 20 questions with it cuz i got bored and it started talking about napalm when i did nothing even remotely close to that ever (this was a almost fresh account) anyone know why this happened? &#32; submitted by &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtffi8/claude_started_hallucinating/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-20T10:16:04+00:00"
-    },
-    {
-      "id": "400dba2965d1",
-      "title": "Add Claudebin to resources",
-      "summary": "Add Claudebin to resources",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/a8b5b1f421e398d837f8ef3b1fa3eb68bccc5968",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-02-16T09:00:51+00:00"
-    },
-    {
-      "id": "bd9667534072",
-      "title": "Add sophisticated high-fidelity structural metaphor generation prompt",
-      "summary": "Add sophisticated high-fidelity structural metaphor generation prompt Adds a comprehensive prompt for creating metaphors that function as cognitive bridges, enabling genuine reasoning and problem-solving across complex domains. Key…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/7af868b35d8e7cc14ee34cad3d6762c44dfd0c31",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-07-03T01:23:39+00:00"
-    },
-    {
-      "id": "1ccbaa186179",
-      "title": "add system prompt and tools from claude code",
-      "summary": "add system prompt and tools from claude code",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/2be4e1085e8c026cd12ad67fdd2ce61c1c42b2d6",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2025-03-01T00:29:08+00:00"
+      "published": "2026-08-21T05:42:20+00:00"
     }
   ]
 }
