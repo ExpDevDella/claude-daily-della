@@ -1,7 +1,7 @@
 {
-  "issue": 95,
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T09:31:57.452714-03:00",
+  "issue": 94,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T09:39:20.173738-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -95,34 +95,34 @@
       "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "705eacbc1786",
-      "title": "I taught an LLM to win the Cold War",
-      "summary": "Hello everyone! I always thought that Twilight Struggle is the ideal game to test an AI on. It's a board game where the US and the USSR face each other asymmetrically over 40 years of the Cold War. It has imperfect information (every…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv75mb/i_taught_an_llm_to_win_the_cold_war/",
+      "id": "95a2e07e4503",
+      "title": "Life with Claude nowadays is use all Fable, suffer with Opus before reset",
+      "summary": "https://imgur.com/Est4CAF To be clear I use Claude as my daily driver. Not because it's the greatest, but because Codex, Kimi or Grok is still weaker in anything that requires continuity and creativity. However, the current dynamic between…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vud8sk/life_with_claude_nowadays_is_use_all_fable_suffer/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-21T11:05:32+00:00"
+    },
+    {
+      "id": "655fa5dc3cde",
+      "title": "Opus 5 feels, in a word, hostile",
+      "summary": "It's not even the language, though that contributes. There are several issues: - It *loves* to carp and to poke holes in whatever you give it. Every one of my conversations, bar the simplest ones, eventually devolves into me deflecting and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-21T08:10:43+00:00"
+    },
+    {
+      "id": "7717274d043c",
+      "title": "I love the fun thinking words!",
+      "summary": "When I am using Claude Code, it brings me a lot of joy to see the thinking words go by. Some of my favorites: Contemplating, Combobulating, Confounding, Composing, Compacting, Considering, Computing... I definitely love this kind of cutesy…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu7inv/i_love_the_fun_thinking_words/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-22T08:52:48+00:00"
-    },
-    {
-      "id": "abf914812521",
-      "title": "Claude recommends… Claude! Because “quality”",
-      "summary": "This is your daily reminder that models have bias. I asked Claude to extend a feature of a hobby project. The project already had an OpenAI key it used for another feature. Claude found the key and implementation, weighed the options and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv6nlt/claude_recommends_claude_because_quality/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-22T08:22:16+00:00"
-    },
-    {
-      "id": "d7b32fa45e48",
-      "title": "One long Claude Code thread vs parallel sessions, what's actually better for your workflow and where each one falls apart",
-      "summary": "Would be curious about how you interact with Claude Code in reality. Is it one long thread or parallel sessions? Long single thread: Pros: - Claude remembers the whole history of all the decisions - It's cheaper, caches better Cons: - It…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv3cln/one_long_claude_code_thread_vs_parallel_sessions/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-08-22T05:15:03+00:00"
+      "published": "2026-08-21T05:42:20+00:00"
     }
   ]
 }
