@@ -1,7 +1,7 @@
 {
-  "issue": 96,
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T09:32:49.655296-03:00",
+  "issue": 95,
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T09:31:57.452714-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -85,44 +85,44 @@
       "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "00d87416a3c2",
-      "title": "The Claude Prompts That Close Rounds in 2026",
-      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
-      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-14T16:06:14+00:00"
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "1839a6ea5049",
-      "title": "you guys wanted the repo , so here it is.",
-      "summary": "built this with Claude Code over the last little while. started as a curiosity and turned into a proper fun build. it's an Obsidian plugin that turns your entire vault into a living 3D galaxy. every note becomes a star, folders become…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw4cc2/you_guys_wanted_the_repo_so_here_it_is/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-08-23T11:07:12+00:00"
-    },
-    {
-      "id": "630a2cff3033",
-      "title": "Why do most tech subs seem to hate Claude so much?",
-      "summary": "I’m a senior developer working at a big tech company. Earlier this year, my company onboarded Claude for us to use at work. I was hesitant at first, but I was quickly impressed by how good Claude actually is. I’m now a full-stack developer…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw1gfy/why_do_most_tech_subs_seem_to_hate_claude_so_much/",
+      "id": "705eacbc1786",
+      "title": "I taught an LLM to win the Cold War",
+      "summary": "Hello everyone! I always thought that Twilight Struggle is the ideal game to test an AI on. It's a board game where the US and the USSR face each other asymmetrically over 40 years of the Cold War. It has imperfect information (every…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv75mb/i_taught_an_llm_to_win_the_cold_war/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-23T08:21:17+00:00"
+      "published": "2026-08-22T08:52:48+00:00"
     },
     {
-      "id": "bcd79857b691",
-      "title": "Anthropic uploaded 8+ hours of talks from \"Code w/ Claude\" SF — all 19 videos (free on YouTube)",
-      "summary": "Anthropic posted the full session recordings from their Code w/ Claude event in San Francisco — about 8 hours and 23 minutes across 19 videos. Includes keynotes, workshops, and demos featuring Dario & Daniela Amodei, Boris Cherny (creator…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw0osz/anthropic_uploaded_8_hours_of_talks_from_code_w/",
+      "id": "abf914812521",
+      "title": "Claude recommends… Claude! Because “quality”",
+      "summary": "This is your daily reminder that models have bias. I asked Claude to extend a feature of a hobby project. The project already had an OpenAI key it used for another feature. Claude found the key and implementation, weighed the options and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv6nlt/claude_recommends_claude_because_quality/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-23T07:35:51+00:00"
+      "published": "2026-08-22T08:22:16+00:00"
+    },
+    {
+      "id": "d7b32fa45e48",
+      "title": "One long Claude Code thread vs parallel sessions, what's actually better for your workflow and where each one falls apart",
+      "summary": "Would be curious about how you interact with Claude Code in reality. Is it one long thread or parallel sessions? Long single thread: Pros: - Claude remembers the whole history of all the decisions - It's cheaper, caches better Cons: - It…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv3cln/one_long_claude_code_thread_vs_parallel_sessions/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-22T05:15:03+00:00"
     }
   ]
 }
