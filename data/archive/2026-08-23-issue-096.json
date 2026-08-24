@@ -1,7 +1,7 @@
 {
-  "issue": 97,
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T09:42:09.737477-03:00",
+  "issue": 96,
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T09:32:49.655296-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -95,34 +95,34 @@
       "published": "2026-08-14T16:06:14+00:00"
     },
     {
-      "id": "cf912fd9a7c3",
-      "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
-      "summary": "TLDR With high confidence, this is how the Max x5 and Max x20 subscriptions compute usage. All point values are the unique set that makes the &quot;100×&quot; principle below exact; measured uncertainty bands in brackets. Values include…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
+      "id": "1839a6ea5049",
+      "title": "you guys wanted the repo , so here it is.",
+      "summary": "built this with Claude Code over the last little while. started as a curiosity and turned into a proper fun build. it's an Obsidian plugin that turns your entire vault into a living 3D galaxy. every note becomes a star, folders become…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw4cc2/you_guys_wanted_the_repo_so_here_it_is/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-08-24T11:49:04+00:00"
+      "published": "2026-08-23T11:07:12+00:00"
     },
     {
-      "id": "3d59726bfee3",
-      "title": "Claude speaks my language. I’m not sure it thinks in it.",
-      "summary": "I use Claude in both English and Spanish, and I’ve been thinking about something that has less to do with how good its Spanish is and more with what comes with the language. Say I have a problem with my boss and ask Claude what to do. It…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vwxqv5/claude_speaks_my_language_im_not_sure_it_thinks/",
+      "id": "630a2cff3033",
+      "title": "Why do most tech subs seem to hate Claude so much?",
+      "summary": "I’m a senior developer working at a big tech company. Earlier this year, my company onboarded Claude for us to use at work. I was hesitant at first, but I was quickly impressed by how good Claude actually is. I’m now a full-stack developer…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw1gfy/why_do_most_tech_subs_seem_to_hate_claude_so_much/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-24T09:21:14+00:00"
+      "published": "2026-08-23T08:21:17+00:00"
     },
     {
-      "id": "21093706ebc4",
-      "title": "23% of 5-hour limit for \"server is busy\"",
-      "summary": "https://preview.redd.it/loq4a8gwp9lh1.png?width=1004&format=png&auto=webp&s=e715094111ca9730d8ba5f9c9c5724ffffbfc86a Love this, trying to make the prompts as efficient as possible, so Claude decides to take my tokens and not do anything :)…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vwv0bq/23_of_5hour_limit_for_server_is_busy/",
+      "id": "bcd79857b691",
+      "title": "Anthropic uploaded 8+ hours of talks from \"Code w/ Claude\" SF — all 19 videos (free on YouTube)",
+      "summary": "Anthropic posted the full session recordings from their Code w/ Claude event in San Francisco — about 8 hours and 23 minutes across 19 videos. Includes keynotes, workshops, and demos featuring Dario & Daniela Amodei, Boris Cherny (creator…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw0osz/anthropic_uploaded_8_hours_of_talks_from_code_w/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-24T06:38:13+00:00"
+      "published": "2026-08-23T07:35:51+00:00"
     }
   ]
 }
