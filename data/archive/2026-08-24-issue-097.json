@@ -1,7 +1,7 @@
 {
-  "issue": 98,
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T09:40:35.462278-03:00",
+  "issue": 97,
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T09:42:09.737477-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -65,64 +65,64 @@
       "published": "2026-08-11T00:00:00+00:00"
     },
     {
-      "id": "5944f6a5ed65",
-      "title": "I’m starting to wonder if Claude sometimes answers too quickly for our own good",
-      "summary": "I came across a psychology experiment the other day that has made me rethink something about how I use Claude. The experiment used the card trick in the image. There were six red-backed cards and a prediction in the middle. You chose one…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxune7/im_starting_to_wonder_if_claude_sometimes_answers/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-08-25T09:13:55+00:00"
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
     },
     {
-      "id": "5f1e830e36e3",
-      "title": "Claude thinking in Russian",
-      "summary": "Does Claude think in Russian while building something? Have you experienced this? &#32; submitted by &#32; /u/Good_Sapien [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "00d87416a3c2",
+      "title": "The Claude Prompts That Close Rounds in 2026",
+      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
+      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-14T16:06:14+00:00"
+    },
+    {
+      "id": "cf912fd9a7c3",
+      "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
+      "summary": "TLDR With high confidence, this is how the Max x5 and Max x20 subscriptions compute usage. All point values are the unique set that makes the &quot;100×&quot; principle below exact; measured uncertainty bands in brackets. Values include…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-25T07:03:02+00:00"
+      "published": "2026-08-24T11:49:04+00:00"
     },
     {
-      "id": "3ca24212c194",
-      "title": "Claude Opus 5 makes a cup of coffee",
-      "summary": "#12 Kitchen S3 is done and merged. coffee is in the mug, spoon removed, counter wiped, working tree nominally clean. The gate: one sip at operating temperature — PASS. 312 ml across one ceramic vessel, zero spills, 6 minutes. The cup I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxscwm/claude_opus_5_makes_a_cup_of_coffee/",
+      "id": "3d59726bfee3",
+      "title": "Claude speaks my language. I’m not sure it thinks in it.",
+      "summary": "I use Claude in both English and Spanish, and I’ve been thinking about something that has less to do with how good its Spanish is and more with what comes with the language. Say I have a problem with my boss and ask Claude what to do. It…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vwxqv5/claude_speaks_my_language_im_not_sure_it_thinks/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-08-25T06:57:19+00:00"
+      "published": "2026-08-24T09:21:14+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
-    },
-    {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
+      "id": "21093706ebc4",
+      "title": "23% of 5-hour limit for \"server is busy\"",
+      "summary": "https://preview.redd.it/loq4a8gwp9lh1.png?width=1004&format=png&auto=webp&s=e715094111ca9730d8ba5f9c9c5724ffffbfc86a Love this, trying to make the prompts as efficient as possible, so Claude decides to take my tokens and not do anything :)…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vwv0bq/23_of_5hour_limit_for_server_is_busy/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-24T06:38:13+00:00"
     }
   ]
 }
