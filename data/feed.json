@@ -1,7 +1,7 @@
 {
-  "issue": 98,
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T09:40:35.462278-03:00",
+  "issue": 99,
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T09:43:56.841137-03:00",
   "items": [
     {
       "id": "f5e07aca5c01",
@@ -35,64 +35,54 @@
       "published": "2026-06-09T17:00:05+00:00"
     },
     {
-      "id": "71a027280734",
-      "title": "docs(python): note the mcp 1.x requirement in fetch, git, and time",
-      "summary": "docs(python): note the mcp 1.x requirement in fetch, git, and time Users hitting the 2.0.0 startup failure land on the README first. Also makes the three packages qualify for the next release: the release workflow selects packages by…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d811ba11f1243a55bcc2e78d72ddd9b63b25f25e",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-08-18T15:57:03+00:00"
-    },
-    {
-      "id": "c281175039b7",
-      "title": "fix(python): require mcp>=1.29.0,<2 in fetch, git, and time",
-      "summary": "fix(python): require mcp&gt;=1.29.0,&lt;2 in fetch, git, and time mcp 2.0.0 renamed McpError to MCPError and replaced the low-level Server decorators with constructor handlers. The three servers had no upper bound, so a fresh uvx install…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/53dbe83b7a9ee1f597179ea395962383d333eac9",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-08-18T15:26:30+00:00"
-    },
-    {
-      "id": "0c70422c90a7",
-      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
-      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
-      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-08-11T00:00:00+00:00"
-    },
-    {
-      "id": "5944f6a5ed65",
-      "title": "I’m starting to wonder if Claude sometimes answers too quickly for our own good",
-      "summary": "I came across a psychology experiment the other day that has made me rethink something about how I use Claude. The experiment used the card trick in the image. There were six red-backed cards and a prediction in the middle. You chose one…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxune7/im_starting_to_wonder_if_claude_sometimes_answers/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-08-25T09:13:55+00:00"
-    },
-    {
-      "id": "5f1e830e36e3",
-      "title": "Claude thinking in Russian",
-      "summary": "Does Claude think in Russian while building something? Have you experienced this? &#32; submitted by &#32; /u/Good_Sapien [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
+      "id": "d1796fb39739",
+      "title": "Two 5x account vs. one 20x account in Claude",
+      "summary": "I have recently researched that having a 20x account does NOT give 20x weekly limit vs. the pro account T_T Was wondering if anyone has experience on whether handling two 5x account would give you better mileage for weekly limit or is it…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-25T07:03:02+00:00"
+      "published": "2026-08-26T08:50:26+00:00"
     },
     {
-      "id": "3ca24212c194",
-      "title": "Claude Opus 5 makes a cup of coffee",
-      "summary": "#12 Kitchen S3 is done and merged. coffee is in the mug, spoon removed, counter wiped, working tree nominally clean. The gate: one sip at operating temperature — PASS. 312 ml across one ceramic vessel, zero spills, 6 minutes. The cup I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxscwm/claude_opus_5_makes_a_cup_of_coffee/",
+      "id": "cba0e59bcba2",
+      "title": "Setting to stop Claude over using AI-obvious phrases",
+      "summary": "Here is a list of the 100 most commonly (over)used phrases by AI. I have this block of text in my Claude Settings so it should try and avoid using it as much as possible: &quot;Please do not use em-dashes nor any other trope commonly…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyr3bi/setting_to_stop_claude_over_using_aiobvious/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-26T08:26:45+00:00"
+    },
+    {
+      "id": "09da77270c69",
+      "title": "has anyone actually ever suffered a prompt injection attack?",
+      "summary": "as per title - curious to hear from anyone that's suffered or had their own AI catch a prompt injection attack. I am well aware of the risk, it's just that I have not really seen any news of substantial (monetary) damage from such a attack…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyp1di/has_anyone_actually_ever_suffered_a_prompt/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-25T06:57:19+00:00"
+      "published": "2026-08-26T06:27:50+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
     },
     {
       "id": "f7d9dd9a8831",
@@ -103,6 +93,16 @@
       "category": "MCP",
       "weight": 5,
       "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
     },
     {
       "id": "fbc19a0d1e1e",

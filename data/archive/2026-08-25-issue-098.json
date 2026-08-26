@@ -1,0 +1,128 @@
+{
+  "issue": 98,
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T09:40:35.462278-03:00",
+  "items": [
+    {
+      "id": "f5e07aca5c01",
+      "title": "How Icelanders are thinking about AI",
+      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
+      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-10T14:30:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00"
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "71a027280734",
+      "title": "docs(python): note the mcp 1.x requirement in fetch, git, and time",
+      "summary": "docs(python): note the mcp 1.x requirement in fetch, git, and time Users hitting the 2.0.0 startup failure land on the README first. Also makes the three packages qualify for the next release: the release workflow selects packages by…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d811ba11f1243a55bcc2e78d72ddd9b63b25f25e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-18T15:57:03+00:00"
+    },
+    {
+      "id": "c281175039b7",
+      "title": "fix(python): require mcp>=1.29.0,<2 in fetch, git, and time",
+      "summary": "fix(python): require mcp&gt;=1.29.0,&lt;2 in fetch, git, and time mcp 2.0.0 renamed McpError to MCPError and replaced the low-level Server decorators with constructor handlers. The three servers had no upper bound, so a fresh uvx install…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/53dbe83b7a9ee1f597179ea395962383d333eac9",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-18T15:26:30+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "5944f6a5ed65",
+      "title": "I’m starting to wonder if Claude sometimes answers too quickly for our own good",
+      "summary": "I came across a psychology experiment the other day that has made me rethink something about how I use Claude. The experiment used the card trick in the image. There were six red-backed cards and a prediction in the middle. You chose one…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxune7/im_starting_to_wonder_if_claude_sometimes_answers/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-25T09:13:55+00:00"
+    },
+    {
+      "id": "5f1e830e36e3",
+      "title": "Claude thinking in Russian",
+      "summary": "Does Claude think in Russian while building something? Have you experienced this? &#32; submitted by &#32; /u/Good_Sapien [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-25T07:03:02+00:00"
+    },
+    {
+      "id": "3ca24212c194",
+      "title": "Claude Opus 5 makes a cup of coffee",
+      "summary": "#12 Kitchen S3 is done and merged. coffee is in the mug, spoon removed, counter wiped, working tree nominally clean. The gate: one sip at operating temperature — PASS. 312 ml across one ceramic vessel, zero spills, 6 minutes. The cup I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxscwm/claude_opus_5_makes_a_cup_of_coffee/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-25T06:57:19+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
