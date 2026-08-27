@@ -1,8 +1,29 @@
 {
-  "issue": 99,
-  "date": "2026-08-26",
-  "generated_at": "2026-08-26T09:43:56.841137-03:00",
+  "issue": 100,
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:43:19.759237-03:00",
   "items": [
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00",
+      "featured": true
+    },
+    {
+      "id": "6b1d02af48d3",
+      "title": "AI models can now help run physical science experiments",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS began as a collaboration between Anthropic’s Beneficial Deployments team and HHMI…",
+      "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T17:54:32+00:00"
+    },
     {
       "id": "f5e07aca5c01",
       "title": "How Icelanders are thinking about AI",
@@ -11,58 +32,67 @@
       "source": "YouTube - Anthropic",
       "category": "Video",
       "weight": 9,
-      "published": "2026-08-10T14:30:52+00:00",
-      "featured": true
+      "published": "2026-08-10T14:30:52+00:00"
     },
     {
-      "id": "024a4cae0ae6",
-      "title": "The different levels of how Claude thinks",
-      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
-      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-07-06T16:59:51+00:00"
+      "id": "71a027280734",
+      "title": "docs(python): note the mcp 1.x requirement in fetch, git, and time",
+      "summary": "docs(python): note the mcp 1.x requirement in fetch, git, and time Users hitting the 2.0.0 startup failure land on the README first. Also makes the three packages qualify for the next release: the release workflow selects packages by…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d811ba11f1243a55bcc2e78d72ddd9b63b25f25e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-18T15:57:03+00:00"
     },
     {
-      "id": "9d62ac82355a",
-      "title": "Introducing Claude Fable 5",
-      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
-      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-06-09T17:00:05+00:00"
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
     },
     {
-      "id": "d1796fb39739",
-      "title": "Two 5x account vs. one 20x account in Claude",
-      "summary": "I have recently researched that having a 20x account does NOT give 20x weekly limit vs. the pro account T_T Was wondering if anyone has experience on whether handling two 5x account would give you better mileage for weekly limit or is it…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/",
+      "id": "7f51ef245ee2",
+      "title": "I think we’re starting to see the downside of everyone being able to build",
+      "summary": "I’ve been thinking about this quite a lot lately, partly because I’m living it myself, and I’m curious if anyone else here is starting to feel the same. Claude Code has made it ridiculously easy to turn an idea into something real. I don’t…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w047gy/i_think_were_starting_to_see_the_downside_of/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-26T08:50:26+00:00"
+      "published": "2026-08-27T19:42:23+00:00"
     },
     {
-      "id": "cba0e59bcba2",
-      "title": "Setting to stop Claude over using AI-obvious phrases",
-      "summary": "Here is a list of the 100 most commonly (over)used phrases by AI. I have this block of text in my Claude Settings so it should try and avoid using it as much as possible: &quot;Please do not use em-dashes nor any other trope commonly…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyr3bi/setting_to_stop_claude_over_using_aiobvious/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-08-26T08:26:45+00:00"
-    },
-    {
-      "id": "09da77270c69",
-      "title": "has anyone actually ever suffered a prompt injection attack?",
-      "summary": "as per title - curious to hear from anyone that's suffered or had their own AI catch a prompt injection attack. I am well aware of the risk, it's just that I have not really seen any news of substantial (monetary) damage from such a attack…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyp1di/has_anyone_actually_ever_suffered_a_prompt/",
+      "id": "45120ce8f45c",
+      "title": "No matter how many times I tell Claude to stop doing something it keeps doing it. This is a daily occurrence it’s getting very frustrating.",
+      "summary": "I use Claude for data analysis, very large data sets. Every single day without fail Fable, Opus, any of them always try to downgrade my data. I have made it rule number 1, put it at the top of every reference documents, made them sign a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w02wb7/no_matter_how_many_times_i_tell_claude_to_stop/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-08-26T06:27:50+00:00"
+      "published": "2026-08-27T18:55:00+00:00"
+    },
+    {
+      "id": "cafa254dfaf9",
+      "title": "I asked Claude to review my personal website and brainstorm its URL, it's answer's will (not) shock you.",
+      "summary": "I've been putting together a small website that's basically an extended CV of my journalism and research projects. I got Claude to read my web-copy and brainstorm ideas for the web-address that are a bit more interesting than…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w00ohj/i_asked_claude_to_review_my_personal_website_and/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-27T17:36:17+00:00"
+    },
+    {
+      "id": "839fcc35777e",
+      "title": "Add resource: seedeep (#2644)",
+      "summary": "Add resource: seedeep (#2644) Category: Observability & Monitoring Author: duqaXxX From issue: #2636 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9215686f56a7d831301e6eca8eac89437aa61f4",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-27T03:54:08+00:00"
     },
     {
       "id": "fd4ec85b609c",
@@ -85,16 +115,6 @@
       "published": "2026-07-10T09:03:02+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
       "id": "a9b28e3ea8a6",
       "title": "Add: Custom AI Operating System for a Small Business prompt",
       "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
@@ -103,26 +123,6 @@
       "category": "Dica",
       "weight": 5,
       "published": "2026-05-18T15:40:33+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
-    },
-    {
-      "id": "9dd6c71813ef",
-      "title": "What Is Claude? Anthropic Doesn't Know, Either",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
-      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }

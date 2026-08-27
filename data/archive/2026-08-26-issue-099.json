@@ -1,0 +1,128 @@
+{
+  "issue": 99,
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T09:43:56.841137-03:00",
+  "items": [
+    {
+      "id": "f5e07aca5c01",
+      "title": "How Icelanders are thinking about AI",
+      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
+      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-10T14:30:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "024a4cae0ae6",
+      "title": "The different levels of how Claude thinks",
+      "summary": "Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our…",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-07-06T16:59:51+00:00"
+    },
+    {
+      "id": "9d62ac82355a",
+      "title": "Introducing Claude Fable 5",
+      "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days,…",
+      "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-06-09T17:00:05+00:00"
+    },
+    {
+      "id": "d1796fb39739",
+      "title": "Two 5x account vs. one 20x account in Claude",
+      "summary": "I have recently researched that having a 20x account does NOT give 20x weekly limit vs. the pro account T_T Was wondering if anyone has experience on whether handling two 5x account would give you better mileage for weekly limit or is it…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-26T08:50:26+00:00"
+    },
+    {
+      "id": "cba0e59bcba2",
+      "title": "Setting to stop Claude over using AI-obvious phrases",
+      "summary": "Here is a list of the 100 most commonly (over)used phrases by AI. I have this block of text in my Claude Settings so it should try and avoid using it as much as possible: &quot;Please do not use em-dashes nor any other trope commonly…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyr3bi/setting_to_stop_claude_over_using_aiobvious/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-26T08:26:45+00:00"
+    },
+    {
+      "id": "09da77270c69",
+      "title": "has anyone actually ever suffered a prompt injection attack?",
+      "summary": "as per title - curious to hear from anyone that's suffered or had their own AI catch a prompt injection attack. I am well aware of the risk, it's just that I have not really seen any news of substantial (monetary) damage from such a attack…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyp1di/has_anyone_actually_ever_suffered_a_prompt/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-26T06:27:50+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
+    }
+  ]
+}
