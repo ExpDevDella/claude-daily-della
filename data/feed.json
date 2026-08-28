@@ -1,8 +1,19 @@
 {
-  "issue": 100,
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T18:43:19.759237-03:00",
+  "issue": 101,
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T18:42:07.189999-03:00",
   "items": [
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00",
+      "featured": true
+    },
     {
       "id": "b5ae37610f9c",
       "title": "We're building a way for AI models to connect to any device and run real experiments.",
@@ -11,8 +22,7 @@
       "source": "YouTube - Anthropic",
       "category": "Video",
       "weight": 9,
-      "published": "2026-08-27T19:42:35+00:00",
-      "featured": true
+      "published": "2026-08-27T19:42:35+00:00"
     },
     {
       "id": "6b1d02af48d3",
@@ -25,24 +35,44 @@
       "published": "2026-08-27T17:54:32+00:00"
     },
     {
-      "id": "f5e07aca5c01",
-      "title": "How Icelanders are thinking about AI",
-      "summary": "In late 2025, Iceland’s government launched one of the world’s first national AI education pilots, giving teachers who volunteered access to AI tools. We visited Iceland to find out how people are thinking about AI. More information about…",
-      "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-10T14:30:52+00:00"
+      "id": "339174352c49",
+      "title": "fix(filesystem): create_directory doesn't create parent directories (…",
+      "summary": "fix(filesystem): create_directory doesn't create parent directories (#4631) validatePath()'s ENOENT fallback checked only the immediate parent directory before allowing a new path through. Creating a path with more than one missing level…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/cda92bdaacd558192fedf1a60d2bb27510792388",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-28T17:58:19+00:00"
     },
     {
-      "id": "71a027280734",
-      "title": "docs(python): note the mcp 1.x requirement in fetch, git, and time",
-      "summary": "docs(python): note the mcp 1.x requirement in fetch, git, and time Users hitting the 2.0.0 startup failure land on the README first. Also makes the three packages qualify for the next release: the release workflow selects packages by…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d811ba11f1243a55bcc2e78d72ddd9b63b25f25e",
+      "id": "4d018b0aa80d",
+      "title": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised …",
+      "summary": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array (#4652) * fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array commit 1cdf806d (#3533) wrapped…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d6402efee6cc6446b23adbcb63051f9dc8612be5",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-08-18T15:57:03+00:00"
+      "published": "2026-08-28T17:57:34+00:00"
+    },
+    {
+      "id": "47e8d022a702",
+      "title": "fix(sequentialthinking): read server version from package.json (#4576)",
+      "summary": "fix(sequentialthinking): read server version from package.json (#4576) * fix(sequentialthinking): read server version from package.json Replace the hardcoded 0.2.0 so initialize serverInfo tracks the package version (0.6.2 in-tree; CalVer…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/40a8de87ed31a307c2a85cae21a78da9b7c1caf8",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-28T17:01:24+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
     },
     {
       "id": "8ee790d10856",
@@ -55,34 +85,34 @@
       "published": "2026-08-26T14:42:51+00:00"
     },
     {
-      "id": "7f51ef245ee2",
-      "title": "I think we’re starting to see the downside of everyone being able to build",
-      "summary": "I’ve been thinking about this quite a lot lately, partly because I’m living it myself, and I’m curious if anyone else here is starting to feel the same. Claude Code has made it ridiculously easy to turn an idea into something real. I don’t…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w047gy/i_think_were_starting_to_see_the_downside_of/",
+      "id": "cbde72f50915",
+      "title": "Dario Amodei says Anthropic is 'not interested in destroying anyone' after Claude Cowork sparked SaaS fears",
+      "summary": "&#32; submitted by &#32; /u/businessinsider [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w10ef9/dario_amodei_says_anthropic_is_not_interested_in/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-27T19:42:23+00:00"
+      "published": "2026-08-28T19:32:59+00:00"
     },
     {
-      "id": "45120ce8f45c",
-      "title": "No matter how many times I tell Claude to stop doing something it keeps doing it. This is a daily occurrence it’s getting very frustrating.",
-      "summary": "I use Claude for data analysis, very large data sets. Every single day without fail Fable, Opus, any of them always try to downgrade my data. I have made it rule number 1, put it at the top of every reference documents, made them sign a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w02wb7/no_matter_how_many_times_i_tell_claude_to_stop/",
+      "id": "727d26d5d47a",
+      "title": "Is it better to use Claude Code in Visual Studio Code or in the terminal?",
+      "summary": "Hey everyone! I’ve recently started using Claude Code more seriously, and I’m trying to figure out what the better workflow is in the long run: using Claude Code directly inside VS Code, or running it separately from the terminal . I can…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w0xhp3/is_it_better_to_use_claude_code_in_visual_studio/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-08-27T18:55:00+00:00"
+      "published": "2026-08-28T17:46:47+00:00"
     },
     {
-      "id": "cafa254dfaf9",
-      "title": "I asked Claude to review my personal website and brainstorm its URL, it's answer's will (not) shock you.",
-      "summary": "I've been putting together a small website that's basically an extended CV of my journalism and research projects. I got Claude to read my web-copy and brainstorm ideas for the web-address that are a bit more interesting than…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w00ohj/i_asked_claude_to_review_my_personal_website_and/",
+      "id": "73694973782f",
+      "title": "How I actually use Claude daily, and none of it is coding",
+      "summary": "Most workflow posts here are about Claude Code, so here's the boring non-coder version that quietly saves me an hour or two most days. Meeting recaps. I paste the raw transcript and ask for &quot;decisions, owners, and open questions,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w0wcvi/how_i_actually_use_claude_daily_and_none_of_it_is/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-08-27T17:36:17+00:00"
+      "published": "2026-08-28T17:05:25+00:00"
     },
     {
       "id": "839fcc35777e",
@@ -93,36 +123,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-08-27T03:54:08+00:00"
-    },
-    {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
-    },
-    {
-      "id": "bbb6dd2f3dd2",
-      "title": "Add Smart Dev task template as standalone annotated file",
-      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-07-10T09:03:02+00:00"
-    },
-    {
-      "id": "a9b28e3ea8a6",
-      "title": "Add: Custom AI Operating System for a Small Business prompt",
-      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }
