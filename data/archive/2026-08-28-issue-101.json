@@ -1,7 +1,7 @@
 {
-  "issue": 102,
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T13:09:59.360776-03:00",
+  "issue": 101,
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T18:42:07.189999-03:00",
   "items": [
     {
       "id": "8eda2df95dfb",
@@ -75,54 +75,54 @@
       "published": "2026-08-11T00:00:00+00:00"
     },
     {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
-    },
-    {
-      "id": "0c826db9d46a",
-      "title": "How to 8x Your Code Output Using Context Engineering",
-      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
-      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-20T14:47:41+00:00"
+      "published": "2026-08-26T14:42:51+00:00"
     },
     {
-      "id": "1f83cb3154eb",
-      "title": "Opus 5 Has Been Great For Me/When I Still Use Fable",
-      "summary": "Honestly, Ive absolutely loved Opus 5... Saying that I always tell it EXACTLY what to do. It has come up with better outputs than Fable in almost everything except writing quality for me... I only use Fable when I dont want to have to tell…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1q0pw/opus_5_has_been_great_for_mewhen_i_still_use_fable/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-29T15:49:27+00:00"
-    },
-    {
-      "id": "9a403ecbfa26",
-      "title": "Adding multiple accounts in desktop app",
-      "summary": "Build an app which runs several Claude Desktop accounts side by side on macOS. Each account has its own launchable app with its own data directory and can share each other's claude code chat history. Can also start sessions (5 hr limit)…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1l0b0/adding_multiple_accounts_in_desktop_app/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-08-29T12:15:43+00:00"
-    },
-    {
-      "id": "4f862707a1f3",
-      "title": "Claude Code drives 12 iOS simulators simultaneously on my M1 Pro MacBook with 16 GB Ram",
-      "summary": "I wanted to see how far I could push parallel Claude Code sessions on my M1 Pro MacBook with 16 GB RAM. This is 12 Claude Code agents running simultaneously, each controlling its own iOS simulator. The main bottleneck was simulator…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1khpc/claude_code_drives_12_ios_simulators/",
+      "id": "cbde72f50915",
+      "title": "Dario Amodei says Anthropic is 'not interested in destroying anyone' after Claude Cowork sparked SaaS fears",
+      "summary": "&#32; submitted by &#32; /u/businessinsider [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w10ef9/dario_amodei_says_anthropic_is_not_interested_in/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-29T11:50:02+00:00"
+      "published": "2026-08-28T19:32:59+00:00"
+    },
+    {
+      "id": "727d26d5d47a",
+      "title": "Is it better to use Claude Code in Visual Studio Code or in the terminal?",
+      "summary": "Hey everyone! I’ve recently started using Claude Code more seriously, and I’m trying to figure out what the better workflow is in the long run: using Claude Code directly inside VS Code, or running it separately from the terminal . I can…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w0xhp3/is_it_better_to_use_claude_code_in_visual_studio/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-28T17:46:47+00:00"
+    },
+    {
+      "id": "73694973782f",
+      "title": "How I actually use Claude daily, and none of it is coding",
+      "summary": "Most workflow posts here are about Claude Code, so here's the boring non-coder version that quietly saves me an hour or two most days. Meeting recaps. I paste the raw transcript and ask for &quot;decisions, owners, and open questions,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w0wcvi/how_i_actually_use_claude_daily_and_none_of_it_is/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-28T17:05:25+00:00"
+    },
+    {
+      "id": "839fcc35777e",
+      "title": "Add resource: seedeep (#2644)",
+      "summary": "Add resource: seedeep (#2644) Category: Observability & Monitoring Author: duqaXxX From issue: #2636 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9215686f56a7d831301e6eca8eac89437aa61f4",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-27T03:54:08+00:00"
     }
   ]
 }
