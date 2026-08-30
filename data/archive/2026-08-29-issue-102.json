@@ -1,7 +1,7 @@
 {
-  "issue": 103,
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T12:59:23.131552-03:00",
+  "issue": 102,
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:09:59.360776-03:00",
   "items": [
     {
       "id": "8eda2df95dfb",
@@ -95,34 +95,34 @@
       "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "2dee45d872d9",
-      "title": "What's the dumbest thing you use AI for?",
-      "summary": "All I see are posts of solo-preneurs lying about how much money their vibe coded startups are making For me, it's probably having Claude convert the oven cooking instructions on frozen food to air fryer times. Yeah I could google it and do…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
+      "id": "1f83cb3154eb",
+      "title": "Opus 5 Has Been Great For Me/When I Still Use Fable",
+      "summary": "Honestly, Ive absolutely loved Opus 5... Saying that I always tell it EXACTLY what to do. It has come up with better outputs than Fable in almost everything except writing quality for me... I only use Fable when I dont want to have to tell…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1q0pw/opus_5_has_been_great_for_mewhen_i_still_use_fable/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-29T15:49:27+00:00"
+    },
+    {
+      "id": "9a403ecbfa26",
+      "title": "Adding multiple accounts in desktop app",
+      "summary": "Build an app which runs several Claude Desktop accounts side by side on macOS. Each account has its own launchable app with its own data directory and can share each other's claude code chat history. Can also start sessions (5 hr limit)…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1l0b0/adding_multiple_accounts_in_desktop_app/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-08-29T12:15:43+00:00"
+    },
+    {
+      "id": "4f862707a1f3",
+      "title": "Claude Code drives 12 iOS simulators simultaneously on my M1 Pro MacBook with 16 GB Ram",
+      "summary": "I wanted to see how far I could push parallel Claude Code sessions on my M1 Pro MacBook with 16 GB RAM. This is 12 Claude Code agents running simultaneously, each controlling its own iOS simulator. The main bottleneck was simulator…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1khpc/claude_code_drives_12_ios_simulators/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-30T14:59:45+00:00"
-    },
-    {
-      "id": "b7d2d59a21b0",
-      "title": "What’s a good useful MCP you connected to that brings you real value?",
-      "summary": "Looking to improve my workflows and wondering what other might do that’s useful In giving Claude just things that help with day to day things &#32; submitted by &#32; /u/Dense-Map-406 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
-      "weight": 6,
-      "published": "2026-08-30T12:52:00+00:00"
-    },
-    {
-      "id": "64eea285a04d",
-      "title": "I built a menu bar app that watches Claude Code and alerts me when it needs input (Gerald the pigeon coos at you)",
-      "summary": "I kept missing the moment Claude Code needed permission approval or my input - tabbed away, came back 10 minutes later to a stalled session. Built CooCoo: sits in your Mac menu bar, watches Claude Code's hooks, and alerts you (sound +…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2gnvs/i_built_a_menu_bar_app_that_watches_claude_code/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-08-30T12:46:47+00:00"
+      "published": "2026-08-29T11:50:02+00:00"
     }
   ]
 }
