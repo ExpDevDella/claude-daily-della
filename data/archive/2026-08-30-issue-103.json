@@ -1,0 +1,128 @@
+{
+  "issue": 103,
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T12:59:23.131552-03:00",
+  "items": [
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
+    {
+      "id": "6b1d02af48d3",
+      "title": "AI models can now help run physical science experiments",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS began as a collaboration between Anthropic’s Beneficial Deployments team and HHMI…",
+      "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T17:54:32+00:00"
+    },
+    {
+      "id": "339174352c49",
+      "title": "fix(filesystem): create_directory doesn't create parent directories (…",
+      "summary": "fix(filesystem): create_directory doesn't create parent directories (#4631) validatePath()'s ENOENT fallback checked only the immediate parent directory before allowing a new path through. Creating a path with more than one missing level…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/cda92bdaacd558192fedf1a60d2bb27510792388",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-28T17:58:19+00:00"
+    },
+    {
+      "id": "4d018b0aa80d",
+      "title": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised …",
+      "summary": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array (#4652) * fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array commit 1cdf806d (#3533) wrapped…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d6402efee6cc6446b23adbcb63051f9dc8612be5",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-28T17:57:34+00:00"
+    },
+    {
+      "id": "47e8d022a702",
+      "title": "fix(sequentialthinking): read server version from package.json (#4576)",
+      "summary": "fix(sequentialthinking): read server version from package.json (#4576) * fix(sequentialthinking): read server version from package.json Replace the hardcoded 0.2.0 so initialize serverInfo tracks the package version (0.6.2 in-tree; CalVer…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/40a8de87ed31a307c2a85cae21a78da9b7c1caf8",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-28T17:01:24+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "067cc54e4e64",
+      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
+      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
+      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-20T14:47:41+00:00"
+    },
+    {
+      "id": "2dee45d872d9",
+      "title": "What's the dumbest thing you use AI for?",
+      "summary": "All I see are posts of solo-preneurs lying about how much money their vibe coded startups are making For me, it's probably having Claude convert the oven cooking instructions on frozen food to air fryer times. Yeah I could google it and do…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-08-30T14:59:45+00:00"
+    },
+    {
+      "id": "b7d2d59a21b0",
+      "title": "What’s a good useful MCP you connected to that brings you real value?",
+      "summary": "Looking to improve my workflows and wondering what other might do that’s useful In giving Claude just things that help with day to day things &#32; submitted by &#32; /u/Dense-Map-406 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-08-30T12:52:00+00:00"
+    },
+    {
+      "id": "64eea285a04d",
+      "title": "I built a menu bar app that watches Claude Code and alerts me when it needs input (Gerald the pigeon coos at you)",
+      "summary": "I kept missing the moment Claude Code needed permission approval or my input - tabbed away, came back 10 minutes later to a stalled session. Built CooCoo: sits in your Mac menu bar, watches Claude Code's hooks, and alerts you (sound +…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2gnvs/i_built_a_menu_bar_app_that_watches_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-08-30T12:46:47+00:00"
+    }
+  ]
+}

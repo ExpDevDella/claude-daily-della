@@ -1,7 +1,7 @@
 {
-  "issue": 103,
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T12:59:23.131552-03:00",
+  "issue": 104,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:43:29.670283-03:00",
   "items": [
     {
       "id": "8eda2df95dfb",
@@ -35,34 +35,34 @@
       "published": "2026-08-27T17:54:32+00:00"
     },
     {
-      "id": "339174352c49",
-      "title": "fix(filesystem): create_directory doesn't create parent directories (…",
-      "summary": "fix(filesystem): create_directory doesn't create parent directories (#4631) validatePath()'s ENOENT fallback checked only the immediate parent directory before allowing a new path through. Creating a path with more than one missing level…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/cda92bdaacd558192fedf1a60d2bb27510792388",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-08-28T17:58:19+00:00"
-    },
-    {
-      "id": "4d018b0aa80d",
-      "title": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised …",
-      "summary": "fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array (#4652) * fix(sequentialthinking): restore nextThoughtNeeded in the advertised inputSchema required array commit 1cdf806d (#3533) wrapped…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d6402efee6cc6446b23adbcb63051f9dc8612be5",
+      "id": "ddcd42d9425f",
+      "title": "docs(brave-search): point to official @brave/brave-search-mcp-server …",
+      "summary": "docs(brave-search): point to official @brave/brave-search-mcp-server package (#4714) Fixes #4694",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/579c3903f30044eb702a599a74b3ae77588e722e",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-08-28T17:57:34+00:00"
+      "published": "2026-08-31T16:22:36+00:00"
     },
     {
-      "id": "47e8d022a702",
-      "title": "fix(sequentialthinking): read server version from package.json (#4576)",
-      "summary": "fix(sequentialthinking): read server version from package.json (#4576) * fix(sequentialthinking): read server version from package.json Replace the hardcoded 0.2.0 so initialize serverInfo tracks the package version (0.6.2 in-tree; CalVer…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/40a8de87ed31a307c2a85cae21a78da9b7c1caf8",
+      "id": "ea49cfff91f4",
+      "title": "fix(filesystem): reject Windows paths on POSIX (#4704)",
+      "summary": "fix(filesystem): reject Windows paths on POSIX (#4704) Co-authored-by: Yohanes &lt;CryoThrust@users.noreply.github.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/a6cdbf4deac97aac5c9b76bd12d38eace78dac01",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-30T21:43:38+00:00"
+    },
+    {
+      "id": "c24a43b2484e",
+      "title": "fix: Containers - Bind Mounts - Security and Compatibility (Docker / …",
+      "summary": "fix: Containers - Bind Mounts - Security and Compatibility (Docker / Podman / SELinux) for Fetch, Git, and Time Servers (#2205) * Update Dockerfile for fetch Initial patch for podman and SELinux contexts. * Update Dockerfile for time…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ebaccfd623a2a4173da7cef43941c5e497d8d1b0",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "Novidade",
       "weight": 8,
-      "published": "2026-08-28T17:01:24+00:00"
+      "published": "2026-08-30T20:07:02+00:00"
     },
     {
       "id": "0c70422c90a7",
@@ -75,54 +75,54 @@
       "published": "2026-08-11T00:00:00+00:00"
     },
     {
-      "id": "067cc54e4e64",
-      "title": "Claude Opus 5: The Everyday Frontier Model Claude Code Teams Asked For",
-      "summary": "Claude Opus 5 brings near-Fable intelligence to Opus pricing, with stronger agentic coding, full effort control, faster low-effort economics, and several migration details teams should not ignore.",
-      "url": "https://claudeai.dev/blog/claude-opus-5-community-feedback",
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
       "source": "claudeai.dev Blog",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 8,
-      "published": "2026-07-25T00:00:00+00:00"
+      "published": "2026-07-11T00:00:00+00:00"
     },
     {
-      "id": "0c826db9d46a",
-      "title": "How to 8x Your Code Output Using Context Engineering",
-      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
-      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
+      "id": "00d87416a3c2",
+      "title": "The Claude Prompts That Close Rounds in 2026",
+      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
+      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-20T14:47:41+00:00"
+      "published": "2026-08-14T16:06:14+00:00"
     },
     {
-      "id": "2dee45d872d9",
-      "title": "What's the dumbest thing you use AI for?",
-      "summary": "All I see are posts of solo-preneurs lying about how much money their vibe coded startups are making For me, it's probably having Claude convert the oven cooking instructions on frozen food to air fryer times. Yeah I could google it and do…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
+      "id": "eb04fbe9a32e",
+      "title": "I was wrong about Claude’s UI skills",
+      "summary": "I thought I was better than Claude at UI design. All my attempts so far looked like AI slop. Up until I tried this approach: build the initial wireframe, work on the UI kit with Claude and define some guidelines (no borders, soft shadows,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3jydv/i_was_wrong_about_claudes_ui_skills/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-08-31T17:06:57+00:00"
+    },
+    {
+      "id": "fab1a616ee23",
+      "title": "Claude started pirating PREY from Fitgirl while I wasnt looking 😆",
+      "summary": "This is my prompt for context on what I was doing. After the last line I gave it a giant list of games I have that I want audio data from. I only noticed something was happening because the Fitgirl installer music started playing while I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3i0yv/claude_started_pirating_prey_from_fitgirl_while_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-08-30T14:59:45+00:00"
+      "published": "2026-08-31T16:00:32+00:00"
     },
     {
-      "id": "b7d2d59a21b0",
-      "title": "What’s a good useful MCP you connected to that brings you real value?",
-      "summary": "Looking to improve my workflows and wondering what other might do that’s useful In giving Claude just things that help with day to day things &#32; submitted by &#32; /u/Dense-Map-406 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
+      "id": "ec24af9f4f88",
+      "title": "I tested 3 Claude Code plugins to reduce costs. Here’s what actually worked",
+      "summary": "For context, I’m working on an internal CRM builder with a multi-agent setup (orchestrator + dev agents + reviewer that can iterate over the same task for many turns). When I looked into where most of the tokens were going, I realized it…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3hxt1/i_tested_3_claude_code_plugins_to_reduce_costs/",
       "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-08-30T12:52:00+00:00"
-    },
-    {
-      "id": "64eea285a04d",
-      "title": "I built a menu bar app that watches Claude Code and alerts me when it needs input (Gerald the pigeon coos at you)",
-      "summary": "I kept missing the moment Claude Code needed permission approval or my input - tabbed away, came back 10 minutes later to a stalled session. Built CooCoo: sits in your Mac menu bar, watches Claude Code's hooks, and alerts you (sound +…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2gnvs/i_built_a_menu_bar_app_that_watches_claude_code/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-08-30T12:46:47+00:00"
+      "published": "2026-08-31T15:57:32+00:00"
     }
   ]
 }
