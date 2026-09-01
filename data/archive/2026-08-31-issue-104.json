@@ -1,7 +1,7 @@
 {
-  "issue": 105,
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T13:01:14.990835-03:00",
+  "issue": 104,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:43:29.670283-03:00",
   "items": [
     {
       "id": "8eda2df95dfb",
@@ -95,34 +95,34 @@
       "published": "2026-08-14T16:06:14+00:00"
     },
     {
-      "id": "b6fc41b0eeaf",
-      "title": "Presenting my dumbest idea yet. The Claw’deck.",
-      "summary": "I decided I wanted a touch screen for my agents. If an agent asks a question, it can pop up on the screen and I can tap an answer. If an agent finishes my little crab puts on sunglasses and dances around. Mostly just an easy way to…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4fjy3/presenting_my_dumbest_idea_yet_the_clawdeck/",
+      "id": "eb04fbe9a32e",
+      "title": "I was wrong about Claude’s UI skills",
+      "summary": "I thought I was better than Claude at UI design. All my attempts so far looked like AI slop. Up until I tried this approach: build the initial wireframe, work on the UI kit with Claude and define some guidelines (no borders, soft shadows,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3jydv/i_was_wrong_about_claudes_ui_skills/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-01T15:38:31+00:00"
+      "published": "2026-08-31T17:06:57+00:00"
     },
     {
-      "id": "38c6da5d50b5",
-      "title": "\"I'm sorry, Dave. I'm afraid I can't do that.\"",
-      "summary": "&#32; submitted by &#32; /u/kueowirnzcd [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4du4p/im_sorry_dave_im_afraid_i_cant_do_that/",
+      "id": "fab1a616ee23",
+      "title": "Claude started pirating PREY from Fitgirl while I wasnt looking 😆",
+      "summary": "This is my prompt for context on what I was doing. After the last line I gave it a giant list of games I have that I want audio data from. I only noticed something was happening because the Fitgirl installer music started playing while I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3i0yv/claude_started_pirating_prey_from_fitgirl_while_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-01T14:37:26+00:00"
+      "published": "2026-08-31T16:00:32+00:00"
     },
     {
-      "id": "03c6f77ab986",
-      "title": "How much does prompt bloat matter with Claude?",
-      "summary": "Hi guys I have been going back through some of the prompts we use with Claude and realized a few of them have gotten way longer than I remembered and it wasn’t really intentional either like usually Claude does something we don’t want, we…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4dibk/how_much_does_prompt_bloat_matter_with_claude/",
+      "id": "ec24af9f4f88",
+      "title": "I tested 3 Claude Code plugins to reduce costs. Here’s what actually worked",
+      "summary": "For context, I’m working on an internal CRM builder with a multi-agent setup (orchestrator + dev agents + reviewer that can iterate over the same task for many turns). When I looked into where most of the tokens were going, I realized it…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w3hxt1/i_tested_3_claude_code_plugins_to_reduce_costs/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-01T14:24:58+00:00"
+      "published": "2026-08-31T15:57:32+00:00"
     }
   ]
 }
