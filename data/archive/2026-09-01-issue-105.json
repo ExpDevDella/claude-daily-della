@@ -1,0 +1,128 @@
+{
+  "issue": 105,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:01:14.990835-03:00",
+  "items": [
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
+    {
+      "id": "6b1d02af48d3",
+      "title": "AI models can now help run physical science experiments",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS began as a collaboration between Anthropic’s Beneficial Deployments team and HHMI…",
+      "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T17:54:32+00:00"
+    },
+    {
+      "id": "ddcd42d9425f",
+      "title": "docs(brave-search): point to official @brave/brave-search-mcp-server …",
+      "summary": "docs(brave-search): point to official @brave/brave-search-mcp-server package (#4714) Fixes #4694",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/579c3903f30044eb702a599a74b3ae77588e722e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-31T16:22:36+00:00"
+    },
+    {
+      "id": "ea49cfff91f4",
+      "title": "fix(filesystem): reject Windows paths on POSIX (#4704)",
+      "summary": "fix(filesystem): reject Windows paths on POSIX (#4704) Co-authored-by: Yohanes &lt;CryoThrust@users.noreply.github.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/a6cdbf4deac97aac5c9b76bd12d38eace78dac01",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-08-30T21:43:38+00:00"
+    },
+    {
+      "id": "c24a43b2484e",
+      "title": "fix: Containers - Bind Mounts - Security and Compatibility (Docker / …",
+      "summary": "fix: Containers - Bind Mounts - Security and Compatibility (Docker / Podman / SELinux) for Fetch, Git, and Time Servers (#2205) * Update Dockerfile for fetch Initial patch for podman and SELinux contexts. * Update Dockerfile for time…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ebaccfd623a2a4173da7cef43941c5e497d8d1b0",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-30T20:07:02+00:00"
+    },
+    {
+      "id": "0c70422c90a7",
+      "title": "When Usage Limits Become a Product Feature: Codex, Tibo, and Claude",
+      "summary": "Codex's disappearing five-hour limit, repeated quota resets, and Tibo's exchange with Claude reveal that AI coding competition is no longer just about model quality.",
+      "url": "https://claudeai.dev/blog/codex-usage-limits-tibo-claude",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "c4674677ee7a",
+      "title": "GPT-5.6 Sol, Terra, and Luna: What Claude Code Teams Should Actually Watch",
+      "summary": "OpenAI's GPT-5.6 family introduces Sol, Terra, and Luna for agentic coding, long-context work, and high-throughput automation. Community feedback is early and noisy, but the developer signal is already clear.",
+      "url": "https://claudeai.dev/blog/gpt-5-6-sol-terra-luna-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-07-11T00:00:00+00:00"
+    },
+    {
+      "id": "00d87416a3c2",
+      "title": "The Claude Prompts That Close Rounds in 2026",
+      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
+      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-14T16:06:14+00:00"
+    },
+    {
+      "id": "b6fc41b0eeaf",
+      "title": "Presenting my dumbest idea yet. The Claw’deck.",
+      "summary": "I decided I wanted a touch screen for my agents. If an agent asks a question, it can pop up on the screen and I can tap an answer. If an agent finishes my little crab puts on sunglasses and dances around. Mostly just an easy way to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4fjy3/presenting_my_dumbest_idea_yet_the_clawdeck/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-01T15:38:31+00:00"
+    },
+    {
+      "id": "38c6da5d50b5",
+      "title": "\"I'm sorry, Dave. I'm afraid I can't do that.\"",
+      "summary": "&#32; submitted by &#32; /u/kueowirnzcd [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4du4p/im_sorry_dave_im_afraid_i_cant_do_that/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-01T14:37:26+00:00"
+    },
+    {
+      "id": "03c6f77ab986",
+      "title": "How much does prompt bloat matter with Claude?",
+      "summary": "Hi guys I have been going back through some of the prompts we use with Claude and realized a few of them have gotten way longer than I remembered and it wasn’t really intentional either like usually Claude does something we don’t want, we…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w4dibk/how_much_does_prompt_bloat_matter_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-01T14:24:58+00:00"
+    }
+  ]
+}
