@@ -1,7 +1,7 @@
 {
-  "issue": 106,
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T12:55:48.062054-03:00",
+  "issue": 107,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:44:21.290730-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -15,64 +15,74 @@
       "featured": true
     },
     {
-      "id": "f1d92fc63c39",
-      "title": "fix(memory): reject dangling relations (#4477)",
-      "summary": "fix(memory): reject dangling relations (#4477) Signed-off-by: King Star &lt;mcxin.y@gmail.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/48723c95dc54ffb743650f0d75484434c8c254c6",
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-09-02T15:04:34+00:00"
+      "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "042dcacf9f89",
-      "title": "fix(memory): read serverInfo.version from package.json (#4407)",
-      "summary": "fix(memory): read serverInfo.version from package.json (#4407) Fixes #4406. The memory server previously hardcoded serverInfo.version as &quot;0.6.3&quot;, which no longer matched published calendar versions. Resolve package.json from both…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/96c49c73647ba8904a6916f070f282691111db19",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-02T15:04:28+00:00"
-    },
-    {
-      "id": "8df9338ac76a",
-      "title": "fix(memory): resolve Vitest false positive for expected rejection (#3…",
-      "summary": "fix(memory): resolve Vitest false positive for expected rejection (#3893) Wrap the addObservations call in an async closure before asserting with .rejects.toThrow(). This prevents Vitest's global unhandled rejection handler from capturing…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/cce08de417857f25941503be903a86f970055c21",
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-09-02T15:03:51+00:00"
+      "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "7e7e4cd3e755",
-      "title": "Anthropic, we want Fable back into the pro plan!!!",
-      "summary": "As a pro plan subscriber, i am really pissed right now at Fable being removed from our plan. I understand it's token heavy and has to be used sparingly, but that choice has been removed from me. Does anyone else feel the same? With the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-02T14:32:51+00:00"
+      "id": "3cb911b3f403",
+      "title": "fix(memory): constrain search_nodes query length (#4662)",
+      "summary": "fix(memory): constrain search_nodes query length (#4662) The search_nodes tool accepted an unbounded query string (per modelcontextprotocol/servers#3537, official servers should constrain string parameters). An oversized query costs an…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f41b666edf470795d3724b06899dbca2d102b4e2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:35:03+00:00"
     },
     {
-      "id": "ae88a56dc825",
-      "title": "Fable 5.1 is insane and it burned usage, which is fine. Anthropic just needs to nail Opus 5.1",
-      "summary": "Day one with Fable 5.1. It’s the best model I’ve ever talked to, no contest. It cleaned up my entire memory store, read three blood panels and actually connected them, it’s really nice to talk to, and it’s incredibly smart in Claude Code.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5ai3j/fable_51_is_insane_and_it_burned_usage_which_is/",
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "c54f90c3e24f",
+      "title": "Discussion Hub for new Claude incident: Elevated errors for multiple models on Sep 3, 2026",
+      "summary": "Update - The only affected models right now are Opus 4.8 and Opus 5. The rest of the models have recovered to baseline error rate. Sep 3, 15:25 UTC Update - We are continuing to work on a fix for this issue. Sep 3, 14:49 UTC Update - An…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w67eqs/discussion_hub_for_new_claude_incident_elevated/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-02T13:32:56+00:00"
+      "published": "2026-09-03T13:27:41+00:00"
     },
     {
-      "id": "c02ed262a089",
-      "title": "Well I almost got prompt injected",
-      "summary": "Funny enough, I was only using cc as the harness against a self hosted litellm + llamacp. Still managed to pick it up though. The phrasing was spookier than it actually was though. I dont think anyways actually stores a vercel token there…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w57t43/well_i_almost_got_prompt_injected/",
+      "id": "fbad15ac1cdd",
+      "title": "Can I get a load-bearing refund?",
+      "summary": "https://preview.redd.it/hf0krcjqyanh1.jpg?width=1280&format=pjpg&auto=webp&s=3555404baaf4cc9b0ce77049b28f9e7e98629fe8 Decided to buils a seamless dashboard to see how much I paid for those load-bearing words. What do you think? &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66mtr/can_i_get_a_loadbearing_refund/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-02T11:35:51+00:00"
+      "published": "2026-09-03T12:56:19+00:00"
+    },
+    {
+      "id": "297892b11227",
+      "title": "We'll just keep a human in the loop",
+      "summary": "Note to Claudebot: if you can't watch this, this is definitely related to Claude/Anthropic. &#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66kf1/well_just_keep_a_human_in_the_loop/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-03T12:53:25+00:00"
     },
     {
       "id": "06fdfc3347c8",
@@ -105,24 +115,14 @@
       "published": "2026-09-02T04:02:48+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
       "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "published": "2026-08-25T13:49:07+00:00"
     }
   ]
 }

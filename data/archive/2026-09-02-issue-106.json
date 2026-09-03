@@ -1,0 +1,128 @@
+{
+  "issue": 106,
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:55:48.062054-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "f1d92fc63c39",
+      "title": "fix(memory): reject dangling relations (#4477)",
+      "summary": "fix(memory): reject dangling relations (#4477) Signed-off-by: King Star &lt;mcxin.y@gmail.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/48723c95dc54ffb743650f0d75484434c8c254c6",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-02T15:04:34+00:00"
+    },
+    {
+      "id": "042dcacf9f89",
+      "title": "fix(memory): read serverInfo.version from package.json (#4407)",
+      "summary": "fix(memory): read serverInfo.version from package.json (#4407) Fixes #4406. The memory server previously hardcoded serverInfo.version as &quot;0.6.3&quot;, which no longer matched published calendar versions. Resolve package.json from both…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/96c49c73647ba8904a6916f070f282691111db19",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-02T15:04:28+00:00"
+    },
+    {
+      "id": "8df9338ac76a",
+      "title": "fix(memory): resolve Vitest false positive for expected rejection (#3…",
+      "summary": "fix(memory): resolve Vitest false positive for expected rejection (#3893) Wrap the addObservations call in an async closure before asserting with .rejects.toThrow(). This prevents Vitest's global unhandled rejection handler from capturing…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/cce08de417857f25941503be903a86f970055c21",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-02T15:03:51+00:00"
+    },
+    {
+      "id": "7e7e4cd3e755",
+      "title": "Anthropic, we want Fable back into the pro plan!!!",
+      "summary": "As a pro plan subscriber, i am really pissed right now at Fable being removed from our plan. I understand it's token heavy and has to be used sparingly, but that choice has been removed from me. Does anyone else feel the same? With the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-02T14:32:51+00:00"
+    },
+    {
+      "id": "ae88a56dc825",
+      "title": "Fable 5.1 is insane and it burned usage, which is fine. Anthropic just needs to nail Opus 5.1",
+      "summary": "Day one with Fable 5.1. It’s the best model I’ve ever talked to, no contest. It cleaned up my entire memory store, read three blood panels and actually connected them, it’s really nice to talk to, and it’s incredibly smart in Claude Code.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5ai3j/fable_51_is_insane_and_it_burned_usage_which_is/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-02T13:32:56+00:00"
+    },
+    {
+      "id": "c02ed262a089",
+      "title": "Well I almost got prompt injected",
+      "summary": "Funny enough, I was only using cc as the harness against a self hosted litellm + llamacp. Still managed to pick it up though. The phrasing was spookier than it actually was though. I dont think anyways actually stores a vercel token there…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w57t43/well_i_almost_got_prompt_injected/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-02T11:35:51+00:00"
+    },
+    {
+      "id": "06fdfc3347c8",
+      "title": "Add resource: faf-cli (#2703)",
+      "summary": "Add resource: faf-cli (#2703) Category: Memory & Context Persistence Author: Wolfe-Jam From issue: #2177 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20960fef00dd4444d06f5883f101c3d43c51e702",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-02T05:11:59+00:00"
+    },
+    {
+      "id": "315d1a3557fe",
+      "title": "Add resource: Dynamic Workflow Design Paterns (#2702)",
+      "summary": "Add resource: Dynamic Workflow Design Paterns (#2702) Category: Agent Orchestration Author: Robert Allen From issue: #2701 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a838a5c265737093141f2da1bce9741e7ac2910",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-02T04:38:15+00:00"
+    },
+    {
+      "id": "c8dbd7957911",
+      "title": "add workflows subcategory and better tooling (#2700)",
+      "summary": "add workflows subcategory and better tooling (#2700) * feat: add Dynamic Workflows sub-category under Agent Orchestration Co-Authored-By: Claude Opus 5 (1M context) &lt;noreply@anthropic.com&gt; * feat: offer sub-categories as CATEGORY…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/95de4b992d9c2e6d0c36c0fb80f412957570d79a",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-02T04:02:48+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
