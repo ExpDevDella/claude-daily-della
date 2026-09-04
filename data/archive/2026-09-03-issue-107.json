@@ -1,0 +1,128 @@
+{
+  "issue": 107,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:44:21.290730-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:42:26+00:00"
+    },
+    {
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:38:22+00:00"
+    },
+    {
+      "id": "3cb911b3f403",
+      "title": "fix(memory): constrain search_nodes query length (#4662)",
+      "summary": "fix(memory): constrain search_nodes query length (#4662) The search_nodes tool accepted an unbounded query string (per modelcontextprotocol/servers#3537, official servers should constrain string parameters). An oversized query costs an…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f41b666edf470795d3724b06899dbca2d102b4e2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:35:03+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "c54f90c3e24f",
+      "title": "Discussion Hub for new Claude incident: Elevated errors for multiple models on Sep 3, 2026",
+      "summary": "Update - The only affected models right now are Opus 4.8 and Opus 5. The rest of the models have recovered to baseline error rate. Sep 3, 15:25 UTC Update - We are continuing to work on a fix for this issue. Sep 3, 14:49 UTC Update - An…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w67eqs/discussion_hub_for_new_claude_incident_elevated/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-03T13:27:41+00:00"
+    },
+    {
+      "id": "fbad15ac1cdd",
+      "title": "Can I get a load-bearing refund?",
+      "summary": "https://preview.redd.it/hf0krcjqyanh1.jpg?width=1280&format=pjpg&auto=webp&s=3555404baaf4cc9b0ce77049b28f9e7e98629fe8 Decided to buils a seamless dashboard to see how much I paid for those load-bearing words. What do you think? &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66mtr/can_i_get_a_loadbearing_refund/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-03T12:56:19+00:00"
+    },
+    {
+      "id": "297892b11227",
+      "title": "We'll just keep a human in the loop",
+      "summary": "Note to Claudebot: if you can't watch this, this is definitely related to Claude/Anthropic. &#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66kf1/well_just_keep_a_human_in_the_loop/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-03T12:53:25+00:00"
+    },
+    {
+      "id": "06fdfc3347c8",
+      "title": "Add resource: faf-cli (#2703)",
+      "summary": "Add resource: faf-cli (#2703) Category: Memory & Context Persistence Author: Wolfe-Jam From issue: #2177 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20960fef00dd4444d06f5883f101c3d43c51e702",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-02T05:11:59+00:00"
+    },
+    {
+      "id": "315d1a3557fe",
+      "title": "Add resource: Dynamic Workflow Design Paterns (#2702)",
+      "summary": "Add resource: Dynamic Workflow Design Paterns (#2702) Category: Agent Orchestration Author: Robert Allen From issue: #2701 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a838a5c265737093141f2da1bce9741e7ac2910",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-02T04:38:15+00:00"
+    },
+    {
+      "id": "c8dbd7957911",
+      "title": "add workflows subcategory and better tooling (#2700)",
+      "summary": "add workflows subcategory and better tooling (#2700) * feat: add Dynamic Workflows sub-category under Agent Orchestration Co-Authored-By: Claude Opus 5 (1M context) &lt;noreply@anthropic.com&gt; * feat: offer sub-categories as CATEGORY…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/95de4b992d9c2e6d0c36c0fb80f412957570d79a",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-02T04:02:48+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    }
+  ]
+}

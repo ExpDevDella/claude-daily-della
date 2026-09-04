@@ -1,19 +1,8 @@
 {
-  "issue": 107,
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T12:44:21.290730-03:00",
+  "issue": 108,
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:43:27.064794-03:00",
   "items": [
-    {
-      "id": "9dea0c491979",
-      "title": "Introducing Claude Fable 5.1",
-      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
-      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-09-01T18:02:31+00:00",
-      "featured": true
-    },
     {
       "id": "f8412a95a7f3",
       "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
@@ -22,7 +11,8 @@
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-09-03T01:42:26+00:00"
+      "published": "2026-09-03T01:42:26+00:00",
+      "featured": true
     },
     {
       "id": "954f696a81aa",
@@ -55,64 +45,54 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "c54f90c3e24f",
-      "title": "Discussion Hub for new Claude incident: Elevated errors for multiple models on Sep 3, 2026",
-      "summary": "Update - The only affected models right now are Opus 4.8 and Opus 5. The rest of the models have recovered to baseline error rate. Sep 3, 15:25 UTC Update - We are continuing to work on a fix for this issue. Sep 3, 14:49 UTC Update - An…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w67eqs/discussion_hub_for_new_claude_incident_elevated/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-03T13:27:41+00:00"
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "fbad15ac1cdd",
-      "title": "Can I get a load-bearing refund?",
-      "summary": "https://preview.redd.it/hf0krcjqyanh1.jpg?width=1280&format=pjpg&auto=webp&s=3555404baaf4cc9b0ce77049b28f9e7e98629fe8 Decided to buils a seamless dashboard to see how much I paid for those load-bearing words. What do you think? &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66mtr/can_i_get_a_loadbearing_refund/",
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
+    },
+    {
+      "id": "e792ea378f2f",
+      "title": "Hot take: AI coding is making good taste more important than raw coding speed.",
+      "summary": "The more I use Claude Code, the less I think the advantage is simply being able to produce more code.Producing code is becoming the easy part. Deciding what should exist in the first place is still hard.Claude can give me three reasonable…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w752jb/hot_take_ai_coding_is_making_good_taste_more/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-03T12:56:19+00:00"
+      "published": "2026-09-04T13:54:01+00:00"
     },
     {
-      "id": "297892b11227",
-      "title": "We'll just keep a human in the loop",
-      "summary": "Note to Claudebot: if you can't watch this, this is definitely related to Claude/Anthropic. &#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66kf1/well_just_keep_a_human_in_the_loop/",
+      "id": "34fc4f1f13d8",
+      "title": "I’ve started using Claude for the parts of work I normally procrastinate on",
+      "summary": "I noticed something kind of funny with Claude. I don’t necessarily use it for the hardest parts of my work. I use it for the things I keep putting off. Turning messy notes into something usable. Going through a long document. Cleaning up a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w70jgk/ive_started_using_claude_for_the_parts_of_work_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-03T12:53:25+00:00"
+      "published": "2026-09-04T10:27:31+00:00"
     },
     {
-      "id": "06fdfc3347c8",
-      "title": "Add resource: faf-cli (#2703)",
-      "summary": "Add resource: faf-cli (#2703) Category: Memory & Context Persistence Author: Wolfe-Jam From issue: #2177 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20960fef00dd4444d06f5883f101c3d43c51e702",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "352c6320032a",
+      "title": "I started asking Claude what I might be missing",
+      "summary": "One thing I’ve started doing with Claude that’s surprisingly useful is giving it a decision I’m already leaning toward and asking it to find the holes in my thinking. Not “what should I do?” More like: “Here’s what I’m planning to do. What…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6yy9m/i_started_asking_claude_what_i_might_be_missing/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-02T05:11:59+00:00"
-    },
-    {
-      "id": "315d1a3557fe",
-      "title": "Add resource: Dynamic Workflow Design Paterns (#2702)",
-      "summary": "Add resource: Dynamic Workflow Design Paterns (#2702) Category: Agent Orchestration Author: Robert Allen From issue: #2701 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a838a5c265737093141f2da1bce9741e7ac2910",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-09-02T04:38:15+00:00"
-    },
-    {
-      "id": "c8dbd7957911",
-      "title": "add workflows subcategory and better tooling (#2700)",
-      "summary": "add workflows subcategory and better tooling (#2700) * feat: add Dynamic Workflows sub-category under Agent Orchestration Co-Authored-By: Claude Opus 5 (1M context) &lt;noreply@anthropic.com&gt; * feat: offer sub-categories as CATEGORY…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/95de4b992d9c2e6d0c36c0fb80f412957570d79a",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-09-02T04:02:48+00:00"
+      "published": "2026-09-04T08:57:29+00:00"
     },
     {
       "id": "fd4ec85b609c",
@@ -123,6 +103,26 @@
       "category": "Plugin",
       "weight": 5,
       "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }
