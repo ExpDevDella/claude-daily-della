@@ -1,8 +1,39 @@
 {
-  "issue": 108,
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T12:43:27.064794-03:00",
+  "issue": 109,
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:32:02.230476-03:00",
   "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
     {
       "id": "f8412a95a7f3",
       "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
@@ -11,38 +42,7 @@
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-09-03T01:42:26+00:00",
-      "featured": true
-    },
-    {
-      "id": "954f696a81aa",
-      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
-      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-03T01:38:22+00:00"
-    },
-    {
-      "id": "3cb911b3f403",
-      "title": "fix(memory): constrain search_nodes query length (#4662)",
-      "summary": "fix(memory): constrain search_nodes query length (#4662) The search_nodes tool accepted an unbounded query string (per modelcontextprotocol/servers#3537, official servers should constrain string parameters). An oversized query costs an…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f41b666edf470795d3724b06899dbca2d102b4e2",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-03T01:35:03+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "published": "2026-09-03T01:42:26+00:00"
     },
     {
       "id": "3043ea10e679",
@@ -65,44 +65,44 @@
       "published": "2026-08-26T14:42:51+00:00"
     },
     {
-      "id": "e792ea378f2f",
-      "title": "Hot take: AI coding is making good taste more important than raw coding speed.",
-      "summary": "The more I use Claude Code, the less I think the advantage is simply being able to produce more code.Producing code is becoming the easy part. Deciding what should exist in the first place is still hard.Claude can give me three reasonable…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w752jb/hot_take_ai_coding_is_making_good_taste_more/",
+      "id": "3f24eaf7eb8c",
+      "title": "A small gift to all my opusfived friends",
+      "summary": "Opus 5 has been burning people out at a rate that would make the Spanish Inquisition look kind. (Even they would be like -“Should we give him one last caveat?” -“Now, Emilio, the Lord does not want us to be cruel .”) I might be the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-05T13:31:04+00:00"
+    },
+    {
+      "id": "9a793415e596",
+      "title": "sub agents being released into my codebase",
+      "summary": "&#32; submitted by &#32; /u/yash3011 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-05T12:55:56+00:00"
+    },
+    {
+      "id": "4a381ee11c2a",
+      "title": "I miss when people built things for the internet without turning everything into a subscription",
+      "summary": "TL;DR: I miss when people built things for the internet without turning everything into a subscription, so I built the app I wanted myself using Claude Code and shared the app link with you all. I miss the old internet. And yes, I realise…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-04T13:54:01+00:00"
+      "published": "2026-09-05T09:49:56+00:00"
     },
     {
-      "id": "34fc4f1f13d8",
-      "title": "I’ve started using Claude for the parts of work I normally procrastinate on",
-      "summary": "I noticed something kind of funny with Claude. I don’t necessarily use it for the hardest parts of my work. I use it for the things I keep putting off. Turning messy notes into something usable. Going through a long document. Cleaning up a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w70jgk/ive_started_using_claude_for_the_parts_of_work_i/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-04T10:27:31+00:00"
-    },
-    {
-      "id": "352c6320032a",
-      "title": "I started asking Claude what I might be missing",
-      "summary": "One thing I’ve started doing with Claude that’s surprisingly useful is giving it a decision I’m already leaning toward and asking it to find the holes in my thinking. Not “what should I do?” More like: “Here’s what I’m planning to do. What…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6yy9m/i_started_asking_claude_what_i_might_be_missing/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-04T08:57:29+00:00"
-    },
-    {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "46a619403d15",
+      "title": "Add resource: claude-intercom (#2740)",
+      "summary": "Add resource: claude-intercom (#2740) Category: Agent Orchestration Author: MuhammadTalhaMT From issue: #2546 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5b81ddcd6cf51a9ef0a4b29a6a77736b7bcbdd5f",
+      "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
-      "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
+      "weight": 6,
+      "published": "2026-09-05T00:20:07+00:00"
     },
     {
       "id": "bbb6dd2f3dd2",
