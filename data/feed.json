@@ -1,7 +1,7 @@
 {
-  "issue": 109,
-  "date": "2026-09-05",
-  "generated_at": "2026-09-05T11:32:02.230476-03:00",
+  "issue": 110,
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:53:30.606860-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -45,54 +45,64 @@
       "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
       "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "8ee790d10856",
-      "title": "The One-Person Business, Built on Claude",
-      "summary": "A course for people who intend to still be operating in three years.",
-      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "id": "3cb911b3f403",
+      "title": "fix(memory): constrain search_nodes query length (#4662)",
+      "summary": "fix(memory): constrain search_nodes query length (#4662) The search_nodes tool accepted an unbounded query string (per modelcontextprotocol/servers#3537, official servers should constrain string parameters). An oversized query costs an…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f41b666edf470795d3724b06899dbca2d102b4e2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:35:03+00:00"
+    },
+    {
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-26T14:42:51+00:00"
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "3f24eaf7eb8c",
-      "title": "A small gift to all my opusfived friends",
-      "summary": "Opus 5 has been burning people out at a rate that would make the Spanish Inquisition look kind. (Even they would be like -“Should we give him one last caveat?” -“Now, Emilio, the Lord does not want us to be cruel .”) I might be the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-05T13:31:04+00:00"
-    },
-    {
-      "id": "9a793415e596",
-      "title": "sub agents being released into my codebase",
-      "summary": "&#32; submitted by &#32; /u/yash3011 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-05T12:55:56+00:00"
-    },
-    {
-      "id": "4a381ee11c2a",
-      "title": "I miss when people built things for the internet without turning everything into a subscription",
-      "summary": "TL;DR: I miss when people built things for the internet without turning everything into a subscription, so I built the app I wanted myself using Claude Code and shared the app link with you all. I miss the old internet. And yes, I realise…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
+      "id": "ac865bcf6330",
+      "title": "How do you deal with Reddit being off limits?",
+      "summary": "Reddit is arguably one of the last corners of the internet where you can still find actual people and over the years it became one of my most used source for literally anything. But Anthropic must have really pissed them off and Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8skpx/how_do_you_deal_with_reddit_being_off_limits/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-05T09:49:56+00:00"
+      "published": "2026-09-06T10:29:29+00:00"
+    },
+    {
+      "id": "f8e5bccb0bc8",
+      "title": "Astra 6 + Fable 5.1 + Opus 5 + Code Spark 5.3 + Local agent",
+      "summary": "I just made everyone work in tasks given inside my local agent (Hermes/Alice) I made the hierarchy to give orders for projects as Astra&gt;Fable&gt;Opus&gt;Spark&gt;My Local agent last, the widget of the ''blond girl'' in the right corner…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8r5tj/astra_6_fable_51_opus_5_code_spark_53_local_agent/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-06T09:09:44+00:00"
+    },
+    {
+      "id": "d414425fd9a2",
+      "title": "I think Claude is making it way too easy to feel like you know what you’re talking about",
+      "summary": "I use Claude all the time for things I know very little about. And it’s kind of ridiculous how quickly I can go from knowing basically nothing to feeling like I’ve got a pretty good handle on something. Half an hour, a few follow-up…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8qvq0/i_think_claude_is_making_it_way_too_easy_to_feel/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-06T08:54:11+00:00"
     },
     {
       "id": "46a619403d15",
@@ -105,24 +115,14 @@
       "published": "2026-09-05T00:20:07+00:00"
     },
     {
-      "id": "bbb6dd2f3dd2",
-      "title": "Add Smart Dev task template as standalone annotated file",
-      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
       "weight": 5,
-      "published": "2026-07-10T09:03:02+00:00"
-    },
-    {
-      "id": "a9b28e3ea8a6",
-      "title": "Add: Custom AI Operating System for a Small Business prompt",
-      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-05-18T15:40:33+00:00"
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }

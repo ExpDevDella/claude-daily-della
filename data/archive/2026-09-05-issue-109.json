@@ -1,0 +1,128 @@
+{
+  "issue": 109,
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:32:02.230476-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
+    {
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:42:26+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
+    },
+    {
+      "id": "3f24eaf7eb8c",
+      "title": "A small gift to all my opusfived friends",
+      "summary": "Opus 5 has been burning people out at a rate that would make the Spanish Inquisition look kind. (Even they would be like -“Should we give him one last caveat?” -“Now, Emilio, the Lord does not want us to be cruel .”) I might be the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-05T13:31:04+00:00"
+    },
+    {
+      "id": "9a793415e596",
+      "title": "sub agents being released into my codebase",
+      "summary": "&#32; submitted by &#32; /u/yash3011 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-05T12:55:56+00:00"
+    },
+    {
+      "id": "4a381ee11c2a",
+      "title": "I miss when people built things for the internet without turning everything into a subscription",
+      "summary": "TL;DR: I miss when people built things for the internet without turning everything into a subscription, so I built the app I wanted myself using Claude Code and shared the app link with you all. I miss the old internet. And yes, I realise…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-05T09:49:56+00:00"
+    },
+    {
+      "id": "46a619403d15",
+      "title": "Add resource: claude-intercom (#2740)",
+      "summary": "Add resource: claude-intercom (#2740) Category: Agent Orchestration Author: MuhammadTalhaMT From issue: #2546 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5b81ddcd6cf51a9ef0a4b29a6a77736b7bcbdd5f",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-05T00:20:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    }
+  ]
+}
