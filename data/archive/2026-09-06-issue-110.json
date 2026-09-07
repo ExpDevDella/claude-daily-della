@@ -1,7 +1,7 @@
 {
-  "issue": 111,
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T14:11:14.957439-03:00",
+  "issue": 110,
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:53:30.606860-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -33,16 +33,6 @@
       "category": "Video",
       "weight": 9,
       "published": "2026-08-27T19:42:35+00:00"
-    },
-    {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
     },
     {
       "id": "f8412a95a7f3",
@@ -85,44 +75,54 @@
       "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "0da067e5d584",
-      "title": "One Claude Code feature I was underusing: hooks",
-      "summary": "I used to put a lot of rules in CLAUDE.md like “run the formatter after edits” or “don't touch this file” and just trust Claude to follow them.Turns out some of that probably shouldn't be an instruction at all.Claude Code has hooks that…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9vof4/one_claude_code_feature_i_was_underusing_hooks/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-09-07T15:43:36+00:00"
-    },
-    {
-      "id": "f7d458148e6d",
-      "title": "Getting \"Approaching Limit\" warning but usage is nowhere close to it.",
-      "summary": "&#32; submitted by &#32; /u/No_Amount_2021 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9uqj7/getting_approaching_limit_warning_but_usage_is/",
+      "id": "ac865bcf6330",
+      "title": "How do you deal with Reddit being off limits?",
+      "summary": "Reddit is arguably one of the last corners of the internet where you can still find actual people and over the years it became one of my most used source for literally anything. But Anthropic must have really pissed them off and Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8skpx/how_do_you_deal_with_reddit_being_off_limits/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-07T15:08:24+00:00"
+      "published": "2026-09-06T10:29:29+00:00"
     },
     {
-      "id": "3b5dd5053cf3",
-      "title": "Building a CLI agent for Claude to manage How to design a multi-agent system where Claude delegates work?",
-      "summary": "​Hey everyone, ​I’ve been experimenting with a terminal-based workflow where I use Codex to execute tasks and Claude to manage the overall project. Right now, I just write my project prompts or requirements directly into the terminal, and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9u8h1/building_a_cli_agent_for_claude_to_manage_how_to/",
+      "id": "f8e5bccb0bc8",
+      "title": "Astra 6 + Fable 5.1 + Opus 5 + Code Spark 5.3 + Local agent",
+      "summary": "I just made everyone work in tasks given inside my local agent (Hermes/Alice) I made the hierarchy to give orders for projects as Astra&gt;Fable&gt;Opus&gt;Spark&gt;My Local agent last, the widget of the ''blond girl'' in the right corner…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8r5tj/astra_6_fable_51_opus_5_code_spark_53_local_agent/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-07T14:49:02+00:00"
+      "published": "2026-09-06T09:09:44+00:00"
     },
     {
-      "id": "3ca1e05f2be9",
-      "title": "Add resource: OrcaReplay (#2761)",
-      "summary": "Add resource: OrcaReplay (#2761) Category: Observability & Monitoring Author: Continuum AI From issue: #2759 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/67c8d7a7dba6f9c69c25cf82c2770d344e273271",
+      "id": "d414425fd9a2",
+      "title": "I think Claude is making it way too easy to feel like you know what you’re talking about",
+      "summary": "I use Claude all the time for things I know very little about. And it’s kind of ridiculous how quickly I can go from knowing basically nothing to feeling like I’ve got a pretty good handle on something. Half an hour, a few follow-up…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8qvq0/i_think_claude_is_making_it_way_too_easy_to_feel/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-06T08:54:11+00:00"
+    },
+    {
+      "id": "46a619403d15",
+      "title": "Add resource: claude-intercom (#2740)",
+      "summary": "Add resource: claude-intercom (#2740) Category: Agent Orchestration Author: MuhammadTalhaMT From issue: #2546 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5b81ddcd6cf51a9ef0a4b29a6a77736b7bcbdd5f",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-07T04:44:10+00:00"
+      "published": "2026-09-05T00:20:07+00:00"
+    },
+    {
+      "id": "9dd6c71813ef",
+      "title": "What Is Claude? Anthropic Doesn't Know, Either",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either Comments URL: https://news.ycombinator.com/item?id=47130258 Points: 5 # Comments: 0",
+      "url": "https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-02-23T22:59:46+00:00"
     }
   ]
 }
