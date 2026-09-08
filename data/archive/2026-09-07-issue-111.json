@@ -1,7 +1,7 @@
 {
-  "issue": 112,
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T12:56:33.226315-03:00",
+  "issue": 111,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:11:14.957439-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -75,44 +75,44 @@
       "published": "2026-09-03T01:35:03+00:00"
     },
     {
-      "id": "00d87416a3c2",
-      "title": "The Claude Prompts That Close Rounds in 2026",
-      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
-      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-14T16:06:14+00:00"
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "08274089039a",
-      "title": "I ported Toyota's Lean quality system to Claude Code so the same agent mistakes stop coming back (MIT, free)",
-      "summary": "I spent 15 years in manufacturing, eventually running production. Most of what I learned about improving systems came from applied Lean and Six Sigma (probably closer to Paul Akers than Toyota). Now I run a company almost entirely through…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1waoo5h/i_ported_toyotas_lean_quality_system_to_claude/",
+      "id": "0da067e5d584",
+      "title": "One Claude Code feature I was underusing: hooks",
+      "summary": "I used to put a lot of rules in CLAUDE.md like “run the formatter after edits” or “don't touch this file” and just trust Claude to follow them.Turns out some of that probably shouldn't be an instruction at all.Claude Code has hooks that…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9vof4/one_claude_code_feature_i_was_underusing_hooks/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-07T15:43:36+00:00"
+    },
+    {
+      "id": "f7d458148e6d",
+      "title": "Getting \"Approaching Limit\" warning but usage is nowhere close to it.",
+      "summary": "&#32; submitted by &#32; /u/No_Amount_2021 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9uqj7/getting_approaching_limit_warning_but_usage_is/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-08T13:38:23+00:00"
+      "published": "2026-09-07T15:08:24+00:00"
     },
     {
-      "id": "1ea64c712773",
-      "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
-      "summary": "Using the same simple prompt the models took very different approaches: Astra delivered one sheet with 16 key poses; Fable delivered 992 frames across four palettes, plus a Python generator and browser preview. Codex CLI with GPT-5.6 Astra…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
+      "id": "3b5dd5053cf3",
+      "title": "Building a CLI agent for Claude to manage How to design a multi-agent system where Claude delegates work?",
+      "summary": "​Hey everyone, ​I’ve been experimenting with a terminal-based workflow where I use Codex to execute tasks and Claude to manage the overall project. Right now, I just write my project prompts or requirements directly into the terminal, and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9u8h1/building_a_cli_agent_for_claude_to_manage_how_to/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-09-08T12:54:08+00:00"
-    },
-    {
-      "id": "52148261897f",
-      "title": "Entire week's fable quota is burnt in a day :-|",
-      "summary": "https://preview.redd.it/mo5y00dv9aoh1.png?width=2020&format=png&auto=webp&s=95f0c39aa0470014e6c98365fdb6ce9037bf9c98 This is $200 Max plan. I think I need to buy 6 more of these now to survive a week! :-( How do you guys manage the usage?…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wam3eo/entire_weeks_fable_quota_is_burnt_in_a_day/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-08T11:45:18+00:00"
+      "published": "2026-09-07T14:49:02+00:00"
     },
     {
       "id": "3ca1e05f2be9",
