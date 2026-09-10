@@ -1,7 +1,7 @@
 {
-  "issue": 114,
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T12:47:33.600809-03:00",
+  "issue": 113,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:52:51.641474-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -55,44 +55,54 @@
       "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "03a6c4ce3f7d",
-      "title": "Chat pauses stipulate specific reason now?",
-      "summary": "Got flagged for &quot;reasoning_extraction&quot; lol &#32; submitted by &#32; /u/-DankFire [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wck7pi/chat_pauses_stipulate_specific_reason_now/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-10T14:06:14+00:00"
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "52b89d4108de",
-      "title": "Told Claude I was ending the session for the day and the text suggestion is savage",
-      "summary": "&#32; submitted by &#32; /u/Potential-Carpet9794 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcjob3/told_claude_i_was_ending_the_session_for_the_day/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "00d87416a3c2",
+      "title": "The Claude Prompts That Close Rounds in 2026",
+      "summary": "Most founders type into Claude the way they Google. Here is the prompt stack that runs a full raise: investor research, objection war-rooms, data-room audits, and term-sheet checks.",
+      "url": "https://www.the-ai-corner.com/p/the-claude-prompts-that-close-rounds",
+      "source": "The AI Corner",
       "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-10T13:45:42+00:00"
+      "weight": 7,
+      "published": "2026-08-14T16:06:14+00:00"
     },
     {
-      "id": "d3424c69f8df",
-      "title": "Fable 5.1 6x cheaper for me than Astra? Unexpected",
-      "summary": "So I use both OpenAI and Anthropic models in GitHub Copilot. I noticed Astra consuming more AI credits than usual. Asked GitHub to calculate how my usage was per request. Fable 5.1: $0.19 Astra: $1.2. Both used as xhigh effort, 1M context.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wch3rh/fable_51_6x_cheaper_for_me_than_astra_unexpected/",
+      "id": "f3422204d515",
+      "title": "Cut your Claude Code cost by 90% using the Spotify Method",
+      "summary": "Tl;dr: use a plugin that uses another model, so that you don't use an expensive model's read token costs. https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Try it yourself Install both plugins…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbmcgw/cut_your_claude_code_cost_by_90_using_the_spotify/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-10T11:58:23+00:00"
-    },
-    {
-      "id": "f12143c75667",
-      "title": "Tooling batch etc (#2797)",
-      "summary": "Tooling batch etc (#2797)",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
-      "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-09T20:35:01+00:00"
+      "published": "2026-09-09T13:57:17+00:00"
+    },
+    {
+      "id": "2cec758232d2",
+      "title": "Does anyone here actually let Claude (or any agent) touch their email?",
+      "summary": "I've posted about my free email MCP server here and in a few other communities. Every time the reaction is thin: thousands of views, few replies, and when I ask people directly what their setup is, mostly silence. In all of it I think I've…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbm26d/does_anyone_here_actually_let_claude_or_any_agent/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-09-09T13:46:05+00:00"
+    },
+    {
+      "id": "7365cef12de8",
+      "title": "Fable 5.1 Plays MMORPG Ultima Online For 2+ Hours",
+      "summary": "Fable 5.1 with Claude Code I gave it a simple open ended prompt to play the game: &quot;i want you to play ultima online anyway that you see fit. play as someone trying to enjoy the game. consider the options: do quests, make friends,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbjrtw/fable_51_plays_mmorpg_ultima_online_for_2_hours/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-09T12:08:58+00:00"
     },
     {
       "id": "41eace95c15b",
@@ -105,24 +115,14 @@
       "published": "2026-09-08T22:24:13+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "id": "ea7eebdd9527",
+      "title": "Add resource: OSS Autopilot (#2781)",
+      "summary": "Add resource: OSS Autopilot (#2781) Category: Skills Author: John Costa From issue: #2780 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e57a7337631871bdb74452c402798fb94b821a25",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-08T21:44:58+00:00"
     }
   ]
 }
