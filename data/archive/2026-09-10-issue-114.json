@@ -1,0 +1,128 @@
+{
+  "issue": 114,
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:47:33.600809-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:42:26+00:00"
+    },
+    {
+      "id": "03a6c4ce3f7d",
+      "title": "Chat pauses stipulate specific reason now?",
+      "summary": "Got flagged for &quot;reasoning_extraction&quot; lol &#32; submitted by &#32; /u/-DankFire [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wck7pi/chat_pauses_stipulate_specific_reason_now/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-10T14:06:14+00:00"
+    },
+    {
+      "id": "52b89d4108de",
+      "title": "Told Claude I was ending the session for the day and the text suggestion is savage",
+      "summary": "&#32; submitted by &#32; /u/Potential-Carpet9794 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcjob3/told_claude_i_was_ending_the_session_for_the_day/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-10T13:45:42+00:00"
+    },
+    {
+      "id": "d3424c69f8df",
+      "title": "Fable 5.1 6x cheaper for me than Astra? Unexpected",
+      "summary": "So I use both OpenAI and Anthropic models in GitHub Copilot. I noticed Astra consuming more AI credits than usual. Asked GitHub to calculate how my usage was per request. Fable 5.1: $0.19 Astra: $1.2. Both used as xhigh effort, 1M context.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wch3rh/fable_51_6x_cheaper_for_me_than_astra_unexpected/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-10T11:58:23+00:00"
+    },
+    {
+      "id": "f12143c75667",
+      "title": "Tooling batch etc (#2797)",
+      "summary": "Tooling batch etc (#2797)",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-09T20:35:01+00:00"
+    },
+    {
+      "id": "41eace95c15b",
+      "title": "Add resource: Netresearch Agentic Skills (#2785)",
+      "summary": "Add resource: Netresearch Agentic Skills (#2785) Category: Open Source Software Author: Netresearch From issue: #2784 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cdeb7f725bf90ff26a0f633c915be2f02974567",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-08T22:24:13+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
