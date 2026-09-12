@@ -1,7 +1,7 @@
 {
-  "issue": 115,
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T12:49:24.841957-03:00",
+  "issue": 116,
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:57:17.150829-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -15,20 +15,20 @@
       "featured": true
     },
     {
-      "id": "8eda2df95dfb",
-      "title": "Model Hardware Standard: AI operating physical equipment",
-      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
-      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-28T00:40:16+00:00"
-    },
-    {
       "id": "b99ae27aa366",
       "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
       "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
       "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
       "source": "claudeai.dev Blog",
       "category": "Novidade",
       "weight": 8,
@@ -45,44 +45,44 @@
       "published": "2026-09-10T15:51:41+00:00"
     },
     {
-      "id": "b7a2acc5ddfe",
-      "title": "My first ever PCB, entirely designed by Claude",
-      "summary": "I have been wanting to design a simple PCB for the last couple of years now. The thought of converting a design idea into a physical board and programming it to do things is fascinating to me. Long story short, I procrastinated until I…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/",
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
+    },
+    {
+      "id": "97b27d93830f",
+      "title": "Claude helped me make a custom e-book, and now I can play pokemon on any device with a web browser and use the display as a game dashboard!",
+      "summary": "The reader is an esp 32, with a cheap ($27) e-ink display + d pad (on the back) in 4 sheets of laser cut acrylic. The esp32 can broadcast wifi, so it serves an emulator to the browser and the rom, so processing is on device, but my save is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wecd8d/claude_helped_me_make_a_custom_ebook_and_now_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-11T13:54:55+00:00"
+      "published": "2026-09-12T13:15:12+00:00"
     },
     {
-      "id": "1c8e25ad9087",
-      "title": "Cyber Verification Program fail - What does it actually do?",
-      "summary": "I was accepted into the Claude Cyber Verification Program a couple of days ago and I'm still hitting safeguards discussing authorized and legitimate cybersecurity work, with context provided. Even asking about the cyber verification…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfz3o/cyber_verification_program_fail_what_does_it/",
+      "id": "2e07a039f367",
+      "title": "Writing a one-page \"style guide\" for Claude was the highest-value hour I've spent",
+      "summary": "I kept getting outputs that were technically right but formatted however the model felt that day. So I sat down once and wrote a short style file describing exactly how I want structured work to come back, and it fixed most of the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1weaid5/writing_a_onepage_style_guide_for_claude_was_the/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-11T13:13:52+00:00"
+      "published": "2026-09-12T11:48:18+00:00"
     },
     {
-      "id": "5fe1836b9606",
-      "title": "If Anthropic cared to read some average chats 😂",
-      "summary": "The screenshot is obviously fake, but Friday is Friday. Wishing everyone upcoming fast and smart Opus 5, cheaper Fable and daily limit resets. Amen. 🤌🏻 &#32; submitted by &#32; /u/Big_Selection_1242 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfh5b/if_anthropic_cared_to_read_some_average_chats/",
+      "id": "cb99714a4947",
+      "title": "Week 7 of making my fishing game (almost) entirely with AI",
+      "summary": "Hello there again, Another week, another update I guess, previous updates: Week 1 Progress Week 2 Progress Week 3 Progress Week 4 Progress Week 5 Progress Week 6 Progress This update comes 2 days early for a simple reason that I have some…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wea7mp/week_7_of_making_my_fishing_game_almost_entirely/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-11T12:53:26+00:00"
-    },
-    {
-      "id": "f12143c75667",
-      "title": "Tooling batch etc (#2797)",
-      "summary": "Tooling batch etc (#2797)",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-09-09T20:35:01+00:00"
+      "published": "2026-09-12T11:32:28+00:00"
     },
     {
       "id": "c072d34be0d3",
@@ -105,24 +105,24 @@
       "published": "2026-08-25T13:49:07+00:00"
     },
     {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
+      "published": "2026-07-10T09:03:02+00:00"
     },
     {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
       "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }

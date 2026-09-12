@@ -1,0 +1,128 @@
+{
+  "issue": 115,
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:49:24.841957-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
+    },
+    {
+      "id": "b7a2acc5ddfe",
+      "title": "My first ever PCB, entirely designed by Claude",
+      "summary": "I have been wanting to design a simple PCB for the last couple of years now. The thought of converting a design idea into a physical board and programming it to do things is fascinating to me. Long story short, I procrastinated until I…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-11T13:54:55+00:00"
+    },
+    {
+      "id": "1c8e25ad9087",
+      "title": "Cyber Verification Program fail - What does it actually do?",
+      "summary": "I was accepted into the Claude Cyber Verification Program a couple of days ago and I'm still hitting safeguards discussing authorized and legitimate cybersecurity work, with context provided. Even asking about the cyber verification…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfz3o/cyber_verification_program_fail_what_does_it/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-11T13:13:52+00:00"
+    },
+    {
+      "id": "5fe1836b9606",
+      "title": "If Anthropic cared to read some average chats 😂",
+      "summary": "The screenshot is obviously fake, but Friday is Friday. Wishing everyone upcoming fast and smart Opus 5, cheaper Fable and daily limit resets. Amen. 🤌🏻 &#32; submitted by &#32; /u/Big_Selection_1242 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfh5b/if_anthropic_cared_to_read_some_average_chats/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-11T12:53:26+00:00"
+    },
+    {
+      "id": "f12143c75667",
+      "title": "Tooling batch etc (#2797)",
+      "summary": "Tooling batch etc (#2797)",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-09T20:35:01+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
