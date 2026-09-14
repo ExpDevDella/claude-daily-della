@@ -1,7 +1,7 @@
 {
-  "issue": 117,
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T12:34:21.975197-03:00",
+  "issue": 118,
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:38:06.069556-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -55,74 +55,74 @@
       "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
       "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "8ee790d10856",
-      "title": "The One-Person Business, Built on Claude",
-      "summary": "A course for people who intend to still be operating in three years.",
-      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "id": "3cb911b3f403",
+      "title": "fix(memory): constrain search_nodes query length (#4662)",
+      "summary": "fix(memory): constrain search_nodes query length (#4662) The search_nodes tool accepted an unbounded query string (per modelcontextprotocol/servers#3537, official servers should constrain string parameters). An oversized query costs an…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f41b666edf470795d3724b06899dbca2d102b4e2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:35:03+00:00"
+    },
+    {
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-08-26T14:42:51+00:00"
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "989a76041771",
-      "title": "'Enable Computer Use' on a second device has changed my Claude workflow",
-      "summary": "The absolute key thing IMO for 'Enable Computer Use' to be most helpful is to have it running on a second device where you control what it has access to and won't interrupt it. I was very uncomfortable handing over full control of my main…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf827g/enable_computer_use_on_a_second_device_has/",
+      "id": "465d0f312064",
+      "title": "I don't see how to upskill any further",
+      "summary": "At least 90% of my work already happens inside Claude Code. Coding, architecture, system design, documentation, tickets, research, you name it. I try to broaden my skills and knowledge as much as possible, take on more responsibility, and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg7rcl/i_dont_see_how_to_upskill_any_further/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-13T13:43:39+00:00"
+      "published": "2026-09-14T16:10:59+00:00"
     },
     {
-      "id": "d545a3a9b624",
-      "title": "It took me 8 months but Claude helped me build my app from scratch",
-      "summary": "Hi All, I never thought I’d be able to execute this but as of today (7 rejections later) my app is finally in the App Store. Thanks to vibe coding and Claude I was able to do it as a full one man show with no coding experience, which is…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7m7r/it_took_me_8_months_but_claude_helped_me_build_my/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-13T13:24:42+00:00"
-    },
-    {
-      "id": "92c299ded564",
-      "title": "Claude can optimize my computer",
-      "summary": "Maybe this is obvious or I'm late to this but I didn't know Claude Code could optimize your computer. This all started with my PC, which I use for gaming. It was stuttering so I had it check my home network first. Then it looked at my…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7es1/claude_can_optimize_my_computer/",
+      "id": "0e1cb2617c7b",
+      "title": "I am a CMU professor. This summer I taught a cohort of non-programmers to build and ship with Claude. 28 projects later, the fall cohort just started.",
+      "summary": "This summer I ran the Vibe Coding Studio: four sessions on the fundamentals of AI and how to manage Claude as a collaborator, then a live project period where everyone built and shipped one real thing. Most of the people who showed up were…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg74mc/i_am_a_cmu_professor_this_summer_i_taught_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-13T13:15:39+00:00"
+      "published": "2026-09-14T15:48:24+00:00"
     },
     {
-      "id": "bbb6dd2f3dd2",
-      "title": "Add Smart Dev task template as standalone annotated file",
-      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "623dd6c2f379",
+      "title": "Anthropic says Russian and Chinese threat actors used Claude for drone-swarm software and other weapons work",
+      "summary": "&#32; submitted by &#32; /u/thisisinsider [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg6zf9/anthropic_says_russian_and_chinese_threat_actors/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 5,
-      "published": "2026-07-10T09:03:02+00:00"
+      "weight": 6,
+      "published": "2026-09-14T15:43:02+00:00"
     },
     {
-      "id": "a9b28e3ea8a6",
-      "title": "Add: Custom AI Operating System for a Small Business prompt",
-      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-05-18T15:40:33+00:00"
+      "id": "f3a9cbcb2f68",
+      "title": "Add resource: Claude Style Patch (#2832)",
+      "summary": "Add resource: Claude Style Patch (#2832) Category: Writing & Prose Quality Author: Andrew Roxby From issue: #2830 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3dd60176bb281b380e0beae4f5f136fa6d4c5666",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-14T02:41:24+00:00"
     }
   ]
 }

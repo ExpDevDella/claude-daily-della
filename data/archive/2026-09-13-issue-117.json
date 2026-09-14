@@ -1,0 +1,128 @@
+{
+  "issue": 117,
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:34:21.975197-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:42:26+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
+    },
+    {
+      "id": "989a76041771",
+      "title": "'Enable Computer Use' on a second device has changed my Claude workflow",
+      "summary": "The absolute key thing IMO for 'Enable Computer Use' to be most helpful is to have it running on a second device where you control what it has access to and won't interrupt it. I was very uncomfortable handing over full control of my main…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf827g/enable_computer_use_on_a_second_device_has/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-13T13:43:39+00:00"
+    },
+    {
+      "id": "d545a3a9b624",
+      "title": "It took me 8 months but Claude helped me build my app from scratch",
+      "summary": "Hi All, I never thought I’d be able to execute this but as of today (7 rejections later) my app is finally in the App Store. Thanks to vibe coding and Claude I was able to do it as a full one man show with no coding experience, which is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7m7r/it_took_me_8_months_but_claude_helped_me_build_my/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-13T13:24:42+00:00"
+    },
+    {
+      "id": "92c299ded564",
+      "title": "Claude can optimize my computer",
+      "summary": "Maybe this is obvious or I'm late to this but I didn't know Claude Code could optimize your computer. This all started with my PC, which I use for gaming. It was stuttering so I had it check my home network first. Then it looked at my…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7es1/claude_can_optimize_my_computer/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-13T13:15:39+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    }
+  ]
+}
