@@ -1,7 +1,7 @@
 {
-  "issue": 119,
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T13:11:24.187284-03:00",
+  "issue": 118,
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:38:06.069556-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -85,34 +85,34 @@
       "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "097ddb5678ad",
-      "title": "Increasingly Frustrated with Fable - Security Features are too Sensitive",
-      "summary": "I’m finding Fable to be a worse product the longer I use it. My work entails managing electronic medical record software for a healthcare organization. I sometimes use Claude to create a bot or automation program that enters data into…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh38xu/increasingly_frustrated_with_fable_security/",
+      "id": "465d0f312064",
+      "title": "I don't see how to upskill any further",
+      "summary": "At least 90% of my work already happens inside Claude Code. Coding, architecture, system design, documentation, tickets, research, you name it. I try to broaden my skills and knowledge as much as possible, take on more responsibility, and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg7rcl/i_dont_see_how_to_upskill_any_further/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-09-15T15:17:10+00:00"
+      "published": "2026-09-14T16:10:59+00:00"
     },
     {
-      "id": "e326acdbaaf8",
-      "title": "TempleOS running inside the in-game monitors of Half Life 1",
-      "summary": "It runs a real TempleOS instance in QEMU in the background and streams it onto one of the monitors in the game, so you can walk up and actually type into it and run its little games. Most of it Claude handled fine, the VNC client, the QEMU…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/",
+      "id": "0e1cb2617c7b",
+      "title": "I am a CMU professor. This summer I taught a cohort of non-programmers to build and ship with Claude. 28 projects later, the fall cohort just started.",
+      "summary": "This summer I ran the Vibe Coding Studio: four sessions on the fundamentals of AI and how to manage Claude as a collaborator, then a live project period where everyone built and shipped one real thing. Most of the people who showed up were…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg74mc/i_am_a_cmu_professor_this_summer_i_taught_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-15T14:22:40+00:00"
+      "published": "2026-09-14T15:48:24+00:00"
     },
     {
-      "id": "eabf2b066455",
-      "title": "Claude vs OpenAI weekly quota",
-      "summary": "I keep hearing &quot;people&quot; here saying how amazing the usage limits are on Codex, but really, have you used both recently? I have the $100 tier on both, Team Premium vs Business Premium, and OpenAI side has moved from extremely…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgzu35/claude_vs_openai_weekly_quota/",
+      "id": "623dd6c2f379",
+      "title": "Anthropic says Russian and Chinese threat actors used Claude for drone-swarm software and other weapons work",
+      "summary": "&#32; submitted by &#32; /u/thisisinsider [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg6zf9/anthropic_says_russian_and_chinese_threat_actors/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-15T13:04:19+00:00"
+      "published": "2026-09-14T15:43:02+00:00"
     },
     {
       "id": "f3a9cbcb2f68",
