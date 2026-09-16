@@ -1,7 +1,7 @@
 {
-  "issue": 120,
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T13:05:24.202300-03:00",
+  "issue": 119,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:11:24.187284-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -75,54 +75,54 @@
       "published": "2026-09-03T01:35:03+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "id": "0c826db9d46a",
+      "title": "How to 8x Your Code Output Using Context Engineering",
+      "summary": "Anthropic&#8217;s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.",
+      "url": "https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-20T14:47:41+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "fa98f89a12df",
-      "title": "Claude 4.6 was peak and it's downhill since then",
-      "summary": "I've been using claude for more than 2 years now and It seems that the peak of claude was with Opus 4.6, we used to actually understand what it says and does what was told , sure wasn't the crispiest chip in the bag but got actual job done…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/",
+      "id": "097ddb5678ad",
+      "title": "Increasingly Frustrated with Fable - Security Features are too Sensitive",
+      "summary": "I’m finding Fable to be a worse product the longer I use it. My work entails managing electronic medical record software for a healthcare organization. I sometimes use Claude to create a bot or automation program that enters data into…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh38xu/increasingly_frustrated_with_fable_security/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-09-16T14:58:03+00:00"
+      "published": "2026-09-15T15:17:10+00:00"
     },
     {
-      "id": "f57b7e928292",
-      "title": "A lot of talk about reduced weekly limits but a lack of data - so here's some actual numbers",
-      "summary": "Two questions answered by actual data, not just vibes: • How much the Claude Max weekly limit actually dropped after the promo ended • Max 5x vs Max 20x and what that actually means for usage limits There's a lot of &quot;my limits got…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1why2zx/a_lot_of_talk_about_reduced_weekly_limits_but_a/",
+      "id": "e326acdbaaf8",
+      "title": "TempleOS running inside the in-game monitors of Half Life 1",
+      "summary": "It runs a real TempleOS instance in QEMU in the background and streams it onto one of the monitors in the game, so you can walk up and actually type into it and run its little games. Most of it Claude handled fine, the VNC client, the QEMU…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-16T14:00:34+00:00"
+      "published": "2026-09-15T14:22:40+00:00"
     },
     {
-      "id": "f07ebdd70a11",
-      "title": "Quota draining? Claude Code re-bills a finished sub-agent's whole context on a follow-up",
-      "summary": "I mostly just lurk here and rarely comment, but this one felt worth sharing. I found a cache-resume issue in Claude Code that may be part of what a lot of people are seeing with their usage limits this week, so here we go. TL;DR: when a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvqcl/quota_draining_claude_code_rebills_a_finished/",
+      "id": "eabf2b066455",
+      "title": "Claude vs OpenAI weekly quota",
+      "summary": "I keep hearing &quot;people&quot; here saying how amazing the usage limits are on Codex, but really, have you used both recently? I have the $100 tier on both, Team Premium vs Business Premium, and OpenAI side has moved from extremely…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgzu35/claude_vs_openai_weekly_quota/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-16T12:23:45+00:00"
+      "published": "2026-09-15T13:04:19+00:00"
+    },
+    {
+      "id": "f3a9cbcb2f68",
+      "title": "Add resource: Claude Style Patch (#2832)",
+      "summary": "Add resource: Claude Style Patch (#2832) Category: Writing & Prose Quality Author: Andrew Roxby From issue: #2830 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3dd60176bb281b380e0beae4f5f136fa6d4c5666",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-09-14T02:41:24+00:00"
     }
   ]
 }
