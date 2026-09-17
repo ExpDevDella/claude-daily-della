@@ -1,7 +1,7 @@
 {
-  "issue": 121,
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T13:11:11.458429-03:00",
+  "issue": 120,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:05:24.202300-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -95,34 +95,34 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "89c4f92054bd",
-      "title": "JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems",
-      "summary": "JPMorgan is rolling out a new environment called Devspace for some engineers using Claude Code. The interesting part isn’t really the $2,000 monthly spending cap. It’s how they’re handling agent permissions. Instead of letting Claude run…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
+      "id": "fa98f89a12df",
+      "title": "Claude 4.6 was peak and it's downhill since then",
+      "summary": "I've been using claude for more than 2 years now and It seems that the peak of claude was with Opus 4.6, we used to actually understand what it says and does what was told , sure wasn't the crispiest chip in the bag but got actual job done…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-17T12:52:21+00:00"
+      "published": "2026-09-16T14:58:03+00:00"
     },
     {
-      "id": "5460b9bff9cf",
-      "title": "Sometimes you have to treat Opus like its a teenager ... I'm not surprised, but I am dissapointed",
-      "summary": "I usually use Codex to keep Opus in line, and I thought, nah, I can jockey this pony, and it went well to begin with until the first agent started getting a little long in the tooth, so we agreed to part ways and call it quits, and it gave…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wisqyn/sometimes_you_have_to_treat_opus_like_its_a/",
+      "id": "f57b7e928292",
+      "title": "A lot of talk about reduced weekly limits but a lack of data - so here's some actual numbers",
+      "summary": "Two questions answered by actual data, not just vibes: • How much the Claude Max weekly limit actually dropped after the promo ended • Max 5x vs Max 20x and what that actually means for usage limits There's a lot of &quot;my limits got…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1why2zx/a_lot_of_talk_about_reduced_weekly_limits_but_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-17T12:33:48+00:00"
+      "published": "2026-09-16T14:00:34+00:00"
     },
     {
-      "id": "42a72b914771",
-      "title": "Is it fine to get team accounts along with individual accounts?",
-      "summary": "Hey guys. Is it okay to get team account when we already have individual accounts. Me and my co worker use both use our individual accounts on the server. And planning to buy a new team account too. Was wondering if that's a problem? It's…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1winy6f/is_it_fine_to_get_team_accounts_along_with/",
+      "id": "f07ebdd70a11",
+      "title": "Quota draining? Claude Code re-bills a finished sub-agent's whole context on a follow-up",
+      "summary": "I mostly just lurk here and rarely comment, but this one felt worth sharing. I found a cache-resume issue in Claude Code that may be part of what a lot of people are seeing with their usage limits this week, so here we go. TL;DR: when a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvqcl/quota_draining_claude_code_rebills_a_finished/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-17T08:16:29+00:00"
+      "published": "2026-09-16T12:23:45+00:00"
     }
   ]
 }
