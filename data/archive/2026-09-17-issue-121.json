@@ -1,7 +1,7 @@
 {
-  "issue": 122,
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T12:46:51.473632-03:00",
+  "issue": 121,
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:11:11.458429-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -95,34 +95,34 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "280768ad36ec",
-      "title": "Claude Code ships a per-model table of what each effort level costs",
-      "summary": "Hidden inside the Claude Code binary, effort_cost_index provides the following per-model token-usage estimate for the same task. It is normalized so high = 1 . Model low medium high xhigh max xhigh to max sonnet-5 0.47 0.74 1 2.41 5.59…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjr89j/claude_code_ships_a_permodel_table_of_what_each/",
+      "id": "89c4f92054bd",
+      "title": "JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems",
+      "summary": "JPMorgan is rolling out a new environment called Devspace for some engineers using Claude Code. The interesting part isn’t really the $2,000 monthly spending cap. It’s how they’re handling agent permissions. Instead of letting Claude run…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-18T14:08:00+00:00"
+      "published": "2026-09-17T12:52:21+00:00"
     },
     {
-      "id": "ed74b5de4dc5",
-      "title": "Not being able to post a fully free and open sourced DnD campaign tool on r/DnD because they \"don't allow AI\"",
-      "summary": "I mean this is just ridiculous... EDIT: Here's the tool for people asking: https://pw-tf.github.io/taphou5e/v2/index.html I'm frustrated because I love DnD and I built a tool I think people would find useful and would enjoy using, totally…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjqywo/not_being_able_to_post_a_fully_free_and_open/",
+      "id": "5460b9bff9cf",
+      "title": "Sometimes you have to treat Opus like its a teenager ... I'm not surprised, but I am dissapointed",
+      "summary": "I usually use Codex to keep Opus in line, and I thought, nah, I can jockey this pony, and it went well to begin with until the first agent started getting a little long in the tooth, so we agreed to part ways and call it quits, and it gave…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wisqyn/sometimes_you_have_to_treat_opus_like_its_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-18T13:58:06+00:00"
+      "published": "2026-09-17T12:33:48+00:00"
     },
     {
-      "id": "c26b7954860f",
-      "title": "This just happened. I’m not sure how but I’m all in.",
-      "summary": "&#32; submitted by &#32; /u/pooter03 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjqb7u/this_just_happened_im_not_sure_how_but_im_all_in/",
+      "id": "42a72b914771",
+      "title": "Is it fine to get team accounts along with individual accounts?",
+      "summary": "Hey guys. Is it okay to get team account when we already have individual accounts. Me and my co worker use both use our individual accounts on the server. And planning to buy a new team account too. Was wondering if that's a problem? It's…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1winy6f/is_it_fine_to_get_team_accounts_along_with/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-18T13:31:41+00:00"
+      "published": "2026-09-17T08:16:29+00:00"
     }
   ]
 }
