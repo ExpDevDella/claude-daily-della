@@ -1,0 +1,128 @@
+{
+  "issue": 124,
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:23:42.549632-03:00",
+  "items": [
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
+    },
+    {
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
+    },
+    {
+      "id": "c277e3edce3b",
+      "title": "Something is wrong with usage this week",
+      "summary": "After one session following the weekly refresh, a single session appears to have used 15% of the weekly limit. This suggests roughly six or seven sessions might exhaust the full allowance, which seems too low. Is this something to do with…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlj3gu/something_is_wrong_with_usage_this_week/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-20T14:51:38+00:00"
+    },
+    {
+      "id": "32683c220555",
+      "title": "Claude Code and Linux Automation",
+      "summary": "I see heaps of posts here with people using Claude Code running out of credits too fast. While I agree the ever changing plan inclusion goalposts keeps shifting in the wrong freaking direction, my setup has me outsourcing a lot of the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlg2h4/claude_code_and_linux_automation/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-09-20T12:41:03+00:00"
+    },
+    {
+      "id": "611c14f31396",
+      "title": "Simulating traditional art materials with Claude V2",
+      "summary": "I shared my oil paint reproduction in this sub before, and since then I've taken it further — I've extended and integrated the implementation to cover watercolor, gold leaf, pastel as a dry medium, and crayon, which is a slight adaptation…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlegk4/simulating_traditional_art_materials_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-20T11:20:41+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
