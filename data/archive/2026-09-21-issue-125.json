@@ -1,7 +1,7 @@
 {
-  "issue": 126,
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T13:13:42.969237-03:00",
+  "issue": 125,
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:50:18.979693-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -35,16 +35,6 @@
       "published": "2026-08-27T19:42:35+00:00"
     },
     {
-      "id": "bb5a184f2079",
-      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
-      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-22T14:30:15+00:00"
-    },
-    {
       "id": "6f321ff13a23",
       "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
       "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
@@ -75,54 +65,64 @@
       "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "id": "8ee790d10856",
+      "title": "The One-Person Business, Built on Claude",
+      "summary": "A course for people who intend to still be operating in three years.",
+      "url": "https://www.the-ai-corner.com/p/build-one-person-business-with-claude",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-08-26T14:42:51+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3d18ddcc2846",
-      "title": "Claude usage limits and intelligence are the new \"Onyxia deep breathes more\"",
-      "summary": "Gather round youngins. I have a story from the days of old. This is a meme that has reared its head from time to time in WoW, but I'm here to talk about the old school. Anyone who raided vanilla WoW remembers it well. Onyxia's Deep Breath…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnaspk/claude_usage_limits_and_intelligence_are_the_new/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-22T14:19:12+00:00"
-    },
-    {
-      "id": "714f530865d0",
-      "title": "Has running multiple coding agents in parallel actually made you faster?",
-      "summary": "Claude Code is rolling out Projects, where multiple agents can work on separate branches while sharing the same goal and context. It sounds great in theory, but I’m wondering what happens once the work needs to come back together. Are you…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnanuq/has_running_multiple_coding_agents_in_parallel/",
+      "id": "36f7c065c5bf",
+      "title": "Live Dark Fantasy SVG art created and animated with Fable 5.1 (secretly 5.2?) Link to OG file in comment.",
+      "summary": "Original prompt was create a detailed stylized and beautiful svg cover for Elden Ring like game, and then the animation came in a separate chat from the result. The result is a 176 KB SVG file . &#32; submitted by &#32; /u/liansk [link]…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmgntg/live_dark_fantasy_svg_art_created_and_animated/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-22T14:14:06+00:00"
+      "published": "2026-09-21T15:52:00+00:00"
     },
     {
-      "id": "ddb58c15523c",
-      "title": "With the removal of the +50% weekly limit, I am struggling to stay under plan. Any tips? (And also the measures I took to protect my usage limit)",
-      "summary": "I've been quite strict with myself since the removal of the +50% weekly usage limit. First off I cleaned my whole Fable orchestrator to not use Opus pretty much at all anymore (unless it's incredibly complex or could break entire systems).…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn9z3t/with_the_removal_of_the_50_weekly_limit_i_am/",
+      "id": "e5fa3ad64ce1",
+      "title": "Do you guys ever downgrade a workflow after you’ve got it working?",
+      "summary": "We have a few Claude workflows where the model choice was basically made while we were still building everything out but like at that point I wasn't really trying to optimize much I just wanted the outputs to be reliable and went with the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmgm43/do_you_guys_ever_downgrade_a_workflow_after_youve/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-09-22T13:46:48+00:00"
+      "published": "2026-09-21T15:50:18+00:00"
+    },
+    {
+      "id": "ce64a0fec36f",
+      "title": "If Fable made you buy a second account, this shows which one still has usage and when the others reset",
+      "summary": "Fable is great and it also goes through a weekly limit like nothing. I know a bunch of people here ended up with a second Max or Pro account because of it, me included, and then the actual problem starts: which account has room right now,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmbjb5/if_fable_made_you_buy_a_second_account_this_shows/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-21T12:35:02+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }
