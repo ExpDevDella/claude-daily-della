@@ -1,7 +1,7 @@
 {
-  "issue": 127,
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T13:03:14.761213-03:00",
+  "issue": 126,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:13:42.969237-03:00",
   "items": [
     {
       "id": "9dea0c491979",
@@ -95,34 +95,34 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "461f0dcc8c46",
-      "title": "Stupid question - if Opus 5.5 is better than Fable 5.1, why would we ever use Fable 5.1?",
-      "summary": "Looking at the post and how it's better in every category except one, why would we ever select Fable 5.1 for a job? Edit: I can't reply to everybody, but thank you so much for your answers. This is really helpful in understanding the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnxeql/stupid_question_if_opus_55_is_better_than_fable/",
+      "id": "3d18ddcc2846",
+      "title": "Claude usage limits and intelligence are the new \"Onyxia deep breathes more\"",
+      "summary": "Gather round youngins. I have a story from the days of old. This is a meme that has reared its head from time to time in WoW, but I'm here to talk about the old school. Anyone who raided vanilla WoW remembers it well. Onyxia's Deep Breath…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnaspk/claude_usage_limits_and_intelligence_are_the_new/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-23T05:46:10+00:00"
+      "published": "2026-09-22T14:19:12+00:00"
     },
     {
-      "id": "9e3d070cef4f",
-      "title": "I do scientific research and Opus5.5 refuses to touch anything I’ve been working on.",
-      "summary": "I use Claude primarily for scientific research. I was hoping this new model would fix the terrible quality issues from the last but when I just asked it to look at a file, or give me a status update on a new session. It raises the alarms…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnuko4/i_do_scientific_research_and_opus55_refuses_to/",
+      "id": "714f530865d0",
+      "title": "Has running multiple coding agents in parallel actually made you faster?",
+      "summary": "Claude Code is rolling out Projects, where multiple agents can work on separate branches while sharing the same goal and context. It sounds great in theory, but I’m wondering what happens once the work needs to come back together. Are you…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnanuq/has_running_multiple_coding_agents_in_parallel/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-23T03:17:18+00:00"
+      "published": "2026-09-22T14:14:06+00:00"
     },
     {
-      "id": "0e82d6a159c9",
-      "title": "haven't raged once since opus 5.5",
-      "summary": "turns out my anger issues were a model version. induced ai psychosis will be in textbooks in 5 years and i'm the case study &#32; submitted by &#32; /u/Fjusc [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnr0ir/havent_raged_once_since_opus_55/",
+      "id": "ddb58c15523c",
+      "title": "With the removal of the +50% weekly limit, I am struggling to stay under plan. Any tips? (And also the measures I took to protect my usage limit)",
+      "summary": "I've been quite strict with myself since the removal of the +50% weekly usage limit. First off I cleaned my whole Fable orchestrator to not use Opus pretty much at all anymore (unless it's incredibly complex or could break entire systems).…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn9z3t/with_the_removal_of_the_50_weekly_limit_i_am/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-23T00:33:27+00:00"
+      "published": "2026-09-22T13:46:48+00:00"
     }
   ]
 }
