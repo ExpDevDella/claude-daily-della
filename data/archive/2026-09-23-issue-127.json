@@ -1,19 +1,8 @@
 {
-  "issue": 128,
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T13:27:23.552882-03:00",
+  "issue": 127,
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:03:14.761213-03:00",
   "items": [
-    {
-      "id": "cb4e42d4d067",
-      "title": "Inside Anthropic's molecular biology lab",
-      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
-      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-09-23T18:01:32+00:00",
-      "featured": true
-    },
     {
       "id": "9dea0c491979",
       "title": "Introducing Claude Fable 5.1",
@@ -22,7 +11,8 @@
       "source": "YouTube - Anthropic",
       "category": "Video",
       "weight": 9,
-      "published": "2026-09-01T18:02:31+00:00"
+      "published": "2026-09-01T18:02:31+00:00",
+      "featured": true
     },
     {
       "id": "8eda2df95dfb",
@@ -33,6 +23,16 @@
       "category": "Video",
       "weight": 9,
       "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "b5ae37610f9c",
+      "title": "We're building a way for AI models to connect to any device and run real experiments.",
+      "summary": "Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to…",
+      "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-27T19:42:35+00:00"
     },
     {
       "id": "bb5a184f2079",
@@ -85,44 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "d36d7693e596",
-      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-09-24T15:06:48+00:00"
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "e6f7ea9877d6",
-      "title": "What is wrong with Opus 5.5?",
-      "summary": "2 days in and still no &quot;It's a bunch of crap&quot; posts! &#32; submitted by &#32; /u/Basic_Cartoonist8922 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp1yht/what_is_wrong_with_opus_55/",
+      "id": "461f0dcc8c46",
+      "title": "Stupid question - if Opus 5.5 is better than Fable 5.1, why would we ever use Fable 5.1?",
+      "summary": "Looking at the post and how it's better in every category except one, why would we ever select Fable 5.1 for a job? Edit: I can't reply to everybody, but thank you so much for your answers. This is really helpful in understanding the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnxeql/stupid_question_if_opus_55_is_better_than_fable/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-24T13:41:08+00:00"
+      "published": "2026-09-23T05:46:10+00:00"
     },
     {
-      "id": "1ef49870ac36",
-      "title": "When Claude is your rollback plan",
-      "summary": "&#32; submitted by &#32; /u/developertimeline [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp1g6t/when_claude_is_your_rollback_plan/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-09-24T13:19:49+00:00"
-    },
-    {
-      "id": "cd44ffae7479",
-      "title": "claude made a rap and music video about itself (entirely in typescript with opus 5.5)",
-      "summary": "claude built a rap song and music video about itself using Claude Code running Opus 5.5. every sound including the rapping voice was generated entirely in TypeScript. no samples, tts apis, or ai music generators. all in one prompt over…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1woy70m/claude_made_a_rap_and_music_video_about_itself/",
+      "id": "9e3d070cef4f",
+      "title": "I do scientific research and Opus5.5 refuses to touch anything I’ve been working on.",
+      "summary": "I use Claude primarily for scientific research. I was hoping this new model would fix the terrible quality issues from the last but when I just asked it to look at a file, or give me a status update on a new session. It raises the alarms…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnuko4/i_do_scientific_research_and_opus55_refuses_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-24T10:39:35+00:00"
+      "published": "2026-09-23T03:17:18+00:00"
+    },
+    {
+      "id": "0e82d6a159c9",
+      "title": "haven't raged once since opus 5.5",
+      "summary": "turns out my anger issues were a model version. induced ai psychosis will be in textbooks in 5 years and i'm the case study &#32; submitted by &#32; /u/Fjusc [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnr0ir/havent_raged_once_since_opus_55/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-23T00:33:27+00:00"
     }
   ]
 }
