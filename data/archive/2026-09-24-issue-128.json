@@ -1,7 +1,7 @@
 {
-  "issue": 129,
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T13:28:29.604605-03:00",
+  "issue": 128,
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:27:23.552882-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -95,34 +95,34 @@
       "published": "2026-09-24T15:06:48+00:00"
     },
     {
-      "id": "81b31df1c377",
-      "title": "Your AI games suck, and it's not the AI's fault",
-      "summary": "You've got tools now that do basically everything for you. Code, art, sound, all of it. So what do a lot of you do with that? Type one prompt, dump whatever comes out and post it like it's a finished game. And it shows. It screams AI. It…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpzqxn/your_ai_games_suck_and_its_not_the_ais_fault/",
+      "id": "e6f7ea9877d6",
+      "title": "What is wrong with Opus 5.5?",
+      "summary": "2 days in and still no &quot;It's a bunch of crap&quot; posts! &#32; submitted by &#32; /u/Basic_Cartoonist8922 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp1yht/what_is_wrong_with_opus_55/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-25T15:44:54+00:00"
+      "published": "2026-09-24T13:41:08+00:00"
     },
     {
-      "id": "8c9d37930696",
-      "title": "Claude Code Wrap Up Allowance!",
-      "summary": "https://support.claude.com/en/articles/17040437-claude-code-wrap-up-allowance What it is If Claude Code reaches your plan’s five-hour usage limit partway through a response, it may keep working briefly so it can reach a reasonable stopping…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpxur6/claude_code_wrap_up_allowance/",
+      "id": "1ef49870ac36",
+      "title": "When Claude is your rollback plan",
+      "summary": "&#32; submitted by &#32; /u/developertimeline [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp1g6t/when_claude_is_your_rollback_plan/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-25T14:30:09+00:00"
+      "published": "2026-09-24T13:19:49+00:00"
     },
     {
-      "id": "3d6a34285e19",
-      "title": "Anthropic signs $11.6B cloud deal with Akamai",
-      "summary": "&#32; submitted by &#32; /u/Vast_Hope_7185 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpto23/anthropic_signs_116b_cloud_deal_with_akamai/",
+      "id": "cd44ffae7479",
+      "title": "claude made a rap and music video about itself (entirely in typescript with opus 5.5)",
+      "summary": "claude built a rap song and music video about itself using Claude Code running Opus 5.5. every sound including the rapping voice was generated entirely in TypeScript. no samples, tts apis, or ai music generators. all in one prompt over…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1woy70m/claude_made_a_rap_and_music_video_about_itself/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-25T11:18:56+00:00"
+      "published": "2026-09-24T10:39:35+00:00"
     }
   ]
 }
