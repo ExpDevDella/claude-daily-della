@@ -1,7 +1,7 @@
 {
-  "issue": 130,
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T12:43:15.639715-03:00",
+  "issue": 129,
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:28:29.604605-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -85,44 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "id": "d36d7693e596",
+      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-24T15:06:48+00:00"
     },
     {
-      "id": "faa2ec6f94e0",
-      "title": "Anthropic, please no update for a period of time",
-      "summary": "Hey Anthropic, we know you are dedicated to make things better. But please 🙏 let thing be as is for a couple of months. Do not even try to make them better. You have realized our dream. With opus 5.5 everything is perfect. Let us live the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqqdmy/anthropic_please_no_update_for_a_period_of_time/",
+      "id": "81b31df1c377",
+      "title": "Your AI games suck, and it's not the AI's fault",
+      "summary": "You've got tools now that do basically everything for you. Code, art, sound, all of it. So what do a lot of you do with that? Type one prompt, dump whatever comes out and post it like it's a finished game. And it shows. It screams AI. It…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpzqxn/your_ai_games_suck_and_its_not_the_ais_fault/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-26T13:19:31+00:00"
+      "published": "2026-09-25T15:44:54+00:00"
     },
     {
-      "id": "32e563c269e7",
-      "title": "Opus 5.5 is my favorite model ever, by far",
-      "summary": "I went in to last Tuesday being more excited for the new OpenAI models than for Opus 5.5. I have two 20x ChatGPT Pro accounts, but after playing around with Opus 5.5, I haven't used Codex/ChatGPT even once. I despised Opus 5 and Fable 5.1…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/",
+      "id": "8c9d37930696",
+      "title": "Claude Code Wrap Up Allowance!",
+      "summary": "https://support.claude.com/en/articles/17040437-claude-code-wrap-up-allowance What it is If Claude Code reaches your plan’s five-hour usage limit partway through a response, it may keep working briefly so it can reach a reasonable stopping…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpxur6/claude_code_wrap_up_allowance/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-26T12:51:17+00:00"
+      "published": "2026-09-25T14:30:09+00:00"
     },
     {
-      "id": "4861150ff5c7",
-      "title": "Just realised, don't think I've seen \"load-bearing\" ONCE in the last week since Opus 5.5!",
-      "summary": "How refreshing. My internal happiness and mental sanity has returned. I feel less frustrated and less tendencies to get angry. Anyone else feeling the side benefits? &#32; submitted by &#32; /u/zingyandnuts [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqp7wl/just_realised_dont_think_ive_seen_loadbearing/",
+      "id": "3d6a34285e19",
+      "title": "Anthropic signs $11.6B cloud deal with Akamai",
+      "summary": "&#32; submitted by &#32; /u/Vast_Hope_7185 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpto23/anthropic_signs_116b_cloud_deal_with_akamai/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-09-26T12:24:05+00:00"
+      "published": "2026-09-25T11:18:56+00:00"
     }
   ]
 }
