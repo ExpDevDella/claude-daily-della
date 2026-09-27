@@ -1,7 +1,7 @@
 {
-  "issue": 130,
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T12:43:15.639715-03:00",
+  "issue": 131,
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:21:01.646932-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -45,84 +45,84 @@
       "published": "2026-09-22T14:30:15+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
     },
     {
-      "id": "f8412a95a7f3",
-      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
-      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-03T01:42:26+00:00"
+      "id": "7d11fc1ef9ce",
+      "title": "This is proving how Anthropic was taking even small details seriously during the training phase",
+      "summary": "&#32; submitted by &#32; /u/Ill-Process-7232 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-27T13:56:49+00:00"
     },
     {
-      "id": "954f696a81aa",
-      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
-      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-03T01:38:22+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "faa2ec6f94e0",
-      "title": "Anthropic, please no update for a period of time",
-      "summary": "Hey Anthropic, we know you are dedicated to make things better. But please 🙏 let thing be as is for a couple of months. Do not even try to make them better. You have realized our dream. With opus 5.5 everything is perfect. Let us live the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqqdmy/anthropic_please_no_update_for_a_period_of_time/",
+      "id": "177d2c6a9031",
+      "title": "Ai is kinda the new Excel when it comes to recruiting talks",
+      "summary": "I am recruiting lots of jobs at my company. Right now a CFO. Myself I am a daily user and more on Backoffice stuff and not a superuser but I think advanced. It is funny how many candidates out of nowhere suddenly saying &quot;Ahh yeah and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkr8f/ai_is_kinda_the_new_excel_when_it_comes_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-26T13:19:31+00:00"
+      "published": "2026-09-27T13:51:31+00:00"
     },
     {
-      "id": "32e563c269e7",
-      "title": "Opus 5.5 is my favorite model ever, by far",
-      "summary": "I went in to last Tuesday being more excited for the new OpenAI models than for Opus 5.5. I have two 20x ChatGPT Pro accounts, but after playing around with Opus 5.5, I haven't used Codex/ChatGPT even once. I despised Opus 5 and Fable 5.1…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/",
+      "id": "7528fb46a0f7",
+      "title": "I made a relaxing constellation typing game with Opus 5.5 in just 2 prompt iterations",
+      "summary": "I wanted something with the simplicity and style of Monkeytype, but more relaxing and visually satisfying, so I made Stillwater. As you type, stars appear and connect into constellations while the site tracks your WPM and accuracy. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrh0tl/i_made_a_relaxing_constellation_typing_game_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-26T12:51:17+00:00"
+      "published": "2026-09-27T10:40:39+00:00"
     },
     {
-      "id": "4861150ff5c7",
-      "title": "Just realised, don't think I've seen \"load-bearing\" ONCE in the last week since Opus 5.5!",
-      "summary": "How refreshing. My internal happiness and mental sanity has returned. I feel less frustrated and less tendencies to get angry. Anyone else feeling the side benefits? &#32; submitted by &#32; /u/zingyandnuts [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqp7wl/just_realised_dont_think_ive_seen_loadbearing/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "78ed1e654872",
+      "title": "Can someone please give me a guest pass?",
+      "summary": "I am a student and need it to understand some tough physics concept ,if someone can help please DM 😔 &#32; submitted by &#32; /u/Sweet-Category-6823 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrn4mv/can_someone_please_give_me_a_guest_pass/",
+      "source": "Reddit r/Anthropic",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-26T12:24:05+00:00"
+      "weight": 5,
+      "published": "2026-09-27T15:30:27+00:00"
+    },
+    {
+      "id": "5a5b347c8cfb",
+      "title": "Claude Opus 5.5 is impressive at visual design",
+      "summary": "Credit: notinreality on XCredit: notinreality on X &#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrl4qf/claude_opus_55_is_impressive_at_visual_design/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-27T14:07:49+00:00"
+    },
+    {
+      "id": "d41e397e3e85",
+      "title": "OpenAI and Anthropic are now investigating \"tens of thousands\" of rogue AI incidents. The incidents include bypassing guardrails, creating message boards, escaping sandboxes, website hijacking, self-prompting or seeking to bypass monitors, sources told Axios.",
+      "summary": "&#32; submitted by &#32; /u/Just-Grocery-2229 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrkzl7/openai_and_anthropic_are_now_investigating_tens/",
+      "source": "Reddit r/Anthropic",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-09-27T14:01:36+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
     }
   ]
 }
