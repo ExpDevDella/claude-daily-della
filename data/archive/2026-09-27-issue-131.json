@@ -1,0 +1,128 @@
+{
+  "issue": 131,
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:21:01.646932-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "bb5a184f2079",
+      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
+      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-22T14:30:15+00:00"
+    },
+    {
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
+    },
+    {
+      "id": "7d11fc1ef9ce",
+      "title": "This is proving how Anthropic was taking even small details seriously during the training phase",
+      "summary": "&#32; submitted by &#32; /u/Ill-Process-7232 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-09-27T13:56:49+00:00"
+    },
+    {
+      "id": "177d2c6a9031",
+      "title": "Ai is kinda the new Excel when it comes to recruiting talks",
+      "summary": "I am recruiting lots of jobs at my company. Right now a CFO. Myself I am a daily user and more on Backoffice stuff and not a superuser but I think advanced. It is funny how many candidates out of nowhere suddenly saying &quot;Ahh yeah and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkr8f/ai_is_kinda_the_new_excel_when_it_comes_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-27T13:51:31+00:00"
+    },
+    {
+      "id": "7528fb46a0f7",
+      "title": "I made a relaxing constellation typing game with Opus 5.5 in just 2 prompt iterations",
+      "summary": "I wanted something with the simplicity and style of Monkeytype, but more relaxing and visually satisfying, so I made Stillwater. As you type, stars appear and connect into constellations while the site tracks your WPM and accuracy. The…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrh0tl/i_made_a_relaxing_constellation_typing_game_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-27T10:40:39+00:00"
+    },
+    {
+      "id": "78ed1e654872",
+      "title": "Can someone please give me a guest pass?",
+      "summary": "I am a student and need it to understand some tough physics concept ,if someone can help please DM 😔 &#32; submitted by &#32; /u/Sweet-Category-6823 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrn4mv/can_someone_please_give_me_a_guest_pass/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-27T15:30:27+00:00"
+    },
+    {
+      "id": "5a5b347c8cfb",
+      "title": "Claude Opus 5.5 is impressive at visual design",
+      "summary": "Credit: notinreality on XCredit: notinreality on X &#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrl4qf/claude_opus_55_is_impressive_at_visual_design/",
+      "source": "Reddit r/Anthropic",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-27T14:07:49+00:00"
+    },
+    {
+      "id": "d41e397e3e85",
+      "title": "OpenAI and Anthropic are now investigating \"tens of thousands\" of rogue AI incidents. The incidents include bypassing guardrails, creating message boards, escaping sandboxes, website hijacking, self-prompting or seeking to bypass monitors, sources told Axios.",
+      "summary": "&#32; submitted by &#32; /u/Just-Grocery-2229 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/Anthropic/comments/1wrkzl7/openai_and_anthropic_are_now_investigating_tens/",
+      "source": "Reddit r/Anthropic",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-09-27T14:01:36+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    }
+  ]
+}

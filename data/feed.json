@@ -1,7 +1,7 @@
 {
-  "issue": 131,
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T13:21:01.646932-03:00",
+  "issue": 132,
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:12:13.239213-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -25,26 +25,6 @@
       "published": "2026-09-01T18:02:31+00:00"
     },
     {
-      "id": "8eda2df95dfb",
-      "title": "Model Hardware Standard: AI operating physical equipment",
-      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
-      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-28T00:40:16+00:00"
-    },
-    {
-      "id": "bb5a184f2079",
-      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
-      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-22T14:30:15+00:00"
-    },
-    {
       "id": "73103324b673",
       "title": "The True Biggest Risks in the AI Thesis",
       "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
@@ -55,64 +35,44 @@
       "published": "2026-09-10T15:51:41+00:00"
     },
     {
-      "id": "7d11fc1ef9ce",
-      "title": "This is proving how Anthropic was taking even small details seriously during the training phase",
-      "summary": "&#32; submitted by &#32; /u/Ill-Process-7232 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/",
+      "id": "f5bb51e268f0",
+      "title": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family",
+      "summary": "Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5, strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets. It also has a strong eye for design. Sonnet 5.5 is a clear…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-28T18:03:31+00:00"
+    },
+    {
+      "id": "72d4bbf7fa0b",
+      "title": "Sonnet 5.5 available in Claude App",
+      "summary": "Just saw that Sonnet 5.5 is available! &#32; submitted by &#32; /u/9oCC [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wslxm7/sonnet_55_available_in_claude_app/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-28T18:03:09+00:00"
+    },
+    {
+      "id": "49e9c4dc31a0",
+      "title": "Putting One Kimi Among Four Claudes, Can the Claudes Identify Kimi?",
+      "summary": "For many people, the word &quot;agent&quot; still brings to mind spies or FBI/CIA agents, rather than the AI agents now crowding business media. So how would AI agents perform as intelligence agents? Could they identify an undercover model…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wshs7m/putting_one_kimi_among_four_claudes_can_the/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-09-27T13:56:49+00:00"
+      "published": "2026-09-28T15:32:12+00:00"
     },
     {
-      "id": "177d2c6a9031",
-      "title": "Ai is kinda the new Excel when it comes to recruiting talks",
-      "summary": "I am recruiting lots of jobs at my company. Right now a CFO. Myself I am a daily user and more on Backoffice stuff and not a superuser but I think advanced. It is funny how many candidates out of nowhere suddenly saying &quot;Ahh yeah and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkr8f/ai_is_kinda_the_new_excel_when_it_comes_to/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-27T13:51:31+00:00"
-    },
-    {
-      "id": "7528fb46a0f7",
-      "title": "I made a relaxing constellation typing game with Opus 5.5 in just 2 prompt iterations",
-      "summary": "I wanted something with the simplicity and style of Monkeytype, but more relaxing and visually satisfying, so I made Stillwater. As you type, stars appear and connect into constellations while the site tracks your WPM and accuracy. The…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrh0tl/i_made_a_relaxing_constellation_typing_game_with/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-09-27T10:40:39+00:00"
-    },
-    {
-      "id": "78ed1e654872",
-      "title": "Can someone please give me a guest pass?",
-      "summary": "I am a student and need it to understand some tough physics concept ,if someone can help please DM 😔 &#32; submitted by &#32; /u/Sweet-Category-6823 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1wrn4mv/can_someone_please_give_me_a_guest_pass/",
-      "source": "Reddit r/Anthropic",
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-09-27T15:30:27+00:00"
-    },
-    {
-      "id": "5a5b347c8cfb",
-      "title": "Claude Opus 5.5 is impressive at visual design",
-      "summary": "Credit: notinreality on XCredit: notinreality on X &#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1wrl4qf/claude_opus_55_is_impressive_at_visual_design/",
-      "source": "Reddit r/Anthropic",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-09-27T14:07:49+00:00"
-    },
-    {
-      "id": "d41e397e3e85",
-      "title": "OpenAI and Anthropic are now investigating \"tens of thousands\" of rogue AI incidents. The incidents include bypassing guardrails, creating message boards, escaping sandboxes, website hijacking, self-prompting or seeking to bypass monitors, sources told Axios.",
-      "summary": "&#32; submitted by &#32; /u/Just-Grocery-2229 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/Anthropic/comments/1wrkzl7/openai_and_anthropic_are_now_investigating_tens/",
-      "source": "Reddit r/Anthropic",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-09-27T14:01:36+00:00"
+      "published": "2026-09-10T18:07:08+00:00"
     },
     {
       "id": "fd4ec85b609c",
@@ -123,6 +83,46 @@
       "category": "Plugin",
       "weight": 5,
       "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }
