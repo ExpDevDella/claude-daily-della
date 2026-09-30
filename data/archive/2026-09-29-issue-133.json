@@ -1,7 +1,7 @@
 {
-  "issue": 134,
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T14:34:19.351427-03:00",
+  "issue": 133,
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:34:46.044632-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -75,54 +75,54 @@
       "published": "2026-09-03T01:38:22+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "ae5e88dafdec",
-      "title": "Opus 5.5 directed this overnight from someone else’s prompt + Midjourney moodboard",
-      "summary": "Not mine. Posted by anabology on X. He gave Claude Opus 5.5 Donald Jewkes’ published prompt, Midjourney, and a moodboard. ~12 hours later this was the result. Original: https://x.com/anabology/status/2103534482930491441 The creator also…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu8rko/opus_55_directed_this_overnight_from_someone/",
+      "id": "54c5af204110",
+      "title": "Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code and Claude Cowork on Sep 29, 2026",
+      "summary": "Resolved - The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtbgj0/discussion_hub_for_new_claude_incident_elevated/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-30T16:00:49+00:00"
+      "published": "2026-09-29T14:21:51+00:00"
     },
     {
-      "id": "bf06cfa19ddc",
-      "title": "Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks",
-      "summary": "saw openai just dropped gpt 6.1 sol and figured id throw it against sonnet 5.5, gave both the exact same prompt, a clear acrylic keyboard building itself key by key in threejs, basically like most keyboard commercials you see…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/",
+      "id": "4eed772fbb4a",
+      "title": "Goat Riding a Tractor Compare Models - turns out that level of effort Max seems to be a deciding factor (mostly)",
+      "summary": "I was very surprised that: A) Sonnet did so well with Max effort, and that B) Fable was least &quot;impressive&quot; of the bunch. I even spent another $2.78 in usage credits to give Fable Max an opportunity to make something better than…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtaugp/goat_riding_a_tractor_compare_models_turns_out/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-30T15:24:36+00:00"
+      "published": "2026-09-29T13:58:19+00:00"
     },
     {
-      "id": "cc34aff073b8",
-      "title": "I made this animated short film with Claude connected to Magnific's MCP",
-      "summary": "The entire workflow happened inside claude with a Seedance 2.5 skill that I've used to turn natural language prompts into detailed visual prompts for Seedance 2.5 tool inside Magnific. 99% of the process happened inside Claude. The first…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7tpd/i_made_this_animated_short_film_with_claude/",
+      "id": "c5bdbdbf5078",
+      "title": "Sonnet 5.5 did this. Opus 5.5 quality with half price.",
+      "summary": "It's 30 s, 1080p, 60 fps. Snoo assembles itself, kinetic type, a subreddit marquee, a 3D upvote with a karma counter, an isometric feed that sorts itself, an r\\place timelapse, a trending bar-chart race, feature tiles, a comment thread…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtagdd/sonnet_55_did_this_opus_55_quality_with_half_price/",
       "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-09-30T15:23:42+00:00"
+      "published": "2026-09-29T13:42:15+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }
