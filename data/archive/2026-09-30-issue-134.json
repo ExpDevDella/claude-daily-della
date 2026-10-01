@@ -1,7 +1,7 @@
 {
-  "issue": 135,
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T14:58:29.588087-03:00",
+  "issue": 134,
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:34:19.351427-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -95,34 +95,34 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "2c0c605b4f32",
-      "title": "PSA: you don't need Fable for everything. Set it as your /advisor instead",
-      "summary": "Seeing a lot of &quot;Fable for everything burns my limits/sucks&quot; posts. There's a middle option most people miss: /advisor . Run /advisor and pick Fable. Your main model does the work, and Fable only gets consulted at the points that…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv4cux/psa_you_dont_need_fable_for_everything_set_it_as/",
+      "id": "ae5e88dafdec",
+      "title": "Opus 5.5 directed this overnight from someone else’s prompt + Midjourney moodboard",
+      "summary": "Not mine. Posted by anabology on X. He gave Claude Opus 5.5 Donald Jewkes’ published prompt, Midjourney, and a moodboard. ~12 hours later this was the result. Original: https://x.com/anabology/status/2103534482930491441 The creator also…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu8rko/opus_55_directed_this_overnight_from_someone/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-01T16:40:29+00:00"
+      "published": "2026-09-30T16:00:49+00:00"
     },
     {
-      "id": "65ff2cf29a19",
-      "title": "Made a \"Destroy Any Website\" stickman game",
-      "summary": "Final game project . I built my dream stickman sandbox game over the last weekend (big fan of Animator Vs. Animation). The game basically a destruction sandbox where you can input a website URL and turn the page into a level. Then, just…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-01T15:40:03+00:00"
-    },
-    {
-      "id": "ff57c3390136",
-      "title": "Claude made a product showcase I would've happily paid hundreds of $ for a year ago",
-      "summary": "I was really inspired by the great videos people posted here and by what Opus built from scratch, so I had to try it myself. The final concept took me close to 20 iterations, mostly because I had no clear vision of what a trailer for this…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuycyc/claude_made_a_product_showcase_i_wouldve_happily/",
+      "id": "bf06cfa19ddc",
+      "title": "Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks",
+      "summary": "saw openai just dropped gpt 6.1 sol and figured id throw it against sonnet 5.5, gave both the exact same prompt, a clear acrylic keyboard building itself key by key in threejs, basically like most keyboard commercials you see…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-01T12:39:17+00:00"
+      "published": "2026-09-30T15:24:36+00:00"
+    },
+    {
+      "id": "cc34aff073b8",
+      "title": "I made this animated short film with Claude connected to Magnific's MCP",
+      "summary": "The entire workflow happened inside claude with a Seedance 2.5 skill that I've used to turn natural language prompts into detailed visual prompts for Seedance 2.5 tool inside Magnific. 99% of the process happened inside Claude. The first…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7tpd/i_made_this_animated_short_film_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-09-30T15:23:42+00:00"
     }
   ]
 }
