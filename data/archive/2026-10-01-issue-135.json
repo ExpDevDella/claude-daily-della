@@ -1,7 +1,7 @@
 {
-  "issue": 136,
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T14:24:43.046506-03:00",
+  "issue": 135,
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:58:29.588087-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -65,64 +65,64 @@
       "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "d36d7693e596",
-      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
-      "source": "The AI Corner",
+      "id": "954f696a81aa",
+      "title": "fix(memory): skip duplicate entities and relations within a single ba…",
+      "summary": "fix(memory): skip duplicate entities and relations within a single batch (#4383) create_entities and create_relations only de-duplicated against the existing graph, so passing the same entity name (or identical relation) twice in one call…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/1ec570c27d977a122a619da58ae3104f7fdf8be7",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:38:22+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "2c0c605b4f32",
+      "title": "PSA: you don't need Fable for everything. Set it as your /advisor instead",
+      "summary": "Seeing a lot of &quot;Fable for everything burns my limits/sucks&quot; posts. There's a middle option most people miss: /advisor . Run /advisor and pick Fable. Your main model does the work, and Fable only gets consulted at the points that…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv4cux/psa_you_dont_need_fable_for_everything_set_it_as/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-01T16:40:29+00:00"
+    },
+    {
+      "id": "65ff2cf29a19",
+      "title": "Made a \"Destroy Any Website\" stickman game",
+      "summary": "Final game project . I built my dream stickman sandbox game over the last weekend (big fan of Animator Vs. Animation). The game basically a destruction sandbox where you can input a website URL and turn the page into a level. Then, just…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-09-24T15:06:48+00:00"
+      "weight": 6,
+      "published": "2026-10-01T15:40:03+00:00"
     },
     {
-      "id": "2a08f3ab67f4",
-      "title": "Confirmed: Opus 5.5 has been nerded",
-      "summary": "I haven't seen &quot;load-bearing&quot; since I stopped using Opus 5. EDIT: I meant &quot;nerfed&quot;, not &quot;nerded&quot; 🤦 &#32; submitted by &#32; /u/JustChilling_ [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvyagq/confirmed_opus_55_has_been_nerded/",
+      "id": "ff57c3390136",
+      "title": "Claude made a product showcase I would've happily paid hundreds of $ for a year ago",
+      "summary": "I was really inspired by the great videos people posted here and by what Opus built from scratch, so I had to try it myself. The final concept took me close to 20 iterations, mostly because I had no clear vision of what a trailer for this…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuycyc/claude_made_a_product_showcase_i_wouldve_happily/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-02T16:28:37+00:00"
-    },
-    {
-      "id": "09f8a44b4533",
-      "title": "Evidence - Opus 5.5 today vs launch regression with same prompt (Godot Engine)",
-      "summary": "On launch day Opus 5.5 kindly took up residence on my Mac. I ran some tests before trusting it on my big projects, it passed with flying colours. Lander, a game by Elite creator David Braben holds a special place in my soul due to it being…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvwipe/evidence_opus_55_today_vs_launch_regression_with/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-02T15:19:11+00:00"
-    },
-    {
-      "id": "72f56ea2e0b0",
-      "title": "I've worked in video for 20+ years. Claude made us a launch video entirely in code, soundtrack included, in one night. Motion design as we knew it, is cooked.",
-      "summary": "I used to direct music videos professionally, now I run a livestream company and needed a launch video for our new product, Hovercast Events. I pointed Claude at our website and asked for the kind of motion graphics launch video SaaS…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvw1il/ive_worked_in_video_for_20_years_claude_made_us_a/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-02T15:00:33+00:00"
-    },
-    {
-      "id": "f7d776013534",
-      "title": "Add resource: daily.dev (#3037)",
-      "summary": "Add resource: daily.dev (#3037) Category: Skills Author: daily.dev From issue: #3013 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a7f3f3d8942ffb196c879a5439c25a2785dfb54",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-02T12:36:38+00:00"
-    },
-    {
-      "id": "1f00d0de0bac",
-      "title": "Add resource: blender-kiln (#3035)",
-      "summary": "Add resource: blender-kiln (#3035) Category: Creative Media Author: elithril From issue: #3032 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cb471ef33e5e1738e5636b3a48e27ead674f702a",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-02T10:53:11+00:00"
+      "published": "2026-10-01T12:39:17+00:00"
     }
   ]
 }
