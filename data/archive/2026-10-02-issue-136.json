@@ -1,7 +1,7 @@
 {
-  "issue": 137,
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T12:41:06.749131-03:00",
+  "issue": 136,
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:24:43.046506-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -75,34 +75,34 @@
       "published": "2026-09-24T15:06:48+00:00"
     },
     {
-      "id": "873230128dce",
-      "title": "How this video got me 10 customers (made with Remotion and a Claude Opus agent)",
-      "summary": "I'm a solo dev. I needed a launch video for my Mac app and I can't do motion design, so I asked a Claude Opus agent (Claude Code) to make one. The video above is the result, and it brought me my first 10 customers. Everything in it is…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwkbv1/how_this_video_got_me_10_customers_made_with/",
+      "id": "2a08f3ab67f4",
+      "title": "Confirmed: Opus 5.5 has been nerded",
+      "summary": "I haven't seen &quot;load-bearing&quot; since I stopped using Opus 5. EDIT: I meant &quot;nerfed&quot;, not &quot;nerded&quot; 🤦 &#32; submitted by &#32; /u/JustChilling_ [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvyagq/confirmed_opus_55_has_been_nerded/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-03T10:52:44+00:00"
+      "published": "2026-10-02T16:28:37+00:00"
     },
     {
-      "id": "7a8a8868b6ce",
-      "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
-      "summary": "Everyone knows Opus 5.5 can one-shot a video. I tried it myself and it blew my mind, so I wanted to see how far I could push it (mainly by itself,haha). Papermorph started as a Skill to turn a book into a series of teaching videos. It's…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
+      "id": "09f8a44b4533",
+      "title": "Evidence - Opus 5.5 today vs launch regression with same prompt (Godot Engine)",
+      "summary": "On launch day Opus 5.5 kindly took up residence on my Mac. I ran some tests before trusting it on my big projects, it passed with flying colours. Lander, a game by Elite creator David Braben holds a special place in my soul due to it being…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvwipe/evidence_opus_55_today_vs_launch_regression_with/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-03T07:59:25+00:00"
+      "published": "2026-10-02T15:19:11+00:00"
     },
     {
-      "id": "adbf8904d97c",
-      "title": "Claude’s time estimates still make me grin",
-      "summary": "I think it’s funny whenever Claude says that a feature or iteration will take hours or more and proceeds to finish it in like 5-10 mins. I’ve asked it about this before and it replied that those estimates are based on what a traditional…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwf2xj/claudes_time_estimates_still_make_me_grin/",
+      "id": "72f56ea2e0b0",
+      "title": "I've worked in video for 20+ years. Claude made us a launch video entirely in code, soundtrack included, in one night. Motion design as we knew it, is cooked.",
+      "summary": "I used to direct music videos professionally, now I run a livestream company and needed a launch video for our new product, Hovercast Events. I pointed Claude at our website and asked for the kind of motion graphics launch video SaaS…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvw1il/ive_worked_in_video_for_20_years_claude_made_us_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-03T05:25:13+00:00"
+      "published": "2026-10-02T15:00:33+00:00"
     },
     {
       "id": "f7d776013534",
