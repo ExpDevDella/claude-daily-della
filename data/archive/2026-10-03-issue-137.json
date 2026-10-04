@@ -1,7 +1,7 @@
 {
-  "issue": 138,
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T13:24:05.982796-03:00",
+  "issue": 137,
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:41:06.749131-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,16 +35,6 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "2f4737d879c1",
-      "title": "docs(contributing): sync with v2/main after #4959",
-      "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/9e62490b72bb49c3a9581998f09e3db02bce5d5c",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-04T03:04:14+00:00"
-    },
-    {
       "id": "bb5a184f2079",
       "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
       "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
@@ -75,54 +65,64 @@
       "published": "2026-09-03T01:42:26+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "id": "d36d7693e596",
+      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-24T15:06:48+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "ea57b4cf40ae",
-      "title": "I made a quiz with Claude to test how much AI has gotten into your brain. It’s just a fun side project, but you might enjoy!",
-      "summary": "I scored 50%. Completely free to play, no tracking or anything. I built this using Claude Code (combination of Opus 5.5 and Fable 5.1) over about a day and a half. Had a lot of fun pushing the style towards a somewhat PS1 inspired look,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/",
+      "id": "873230128dce",
+      "title": "How this video got me 10 customers (made with Remotion and a Claude Opus agent)",
+      "summary": "I'm a solo dev. I needed a launch video for my Mac app and I can't do motion design, so I asked a Claude Opus agent (Claude Code) to make one. The video above is the result, and it brought me my first 10 customers. Everything in it is…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwkbv1/how_this_video_got_me_10_customers_made_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-04T15:16:09+00:00"
+      "published": "2026-10-03T10:52:44+00:00"
     },
     {
-      "id": "183fac3048e2",
-      "title": "claude max folks, what do you actually do with the usage left at the weekly reset?",
-      "summary": "i'm on the 20x plan and some weeks i'm dry by wednesday, other weeks there's a chunk left over monday that just evaporates. the banked reset only helps the dry weeks what do you do with the leftover? side projects, open source, or just let…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxhcw6/claude_max_folks_what_do_you_actually_do_with_the/",
+      "id": "7a8a8868b6ce",
+      "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
+      "summary": "Everyone knows Opus 5.5 can one-shot a video. I tried it myself and it blew my mind, so I wanted to see how far I could push it (mainly by itself,haha). Papermorph started as a Skill to turn a book into a series of teaching videos. It's…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-03T07:59:25+00:00"
+    },
+    {
+      "id": "adbf8904d97c",
+      "title": "Claude’s time estimates still make me grin",
+      "summary": "I think it’s funny whenever Claude says that a feature or iteration will take hours or more and proceeds to finish it in like 5-10 mins. I’ve asked it about this before and it replied that those estimates are based on what a traditional…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwf2xj/claudes_time_estimates_still_make_me_grin/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-04T14:42:55+00:00"
+      "published": "2026-10-03T05:25:13+00:00"
     },
     {
-      "id": "3f5ac31e721d",
-      "title": "Weekly limit still hurts even over sonnet or opus 5.5",
-      "summary": "opus 5.5 and sonnet 5.5 has releived me of token usage a lot. Still the weekly limits are a pain. They sometimes hit in 3 days of usage. Even though averagely i am just using 30-50% of session limit. Neither my laptop is on on night, nor i…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxezys/weekly_limit_still_hurts_even_over_sonnet_or_opus/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "id": "f7d776013534",
+      "title": "Add resource: daily.dev (#3037)",
+      "summary": "Add resource: daily.dev (#3037) Category: Skills Author: daily.dev From issue: #3013 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a7f3f3d8942ffb196c879a5439c25a2785dfb54",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-04T12:53:33+00:00"
+      "published": "2026-10-02T12:36:38+00:00"
+    },
+    {
+      "id": "1f00d0de0bac",
+      "title": "Add resource: blender-kiln (#3035)",
+      "summary": "Add resource: blender-kiln (#3035) Category: Creative Media Author: elithril From issue: #3032 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cb471ef33e5e1738e5636b3a48e27ead674f702a",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-02T10:53:11+00:00"
     }
   ]
 }
