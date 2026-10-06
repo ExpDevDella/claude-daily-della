@@ -1,0 +1,128 @@
+{
+  "issue": 138,
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:24:05.982796-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "2f4737d879c1",
+      "title": "docs(contributing): sync with v2/main after #4959",
+      "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9e62490b72bb49c3a9581998f09e3db02bce5d5c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-04T03:04:14+00:00"
+    },
+    {
+      "id": "bb5a184f2079",
+      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
+      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-22T14:30:15+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "f8412a95a7f3",
+      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
+      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-03T01:42:26+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "ea57b4cf40ae",
+      "title": "I made a quiz with Claude to test how much AI has gotten into your brain. It’s just a fun side project, but you might enjoy!",
+      "summary": "I scored 50%. Completely free to play, no tracking or anything. I built this using Claude Code (combination of Opus 5.5 and Fable 5.1) over about a day and a half. Had a lot of fun pushing the style towards a somewhat PS1 inspired look,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-04T15:16:09+00:00"
+    },
+    {
+      "id": "183fac3048e2",
+      "title": "claude max folks, what do you actually do with the usage left at the weekly reset?",
+      "summary": "i'm on the 20x plan and some weeks i'm dry by wednesday, other weeks there's a chunk left over monday that just evaporates. the banked reset only helps the dry weeks what do you do with the leftover? side projects, open source, or just let…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxhcw6/claude_max_folks_what_do_you_actually_do_with_the/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-04T14:42:55+00:00"
+    },
+    {
+      "id": "3f5ac31e721d",
+      "title": "Weekly limit still hurts even over sonnet or opus 5.5",
+      "summary": "opus 5.5 and sonnet 5.5 has releived me of token usage a lot. Still the weekly limits are a pain. They sometimes hit in 3 days of usage. Even though averagely i am just using 30-50% of session limit. Neither my laptop is on on night, nor i…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxezys/weekly_limit_still_hurts_even_over_sonnet_or_opus/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-04T12:53:33+00:00"
+    }
+  ]
+}

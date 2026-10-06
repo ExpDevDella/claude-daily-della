@@ -1,7 +1,7 @@
 {
-  "issue": 138,
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T13:24:05.982796-03:00",
+  "issue": 139,
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:53:26.943718-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -25,16 +25,6 @@
       "published": "2026-09-01T18:02:31+00:00"
     },
     {
-      "id": "8eda2df95dfb",
-      "title": "Model Hardware Standard: AI operating physical equipment",
-      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
-      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-28T00:40:16+00:00"
-    },
-    {
       "id": "2f4737d879c1",
       "title": "docs(contributing): sync with v2/main after #4959",
       "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
@@ -45,84 +35,94 @@
       "published": "2026-10-04T03:04:14+00:00"
     },
     {
-      "id": "bb5a184f2079",
-      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
-      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-22T14:30:15+00:00"
+      "id": "f79630c685ec",
+      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
+      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
+      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-04T18:34:52+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
     },
     {
-      "id": "f8412a95a7f3",
-      "title": "fix(memory): serialize graph mutations to prevent concurrent write ra…",
-      "summary": "fix(memory): serialize graph mutations to prevent concurrent write race (#4555) createEntities, createRelations, addObservations, deleteEntities, deleteObservations, and deleteRelations each independently did load -&gt; mutate -&gt; save…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-03T01:42:26+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "ea57b4cf40ae",
-      "title": "I made a quiz with Claude to test how much AI has gotten into your brain. It’s just a fun side project, but you might enjoy!",
-      "summary": "I scored 50%. Completely free to play, no tracking or anything. I built this using Claude Code (combination of Opus 5.5 and Fable 5.1) over about a day and a half. Had a lot of fun pushing the style towards a somewhat PS1 inspired look,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-04T15:16:09+00:00"
-    },
-    {
-      "id": "183fac3048e2",
-      "title": "claude max folks, what do you actually do with the usage left at the weekly reset?",
-      "summary": "i'm on the 20x plan and some weeks i'm dry by wednesday, other weeks there's a chunk left over monday that just evaporates. the banked reset only helps the dry weeks what do you do with the leftover? side projects, open source, or just let…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxhcw6/claude_max_folks_what_do_you_actually_do_with_the/",
+      "id": "0b9f5dd7182f",
+      "title": "I used Claude Code to turn a 1989 DOS game I played as a kid into a relativity sim",
+      "summary": "Sorry, reposted from earlier because the video wasn't working. Play it: gravwars.com (free, no account, phone or computer) Gravity Wars is a two-player artillery game in curved spacetime. You take turns firing missiles past planets, stars…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz61i4/i_used_claude_code_to_turn_a_1989_dos_game_i/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-04T14:42:55+00:00"
+      "published": "2026-10-06T15:48:18+00:00"
     },
     {
-      "id": "3f5ac31e721d",
-      "title": "Weekly limit still hurts even over sonnet or opus 5.5",
-      "summary": "opus 5.5 and sonnet 5.5 has releived me of token usage a lot. Still the weekly limits are a pain. They sometimes hit in 3 days of usage. Even though averagely i am just using 30-50% of session limit. Neither my laptop is on on night, nor i…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxezys/weekly_limit_still_hurts_even_over_sonnet_or_opus/",
+      "id": "c8fa122675f5",
+      "title": "I asked Opus 5.5 to build me a replacement interface for wiki.",
+      "summary": "folio.helikos.dev Inspired by the amazing one-shot demos that were posted recently, I decided to give it a go. I recall flipbook, where there was a never-ending click of a beautifully formed infographics. It took ages to build an image,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz1woi/i_asked_opus_55_to_build_me_a_replacement/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-04T12:53:33+00:00"
+      "published": "2026-10-06T12:57:21+00:00"
+    },
+    {
+      "id": "90c740f566d0",
+      "title": "After going the full hype cycle with Claude Code, I'm not convinced that it's a productivity win for \"real\" code",
+      "summary": "The dev team I'm in recently got onboard with AI tools to help us code, and after few months of thinking Claude is the greatest tool ever, I return to the opinion that it's not useful for important production code. My claim is basically:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz0n3w/after_going_the_full_hype_cycle_with_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-06T11:55:13+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }
