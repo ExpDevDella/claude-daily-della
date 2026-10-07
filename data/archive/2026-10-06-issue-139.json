@@ -1,0 +1,128 @@
+{
+  "issue": 139,
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:53:26.943718-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "2f4737d879c1",
+      "title": "docs(contributing): sync with v2/main after #4959",
+      "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9e62490b72bb49c3a9581998f09e3db02bce5d5c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-04T03:04:14+00:00"
+    },
+    {
+      "id": "f79630c685ec",
+      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
+      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
+      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-04T18:34:52+00:00"
+    },
+    {
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
+    },
+    {
+      "id": "0b9f5dd7182f",
+      "title": "I used Claude Code to turn a 1989 DOS game I played as a kid into a relativity sim",
+      "summary": "Sorry, reposted from earlier because the video wasn't working. Play it: gravwars.com (free, no account, phone or computer) Gravity Wars is a two-player artillery game in curved spacetime. You take turns firing missiles past planets, stars…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz61i4/i_used_claude_code_to_turn_a_1989_dos_game_i/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-06T15:48:18+00:00"
+    },
+    {
+      "id": "c8fa122675f5",
+      "title": "I asked Opus 5.5 to build me a replacement interface for wiki.",
+      "summary": "folio.helikos.dev Inspired by the amazing one-shot demos that were posted recently, I decided to give it a go. I recall flipbook, where there was a never-ending click of a beautifully formed infographics. It took ages to build an image,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz1woi/i_asked_opus_55_to_build_me_a_replacement/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-06T12:57:21+00:00"
+    },
+    {
+      "id": "90c740f566d0",
+      "title": "After going the full hype cycle with Claude Code, I'm not convinced that it's a productivity win for \"real\" code",
+      "summary": "The dev team I'm in recently got onboard with AI tools to help us code, and after few months of thinking Claude is the greatest tool ever, I return to the opinion that it's not useful for important production code. My claim is basically:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz0n3w/after_going_the_full_hype_cycle_with_claude_code/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-06T11:55:13+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
