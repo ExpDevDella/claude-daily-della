@@ -1,7 +1,7 @@
 {
-  "issue": 140,
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T15:23:55.184885-03:00",
+  "issue": 141,
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:23:36.485186-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -15,94 +15,94 @@
       "featured": true
     },
     {
-      "id": "f79630c685ec",
-      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
-      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
-      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-04T18:34:52+00:00"
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
     },
     {
-      "id": "73103324b673",
-      "title": "The True Biggest Risks in the AI Thesis",
-      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
-      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-09-10T15:51:41+00:00"
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "b46b8a4db5e5",
-      "title": "Well! If it matches GPT 6.1 Sol at Luna Pricing. Consider it's over for Open Ai",
-      "summary": "&#32; submitted by &#32; /u/Existing_Hat_1064 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0367g/well_if_it_matches_gpt_61_sol_at_luna_pricing/",
+      "id": "2f4737d879c1",
+      "title": "docs(contributing): sync with v2/main after #4959",
+      "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9e62490b72bb49c3a9581998f09e3db02bce5d5c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-04T03:04:14+00:00"
+    },
+    {
+      "id": "fc07acbaeb33",
+      "title": "My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of tools and games using AI.",
+      "summary": "The games and tools we build aren't &quot;economically viable.&quot; The community of people who use switches is too niche and too diverse. That's exactly why we build them. My brother Ben uses switch access because of an ultra-rare…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0x5wo/my_brother_went_nearly_10_years_without_a_way_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-07T17:46:47+00:00"
+      "published": "2026-10-08T17:31:36+00:00"
     },
     {
-      "id": "c622e4b66fdc",
-      "title": "rename two entries, remove",
-      "summary": "rename two entries, remove Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/264608019b0c44f5ac7abdaff5c202081f3e75ad",
-      "source": "GitHub - Awesome Claude Code",
+      "id": "88017c5f50ae",
+      "title": "What are Claude Code \"Power Users\" doing with Claude Code that the average developer isn't?",
+      "summary": "I am a senior developer at a smaller organization. I use Claude Code regularly to do development tasks, but I feel like I am barely scratching the surface. I can't tell if that is because of the percieved hype or there are techniques I am…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-08T15:49:35+00:00"
+    },
+    {
+      "id": "252d89131865",
+      "title": "A guy asked models to \"maximize company value\". Claude Opus 5.5 discovered an exploit where it could build tons of tiny rides, bypassing the duplicate ride penalty by never opening the rides",
+      "summary": "Credit: dylan_ebert_ on X &#32; submitted by &#32; /u/AxomaticallyExtinct [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0rz3u/a_guy_asked_models_to_maximize_company_value/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-07T17:21:36+00:00"
+      "published": "2026-10-08T14:11:44+00:00"
     },
     {
-      "id": "f58cd55fa72b",
-      "title": "fix stale repo and author links (#3104)",
-      "summary": "fix stale repo and author links (#3104) Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aac305bc9625dfd82712113ce2ec1455151e9dcf",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-07T17:12:17+00:00"
-    },
-    {
-      "id": "90f5f88bd2a2",
-      "title": "Add resource: Awesome Claude Code Mods (#3116)",
-      "summary": "Add resource: Awesome Claude Code Mods (#3116) Category: Lists & Collections Author: Karan Bansal From issue: #3053 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256147c9493305f9c8bd1981cf3d78e3b2c083b1",
+      "id": "2f4d13cbb27e",
+      "title": "Add resource: clausona (#3122)",
+      "summary": "Add resource: clausona (#3122) Category: Configuration Author: larcane97 From issue: #2997 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2dd4757a9346ec31de6340846d9507b4352a30",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-07T16:16:38+00:00"
+      "published": "2026-10-08T04:46:14+00:00"
     },
     {
-      "id": "38e22a7d4f4c",
-      "title": "Opus 5.5 built the entire Middle-earth from LOTR with Three.js",
-      "summary": "I used Claude Opus 5.5 to build a miniature 3D Middle-earth from scratch, then turn that world into a 3:47 cinematic journey. The project ended up with: terrain and geography generation Three.js / WebGPU scene architecture 24 procedural…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzx6rg/opus_55_built_the_entire_middleearth_from_lotr/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-07T13:55:41+00:00"
-    },
-    {
-      "id": "9eda7194cd10",
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it.",
-      "summary": "Last month I was going through data from NASA's TESS telescope with Claude Code when one star started looking weird. https://preview.redd.it/zwekq4q0m1uh1.jpg?width=1728&format=pjpg&auto=webp&s=a396c3354234ae957337b4e9df3fa7578f85e1ce It's…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-07T13:15:47+00:00"
-    },
-    {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "f2b1a7ad1ef2",
+      "title": "Add resource: OpenRig (#3121)",
+      "summary": "Add resource: OpenRig (#3121) Category: Agent Orchestration Author: Mike Schwarz From issue: #2998 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1fee934dc6c7d5903174eb872c0bec9b27ee443",
+      "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
-      "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
+      "weight": 6,
+      "published": "2026-10-08T04:41:03+00:00"
+    },
+    {
+      "id": "7d05e65b60c5",
+      "title": "Add resource: Archify (#3120)",
+      "summary": "Add resource: Archify (#3120) Category: Documentation, Knowledge & Learning Author: tt-a1i From issue: #3061 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68af8acf38cec18209601fff8c0a7b1d59a01f89",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-08T04:21:46+00:00"
     },
     {
       "id": "bbb6dd2f3dd2",

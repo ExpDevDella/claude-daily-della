@@ -1,0 +1,128 @@
+{
+  "issue": 140,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:23:55.184885-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "f79630c685ec",
+      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
+      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
+      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-04T18:34:52+00:00"
+    },
+    {
+      "id": "73103324b673",
+      "title": "The True Biggest Risks in the AI Thesis",
+      "summary": "1% of OpenAI and Anthropic's customers generate 80% of their enterprise revenue, and the compute promises stacked on top of that revenue start coming due in 2027.",
+      "url": "https://www.the-ai-corner.com/p/ai-economy-concentration-risk",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-10T15:51:41+00:00"
+    },
+    {
+      "id": "b46b8a4db5e5",
+      "title": "Well! If it matches GPT 6.1 Sol at Luna Pricing. Consider it's over for Open Ai",
+      "summary": "&#32; submitted by &#32; /u/Existing_Hat_1064 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0367g/well_if_it_matches_gpt_61_sol_at_luna_pricing/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-07T17:46:47+00:00"
+    },
+    {
+      "id": "c622e4b66fdc",
+      "title": "rename two entries, remove",
+      "summary": "rename two entries, remove Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/264608019b0c44f5ac7abdaff5c202081f3e75ad",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-07T17:21:36+00:00"
+    },
+    {
+      "id": "f58cd55fa72b",
+      "title": "fix stale repo and author links (#3104)",
+      "summary": "fix stale repo and author links (#3104) Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aac305bc9625dfd82712113ce2ec1455151e9dcf",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-07T17:12:17+00:00"
+    },
+    {
+      "id": "90f5f88bd2a2",
+      "title": "Add resource: Awesome Claude Code Mods (#3116)",
+      "summary": "Add resource: Awesome Claude Code Mods (#3116) Category: Lists & Collections Author: Karan Bansal From issue: #3053 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256147c9493305f9c8bd1981cf3d78e3b2c083b1",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-07T16:16:38+00:00"
+    },
+    {
+      "id": "38e22a7d4f4c",
+      "title": "Opus 5.5 built the entire Middle-earth from LOTR with Three.js",
+      "summary": "I used Claude Opus 5.5 to build a miniature 3D Middle-earth from scratch, then turn that world into a 3:47 cinematic journey. The project ended up with: terrain and geography generation Three.js / WebGPU scene architecture 24 procedural…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzx6rg/opus_55_built_the_entire_middleearth_from_lotr/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-07T13:55:41+00:00"
+    },
+    {
+      "id": "9eda7194cd10",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it.",
+      "summary": "Last month I was going through data from NASA's TESS telescope with Claude Code when one star started looking weird. https://preview.redd.it/zwekq4q0m1uh1.jpg?width=1728&format=pjpg&auto=webp&s=a396c3354234ae957337b4e9df3fa7578f85e1ce It's…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-07T13:15:47+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    }
+  ]
+}
