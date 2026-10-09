@@ -1,7 +1,7 @@
 {
-  "issue": 142,
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T14:56:14.427856-03:00",
+  "issue": 141,
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:23:36.485186-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -45,54 +45,34 @@
       "published": "2026-10-04T03:04:14+00:00"
     },
     {
-      "id": "bb5a184f2079",
-      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
-      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-09-22T14:30:15+00:00"
-    },
-    {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
-    },
-    {
-      "id": "dd2a6abe7762",
-      "title": "i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends",
-      "summary": "im just frustrated, i genuinely am and it is entirely my fault. so the job was simple. two keyframes, one camera move i wanted to test, and i wanted a pile of variations by morning so i could pick a composition and then run that one…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/",
+      "id": "fc07acbaeb33",
+      "title": "My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of tools and games using AI.",
+      "summary": "The games and tools we build aren't &quot;economically viable.&quot; The community of people who use switches is too niche and too diverse. That's exactly why we build them. My brother Ben uses switch access because of an ultra-rare…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0x5wo/my_brother_went_nearly_10_years_without_a_way_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-09T15:51:20+00:00"
+      "published": "2026-10-08T17:31:36+00:00"
     },
     {
-      "id": "9baf54db1c03",
-      "title": "I made a claude code mod that uses Haiku 5.5 (or Jev) to pick the best model and effort for your task. (and more...)",
-      "summary": "a mod for Claude Code that uses Haiku 5.5 or Jev to figure out the best model and effort for the task. (it is smart and uses earlier messages to assess if a switch is good or if it’s better to stay on the current one. what it does and how:…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1nnkn/i_made_a_claude_code_mod_that_uses_haiku_55_or/",
+      "id": "88017c5f50ae",
+      "title": "What are Claude Code \"Power Users\" doing with Claude Code that the average developer isn't?",
+      "summary": "I am a senior developer at a smaller organization. I use Claude Code regularly to do development tasks, but I feel like I am barely scratching the surface. I can't tell if that is because of the percieved hype or there are techniques I am…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-08T15:49:35+00:00"
+    },
+    {
+      "id": "252d89131865",
+      "title": "A guy asked models to \"maximize company value\". Claude Opus 5.5 discovered an exploit where it could build tons of tiny rides, bypassing the duplicate ride penalty by never opening the rides",
+      "summary": "Credit: dylan_ebert_ on X &#32; submitted by &#32; /u/AxomaticallyExtinct [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0rz3u/a_guy_asked_models_to_maximize_company_value/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-09T15:01:08+00:00"
-    },
-    {
-      "id": "872868ff2977",
-      "title": "Opus 5.5 built the vehicles and physics for my Road Rash x DiRT mashup in about 3 days. It couldn’t crack the dirt bike",
-      "summary": "I’ve been making games for about 25 years (mostly AAA, now indie) and wanted to see how far Claude could take a real game in a few days. The target was a mix of Road Rash (the 1991 one, yes I’m that old) and a rally game like DiRT. Opus…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1mb45/opus_55_built_the_vehicles_and_physics_for_my/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-09T14:06:46+00:00"
+      "published": "2026-10-08T14:11:44+00:00"
     },
     {
       "id": "2f4d13cbb27e",
@@ -123,6 +103,26 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-10-08T04:21:46+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
     }
   ]
 }
