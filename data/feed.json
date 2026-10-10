@@ -1,7 +1,7 @@
 {
-  "issue": 142,
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T14:56:14.427856-03:00",
+  "issue": 143,
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T13:55:24.327406-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,6 +35,16 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
+      "id": "7fc78706e664",
+      "title": "docs(contributing): sync with v2/main after 1cdd4a70",
+      "summary": "docs(contributing): sync with v2/main after 1cdd4a70 Brings main's CONTRIBUTING.md byte-identical to v2/main's, so the v1.0.0 milestone merge (#5080) produces v2/main's tree without a conflict. Co-Authored-By: Claude Opus 5.5…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/e87a2de17d4c2babf79d5a14e47d344f77b3ec67",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-10T05:03:56+00:00"
+    },
+    {
       "id": "2f4737d879c1",
       "title": "docs(contributing): sync with v2/main after #4959",
       "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
@@ -55,74 +65,64 @@
       "published": "2026-09-22T14:30:15+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
+      "id": "b660b273fc82",
+      "title": "Add resource: cc-semaphore (#3144)",
+      "summary": "Add resource: cc-semaphore (#3144) Category: Observability & Monitoring Author: patakuti From issue: #2826 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2c7f6cf524ff41ec3a8c206a17d30afcd1aa736",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T16:12:30+00:00"
     },
     {
-      "id": "dd2a6abe7762",
-      "title": "i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends",
-      "summary": "im just frustrated, i genuinely am and it is entirely my fault. so the job was simple. two keyframes, one camera move i wanted to test, and i wanted a pile of variations by morning so i could pick a composition and then run that one…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/",
+      "id": "e333823302be",
+      "title": "Add resource: Claude Code Local (#3145)",
+      "summary": "Add resource: Claude Code Local (#3145) Category: Providers, Runtime & Integration Infrastructure Author: Matt Macosko From issue: #2881 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4aaeefec992ede49c4ee4444a8eafe62e170916e",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T15:25:37+00:00"
+    },
+    {
+      "id": "02cb99b2e041",
+      "title": "Add resource: bough (#3143)",
+      "summary": "Add resource: bough (#3143) Category: Observability & Monitoring Author: nickelsec From issue: #2835 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4a5f928c88e866a4f7706850d3e8ffeb185f1c05",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T14:52:13+00:00"
+    },
+    {
+      "id": "a110f874ed67",
+      "title": "I made my Claude Code sub-agents a video call. Weirdly, it’s the best way I’ve found to follow what they’re doing.",
+      "summary": "I built this with Claude Code. It’s a free and open source VS Code extension that shows a Claude Code session as a live video call, so I can see what each sub-agent is doing. It also work with other editors or standalone with claude app as…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2f59x/i_made_my_claude_code_subagents_a_video_call/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T13:19:55+00:00"
+    },
+    {
+      "id": "a528329ab712",
+      "title": "I'm a 9th grader and I used Claude to prove a geometry conjecture: the rhombicosidodecahedron can't pass through a copy of itself",
+      "summary": "Last year, mathematicians found the first convex shape that can't be pushed through a hole in a copy of itself (the &quot;Noperthedron&quot;). In 2021 the same researchers conjectured that the rhombicosidodecahedron, a classic Archimedean…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2eybb/im_a_9th_grader_and_i_used_claude_to_prove_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-09T15:51:20+00:00"
+      "published": "2026-10-10T13:10:33+00:00"
     },
     {
-      "id": "9baf54db1c03",
-      "title": "I made a claude code mod that uses Haiku 5.5 (or Jev) to pick the best model and effort for your task. (and more...)",
-      "summary": "a mod for Claude Code that uses Haiku 5.5 or Jev to figure out the best model and effort for the task. (it is smart and uses earlier messages to assess if a switch is good or if it’s better to stay on the current one. what it does and how:…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1nnkn/i_made_a_claude_code_mod_that_uses_haiku_55_or/",
+      "id": "25071c0fdad1",
+      "title": "Please add a setting to make Enter insert a new line in the Claude chat input",
+      "summary": "Right now Enter always sends the message in the Claude web and desktop apps, and Shift+Enter adds a new line. There is no setting to change this. I asked support and they confirmed it, and said the request was passed on to the product…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2en0e/please_add_a_setting_to_make_enter_insert_a_new/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-09T15:01:08+00:00"
-    },
-    {
-      "id": "872868ff2977",
-      "title": "Opus 5.5 built the vehicles and physics for my Road Rash x DiRT mashup in about 3 days. It couldn’t crack the dirt bike",
-      "summary": "I’ve been making games for about 25 years (mostly AAA, now indie) and wanted to see how far Claude could take a real game in a few days. The target was a mix of Road Rash (the 1991 one, yes I’m that old) and a rally game like DiRT. Opus…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1mb45/opus_55_built_the_vehicles_and_physics_for_my/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-09T14:06:46+00:00"
-    },
-    {
-      "id": "2f4d13cbb27e",
-      "title": "Add resource: clausona (#3122)",
-      "summary": "Add resource: clausona (#3122) Category: Configuration Author: larcane97 From issue: #2997 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2dd4757a9346ec31de6340846d9507b4352a30",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-08T04:46:14+00:00"
-    },
-    {
-      "id": "f2b1a7ad1ef2",
-      "title": "Add resource: OpenRig (#3121)",
-      "summary": "Add resource: OpenRig (#3121) Category: Agent Orchestration Author: Mike Schwarz From issue: #2998 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1fee934dc6c7d5903174eb872c0bec9b27ee443",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-08T04:41:03+00:00"
-    },
-    {
-      "id": "7d05e65b60c5",
-      "title": "Add resource: Archify (#3120)",
-      "summary": "Add resource: Archify (#3120) Category: Documentation, Knowledge & Learning Author: tt-a1i From issue: #3061 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68af8acf38cec18209601fff8c0a7b1d59a01f89",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-08T04:21:46+00:00"
+      "published": "2026-10-10T12:55:52+00:00"
     }
   ]
 }

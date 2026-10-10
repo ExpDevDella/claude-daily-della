@@ -1,0 +1,128 @@
+{
+  "issue": 142,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:56:14.427856-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "2f4737d879c1",
+      "title": "docs(contributing): sync with v2/main after #4959",
+      "summary": "docs(contributing): sync with v2/main after #4959 Takes CONTRIBUTING.md from v2/main, which dropped the transitional blank-issue fallback (#4940), so this branch stays byte-identical to v2/main and main does not receive the stale sentence.…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/9e62490b72bb49c3a9581998f09e3db02bce5d5c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-04T03:04:14+00:00"
+    },
+    {
+      "id": "bb5a184f2079",
+      "title": "fix(everything): clean up subscriptions on session disconnect (#4712)",
+      "summary": "fix(everything): clean up subscriptions on session disconnect (#4712) Export removeSubscriber() to drop a session from all URI subscriber sets when a transport session closes, and call it from cleanup() alongside the existing interval and…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-09-22T14:30:15+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "dd2a6abe7762",
+      "title": "i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends",
+      "summary": "im just frustrated, i genuinely am and it is entirely my fault. so the job was simple. two keyframes, one camera move i wanted to test, and i wanted a pile of variations by morning so i could pick a composition and then run that one…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-09T15:51:20+00:00"
+    },
+    {
+      "id": "9baf54db1c03",
+      "title": "I made a claude code mod that uses Haiku 5.5 (or Jev) to pick the best model and effort for your task. (and more...)",
+      "summary": "a mod for Claude Code that uses Haiku 5.5 or Jev to figure out the best model and effort for the task. (it is smart and uses earlier messages to assess if a switch is good or if it’s better to stay on the current one. what it does and how:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1nnkn/i_made_a_claude_code_mod_that_uses_haiku_55_or/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-09T15:01:08+00:00"
+    },
+    {
+      "id": "872868ff2977",
+      "title": "Opus 5.5 built the vehicles and physics for my Road Rash x DiRT mashup in about 3 days. It couldn’t crack the dirt bike",
+      "summary": "I’ve been making games for about 25 years (mostly AAA, now indie) and wanted to see how far Claude could take a real game in a few days. The target was a mix of Road Rash (the 1991 one, yes I’m that old) and a rally game like DiRT. Opus…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1mb45/opus_55_built_the_vehicles_and_physics_for_my/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-09T14:06:46+00:00"
+    },
+    {
+      "id": "2f4d13cbb27e",
+      "title": "Add resource: clausona (#3122)",
+      "summary": "Add resource: clausona (#3122) Category: Configuration Author: larcane97 From issue: #2997 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2dd4757a9346ec31de6340846d9507b4352a30",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-08T04:46:14+00:00"
+    },
+    {
+      "id": "f2b1a7ad1ef2",
+      "title": "Add resource: OpenRig (#3121)",
+      "summary": "Add resource: OpenRig (#3121) Category: Agent Orchestration Author: Mike Schwarz From issue: #2998 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1fee934dc6c7d5903174eb872c0bec9b27ee443",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-08T04:41:03+00:00"
+    },
+    {
+      "id": "7d05e65b60c5",
+      "title": "Add resource: Archify (#3120)",
+      "summary": "Add resource: Archify (#3120) Category: Documentation, Knowledge & Learning Author: tt-a1i From issue: #3061 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68af8acf38cec18209601fff8c0a7b1d59a01f89",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-08T04:21:46+00:00"
+    }
+  ]
+}
