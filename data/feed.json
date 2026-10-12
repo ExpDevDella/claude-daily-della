@@ -1,7 +1,7 @@
 {
-  "issue": 144,
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T14:17:31.318219-03:00",
+  "issue": 145,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:52:13.392986-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -23,6 +23,16 @@
       "category": "Video",
       "weight": 9,
       "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
     },
     {
       "id": "69a05cb13111",
@@ -55,6 +65,26 @@
       "published": "2026-10-10T17:05:44+00:00"
     },
     {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
       "id": "d36d7693e596",
       "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
       "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
@@ -65,64 +95,34 @@
       "published": "2026-09-24T15:06:48+00:00"
     },
     {
-      "id": "6d74a073eb40",
-      "title": "Claude and I built a 'video' format so Claude (and other LLMs) could 'watch' videos!",
-      "summary": "Has this ever happened to you? You're talking with your LLM and you mention a video or a gif and lament that you can't share it? Maybe not! But it happened for me! So my studio and I made Frame-grid! Claude and I workshopped how we could…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/",
+      "id": "9f6583356e88",
+      "title": "5hr limit now bumped to 24hr?",
+      "summary": "Is anyone else seeing a closer to 24hr limit rather than 5hr? I'll be resetting soon, so I'll see if it really is 24hr. Edit: I'm on a Team 5x plan. Edit 2: It just dropped back down to 3hr. Oh well. &#32; submitted by &#32; /u/spiders888…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-11T14:16:54+00:00"
+      "published": "2026-10-12T19:45:29+00:00"
     },
     {
-      "id": "479cfdf4772d",
-      "title": "Claude saved my marriage. 😂💀",
-      "summary": "My wife and I share the same Claude account. Lately, I noticed she’d been asking Claude a LOT of questions about our relationship issues. So, I set up custom instructions for our account, and now things are more than sorted. 😂 Thanks,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-11T14:09:42+00:00"
-    },
-    {
-      "id": "63e4979f64a9",
-      "title": "Do people here REALLY bother switching from anthropic to openAI to deepseek to moonshot/Kimi etc when a new model comes out?",
-      "summary": "I used to switch around but now I just find it tiring to do so. Now when Open AI (for example) releases its latest model I’m just happy to wait a few weeks to seen what Anthropic respond with… What do you guys do? &#32; submitted by &#32;…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35hoj/do_people_here_really_bother_switching_from/",
+      "id": "774feb612c39",
+      "title": "Opus 5.5 built an 8-slide watch explainer where every mechanism actually moves",
+      "summary": "An 8-slide animated deck on how a mechanical watch keeps time: mainspring, gear train, escapement, balance wheel, the hands, winding, then the whole movement running together. Every drawing is SVG driven by one shared clock, so meshing…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x49lew/opus_55_built_an_8slide_watch_explainer_where/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-11T11:07:47+00:00"
+      "published": "2026-10-12T18:22:11+00:00"
     },
     {
-      "id": "b660b273fc82",
-      "title": "Add resource: cc-semaphore (#3144)",
-      "summary": "Add resource: cc-semaphore (#3144) Category: Observability & Monitoring Author: patakuti From issue: #2826 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2c7f6cf524ff41ec3a8c206a17d30afcd1aa736",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
+      "id": "35eb373e795e",
+      "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
+      "summary": "Do we believe Zuckerberg that it beats Opus 5.5? &quot;Meta scores Muse Wonder at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra. &quot; &#32; submitted by &#32; /u/ross2000 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-10T16:12:30+00:00"
-    },
-    {
-      "id": "e333823302be",
-      "title": "Add resource: Claude Code Local (#3145)",
-      "summary": "Add resource: Claude Code Local (#3145) Category: Providers, Runtime & Integration Infrastructure Author: Matt Macosko From issue: #2881 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4aaeefec992ede49c4ee4444a8eafe62e170916e",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-10T15:25:37+00:00"
-    },
-    {
-      "id": "02cb99b2e041",
-      "title": "Add resource: bough (#3143)",
-      "summary": "Add resource: bough (#3143) Category: Observability & Monitoring Author: nickelsec From issue: #2835 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4a5f928c88e866a4f7706850d3e8ffeb185f1c05",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-10T14:52:13+00:00"
+      "published": "2026-10-12T17:38:23+00:00"
     }
   ]
 }

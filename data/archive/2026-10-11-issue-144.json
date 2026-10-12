@@ -1,0 +1,128 @@
+{
+  "issue": 144,
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:17:31.318219-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "69a05cb13111",
+      "title": "ci: bring the main-source guard to main ahead of the next milestone m…",
+      "summary": "ci: bring the main-source guard to main ahead of the next milestone merge The guard (#5119, PR #5120 on v2/main) runs on pull_request_target, which loads the workflow and script from main. Bring the same three files here byte-for-byte, so…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f39bc6bbe7d9a74b6e6d9a6f0bb3e34ef1dd1810",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-10-11T05:06:59+00:00"
+    },
+    {
+      "id": "db55eb4f8b01",
+      "title": "fix(fetch): annotate the fetch tool",
+      "summary": "fix(fetch): annotate the fetch tool The fetch tool set no tool annotations, unlike every tool in the git and time servers, and AGENTS.md requires them on every tool that is added or changed. It now declares readOnlyHint: true,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/01c274fab3235a9ca9546b97f17287bb70892c6b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-10T17:33:02+00:00"
+    },
+    {
+      "id": "28dfd81b6249",
+      "title": "test(release): pin the ./ tarball path npm publish needs",
+      "summary": "test(release): pin the ./ tarball path npm publish needs npm publish reads a bare dir/file argument as GitHub owner/repo shorthand and tries to clone it over SSH; the MCP Inspector's first release through the same split publish job failed…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/dd4826afc91ef159b63a028d66c9bfa38cf141d2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-10T17:05:44+00:00"
+    },
+    {
+      "id": "d36d7693e596",
+      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-24T15:06:48+00:00"
+    },
+    {
+      "id": "6d74a073eb40",
+      "title": "Claude and I built a 'video' format so Claude (and other LLMs) could 'watch' videos!",
+      "summary": "Has this ever happened to you? You're talking with your LLM and you mention a video or a gif and lament that you can't share it? Maybe not! But it happened for me! So my studio and I made Frame-grid! Claude and I workshopped how we could…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-11T14:16:54+00:00"
+    },
+    {
+      "id": "479cfdf4772d",
+      "title": "Claude saved my marriage. 😂💀",
+      "summary": "My wife and I share the same Claude account. Lately, I noticed she’d been asking Claude a LOT of questions about our relationship issues. So, I set up custom instructions for our account, and now things are more than sorted. 😂 Thanks,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-11T14:09:42+00:00"
+    },
+    {
+      "id": "63e4979f64a9",
+      "title": "Do people here REALLY bother switching from anthropic to openAI to deepseek to moonshot/Kimi etc when a new model comes out?",
+      "summary": "I used to switch around but now I just find it tiring to do so. Now when Open AI (for example) releases its latest model I’m just happy to wait a few weeks to seen what Anthropic respond with… What do you guys do? &#32; submitted by &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35hoj/do_people_here_really_bother_switching_from/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-11T11:07:47+00:00"
+    },
+    {
+      "id": "b660b273fc82",
+      "title": "Add resource: cc-semaphore (#3144)",
+      "summary": "Add resource: cc-semaphore (#3144) Category: Observability & Monitoring Author: patakuti From issue: #2826 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2c7f6cf524ff41ec3a8c206a17d30afcd1aa736",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T16:12:30+00:00"
+    },
+    {
+      "id": "e333823302be",
+      "title": "Add resource: Claude Code Local (#3145)",
+      "summary": "Add resource: Claude Code Local (#3145) Category: Providers, Runtime & Integration Infrastructure Author: Matt Macosko From issue: #2881 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4aaeefec992ede49c4ee4444a8eafe62e170916e",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T15:25:37+00:00"
+    },
+    {
+      "id": "02cb99b2e041",
+      "title": "Add resource: bough (#3143)",
+      "summary": "Add resource: bough (#3143) Category: Observability & Monitoring Author: nickelsec From issue: #2835 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4a5f928c88e866a4f7706850d3e8ffeb185f1c05",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-10T14:52:13+00:00"
+    }
+  ]
+}
