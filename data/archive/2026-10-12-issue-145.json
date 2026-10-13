@@ -1,0 +1,128 @@
+{
+  "issue": 145,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:52:13.392986-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "69a05cb13111",
+      "title": "ci: bring the main-source guard to main ahead of the next milestone m…",
+      "summary": "ci: bring the main-source guard to main ahead of the next milestone merge The guard (#5119, PR #5120 on v2/main) runs on pull_request_target, which loads the workflow and script from main. Bring the same three files here byte-for-byte, so…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f39bc6bbe7d9a74b6e6d9a6f0bb3e34ef1dd1810",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-10-11T05:06:59+00:00"
+    },
+    {
+      "id": "db55eb4f8b01",
+      "title": "fix(fetch): annotate the fetch tool",
+      "summary": "fix(fetch): annotate the fetch tool The fetch tool set no tool annotations, unlike every tool in the git and time servers, and AGENTS.md requires them on every tool that is added or changed. It now declares readOnlyHint: true,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/01c274fab3235a9ca9546b97f17287bb70892c6b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-10T17:33:02+00:00"
+    },
+    {
+      "id": "28dfd81b6249",
+      "title": "test(release): pin the ./ tarball path npm publish needs",
+      "summary": "test(release): pin the ./ tarball path npm publish needs npm publish reads a bare dir/file argument as GitHub owner/repo shorthand and tries to clone it over SSH; the MCP Inspector's first release through the same split publish job failed…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/dd4826afc91ef159b63a028d66c9bfa38cf141d2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-10T17:05:44+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "d36d7693e596",
+      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
+      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-09-24T15:06:48+00:00"
+    },
+    {
+      "id": "9f6583356e88",
+      "title": "5hr limit now bumped to 24hr?",
+      "summary": "Is anyone else seeing a closer to 24hr limit rather than 5hr? I'll be resetting soon, so I'll see if it really is 24hr. Edit: I'm on a Team 5x plan. Edit 2: It just dropped back down to 3hr. Oh well. &#32; submitted by &#32; /u/spiders888…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-12T19:45:29+00:00"
+    },
+    {
+      "id": "774feb612c39",
+      "title": "Opus 5.5 built an 8-slide watch explainer where every mechanism actually moves",
+      "summary": "An 8-slide animated deck on how a mechanical watch keeps time: mainspring, gear train, escapement, balance wheel, the hands, winding, then the whole movement running together. Every drawing is SVG driven by one shared clock, so meshing…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x49lew/opus_55_built_an_8slide_watch_explainer_where/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-12T18:22:11+00:00"
+    },
+    {
+      "id": "35eb373e795e",
+      "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
+      "summary": "Do we believe Zuckerberg that it beats Opus 5.5? &quot;Meta scores Muse Wonder at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra. &quot; &#32; submitted by &#32; /u/ross2000 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-12T17:38:23+00:00"
+    }
+  ]
+}

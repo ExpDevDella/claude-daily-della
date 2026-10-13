@@ -1,7 +1,7 @@
 {
-  "issue": 145,
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T17:52:13.392986-03:00",
+  "issue": 146,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:50:16.823403-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -45,26 +45,6 @@
       "published": "2026-10-11T05:06:59+00:00"
     },
     {
-      "id": "db55eb4f8b01",
-      "title": "fix(fetch): annotate the fetch tool",
-      "summary": "fix(fetch): annotate the fetch tool The fetch tool set no tool annotations, unlike every tool in the git and time servers, and AGENTS.md requires them on every tool that is added or changed. It now declares readOnlyHint: true,…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/01c274fab3235a9ca9546b97f17287bb70892c6b",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-10T17:33:02+00:00"
-    },
-    {
-      "id": "28dfd81b6249",
-      "title": "test(release): pin the ./ tarball path npm publish needs",
-      "summary": "test(release): pin the ./ tarball path npm publish needs npm publish reads a bare dir/file argument as GitHub owner/repo shorthand and tries to clone it over SSH; the MCP Inspector's first release through the same split publish job failed…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/dd4826afc91ef159b63a028d66c9bfa38cf141d2",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-10T17:05:44+00:00"
-    },
-    {
       "id": "b99ae27aa366",
       "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
       "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
@@ -85,44 +65,64 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "d36d7693e596",
-      "title": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "summary": "3 Founders Shipped Claude Managed Agents to Production in 2 Weeks. Here's the Playbook",
-      "url": "https://www.the-ai-corner.com/p/managed-ai-agents-playbook",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-09-24T15:06:48+00:00"
-    },
-    {
-      "id": "9f6583356e88",
-      "title": "5hr limit now bumped to 24hr?",
-      "summary": "Is anyone else seeing a closer to 24hr limit rather than 5hr? I'll be resetting soon, so I'll see if it really is 24hr. Edit: I'm on a Team 5x plan. Edit 2: It just dropped back down to 3hr. Oh well. &#32; submitted by &#32; /u/spiders888…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-12T19:45:29+00:00"
-    },
-    {
-      "id": "774feb612c39",
-      "title": "Opus 5.5 built an 8-slide watch explainer where every mechanism actually moves",
-      "summary": "An 8-slide animated deck on how a mechanical watch keeps time: mainspring, gear train, escapement, balance wheel, the hands, winding, then the whole movement running together. Every drawing is SVG driven by one shared clock, so meshing…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x49lew/opus_55_built_an_8slide_watch_explainer_where/",
+      "id": "87a4db65a1de",
+      "title": "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K",
+      "summary": "Posting publicly so it’s documented, and to check whether others have experienced this as I am a lost rn on what do next given this large bill. Claude Code proposed and I accepted to run verification tests against Claude Haiku 4.5 on AWS…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-12T18:22:11+00:00"
+      "published": "2026-10-13T18:06:37+00:00"
     },
     {
-      "id": "35eb373e795e",
-      "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
-      "summary": "Do we believe Zuckerberg that it beats Opus 5.5? &quot;Meta scores Muse Wonder at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra. &quot; &#32; submitted by &#32; /u/ross2000 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
+      "id": "aaf62194635c",
+      "title": "Does anyone else feel like Opus 5.5 is on a completely different level from every other model?",
+      "summary": "I’ve been using Opus 5.5 for coding, and honestly it feels like it’s in a different league compared to other models like Sol and Astra, and even Opus 5.0. Before Opus 5.5, if my expectations for an AI coding task were a 10/10, I’d usually…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x51hk1/does_anyone_else_feel_like_opus_55_is_on_a/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-12T17:38:23+00:00"
+      "published": "2026-10-13T16:34:35+00:00"
+    },
+    {
+      "id": "f51fca86836b",
+      "title": "Fable 5.5 should be released any moment",
+      "summary": "https://preview.redd.it/0x60rjipf9vh1.png?width=1268&format=png&auto=webp&s=a728dbd94c1abbe9a07481cf031ef867d5388ce7 See the picture EDIT: Link for good measure -…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-13T16:20:43+00:00"
+    },
+    {
+      "id": "0100429e0985",
+      "title": "Add resource: Agent Skills for Knowledge Work (#3154)",
+      "summary": "Add resource: Agent Skills for Knowledge Work (#3154) Category: Documentation, Knowledge & Learning Author: Hieu T. Luu From issue: #2879 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/30ea0cf3d7b5b6063c02da580432ba2528e5d3c5",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T08:54:51+00:00"
+    },
+    {
+      "id": "69afb229ae1c",
+      "title": "Add resource: Universal Exam Cram Coach (#3153)",
+      "summary": "Add resource: Universal Exam Cram Coach (#3153) Category: Documentation, Knowledge & Learning Author: ZeKai Nie From issue: #2873 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/82cccab48d6b9c5cb199cf3740ced68dcc05e134",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T07:34:25+00:00"
+    },
+    {
+      "id": "284c07da3c01",
+      "title": "Add resource: PLUR (#3152)",
+      "summary": "Add resource: PLUR (#3152) Category: Memory & Context Persistence Author: plur-ai From issue: #2161 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5edf9663b8349bf5ae0f94b8e55ec45b2dc34d14",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T06:10:02+00:00"
     }
   ]
 }
