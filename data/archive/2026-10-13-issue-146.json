@@ -1,0 +1,128 @@
+{
+  "issue": 146,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:50:16.823403-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "69a05cb13111",
+      "title": "ci: bring the main-source guard to main ahead of the next milestone m…",
+      "summary": "ci: bring the main-source guard to main ahead of the next milestone merge The guard (#5119, PR #5120 on v2/main) runs on pull_request_target, which loads the workflow and script from main. Bring the same three files here byte-for-byte, so…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f39bc6bbe7d9a74b6e6d9a6f0bb3e34ef1dd1810",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-10-11T05:06:59+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "87a4db65a1de",
+      "title": "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K",
+      "summary": "Posting publicly so it’s documented, and to check whether others have experienced this as I am a lost rn on what do next given this large bill. Claude Code proposed and I accepted to run verification tests against Claude Haiku 4.5 on AWS…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-13T18:06:37+00:00"
+    },
+    {
+      "id": "aaf62194635c",
+      "title": "Does anyone else feel like Opus 5.5 is on a completely different level from every other model?",
+      "summary": "I’ve been using Opus 5.5 for coding, and honestly it feels like it’s in a different league compared to other models like Sol and Astra, and even Opus 5.0. Before Opus 5.5, if my expectations for an AI coding task were a 10/10, I’d usually…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x51hk1/does_anyone_else_feel_like_opus_55_is_on_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-13T16:34:35+00:00"
+    },
+    {
+      "id": "f51fca86836b",
+      "title": "Fable 5.5 should be released any moment",
+      "summary": "https://preview.redd.it/0x60rjipf9vh1.png?width=1268&format=png&auto=webp&s=a728dbd94c1abbe9a07481cf031ef867d5388ce7 See the picture EDIT: Link for good measure -…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-13T16:20:43+00:00"
+    },
+    {
+      "id": "0100429e0985",
+      "title": "Add resource: Agent Skills for Knowledge Work (#3154)",
+      "summary": "Add resource: Agent Skills for Knowledge Work (#3154) Category: Documentation, Knowledge & Learning Author: Hieu T. Luu From issue: #2879 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/30ea0cf3d7b5b6063c02da580432ba2528e5d3c5",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T08:54:51+00:00"
+    },
+    {
+      "id": "69afb229ae1c",
+      "title": "Add resource: Universal Exam Cram Coach (#3153)",
+      "summary": "Add resource: Universal Exam Cram Coach (#3153) Category: Documentation, Knowledge & Learning Author: ZeKai Nie From issue: #2873 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/82cccab48d6b9c5cb199cf3740ced68dcc05e134",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T07:34:25+00:00"
+    },
+    {
+      "id": "284c07da3c01",
+      "title": "Add resource: PLUR (#3152)",
+      "summary": "Add resource: PLUR (#3152) Category: Memory & Context Persistence Author: plur-ai From issue: #2161 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5edf9663b8349bf5ae0f94b8e55ec45b2dc34d14",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T06:10:02+00:00"
+    }
+  ]
+}
