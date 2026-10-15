@@ -1,0 +1,128 @@
+{
+  "issue": 147,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:28:42.127884-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "f79630c685ec",
+      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
+      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
+      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-04T18:34:52+00:00"
+    },
+    {
+      "id": "67424c18399a",
+      "title": "I’m becoming stupid from Claude",
+      "summary": "Between copilot and Claude, I’m becoming retarded. It’s unreal what has happened in the last year, I used to struggle with creating reports, analyzing variances and finding root causes. Claude is so good now with basic prompts and feeding…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5s65x/im_becoming_stupid_from_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-14T14:06:59+00:00"
+    },
+    {
+      "id": "b0c6f1512b4b",
+      "title": "Pixel art scene made with Opus 5.5",
+      "summary": "Live scene + prompt . This is a cozy looping pixel art scene I made with Claude Opus 5.5 a few weeks ago. Claude implemented it in plain TS so it's all code-driven for VFX like rain, fire, water etc. Important note: It was absolutely not a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-14T13:26:06+00:00"
+    },
+    {
+      "id": "cea9150051e4",
+      "title": "What is an AI \"Lifehack\" that people don't seem to know yet?",
+      "summary": "What is an AI &quot;Lifehack&quot; that people don't seem to know yet? It could be based around building, saving tokens, stretching tokens, etc &#32; submitted by &#32; /u/Realestmember [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-10-14T11:29:37+00:00"
+    },
+    {
+      "id": "0100429e0985",
+      "title": "Add resource: Agent Skills for Knowledge Work (#3154)",
+      "summary": "Add resource: Agent Skills for Knowledge Work (#3154) Category: Documentation, Knowledge & Learning Author: Hieu T. Luu From issue: #2879 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/30ea0cf3d7b5b6063c02da580432ba2528e5d3c5",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T08:54:51+00:00"
+    },
+    {
+      "id": "69afb229ae1c",
+      "title": "Add resource: Universal Exam Cram Coach (#3153)",
+      "summary": "Add resource: Universal Exam Cram Coach (#3153) Category: Documentation, Knowledge & Learning Author: ZeKai Nie From issue: #2873 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/82cccab48d6b9c5cb199cf3740ced68dcc05e134",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T07:34:25+00:00"
+    },
+    {
+      "id": "284c07da3c01",
+      "title": "Add resource: PLUR (#3152)",
+      "summary": "Add resource: PLUR (#3152) Category: Memory & Context Persistence Author: plur-ai From issue: #2161 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5edf9663b8349bf5ae0f94b8e55ec45b2dc34d14",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-13T06:10:02+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
