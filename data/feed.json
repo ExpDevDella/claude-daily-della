@@ -1,128 +1,128 @@
 {
-  "issue": 148,
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T13:16:26.435780-03:00",
+  "issue": 149,
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:01:51.184745-03:00",
   "items": [
     {
-      "id": "f79630c685ec",
-      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
-      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
-      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-04T18:34:52+00:00",
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
       "featured": true
     },
     {
-      "id": "3b90b2aa82a6",
-      "title": "The anti vibe-coding cult is going to be on wrong side of history",
-      "summary": "Some facts (not an opinion): - At its best Claude is faster at coding than any human. - Opus 5.5. is technically more able and more bilingual in terms of programming languages than probably 99.9% of developers coding stuff all by…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6nfto/the_anti_vibecoding_cult_is_going_to_be_on_wrong/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-15T14:40:22+00:00"
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
     },
     {
-      "id": "721186f21ba0",
-      "title": "I used Claude (Opus 5.5) to crack a 30-year-old Super Mario 64 mystery: the unreadable courtyard plaque",
-      "summary": "Side project that got out of hand. The plaque in Mario 64's courtyard is a 32×32 texture that fans have argued about since the 90s (&quot;L is real 2401&quot;). No upscaler can read it because the pixels aren't there. What Opus did: -…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6lz8p/i_used_claude_opus_55_to_crack_a_30yearold_super/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-15T13:42:03+00:00"
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
     },
     {
-      "id": "c0a2b6b33846",
-      "title": "Add resource: LinkedIn Skills (#3177)",
-      "summary": "Add resource: LinkedIn Skills (#3177) Category: Skills Author: Serge Bulaev From issue: #2824 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aed2f6ba59e37360882bd30fdc5f5b4dfcad5cbe",
+      "id": "b8b499eef94f",
+      "title": "The AI CEO Dashboard Kit: An Excel Model, 14 Checks and 10 Claude Prompts",
+      "summary": "8 KPIs and 4 charts from one Stripe CSV, with a worked example.",
+      "url": "https://www.the-ai-corner.com/p/the-ai-ceo-dashboard-kit-an-excel",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-15T22:47:35+00:00"
+    },
+    {
+      "id": "99c8fc09f4b9",
+      "title": "What have you built with AI that actually made your job easier?",
+      "summary": "I have created a few tools that help to investigate new projects and now half of the team use it. I am not talking about skill or agents but real app or simple program. What did you build? What problem does it solve? And how much time or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7jf72/what_have_you_built_with_ai_that_actually_made/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-16T15:34:40+00:00"
+    },
+    {
+      "id": "5d074dce7e3f",
+      "title": "Do you ever think about where people trusting Claude leads, generations from now?",
+      "summary": "Former history teacher here. I use Claude a lot, and something I keep coming back to is how much people already lean on it: advice, reassurance, help thinking through hard decisions. Historically, people have handed authority to whatever…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7h42o/do_you_ever_think_about_where_people_trusting/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-16T14:04:15+00:00"
+    },
+    {
+      "id": "3749fdc1c9aa",
+      "title": "When to use which Claude Code model and effort level",
+      "summary": "As the title suggests, I still haven't gotten the hang of this, lol I know Fable is best for working on an entire big piece of architecture, or when it requires more taste or thinking, or working through very complex problems. I also know…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x79exi/when_to_use_which_claude_code_model_and_effort/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-16T07:05:34+00:00"
+    },
+    {
+      "id": "bf578fa2021d",
+      "title": "Add resource: Mycelium (#3180)",
+      "summary": "Add resource: Mycelium (#3180) Category: Agent Orchestration Author: Håvard Bartnes From issue: #2766 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57b440b25a5c2a5a96bd06d6f42da89fc1486bb",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-15T13:19:52+00:00"
+      "published": "2026-10-15T23:05:16+00:00"
     },
     {
-      "id": "6dba8c927f16",
-      "title": "A Github tweet leaked the EAP (early access program) name for what is likely the next model: Odango",
-      "summary": "tweet here with the video leaking the name: https://x.com/github/status/2110085117041594750?s=46&t=yaGDk1YT21oDc8\\_\\_lo\\_nug &#32; submitted by &#32; /u/Illustrious-Meal-838 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6iocw/a_github_tweet_leaked_the_eap_early_access/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-15T11:02:17+00:00"
-    },
-    {
-      "id": "1bcb66d99d6d",
-      "title": "Add resource: mcu-skills (#3176)",
-      "summary": "Add resource: mcu-skills (#3176) Category: Skills Author: Alex New From issue: #2855 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0a71b349102eb07ad71d8b8fdbbe5343c1c1abb",
+      "id": "786b97f7dee9",
+      "title": "Add resource: pstack-claude (#3178)",
+      "summary": "Add resource: pstack-claude (#3178) Category: Agent Orchestration Author: Michael Denyer From issue: #2786 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b9b435e82d30bfa56c82eab0a1f663d0bdb025",
       "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-15T07:31:54+00:00"
+      "published": "2026-10-15T22:56:38+00:00"
     },
     {
-      "id": "c072d34be0d3",
-      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
-      "source": "Hacker News - Claude",
+      "id": "2d54353d6264",
+      "title": "Add resource: funes (#3179)",
+      "summary": "Add resource: funes (#3179) Category: Memory & Context Persistence Author: David Corvoysier From issue: #2767 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/936b0f4744e9a42bfa4086229bb5bb7f07c71316",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T20:11:10+00:00"
+    },
+    {
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-09-10T18:07:08+00:00"
+      "published": "2026-10-15T23:15:53+00:00"
     },
     {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
       "source": "GitHub - Awesome Claude Prompts",
       "category": "Plugin",
       "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
-    },
-    {
-      "id": "bbb6dd2f3dd2",
-      "title": "Add Smart Dev task template as standalone annotated file",
-      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-07-10T09:03:02+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "a9b28e3ea8a6",
-      "title": "Add: Custom AI Operating System for a Small Business prompt",
-      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Dica",
-      "weight": 5,
-      "published": "2026-05-18T15:40:33+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "published": "2026-10-15T23:10:44+00:00"
     }
   ]
 }

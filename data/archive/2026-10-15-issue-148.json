@@ -1,0 +1,128 @@
+{
+  "issue": 148,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:16:26.435780-03:00",
+  "items": [
+    {
+      "id": "f79630c685ec",
+      "title": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
+      "summary": "DoorDash runs 130,000 agent tasks a month and OpenAI shipped 1,500 pull requests with three engineers, while Anthropic paid 22x more to get an app that worked.",
+      "url": "https://www.the-ai-corner.com/p/the-harness-is-the-product-6-decisions",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-04T18:34:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "3b90b2aa82a6",
+      "title": "The anti vibe-coding cult is going to be on wrong side of history",
+      "summary": "Some facts (not an opinion): - At its best Claude is faster at coding than any human. - Opus 5.5. is technically more able and more bilingual in terms of programming languages than probably 99.9% of developers coding stuff all by…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6nfto/the_anti_vibecoding_cult_is_going_to_be_on_wrong/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-15T14:40:22+00:00"
+    },
+    {
+      "id": "721186f21ba0",
+      "title": "I used Claude (Opus 5.5) to crack a 30-year-old Super Mario 64 mystery: the unreadable courtyard plaque",
+      "summary": "Side project that got out of hand. The plaque in Mario 64's courtyard is a 32×32 texture that fans have argued about since the 90s (&quot;L is real 2401&quot;). No upscaler can read it because the pixels aren't there. What Opus did: -…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6lz8p/i_used_claude_opus_55_to_crack_a_30yearold_super/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-15T13:42:03+00:00"
+    },
+    {
+      "id": "c0a2b6b33846",
+      "title": "Add resource: LinkedIn Skills (#3177)",
+      "summary": "Add resource: LinkedIn Skills (#3177) Category: Skills Author: Serge Bulaev From issue: #2824 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aed2f6ba59e37360882bd30fdc5f5b4dfcad5cbe",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T13:19:52+00:00"
+    },
+    {
+      "id": "6dba8c927f16",
+      "title": "A Github tweet leaked the EAP (early access program) name for what is likely the next model: Odango",
+      "summary": "tweet here with the video leaking the name: https://x.com/github/status/2110085117041594750?s=46&t=yaGDk1YT21oDc8\\_\\_lo\\_nug &#32; submitted by &#32; /u/Illustrious-Meal-838 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6iocw/a_github_tweet_leaked_the_eap_early_access/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-15T11:02:17+00:00"
+    },
+    {
+      "id": "1bcb66d99d6d",
+      "title": "Add resource: mcu-skills (#3176)",
+      "summary": "Add resource: mcu-skills (#3176) Category: Skills Author: Alex New From issue: #2855 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0a71b349102eb07ad71d8b8fdbbe5343c1c1abb",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T07:31:54+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "bbb6dd2f3dd2",
+      "title": "Add Smart Dev task template as standalone annotated file",
+      "summary": "Add Smart Dev task template as standalone annotated file Extract the Smart Dev prompt into claudecode/SmartDev.md with usage instructions, a plain-language explanation of each rule, and an example. Link it from the README contents and the…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/aade3dc96277dc9d9f7f2c33980ee75db15fd6ba",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-07-10T09:03:02+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "a9b28e3ea8a6",
+      "title": "Add: Custom AI Operating System for a Small Business prompt",
+      "summary": "Add: Custom AI Operating System for a Small Business prompt Adds a master &quot;operator&quot; system prompt that turns Claude into a 6-month veteran of a small business after one-time profile fill-in. Covers customer email, SOPs, scripts,…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/bf77fc237627b5b6a08634517b1cb439edadbabe",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Dica",
+      "weight": 5,
+      "published": "2026-05-18T15:40:33+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
