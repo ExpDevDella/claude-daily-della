@@ -1,7 +1,7 @@
 {
-  "issue": 149,
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T13:01:51.184745-03:00",
+  "issue": 150,
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:54:45.290448-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -45,34 +45,54 @@
       "published": "2026-10-15T22:47:35+00:00"
     },
     {
-      "id": "99c8fc09f4b9",
-      "title": "What have you built with AI that actually made your job easier?",
-      "summary": "I have created a few tools that help to investigate new projects and now half of the team use it. I am not talking about skill or agents but real app or simple program. What did you build? What problem does it solve? And how much time or…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7jf72/what_have_you_built_with_ai_that_actually_made/",
+      "id": "618061e5913e",
+      "title": "This week's Claude Reset - Anyone else noticing unusually high usage all of a sudden?",
+      "summary": "This is NOT a rant or a complaint. I am genuinely curious. If you've seen my previous post, I talked about how I don't really like the new claudecode interface changes. Today, which happens to be my weekly reset. I've noticed that the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8bmku/this_weeks_claude_reset_anyone_else_noticing/",
       "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-17T14:28:54+00:00"
+    },
+    {
+      "id": "a75e825164ef",
+      "title": "I asked Claude to \"demake\" my Rust/Bevy auto-battler into native Nintendo 64 and Game Boy Advance ROMs",
+      "summary": "I am just playing around making a autobattler style game with Claude, and a friend gave me the idea of &quot;demaking it&quot;. I own a analogue pocket and analogue 3d, and making stuff for those myself sounded kind of cool. So I asked…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x88me6/i_asked_claude_to_demake_my_rustbevy_autobattler/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-17T12:07:04+00:00"
+    },
+    {
+      "id": "f9fe0acbd155",
+      "title": "Procedural generation with Opus is insane. This entire game is 20MB.",
+      "summary": "I made a post about my game about a month ago, and I just wanted to share my progress. I've been working on Mecha Royale for about 4 months now. About 99% of the code and content was created using Opus. Sound and music were created using…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8602z/procedural_generation_with_opus_is_insane_this/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-17T09:32:05+00:00"
+    },
+    {
+      "id": "43bb4895a63a",
+      "title": "Add resource: geoai-skills (#3183)",
+      "summary": "Add resource: geoai-skills (#3183) Category: Research & Scientific Inquiry Author: muend From issue: #2730 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc4ed59c35675a44bd1a108fd89a6de3bd7a0348",
+      "source": "GitHub - Awesome Claude Code",
       "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-16T15:34:40+00:00"
+      "published": "2026-10-16T22:31:41+00:00"
     },
     {
-      "id": "5d074dce7e3f",
-      "title": "Do you ever think about where people trusting Claude leads, generations from now?",
-      "summary": "Former history teacher here. I use Claude a lot, and something I keep coming back to is how much people already lean on it: advice, reassurance, help thinking through hard decisions. Historically, people have handed authority to whatever…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7h42o/do_you_ever_think_about_where_people_trusting/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "id": "fa884379527a",
+      "title": "Add resource: i18next-localization (#3182)",
+      "summary": "Add resource: i18next-localization (#3182) Category: Design & UI/UX Author: i18next From issue: #2712 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff5ddeeb8f8f539143baf3d5b3448f7ab2885386",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
       "weight": 6,
-      "published": "2026-10-16T14:04:15+00:00"
-    },
-    {
-      "id": "3749fdc1c9aa",
-      "title": "When to use which Claude Code model and effort level",
-      "summary": "As the title suggests, I still haven't gotten the hang of this, lol I know Fable is best for working on an entire big piece of architecture, or when it requires more taste or thinking, or working through very complex problems. I also know…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x79exi/when_to_use_which_claude_code_model_and_effort/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-16T07:05:34+00:00"
+      "published": "2026-10-16T20:51:01+00:00"
     },
     {
       "id": "bf578fa2021d",
@@ -83,26 +103,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-10-15T23:05:16+00:00"
-    },
-    {
-      "id": "786b97f7dee9",
-      "title": "Add resource: pstack-claude (#3178)",
-      "summary": "Add resource: pstack-claude (#3178) Category: Agent Orchestration Author: Michael Denyer From issue: #2786 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b9b435e82d30bfa56c82eab0a1f663d0bdb025",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-15T22:56:38+00:00"
-    },
-    {
-      "id": "2d54353d6264",
-      "title": "Add resource: funes (#3179)",
-      "summary": "Add resource: funes (#3179) Category: Memory & Context Persistence Author: David Corvoysier From issue: #2767 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/936b0f4744e9a42bfa4086229bb5bb7f07c71316",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-15T20:11:10+00:00"
     },
     {
       "id": "48f8a4979b96",

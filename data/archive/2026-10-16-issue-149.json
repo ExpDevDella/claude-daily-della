@@ -1,0 +1,128 @@
+{
+  "issue": 149,
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:01:51.184745-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b8b499eef94f",
+      "title": "The AI CEO Dashboard Kit: An Excel Model, 14 Checks and 10 Claude Prompts",
+      "summary": "8 KPIs and 4 charts from one Stripe CSV, with a worked example.",
+      "url": "https://www.the-ai-corner.com/p/the-ai-ceo-dashboard-kit-an-excel",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-15T22:47:35+00:00"
+    },
+    {
+      "id": "99c8fc09f4b9",
+      "title": "What have you built with AI that actually made your job easier?",
+      "summary": "I have created a few tools that help to investigate new projects and now half of the team use it. I am not talking about skill or agents but real app or simple program. What did you build? What problem does it solve? And how much time or…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7jf72/what_have_you_built_with_ai_that_actually_made/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-16T15:34:40+00:00"
+    },
+    {
+      "id": "5d074dce7e3f",
+      "title": "Do you ever think about where people trusting Claude leads, generations from now?",
+      "summary": "Former history teacher here. I use Claude a lot, and something I keep coming back to is how much people already lean on it: advice, reassurance, help thinking through hard decisions. Historically, people have handed authority to whatever…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7h42o/do_you_ever_think_about_where_people_trusting/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-16T14:04:15+00:00"
+    },
+    {
+      "id": "3749fdc1c9aa",
+      "title": "When to use which Claude Code model and effort level",
+      "summary": "As the title suggests, I still haven't gotten the hang of this, lol I know Fable is best for working on an entire big piece of architecture, or when it requires more taste or thinking, or working through very complex problems. I also know…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x79exi/when_to_use_which_claude_code_model_and_effort/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-16T07:05:34+00:00"
+    },
+    {
+      "id": "bf578fa2021d",
+      "title": "Add resource: Mycelium (#3180)",
+      "summary": "Add resource: Mycelium (#3180) Category: Agent Orchestration Author: Håvard Bartnes From issue: #2766 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57b440b25a5c2a5a96bd06d6f42da89fc1486bb",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T23:05:16+00:00"
+    },
+    {
+      "id": "786b97f7dee9",
+      "title": "Add resource: pstack-claude (#3178)",
+      "summary": "Add resource: pstack-claude (#3178) Category: Agent Orchestration Author: Michael Denyer From issue: #2786 Signed-off-by: Really Him &lt;git-dev@hesreallyhim.com&gt; Co-authored-by: github-actions[bot]…",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b9b435e82d30bfa56c82eab0a1f663d0bdb025",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T22:56:38+00:00"
+    },
+    {
+      "id": "2d54353d6264",
+      "title": "Add resource: funes (#3179)",
+      "summary": "Add resource: funes (#3179) Category: Memory & Context Persistence Author: David Corvoysier From issue: #2767 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/936b0f4744e9a42bfa4086229bb5bb7f07c71316",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-15T20:11:10+00:00"
+    },
+    {
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-10-15T23:15:53+00:00"
+    },
+    {
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-10-15T23:10:44+00:00"
+    }
+  ]
+}
