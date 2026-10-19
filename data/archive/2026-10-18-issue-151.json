@@ -1,0 +1,128 @@
+{
+  "issue": 151,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:21:00.273339-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "69a05cb13111",
+      "title": "ci: bring the main-source guard to main ahead of the next milestone m…",
+      "summary": "ci: bring the main-source guard to main ahead of the next milestone merge The guard (#5119, PR #5120 on v2/main) runs on pull_request_target, which loads the workflow and script from main. Bring the same three files here byte-for-byte, so…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/f39bc6bbe7d9a74b6e6d9a6f0bb3e34ef1dd1810",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-10-11T05:06:59+00:00"
+    },
+    {
+      "id": "db55eb4f8b01",
+      "title": "fix(fetch): annotate the fetch tool",
+      "summary": "fix(fetch): annotate the fetch tool The fetch tool set no tool annotations, unlike every tool in the git and time servers, and AGENTS.md requires them on every tool that is added or changed. It now declares readOnlyHint: true,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/01c274fab3235a9ca9546b97f17287bb70892c6b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-10T17:33:02+00:00"
+    },
+    {
+      "id": "7eaa72e4a3b2",
+      "title": "The Agent Workforce Kit: Anthropic’s 8 Metrics, a Role Radar and 12 Claude Prompts",
+      "summary": "Built on Anthropic&#8217;s report: agents at 6x human hours, junior tech hires down to 9%.",
+      "url": "https://www.the-ai-corner.com/p/the-agent-workforce-kit-anthropics",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T00:31:14+00:00"
+    },
+    {
+      "id": "cd7174a7f399",
+      "title": "rename Open Source Software to Open Source Contribution & Maintenance…",
+      "summary": "rename Open Source Software to Open Source Contribution & Maintenance (#3187) Co-authored-by: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/470c10769dab2426d0ab057585ad84935975bfa1",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-18T14:30:31+00:00"
+    },
+    {
+      "id": "72e9a6b9ea17",
+      "title": "Add resource: prismantis (#3186)",
+      "summary": "Add resource: prismantis (#3186) Category: Mods Author: Nahum Litvin From issue: #3185 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/857c5a4505d8dc1e336feb790eb357c3578ffcb4",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-18T12:09:19+00:00"
+    },
+    {
+      "id": "2f0220031fd9",
+      "title": "add new category - Mods (#3184)",
+      "summary": "add new category - Mods (#3184) Co-authored-by: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4748ea920a2d13c9d3da61cb2a91df64fc8691f9",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-18T11:42:46+00:00"
+    },
+    {
+      "id": "da747a923136",
+      "title": "I let Claude handle the software side of my new 3D printer, and it set the whole thing up",
+      "summary": "Hi all, decided to post this here because I think I'd just get AI hate on the printing subs. I wanted to get into 3D printing but didn't want to sink time into learning the software, so I got Claude to do it! It also helped me pick the…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xz3l/i_let_claude_handle_the_software_side_of_my_new/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-18T08:25:37+00:00"
+    },
+    {
+      "id": "89d56995ec35",
+      "title": "Getting blocked on reverse engineering",
+      "summary": "Claude admits there's nothing wrong with what I'm doing and then gives a bloated speech about how it feels. I'm reverse engineering the protocol on a piece of test equipment that I own. This is even with the Opus 4.8 model that people said…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8vfxj/getting_blocked_on_reverse_engineering/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-18T05:51:25+00:00"
+    },
+    {
+      "id": "fa09bd694fcf",
+      "title": "Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw shade at us 🥲 \"is it suspicious that such an obvious thing wasn't discovered in 25 years?\"",
+      "summary": "Source: https://www.anthropic.com/research/ecdsa-curve-origins &#32; submitted by &#32; /u/Just-Grocery-2229 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8v3sn/claude_solved_a_25_year_old_nsa_cryptography/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-18T05:31:08+00:00"
+    }
+  ]
+}

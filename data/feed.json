@@ -1,58 +1,58 @@
 {
-  "issue": 151,
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T12:21:00.273339-03:00",
+  "issue": 152,
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:18:52.425341-03:00",
   "items": [
     {
-      "id": "cb4e42d4d067",
-      "title": "Inside Anthropic's molecular biology lab",
-      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
-      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-09-23T18:01:32+00:00",
-      "featured": true
-    },
-    {
-      "id": "9dea0c491979",
-      "title": "Introducing Claude Fable 5.1",
-      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
-      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-09-01T18:02:31+00:00"
-    },
-    {
-      "id": "8eda2df95dfb",
-      "title": "Model Hardware Standard: AI operating physical equipment",
-      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
-      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-28T00:40:16+00:00"
-    },
-    {
-      "id": "69a05cb13111",
-      "title": "ci: bring the main-source guard to main ahead of the next milestone m…",
-      "summary": "ci: bring the main-source guard to main ahead of the next milestone merge The guard (#5119, PR #5120 on v2/main) runs on pull_request_target, which loads the workflow and script from main. Bring the same three files here byte-for-byte, so…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/f39bc6bbe7d9a74b6e6d9a6f0bb3e34ef1dd1810",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-10-11T05:06:59+00:00"
-    },
-    {
-      "id": "db55eb4f8b01",
-      "title": "fix(fetch): annotate the fetch tool",
-      "summary": "fix(fetch): annotate the fetch tool The fetch tool set no tool annotations, unlike every tool in the git and time servers, and AGENTS.md requires them on every tool that is added or changed. It now declares readOnlyHint: true,…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/01c274fab3235a9ca9546b97f17287bb70892c6b",
+      "id": "3545d27cb99e",
+      "title": "test: skip the dispatch-status script tests without bash or jq",
+      "summary": "test: skip the dispatch-status script tests without bash or jq The job's script calls jq; on a machine without it the latest-run case posts error instead of success, failing the gate over a missing test prerequisite. Copilot round 1 on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/163a5e9357567a19be2eacfb4ae5ec4f9614394b",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-10T17:33:02+00:00"
+      "published": "2026-10-19T06:21:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "e25d76a6ee25",
+      "title": "fix(ci): a superseded dispatched run posts no status, whatever its jo…",
+      "summary": "fix(ci): a superseded dispatched run posts no status, whatever its jobs did dispatch-status checked for a newer dispatched run only in its cancellation branch, so a superseded run whose job had already failed posted `failure` over the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d533150b9854e389b03a91b764a4f35a463501d0",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-19T06:13:35+00:00"
+    },
+    {
+      "id": "8aa3d63ab20e",
+      "title": "fix(python): serialize git tool calls, delegate malformed names, requ…",
+      "summary": "fix(python): serialize git tool calls, delegate malformed names, require mcp 2.3 Copilot round 1 on #5175: - git: MCPServer runs a synchronous tool in a worker thread, so overlapping calls could interleave a check and a change on the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/005e7e6ea55a61300f05bd2e02a02bc0822db0f4",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T05:55:03+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
     },
     {
       "id": "7eaa72e4a3b2",
@@ -63,6 +63,46 @@
       "category": "Dica",
       "weight": 7,
       "published": "2026-10-18T00:31:14+00:00"
+    },
+    {
+      "id": "119140cc2ced",
+      "title": "Claude Code installed tooling which was actually Expiro virus.",
+      "summary": "I had a late night vibe session working on a decomp of an old game, using REA and Claude. Claude made great progress and the goal of the workflow was to recomp the game into x64 and run natively on windows. I gave it free reign (naively)…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1ds8/claude_code_installed_tooling_which_was_actually/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-10-19T16:21:47+00:00"
+    },
+    {
+      "id": "e5244b79ef6c",
+      "title": "15 years as a software engineer, and AI is making me feel obsolete. How are you coping?",
+      "summary": "I’m a software engineer with over 15 years of experience, and lately I’ve been feeling super anxious about AI. I feel more and more sidelined every day. Claude connects to Jira, reads the ticket, comes up with a plan that is usually spot…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa0gn5/15_years_as_a_software_engineer_and_ai_is_making/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-19T15:47:17+00:00"
+    },
+    {
+      "id": "e0d31dd7929c",
+      "title": "I built a free, private meeting recorder for Mac entirely with Claude Code. You can chat with your meeting notes in Claude Desktop via MCP",
+      "summary": "I'm an ex-Apple engineer who got sick of non-private, non-native meeting recording apps, so I built Biscotti : a private and free meeting recorder for macOS. Free, no account, no subscription, no upsell. Source is on GitHub:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9zao5/i_built_a_free_private_meeting_recorder_for_mac/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-10-19T15:03:31+00:00"
+    },
+    {
+      "id": "d93bb7a0deff",
+      "title": "Add resource: Cubicle Crew (#3189)",
+      "summary": "Add resource: Cubicle Crew (#3189) Category: Observability & Monitoring Author: rezored From issue: #3188 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/212ed50c33ddb1e5407f840b9cb113dc42140455",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-19T03:25:45+00:00"
     },
     {
       "id": "cd7174a7f399",
@@ -83,46 +123,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-10-18T12:09:19+00:00"
-    },
-    {
-      "id": "2f0220031fd9",
-      "title": "add new category - Mods (#3184)",
-      "summary": "add new category - Mods (#3184) Co-authored-by: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4748ea920a2d13c9d3da61cb2a91df64fc8691f9",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-18T11:42:46+00:00"
-    },
-    {
-      "id": "da747a923136",
-      "title": "I let Claude handle the software side of my new 3D printer, and it set the whole thing up",
-      "summary": "Hi all, decided to post this here because I think I'd just get AI hate on the printing subs. I wanted to get into 3D printing but didn't want to sink time into learning the software, so I got Claude to do it! It also helped me pick the…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xz3l/i_let_claude_handle_the_software_side_of_my_new/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-18T08:25:37+00:00"
-    },
-    {
-      "id": "89d56995ec35",
-      "title": "Getting blocked on reverse engineering",
-      "summary": "Claude admits there's nothing wrong with what I'm doing and then gives a bloated speech about how it feels. I'm reverse engineering the protocol on a piece of test equipment that I own. This is even with the Opus 4.8 model that people said…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8vfxj/getting_blocked_on_reverse_engineering/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-18T05:51:25+00:00"
-    },
-    {
-      "id": "fa09bd694fcf",
-      "title": "Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw shade at us 🥲 \"is it suspicious that such an obvious thing wasn't discovered in 25 years?\"",
-      "summary": "Source: https://www.anthropic.com/research/ecdsa-curve-origins &#32; submitted by &#32; /u/Just-Grocery-2229 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8v3sn/claude_solved_a_25_year_old_nsa_cryptography/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-18T05:31:08+00:00"
     }
   ]
 }
