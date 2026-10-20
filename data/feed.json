@@ -1,8 +1,19 @@
 {
-  "issue": 152,
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T15:18:52.425341-03:00",
+  "issue": 153,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:19:48.660417-03:00",
   "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
     {
       "id": "3545d27cb99e",
       "title": "test: skip the dispatch-status script tests without bash or jq",
@@ -11,8 +22,7 @@
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-19T06:21:31+00:00",
-      "featured": true
+      "published": "2026-10-19T06:21:31+00:00"
     },
     {
       "id": "e25d76a6ee25",
@@ -35,6 +45,26 @@
       "published": "2026-10-19T05:55:03+00:00"
     },
     {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
       "id": "77d1708a1ca4",
       "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
       "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
@@ -55,44 +85,34 @@
       "published": "2026-10-18T21:36:54+00:00"
     },
     {
-      "id": "7eaa72e4a3b2",
-      "title": "The Agent Workforce Kit: Anthropic’s 8 Metrics, a Role Radar and 12 Claude Prompts",
-      "summary": "Built on Anthropic&#8217;s report: agents at 6x human hours, junior tech hires down to 9%.",
-      "url": "https://www.the-ai-corner.com/p/the-agent-workforce-kit-anthropics",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-18T00:31:14+00:00"
-    },
-    {
-      "id": "119140cc2ced",
-      "title": "Claude Code installed tooling which was actually Expiro virus.",
-      "summary": "I had a late night vibe session working on a decomp of an old game, using REA and Claude. Claude made great progress and the goal of the workflow was to recomp the game into x64 and run natively on windows. I gave it free reign (naively)…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1ds8/claude_code_installed_tooling_which_was_actually/",
+      "id": "d9105bbb0511",
+      "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
+      "summary": "I was working on my thesis with Opus 5.5, and what struck me was that it refused to draft an example paragraph for me to build on, because my university’s constraints on AI usage were clear, and the model was aware of them. The issue was…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-19T16:21:47+00:00"
+      "published": "2026-10-20T15:38:26+00:00"
     },
     {
-      "id": "e5244b79ef6c",
-      "title": "15 years as a software engineer, and AI is making me feel obsolete. How are you coping?",
-      "summary": "I’m a software engineer with over 15 years of experience, and lately I’ve been feeling super anxious about AI. I feel more and more sidelined every day. Claude connects to Jira, reads the ticket, comes up with a plan that is usually spot…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa0gn5/15_years_as_a_software_engineer_and_ai_is_making/",
+      "id": "f15fd23701ed",
+      "title": "Matt Pocock's Claude Code habits: 5 takeaways about the human, not the AI agent",
+      "summary": "Watched Matt on Nate Herk's podcast talking about his Claude Code setup. Most of it is about making agents better. The bits that stuck with me were about the human: Get grilled before you build. /grill-me only works if you actually answer.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xat7xn/matt_pococks_claude_code_habits_5_takeaways_about/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-19T15:47:17+00:00"
+      "published": "2026-10-20T14:11:58+00:00"
     },
     {
-      "id": "e0d31dd7929c",
-      "title": "I built a free, private meeting recorder for Mac entirely with Claude Code. You can chat with your meeting notes in Claude Desktop via MCP",
-      "summary": "I'm an ex-Apple engineer who got sick of non-private, non-native meeting recording apps, so I built Biscotti : a private and free meeting recorder for macOS. Free, no account, no subscription, no upsell. Source is on GitHub:…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9zao5/i_built_a_free_private_meeting_recorder_for_mac/",
+      "id": "29a5912a4a8b",
+      "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
+      "summary": "Since many months we were struggling to fix a critical bug in our App. That was discovered in a native vertex library. The impact was that AI was not able understand properly when the user has stopped talking. Because the mics that we have…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
       "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-10-19T15:03:31+00:00"
+      "published": "2026-10-20T13:14:51+00:00"
     },
     {
       "id": "d93bb7a0deff",
@@ -103,26 +123,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-10-19T03:25:45+00:00"
-    },
-    {
-      "id": "cd7174a7f399",
-      "title": "rename Open Source Software to Open Source Contribution & Maintenance…",
-      "summary": "rename Open Source Software to Open Source Contribution & Maintenance (#3187) Co-authored-by: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/470c10769dab2426d0ab057585ad84935975bfa1",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-18T14:30:31+00:00"
-    },
-    {
-      "id": "72e9a6b9ea17",
-      "title": "Add resource: prismantis (#3186)",
-      "summary": "Add resource: prismantis (#3186) Category: Mods Author: Nahum Litvin From issue: #3185 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/857c5a4505d8dc1e336feb790eb357c3578ffcb4",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-18T12:09:19+00:00"
     }
   ]
 }

@@ -1,0 +1,128 @@
+{
+  "issue": 152,
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:18:52.425341-03:00",
+  "items": [
+    {
+      "id": "3545d27cb99e",
+      "title": "test: skip the dispatch-status script tests without bash or jq",
+      "summary": "test: skip the dispatch-status script tests without bash or jq The job's script calls jq; on a machine without it the latest-run case posts error instead of success, failing the gate over a missing test prerequisite. Copilot round 1 on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/163a5e9357567a19be2eacfb4ae5ec4f9614394b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T06:21:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "e25d76a6ee25",
+      "title": "fix(ci): a superseded dispatched run posts no status, whatever its jo…",
+      "summary": "fix(ci): a superseded dispatched run posts no status, whatever its jobs did dispatch-status checked for a newer dispatched run only in its cancellation branch, so a superseded run whose job had already failed posted `failure` over the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d533150b9854e389b03a91b764a4f35a463501d0",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-19T06:13:35+00:00"
+    },
+    {
+      "id": "8aa3d63ab20e",
+      "title": "fix(python): serialize git tool calls, delegate malformed names, requ…",
+      "summary": "fix(python): serialize git tool calls, delegate malformed names, require mcp 2.3 Copilot round 1 on #5175: - git: MCPServer runs a synchronous tool in a worker thread, so overlapping calls could interleave a check and a change on the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/005e7e6ea55a61300f05bd2e02a02bc0822db0f4",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T05:55:03+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
+    },
+    {
+      "id": "7eaa72e4a3b2",
+      "title": "The Agent Workforce Kit: Anthropic’s 8 Metrics, a Role Radar and 12 Claude Prompts",
+      "summary": "Built on Anthropic&#8217;s report: agents at 6x human hours, junior tech hires down to 9%.",
+      "url": "https://www.the-ai-corner.com/p/the-agent-workforce-kit-anthropics",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T00:31:14+00:00"
+    },
+    {
+      "id": "119140cc2ced",
+      "title": "Claude Code installed tooling which was actually Expiro virus.",
+      "summary": "I had a late night vibe session working on a decomp of an old game, using REA and Claude. Claude made great progress and the goal of the workflow was to recomp the game into x64 and run natively on windows. I gave it free reign (naively)…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1ds8/claude_code_installed_tooling_which_was_actually/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-10-19T16:21:47+00:00"
+    },
+    {
+      "id": "e5244b79ef6c",
+      "title": "15 years as a software engineer, and AI is making me feel obsolete. How are you coping?",
+      "summary": "I’m a software engineer with over 15 years of experience, and lately I’ve been feeling super anxious about AI. I feel more and more sidelined every day. Claude connects to Jira, reads the ticket, comes up with a plan that is usually spot…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa0gn5/15_years_as_a_software_engineer_and_ai_is_making/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-19T15:47:17+00:00"
+    },
+    {
+      "id": "e0d31dd7929c",
+      "title": "I built a free, private meeting recorder for Mac entirely with Claude Code. You can chat with your meeting notes in Claude Desktop via MCP",
+      "summary": "I'm an ex-Apple engineer who got sick of non-private, non-native meeting recording apps, so I built Biscotti : a private and free meeting recorder for macOS. Free, no account, no subscription, no upsell. Source is on GitHub:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9zao5/i_built_a_free_private_meeting_recorder_for_mac/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "MCP",
+      "weight": 6,
+      "published": "2026-10-19T15:03:31+00:00"
+    },
+    {
+      "id": "d93bb7a0deff",
+      "title": "Add resource: Cubicle Crew (#3189)",
+      "summary": "Add resource: Cubicle Crew (#3189) Category: Observability & Monitoring Author: rezored From issue: #3188 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/212ed50c33ddb1e5407f840b9cb113dc42140455",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-19T03:25:45+00:00"
+    },
+    {
+      "id": "cd7174a7f399",
+      "title": "rename Open Source Software to Open Source Contribution & Maintenance…",
+      "summary": "rename Open Source Software to Open Source Contribution & Maintenance (#3187) Co-authored-by: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/470c10769dab2426d0ab057585ad84935975bfa1",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-18T14:30:31+00:00"
+    },
+    {
+      "id": "72e9a6b9ea17",
+      "title": "Add resource: prismantis (#3186)",
+      "summary": "Add resource: prismantis (#3186) Category: Mods Author: Nahum Litvin From issue: #3185 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/857c5a4505d8dc1e336feb790eb357c3578ffcb4",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-18T12:09:19+00:00"
+    }
+  ]
+}
