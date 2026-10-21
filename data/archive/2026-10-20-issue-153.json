@@ -1,0 +1,128 @@
+{
+  "issue": 153,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:19:48.660417-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "3545d27cb99e",
+      "title": "test: skip the dispatch-status script tests without bash or jq",
+      "summary": "test: skip the dispatch-status script tests without bash or jq The job's script calls jq; on a machine without it the latest-run case posts error instead of success, failing the gate over a missing test prerequisite. Copilot round 1 on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/163a5e9357567a19be2eacfb4ae5ec4f9614394b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T06:21:31+00:00"
+    },
+    {
+      "id": "e25d76a6ee25",
+      "title": "fix(ci): a superseded dispatched run posts no status, whatever its jo…",
+      "summary": "fix(ci): a superseded dispatched run posts no status, whatever its jobs did dispatch-status checked for a newer dispatched run only in its cancellation branch, so a superseded run whose job had already failed posted `failure` over the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d533150b9854e389b03a91b764a4f35a463501d0",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-19T06:13:35+00:00"
+    },
+    {
+      "id": "8aa3d63ab20e",
+      "title": "fix(python): serialize git tool calls, delegate malformed names, requ…",
+      "summary": "fix(python): serialize git tool calls, delegate malformed names, require mcp 2.3 Copilot round 1 on #5175: - git: MCPServer runs a synchronous tool in a worker thread, so overlapping calls could interleave a check and a change on the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/005e7e6ea55a61300f05bd2e02a02bc0822db0f4",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T05:55:03+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
+    },
+    {
+      "id": "d9105bbb0511",
+      "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
+      "summary": "I was working on my thesis with Opus 5.5, and what struck me was that it refused to draft an example paragraph for me to build on, because my university’s constraints on AI usage were clear, and the model was aware of them. The issue was…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-20T15:38:26+00:00"
+    },
+    {
+      "id": "f15fd23701ed",
+      "title": "Matt Pocock's Claude Code habits: 5 takeaways about the human, not the AI agent",
+      "summary": "Watched Matt on Nate Herk's podcast talking about his Claude Code setup. Most of it is about making agents better. The bits that stuck with me were about the human: Get grilled before you build. /grill-me only works if you actually answer.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xat7xn/matt_pococks_claude_code_habits_5_takeaways_about/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-20T14:11:58+00:00"
+    },
+    {
+      "id": "29a5912a4a8b",
+      "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
+      "summary": "Since many months we were struggling to fix a critical bug in our App. That was discovered in a native vertex library. The impact was that AI was not able understand properly when the user has stopped talking. Because the mics that we have…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-20T13:14:51+00:00"
+    },
+    {
+      "id": "d93bb7a0deff",
+      "title": "Add resource: Cubicle Crew (#3189)",
+      "summary": "Add resource: Cubicle Crew (#3189) Category: Observability & Monitoring Author: rezored From issue: #3188 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/212ed50c33ddb1e5407f840b9cb113dc42140455",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-19T03:25:45+00:00"
+    }
+  ]
+}

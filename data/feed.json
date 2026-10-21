@@ -1,7 +1,7 @@
 {
-  "issue": 153,
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T13:19:48.660417-03:00",
+  "issue": 154,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:34:14.723973-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -13,6 +13,26 @@
       "weight": 9,
       "published": "2026-09-23T18:01:32+00:00",
       "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
     },
     {
       "id": "3545d27cb99e",
@@ -45,6 +65,16 @@
       "published": "2026-10-19T05:55:03+00:00"
     },
     {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
       "id": "b99ae27aa366",
       "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
       "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
@@ -65,64 +95,34 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "77d1708a1ca4",
-      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
-      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
-      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
-      "source": "The AI Corner",
+      "id": "c086233c67b4",
+      "title": "I used Claude Code to search every curated protein sequence for obscene terms (the longest match is STINK TAINT)",
+      "summary": "Proteins are spelled with 20 letters of the English alphabet, one per amino acid. Obviously I wanted to know which cuss words were hidden in the sequences, and Urban Dictionary was the biggest list of them I could get. I had Claude Code…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbp9yl/i_used_claude_code_to_search_every_curated/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-19T14:07:27+00:00"
+      "weight": 6,
+      "published": "2026-10-21T14:51:22+00:00"
     },
     {
-      "id": "a8ccc860cc84",
-      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
-      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
-      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
-      "source": "The AI Corner",
+      "id": "248debff9bef",
+      "title": "PSA: The free banked reset expires TODAY/Oct 22 at 16:00 UTC, not midnight.",
+      "summary": "Here's the exact timestamp Everyone's been saying &quot;expires Oct 22,&quot; but nobody had an exact time, and Anthropic's help page only says it expires &quot;on the day and time listed on the offer.&quot; So I dug into the network…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbo16i/psa_the_free_banked_reset_expires_todayoct_22_at/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-18T21:36:54+00:00"
+      "weight": 6,
+      "published": "2026-10-21T14:03:16+00:00"
     },
     {
-      "id": "d9105bbb0511",
-      "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
-      "summary": "I was working on my thesis with Opus 5.5, and what struck me was that it refused to draft an example paragraph for me to build on, because my university’s constraints on AI usage were clear, and the model was aware of them. The issue was…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
+      "id": "f501a8fff47c",
+      "title": "I built a Photography Simulator with Gyro Controls",
+      "summary": "I built a photography / lens simulator / sandbox playground with Opus 5.5 that runs entirely in the browser and works on mobile phones with Gyro controls. The code and logic are loosely based on a Godot photography game I worked on back in…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbmwsp/i_built_a_photography_simulator_with_gyro_controls/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-20T15:38:26+00:00"
-    },
-    {
-      "id": "f15fd23701ed",
-      "title": "Matt Pocock's Claude Code habits: 5 takeaways about the human, not the AI agent",
-      "summary": "Watched Matt on Nate Herk's podcast talking about his Claude Code setup. Most of it is about making agents better. The bits that stuck with me were about the human: Get grilled before you build. /grill-me only works if you actually answer.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xat7xn/matt_pococks_claude_code_habits_5_takeaways_about/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-20T14:11:58+00:00"
-    },
-    {
-      "id": "29a5912a4a8b",
-      "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
-      "summary": "Since many months we were struggling to fix a critical bug in our App. That was discovered in a native vertex library. The impact was that AI was not able understand properly when the user has stopped talking. Because the mics that we have…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-20T13:14:51+00:00"
-    },
-    {
-      "id": "d93bb7a0deff",
-      "title": "Add resource: Cubicle Crew (#3189)",
-      "summary": "Add resource: Cubicle Crew (#3189) Category: Observability & Monitoring Author: rezored From issue: #3188 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/212ed50c33ddb1e5407f840b9cb113dc42140455",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-19T03:25:45+00:00"
+      "published": "2026-10-21T13:17:14+00:00"
     }
   ]
 }
