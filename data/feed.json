@@ -1,7 +1,7 @@
 {
-  "issue": 154,
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:34:14.723973-03:00",
+  "issue": 155,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:35:50.531182-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,94 +35,94 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "3545d27cb99e",
-      "title": "test: skip the dispatch-status script tests without bash or jq",
-      "summary": "test: skip the dispatch-status script tests without bash or jq The job's script calls jq; on a machine without it the latest-run case posts error instead of success, failing the gate over a missing test prerequisite. Copilot round 1 on…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/163a5e9357567a19be2eacfb4ae5ec4f9614394b",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-19T06:21:31+00:00"
-    },
-    {
-      "id": "e25d76a6ee25",
-      "title": "fix(ci): a superseded dispatched run posts no status, whatever its jo…",
-      "summary": "fix(ci): a superseded dispatched run posts no status, whatever its jobs did dispatch-status checked for a newer dispatched run only in its cancellation branch, so a superseded run whose job had already failed posted `failure` over the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/d533150b9854e389b03a91b764a4f35a463501d0",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-10-19T06:13:35+00:00"
-    },
-    {
-      "id": "8aa3d63ab20e",
-      "title": "fix(python): serialize git tool calls, delegate malformed names, requ…",
-      "summary": "fix(python): serialize git tool calls, delegate malformed names, require mcp 2.3 Copilot round 1 on #5175: - git: MCPServer runs a synchronous tool in a worker thread, so overlapping calls could interleave a check and a change on the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/005e7e6ea55a61300f05bd2e02a02bc0822db0f4",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-19T05:55:03+00:00"
-    },
-    {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "c086233c67b4",
-      "title": "I used Claude Code to search every curated protein sequence for obscene terms (the longest match is STINK TAINT)",
-      "summary": "Proteins are spelled with 20 letters of the English alphabet, one per amino acid. Obviously I wanted to know which cuss words were hidden in the sequences, and Urban Dictionary was the biggest list of them I could get. I had Claude Code…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbp9yl/i_used_claude_code_to_search_every_curated/",
+      "id": "daea1e3b0345",
+      "title": "Claude seriously needs a $50/month plan between Pro and Max",
+      "summary": "Am I the only one who feels like there's a massive gap between Claude Pro at $20/month and Max at $100/month? The $20 plan is great, but if you're using Claude daily for coding, building SaaS products, and working on larger projects, you…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcle8t/claude_seriously_needs_a_50month_plan_between_pro/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-21T14:51:22+00:00"
+      "published": "2026-10-22T15:17:16+00:00"
     },
     {
-      "id": "248debff9bef",
-      "title": "PSA: The free banked reset expires TODAY/Oct 22 at 16:00 UTC, not midnight.",
-      "summary": "Here's the exact timestamp Everyone's been saying &quot;expires Oct 22,&quot; but nobody had an exact time, and Anthropic's help page only says it expires &quot;on the day and time listed on the offer.&quot; So I dug into the network…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbo16i/psa_the_free_banked_reset_expires_todayoct_22_at/",
+      "id": "e6756b2fc606",
+      "title": "Add resource: Review Inbox (#3202)",
+      "summary": "Add resource: Review Inbox (#3202) Category: Mods Author: SummerRiversound From issue: #3191 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ae57b2b21ca884bf4ddbc82602c76dc6efbe98f2",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-22T12:52:42+00:00"
+    },
+    {
+      "id": "03aaf2231b93",
+      "title": "Add resource: Molecular Animation (#3200)",
+      "summary": "Add resource: Molecular Animation (#3200) Category: Creative Media Author: Yangyi Liu From issue: #3198 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d40449bce824efdbc3ac80e77b6a985715214531",
+      "source": "GitHub - Awesome Claude Code",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-22T12:27:22+00:00"
+    },
+    {
+      "id": "2c73b0badefb",
+      "title": "I'm building a cyberpunk pixel-art action adventure with Claude Code",
+      "summary": "I've been working on City of Animals, a 2D cyberpunk pixel-art side-scroller, for about a month now. The idea is to mix classic adventure games like Monkey Island with fast combat inspired by Huntdown and Replaced. A few years ago I'd have…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-21T14:03:16+00:00"
+      "published": "2026-10-22T11:49:44+00:00"
     },
     {
-      "id": "f501a8fff47c",
-      "title": "I built a Photography Simulator with Gyro Controls",
-      "summary": "I built a photography / lens simulator / sandbox playground with Opus 5.5 that runs entirely in the browser and works on mobile phones with Gyro controls. The code and logic are loosely based on a Godot photography game I worked on back in…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbmwsp/i_built_a_photography_simulator_with_gyro_controls/",
+      "id": "2910a52d19f4",
+      "title": "Turn a 12-year-old Kindle into a clock & weather display",
+      "summary": "Inspired by you guys hacking android TV, I asked Claude to turn my kindle, which is bought more than 10 years ago with the touch screen barely functioning, into a clock & weather dashboard so that we don't have to check whether to bring an…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 6,
-      "published": "2026-10-21T13:17:14+00:00"
+      "published": "2026-10-22T11:00:42+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }
