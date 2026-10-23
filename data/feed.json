@@ -1,7 +1,7 @@
 {
-  "issue": 155,
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T13:35:50.531182-03:00",
+  "issue": 156,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:25:21.066449-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,14 +35,34 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "daea1e3b0345",
-      "title": "Claude seriously needs a $50/month plan between Pro and Max",
-      "summary": "Am I the only one who feels like there's a massive gap between Claude Pro at $20/month and Max at $100/month? The $20 plan is great, but if you're using Claude daily for coding, building SaaS products, and working on larger projects, you…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcle8t/claude_seriously_needs_a_50month_plan_between_pro/",
+      "id": "7aa8550283e1",
+      "title": "Claude Fable 5.1 can hide secret messages in benign images",
+      "summary": "&#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdgtas/claude_fable_51_can_hide_secret_messages_in/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-22T15:17:16+00:00"
+      "published": "2026-10-23T15:14:20+00:00"
+    },
+    {
+      "id": "df85a001872e",
+      "title": "4 days and almost 4 weekly Opus limits: a multiplayer A-10 flight sim that runs in a browser tab",
+      "summary": "After 20 years as a developer, this is the first project where I barely read the code. I started it on Monday from an empty repo. It's an A-10C flight sim with multiplayer dogfights, a clickable cockpit, a whole island built from real…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xddiob/4_days_and_almost_4_weekly_opus_limits_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-23T13:06:06+00:00"
+    },
+    {
+      "id": "e72fa5d361ee",
+      "title": "To my knowledge the first published randomised controlled trial with Claude as the intervention in patient care. 300 neurosurgical patients, NEJM AI, published this month.",
+      "summary": "Senior author here, neurosurgeon in Germany. Short version of what we did and what Claude had to do with it. Patients coming to a first neurosurgical consultation usually bring an MRI report or a discharge letter they cannot read. We…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcne4/to_my_knowledge_the_first_published_randomised/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-23T12:28:03+00:00"
     },
     {
       "id": "e6756b2fc606",
@@ -63,26 +83,6 @@
       "category": "Plugin",
       "weight": 6,
       "published": "2026-10-22T12:27:22+00:00"
-    },
-    {
-      "id": "2c73b0badefb",
-      "title": "I'm building a cyberpunk pixel-art action adventure with Claude Code",
-      "summary": "I've been working on City of Animals, a 2D cyberpunk pixel-art side-scroller, for about a month now. The idea is to mix classic adventure games like Monkey Island with fast combat inspired by Huntdown and Replaced. A few years ago I'd have…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-22T11:49:44+00:00"
-    },
-    {
-      "id": "2910a52d19f4",
-      "title": "Turn a 12-year-old Kindle into a clock & weather display",
-      "summary": "Inspired by you guys hacking android TV, I asked Claude to turn my kindle, which is bought more than 10 years ago with the touch screen barely functioning, into a clock & weather dashboard so that we don't have to check whether to bring an…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Hack",
-      "weight": 6,
-      "published": "2026-10-22T11:00:42+00:00"
     },
     {
       "id": "c072d34be0d3",
