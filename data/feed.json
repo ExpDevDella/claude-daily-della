@@ -1,7 +1,7 @@
 {
-  "issue": 156,
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:25:21.066449-03:00",
+  "issue": 157,
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:20:34.238989-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,94 +35,94 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "7aa8550283e1",
-      "title": "Claude Fable 5.1 can hide secret messages in benign images",
-      "summary": "&#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdgtas/claude_fable_51_can_hide_secret_messages_in/",
+      "id": "3545d27cb99e",
+      "title": "test: skip the dispatch-status script tests without bash or jq",
+      "summary": "test: skip the dispatch-status script tests without bash or jq The job's script calls jq; on a machine without it the latest-run case posts error instead of success, failing the gate over a missing test prerequisite. Copilot round 1 on…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/163a5e9357567a19be2eacfb4ae5ec4f9614394b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T06:21:31+00:00"
+    },
+    {
+      "id": "e25d76a6ee25",
+      "title": "fix(ci): a superseded dispatched run posts no status, whatever its jo…",
+      "summary": "fix(ci): a superseded dispatched run posts no status, whatever its jobs did dispatch-status checked for a newer dispatched run only in its cancellation branch, so a superseded run whose job had already failed posted `failure` over the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/d533150b9854e389b03a91b764a4f35a463501d0",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-19T06:13:35+00:00"
+    },
+    {
+      "id": "8aa3d63ab20e",
+      "title": "fix(python): serialize git tool calls, delegate malformed names, requ…",
+      "summary": "fix(python): serialize git tool calls, delegate malformed names, require mcp 2.3 Copilot round 1 on #5175: - git: MCPServer runs a synchronous tool in a worker thread, so overlapping calls could interleave a check and a change on the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/005e7e6ea55a61300f05bd2e02a02bc0822db0f4",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-19T05:55:03+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "a9e754f8a965",
+      "title": "This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD",
+      "summary": "The culmination of my life's work is finally in beta. I am proud to present version 1.0 of GANG WIZARD, the greatest video game of all time. Over 10 billion tokens have been burnt on this work of art, I received a letter from my local data…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-24T14:15:59+00:00"
+    },
+    {
+      "id": "3be16e0d2049",
+      "title": "What to do with practically unlimited access to opus 5.5?",
+      "summary": "Well, like the title said, I got unlimitd access to Claude Opus 5.5 alongside other premium models. What should I do with it? Any advice ? &#32; submitted by &#32; /u/Feeling_Egg_2715 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9hz7/what_to_do_with_practically_unlimited_access_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-24T14:03:31+00:00"
+    },
+    {
+      "id": "e5e4c11bbea2",
+      "title": "Built a downhill skateboarding game with Claude Code",
+      "summary": "I've been posting in r/ClaudeGameDev but also wanted to share here as I'm heavily using Claude Code and Claude AI (non-code stuff) to build a lot of things and in particular this game Cruising Bones. It's currently in Alpha and free to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe7kwg/built_a_downhill_skateboarding_game_with_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-23T15:14:20+00:00"
+      "published": "2026-10-24T12:38:13+00:00"
     },
     {
-      "id": "df85a001872e",
-      "title": "4 days and almost 4 weekly Opus limits: a multiplayer A-10 flight sim that runs in a browser tab",
-      "summary": "After 20 years as a developer, this is the first project where I barely read the code. I started it on Monday from an empty repo. It's an A-10C flight sim with multiplayer dogfights, a clickable cockpit, a whole island built from real…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xddiob/4_days_and_almost_4_weekly_opus_limits_a/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-23T13:06:06+00:00"
-    },
-    {
-      "id": "e72fa5d361ee",
-      "title": "To my knowledge the first published randomised controlled trial with Claude as the intervention in patient care. 300 neurosurgical patients, NEJM AI, published this month.",
-      "summary": "Senior author here, neurosurgeon in Germany. Short version of what we did and what Claude had to do with it. Patients coming to a first neurosurgical consultation usually bring an MRI report or a discharge letter they cannot read. We…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcne4/to_my_knowledge_the_first_published_randomised/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-23T12:28:03+00:00"
-    },
-    {
-      "id": "e6756b2fc606",
-      "title": "Add resource: Review Inbox (#3202)",
-      "summary": "Add resource: Review Inbox (#3202) Category: Mods Author: SummerRiversound From issue: #3191 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ae57b2b21ca884bf4ddbc82602c76dc6efbe98f2",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-22T12:52:42+00:00"
-    },
-    {
-      "id": "03aaf2231b93",
-      "title": "Add resource: Molecular Animation (#3200)",
-      "summary": "Add resource: Molecular Animation (#3200) Category: Creative Media Author: Yangyi Liu From issue: #3198 Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d40449bce824efdbc3ac80e77b6a985715214531",
-      "source": "GitHub - Awesome Claude Code",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-10-22T12:27:22+00:00"
-    },
-    {
-      "id": "c072d34be0d3",
-      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
-      "source": "Hacker News - Claude",
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-09-10T18:07:08+00:00"
+      "published": "2026-10-15T23:15:53+00:00"
     },
     {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
       "source": "GitHub - Awesome Claude Prompts",
       "category": "Plugin",
       "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
+      "published": "2026-10-15T23:10:44+00:00"
     }
   ]
 }
