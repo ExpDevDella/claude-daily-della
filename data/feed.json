@@ -1,7 +1,7 @@
 {
-  "issue": 158,
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T12:30:38.667876-03:00",
+  "issue": 159,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:12:16.340112-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -65,6 +65,26 @@
       "published": "2026-10-24T22:39:50+00:00"
     },
     {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
       "id": "229195d1b539",
       "title": "The 5-Person Team That Runs on Claude Code",
       "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
@@ -75,54 +95,34 @@
       "published": "2026-10-24T22:42:41+00:00"
     },
     {
-      "id": "19431fb8d45d",
-      "title": "what would actually make you use fable 5.5 over opus 5.5?",
-      "summary": "i use opus 5.5 for basically everything in claude code now. sonnet 5.5 handles a surprising amount of my day too. fable 5.1 is impressive but at that price i almost never reach for it, the gap just isn't worth it for my work so for fable…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf2rb5/what_would_actually_make_you_use_fable_55_over/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-25T13:44:51+00:00"
-    },
-    {
-      "id": "b6ff84b5a63f",
-      "title": "Regarding reverse engineering TVs",
-      "summary": "I've seen a lot of posts showing that Anthropic has tightened their guardrails around reverse-engineering. Due to recent events in the security world (PHP2Shell and others) I think it's normal they've taken that approach. So I'm making…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf2l6b/regarding_reverse_engineering_tvs/",
+      "id": "3464f08c4ef9",
+      "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
+      "summary": "&#32; submitted by &#32; /u/Unusual-State1827 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg1q97/anthropic_reveals_it_will_pay_spacex_up_to_1205b/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-25T13:37:18+00:00"
+      "published": "2026-10-26T16:29:48+00:00"
     },
     {
-      "id": "29356205812f",
-      "title": "Jiggle Peach, my WIP idle game where you can slap a jiggly 3D peach",
-      "summary": "This is my first time making an idle game. Last year I made an online soft body physics peach toy, and after showing it to my friends I knew there was more potential there! The game is suggestive so it's labeled as NSFW. There is a Spice…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf27kt/jiggle_peach_my_wip_idle_game_where_you_can_slap/",
+      "id": "b2292675fea9",
+      "title": "I built a mod with Claude that turns Valheim into a city builder. It hit #1 on r/valheim",
+      "summary": "press F7 and valheim turns into a city builder. vikings move in, pay taxes, want food and mead and leave if they dont get it. bosses live in camps and you storm them with your own army, every boss starts a new age with its own building…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg1mov/i_built_a_mod_with_claude_that_turns_valheim_into/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-25T13:20:13+00:00"
+      "published": "2026-10-26T16:26:12+00:00"
     },
     {
-      "id": "48f8a4979b96",
-      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
-      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-10-15T23:15:53+00:00"
-    },
-    {
-      "id": "6e68b165fc5b",
-      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
-      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-10-15T23:10:44+00:00"
+      "id": "8148dafe311c",
+      "title": "Hmm yes this is a very dangerous cybersecurity prompt",
+      "summary": "&#32; submitted by &#32; /u/gnuonyx [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg18vv/hmm_yes_this_is_a_very_dangerous_cybersecurity/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-26T16:12:38+00:00"
     }
   ]
 }
