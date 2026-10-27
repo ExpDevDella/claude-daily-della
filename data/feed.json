@@ -1,7 +1,7 @@
 {
-  "issue": 159,
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T15:12:16.340112-03:00",
+  "issue": 160,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:25:31.759174-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -75,54 +75,54 @@
       "published": "2026-09-07T00:00:00+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "229195d1b539",
-      "title": "The 5-Person Team That Runs on Claude Code",
-      "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
-      "url": "https://www.the-ai-corner.com/p/claude-code-team-setup-8-systems",
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-10-24T22:42:41+00:00"
+      "published": "2026-10-19T14:07:27+00:00"
     },
     {
-      "id": "3464f08c4ef9",
-      "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
-      "summary": "&#32; submitted by &#32; /u/Unusual-State1827 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg1q97/anthropic_reveals_it_will_pay_spacex_up_to_1205b/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
       "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-26T16:29:48+00:00"
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
     },
     {
-      "id": "b2292675fea9",
-      "title": "I built a mod with Claude that turns Valheim into a city builder. It hit #1 on r/valheim",
-      "summary": "press F7 and valheim turns into a city builder. vikings move in, pay taxes, want food and mead and leave if they dont get it. bosses live in camps and you storm them with your own army, every boss starts a new age with its own building…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg1mov/i_built_a_mod_with_claude_that_turns_valheim_into/",
+      "id": "c9d747bc866d",
+      "title": "Claude is performing 3.8x poorer compared to last week based on my claude code token analysis",
+      "summary": "3 issues came to light: Each sub agent is re-reading more from the parent agent Each subagent is taking 2x steps to finish the job Claude is spinning more sub agents per task (this could subjective per task type) Hypothesis: Essentially…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xguw7r/claude_is_performing_38x_poorer_compared_to_last/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-27T15:01:48+00:00"
+    },
+    {
+      "id": "f11e00c18758",
+      "title": "Claude Opus 5.5 is insane in creating creating 3D movies.",
+      "summary": "the prompt, word for word &quot;Make a one-minute video about the Dodaios mascot (image attached). Research the Dodaios story yourself and tell it. Recreate the mascot from the image and animate it yourself. Build everything from scratch:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgu73u/claude_opus_55_is_insane_in_creating_creating_3d/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-26T16:26:12+00:00"
+      "published": "2026-10-27T14:34:26+00:00"
     },
     {
-      "id": "8148dafe311c",
-      "title": "Hmm yes this is a very dangerous cybersecurity prompt",
-      "summary": "&#32; submitted by &#32; /u/gnuonyx [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg18vv/hmm_yes_this_is_a_very_dangerous_cybersecurity/",
+      "id": "27f49dcffa7e",
+      "title": "Claude Code reverse-engineered the Xbox 360 kernel and wrote a native driver so Series X|S controllers work on it",
+      "summary": "Microsoft's Xbox Wireless Adapter (the USB dongle for Series X|S controllers) has never worked on an Xbox 360. It's a MediaTek Wi-Fi chip that relies on the host for everything: firmware upload, radio setup, pairing, an ECDH security…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgtghe/claude_code_reverseengineered_the_xbox_360_kernel/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-26T16:12:38+00:00"
+      "published": "2026-10-27T14:05:19+00:00"
     }
   ]
 }
