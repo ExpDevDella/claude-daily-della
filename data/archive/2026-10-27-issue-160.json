@@ -1,0 +1,128 @@
+{
+  "issue": 160,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:25:31.759174-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "e2e8b96e1158",
+      "title": "test(sequentialthinking): expect zod 4.6's type-array form for boolea…",
+      "summary": "test(sequentialthinking): expect zod 4.6's type-array form for boolean|string unions zod 4.6 writes a union of primitive types as `type: [&quot;boolean&quot;, &quot;string&quot;]` rather than an anyOf of single-type schemas. The two are…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/33c36088bf15d78ad34140c8a0e94c913c28a371",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-24T22:42:49+00:00"
+    },
+    {
+      "id": "84f8869ed96e",
+      "title": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-11…",
+      "summary": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-114145 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7d15ae92619a18c53250ff69a047f6dcd743982f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-24T22:40:09+00:00"
+    },
+    {
+      "id": "4194e0a006ba",
+      "title": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hx…",
+      "summary": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hxx-x8q5 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/86cd261ae2d8beeca8eab85d2a05032850a878eb",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-24T22:39:50+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
+    },
+    {
+      "id": "c9d747bc866d",
+      "title": "Claude is performing 3.8x poorer compared to last week based on my claude code token analysis",
+      "summary": "3 issues came to light: Each sub agent is re-reading more from the parent agent Each subagent is taking 2x steps to finish the job Claude is spinning more sub agents per task (this could subjective per task type) Hypothesis: Essentially…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xguw7r/claude_is_performing_38x_poorer_compared_to_last/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-10-27T15:01:48+00:00"
+    },
+    {
+      "id": "f11e00c18758",
+      "title": "Claude Opus 5.5 is insane in creating creating 3D movies.",
+      "summary": "the prompt, word for word &quot;Make a one-minute video about the Dodaios mascot (image attached). Research the Dodaios story yourself and tell it. Recreate the mascot from the image and animate it yourself. Build everything from scratch:…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgu73u/claude_opus_55_is_insane_in_creating_creating_3d/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-27T14:34:26+00:00"
+    },
+    {
+      "id": "27f49dcffa7e",
+      "title": "Claude Code reverse-engineered the Xbox 360 kernel and wrote a native driver so Series X|S controllers work on it",
+      "summary": "Microsoft's Xbox Wireless Adapter (the USB dongle for Series X|S controllers) has never worked on an Xbox 360. It's a MediaTek Wi-Fi chip that relies on the host for everything: firmware upload, radio setup, pairing, an ECDH security…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgtghe/claude_code_reverseengineered_the_xbox_360_kernel/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-27T14:05:19+00:00"
+    }
+  ]
+}
