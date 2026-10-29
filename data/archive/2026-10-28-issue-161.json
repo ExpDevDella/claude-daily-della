@@ -1,0 +1,128 @@
+{
+  "issue": 161,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:52:18.251357-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "e2e8b96e1158",
+      "title": "test(sequentialthinking): expect zod 4.6's type-array form for boolea…",
+      "summary": "test(sequentialthinking): expect zod 4.6's type-array form for boolean|string unions zod 4.6 writes a union of primitive types as `type: [&quot;boolean&quot;, &quot;string&quot;]` rather than an anyOf of single-type schemas. The two are…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/33c36088bf15d78ad34140c8a0e94c913c28a371",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-24T22:42:49+00:00"
+    },
+    {
+      "id": "84f8869ed96e",
+      "title": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-11…",
+      "summary": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-114145 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7d15ae92619a18c53250ff69a047f6dcd743982f",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-24T22:40:09+00:00"
+    },
+    {
+      "id": "4194e0a006ba",
+      "title": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hx…",
+      "summary": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hxx-x8q5 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/86cd261ae2d8beeca8eab85d2a05032850a878eb",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-10-24T22:39:50+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "a8ccc860cc84",
+      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
+      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
+      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-18T21:36:54+00:00"
+    },
+    {
+      "id": "76a5d12824fe",
+      "title": "Ex-OpenAI researcher: \"anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack (see every message) where literally every single research secret is contained\"",
+      "summary": "&#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhsy44/exopenai_researcher_anthropic_is_massively/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-28T16:30:35+00:00"
+    },
+    {
+      "id": "043455eaedf6",
+      "title": "Is Claude Pro actually worth it, or is the free plan enough? (As a student on a tight budget)",
+      "summary": "I'm a student studying to become a Spanish teacher, and I mainly use Claude to help me create teaching materials for my classes, write essays, and work on other academic assignments. However, I'm not sure whether upgrading from the free…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhp4o7/is_claude_pro_actually_worth_it_or_is_the_free/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-28T14:10:11+00:00"
+    },
+    {
+      "id": "848763c6f442",
+      "title": "First Session After Weekly Reset",
+      "summary": "&#32; submitted by &#32; /u/timearbitrage [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhm3o6/first_session_after_weekly_reset/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-28T11:59:58+00:00"
+    }
+  ]
+}

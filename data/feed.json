@@ -1,7 +1,7 @@
 {
-  "issue": 161,
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:52:18.251357-03:00",
+  "issue": 162,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:59:19.455280-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,34 +35,44 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "e2e8b96e1158",
-      "title": "test(sequentialthinking): expect zod 4.6's type-array form for boolea…",
-      "summary": "test(sequentialthinking): expect zod 4.6's type-array form for boolean|string unions zod 4.6 writes a union of primitive types as `type: [&quot;boolean&quot;, &quot;string&quot;]` rather than an anyOf of single-type schemas. The two are…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/33c36088bf15d78ad34140c8a0e94c913c28a371",
+      "id": "f325532f89b8",
+      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
+      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-24T22:42:49+00:00"
+      "published": "2026-10-28T17:50:39+00:00"
     },
     {
-      "id": "84f8869ed96e",
-      "title": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-11…",
-      "summary": "fix(deps): bump gitpython to 3.2.1 in src/git/uv.lock for CVE-2026-114145 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/7d15ae92619a18c53250ff69a047f6dcd743982f",
+      "id": "b25cdf74e5ec",
+      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
+      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
+      "category": "MCP",
       "weight": 8,
-      "published": "2026-10-24T22:40:09+00:00"
+      "published": "2026-10-27T13:10:32+00:00"
     },
     {
-      "id": "4194e0a006ba",
-      "title": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hx…",
-      "summary": "fix(deps): raise the ip-address override to ^10.7.4 for GHSA-rxp7-6hxx-x8q5 Co-Authored-By: Claude Opus 5.5 (1M context) &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/86cd261ae2d8beeca8eab85d2a05032850a878eb",
+      "id": "4902f97b11eb",
+      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
+      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
       "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:02:44+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
       "category": "Novidade",
       "weight": 8,
-      "published": "2026-10-24T22:39:50+00:00"
+      "published": "2026-09-07T00:00:00+00:00"
     },
     {
       "id": "3043ea10e679",
@@ -75,54 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "77d1708a1ca4",
-      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
-      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
-      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-19T14:07:27+00:00"
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "a8ccc860cc84",
-      "title": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
-      "summary": "Everything founders ask me for, checked in October 2026 and rebuilt for AI rounds",
-      "url": "https://www.the-ai-corner.com/p/the-ai-era-fundraising-toolkit-105",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-18T21:36:54+00:00"
-    },
-    {
-      "id": "76a5d12824fe",
-      "title": "Ex-OpenAI researcher: \"anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack (see every message) where literally every single research secret is contained\"",
-      "summary": "&#32; submitted by &#32; /u/Malor777 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhsy44/exopenai_researcher_anthropic_is_massively/",
+      "id": "73d9239a58e9",
+      "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line",
+      "summary": "&#32; submitted by &#32; /u/00DEADBEEF [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin646/claude_code_burns_1520_of_your_tokens_on_a_3word/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-28T16:30:35+00:00"
+      "published": "2026-10-29T15:30:26+00:00"
     },
     {
-      "id": "043455eaedf6",
-      "title": "Is Claude Pro actually worth it, or is the free plan enough? (As a student on a tight budget)",
-      "summary": "I'm a student studying to become a Spanish teacher, and I mainly use Claude to help me create teaching materials for my classes, write essays, and work on other academic assignments. However, I'm not sure whether upgrading from the free…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhp4o7/is_claude_pro_actually_worth_it_or_is_the_free/",
+      "id": "a14ebff4a76c",
+      "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
+      "summary": "My friend woke up and his Pixel 10 was stuck on this screen: &quot;Android system can't be loaded. Your data may be corrupt.&quot; It only offered two options: try again, or factory reset. He didn't want to lose his data, so I sent Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-28T14:10:11+00:00"
+      "published": "2026-10-29T15:25:24+00:00"
     },
     {
-      "id": "848763c6f442",
-      "title": "First Session After Weekly Reset",
-      "summary": "&#32; submitted by &#32; /u/timearbitrage [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhm3o6/first_session_after_weekly_reset/",
+      "id": "e1a5b168251c",
+      "title": "My 6 year old daughter designed a fully-fledged unicorn game and Claude Sonnet built it in under a month. Every sprite, sound and map is made from scratch",
+      "summary": "We built a private unicorn game for my six-year-old daughter, with Claude Sonnet 5.5 as the coding agent for all of it. I'm a quantitative engineer with 20+ years of experience but i never made a game before. My daughter designed most of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/my_6_year_old_daughter_designed_a_fullyfledged/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-28T11:59:58+00:00"
+      "published": "2026-10-29T14:00:20+00:00"
     }
   ]
 }
