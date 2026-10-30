@@ -1,7 +1,7 @@
 {
-  "issue": 162,
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:59:19.455280-03:00",
+  "issue": 163,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:41:46.964348-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -23,16 +23,6 @@
       "category": "Video",
       "weight": 9,
       "published": "2026-09-01T18:02:31+00:00"
-    },
-    {
-      "id": "8eda2df95dfb",
-      "title": "Model Hardware Standard: AI operating physical equipment",
-      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
-      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
-      "source": "YouTube - Anthropic",
-      "category": "Video",
-      "weight": 9,
-      "published": "2026-08-28T00:40:16+00:00"
     },
     {
       "id": "f325532f89b8",
@@ -65,64 +55,74 @@
       "published": "2026-10-27T13:02:44+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
+      "id": "07c0de1beab8",
+      "title": "Weekend project: Mario 64 in Mixed Reality!",
+      "summary": "I built a native MR version of Mario 64 that runs in real 3D (not a flat stereoscopic screen) at 90 FPS. The whole level sits on your desk and you play it like a diorama. I built this with Claude Code (Opus 5.5), using the Unity CLI and…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
+      "weight": 6,
+      "published": "2026-10-30T16:51:01+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
+      "id": "08568999189d",
+      "title": "The era of vibe coding actually made me appreciate old school software engineers 10x more",
+      "summary": "Lately, I’ve been going down a rabbit hole: using reverse engineering anything (REA) to tear down some of my favorite legacy software and vibe-coding my own versions from scratch with Claude. To be honest, I have a bit of OCD when it comes…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
+      "weight": 6,
+      "published": "2026-10-30T16:36:30+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "73d9239a58e9",
-      "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line",
-      "summary": "&#32; submitted by &#32; /u/00DEADBEEF [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin646/claude_code_burns_1520_of_your_tokens_on_a_3word/",
+      "id": "d0c2e9b23d5b",
+      "title": "Duet is completely useless.",
+      "summary": "I got access to Duet two days ago, and so far I feel it's a step backwards for Anthropic. Initially, I was super excited as I was expecting it to have full &quot;autonomy&quot; and be able to basically be a 24/7 personal assistant for my…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjmsk/duet_is_completely_useless/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-10-29T15:30:26+00:00"
+      "published": "2026-10-30T16:12:39+00:00"
     },
     {
-      "id": "a14ebff4a76c",
-      "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
-      "summary": "My friend woke up and his Pixel 10 was stuck on this screen: &quot;Android system can't be loaded. Your data may be corrupt.&quot; It only offered two options: try again, or factory reset. He didn't want to lose his data, so I sent Claude…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-29T15:25:24+00:00"
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
     },
     {
-      "id": "e1a5b168251c",
-      "title": "My 6 year old daughter designed a fully-fledged unicorn game and Claude Sonnet built it in under a month. Every sprite, sound and map is made from scratch",
-      "summary": "We built a private unicorn game for my six-year-old daughter, with Claude Sonnet 5.5 as the coding agent for all of it. I'm a quantitative engineer with 20+ years of experience but i never made a game before. My daughter designed most of…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/my_6_year_old_daughter_designed_a_fullyfledged/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-10-29T14:00:20+00:00"
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }

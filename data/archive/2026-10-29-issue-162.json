@@ -1,0 +1,128 @@
+{
+  "issue": 162,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:59:19.455280-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "f325532f89b8",
+      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
+      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-28T17:50:39+00:00"
+    },
+    {
+      "id": "b25cdf74e5ec",
+      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
+      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:10:32+00:00"
+    },
+    {
+      "id": "4902f97b11eb",
+      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
+      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:02:44+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "73d9239a58e9",
+      "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line",
+      "summary": "&#32; submitted by &#32; /u/00DEADBEEF [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin646/claude_code_burns_1520_of_your_tokens_on_a_3word/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-10-29T15:30:26+00:00"
+    },
+    {
+      "id": "a14ebff4a76c",
+      "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
+      "summary": "My friend woke up and his Pixel 10 was stuck on this screen: &quot;Android system can't be loaded. Your data may be corrupt.&quot; It only offered two options: try again, or factory reset. He didn't want to lose his data, so I sent Claude…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-29T15:25:24+00:00"
+    },
+    {
+      "id": "e1a5b168251c",
+      "title": "My 6 year old daughter designed a fully-fledged unicorn game and Claude Sonnet built it in under a month. Every sprite, sound and map is made from scratch",
+      "summary": "We built a private unicorn game for my six-year-old daughter, with Claude Sonnet 5.5 as the coding agent for all of it. I'm a quantitative engineer with 20+ years of experience but i never made a game before. My daughter designed most of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/my_6_year_old_daughter_designed_a_fullyfledged/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-10-29T14:00:20+00:00"
+    }
+  ]
+}
