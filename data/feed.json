@@ -1,7 +1,7 @@
 {
-  "issue": 163,
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T14:41:46.964348-03:00",
+  "issue": 164,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T13:46:29.231448-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -23,6 +23,16 @@
       "category": "Video",
       "weight": 9,
       "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
     },
     {
       "id": "f325532f89b8",
@@ -55,44 +65,54 @@
       "published": "2026-10-27T13:02:44+00:00"
     },
     {
-      "id": "07c0de1beab8",
-      "title": "Weekend project: Mario 64 in Mixed Reality!",
-      "summary": "I built a native MR version of Mario 64 that runs in real 3D (not a flat stereoscopic screen) at 90 FPS. The whole level sits on your desk and you play it like a diorama. I built this with Claude Code (Opus 5.5), using the Unity CLI and…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "7d1e9d72e5cb",
+      "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
+      "summary": "Over a month ago, we began a quest in trying to answer a simple question: Does model performance degrade silently without the user being aware of this change? We’re now 38 days into collecting data through LiveNerf’s methodology, so far,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-30T16:51:01+00:00"
+      "published": "2026-10-31T16:01:48+00:00"
     },
     {
-      "id": "08568999189d",
-      "title": "The era of vibe coding actually made me appreciate old school software engineers 10x more",
-      "summary": "Lately, I’ve been going down a rabbit hole: using reverse engineering anything (REA) to tear down some of my favorite legacy software and vibe-coding my own versions from scratch with Claude. To be honest, I have a bit of OCD when it comes…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me/",
+      "id": "e0226f95696a",
+      "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+      "summary": "&#32; submitted by &#32; /u/Mplayer-Weered [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-10-30T16:36:30+00:00"
+      "published": "2026-10-31T15:38:03+00:00"
     },
     {
-      "id": "d0c2e9b23d5b",
-      "title": "Duet is completely useless.",
-      "summary": "I got access to Duet two days ago, and so far I feel it's a step backwards for Anthropic. Initially, I was super excited as I was expecting it to have full &quot;autonomy&quot; and be able to basically be a 24/7 personal assistant for my…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjmsk/duet_is_completely_useless/",
+      "id": "4e7ddd3e6600",
+      "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
+      "summary": "Saw a lot of the “gave Claude Code my TV model and it removed 25 bloatware apps” posts last week, and also a few people who bricked their TV doing it. So I put together the safe version of the process. Some stuff that’s easy to skip but…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-10-30T16:12:39+00:00"
-    },
-    {
-      "id": "c072d34be0d3",
-      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
-      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 5,
-      "published": "2026-09-10T18:07:08+00:00"
+      "weight": 6,
+      "published": "2026-10-31T11:56:02+00:00"
     },
     {
       "id": "fd4ec85b609c",
@@ -103,26 +123,6 @@
       "category": "Plugin",
       "weight": 5,
       "published": "2026-08-25T13:49:07+00:00"
-    },
-    {
-      "id": "f7d9dd9a8831",
-      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
-      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
-      "url": "https://claudenews.online",
-      "source": "Hacker News - Claude",
-      "category": "MCP",
-      "weight": 5,
-      "published": "2026-06-22T14:11:53+00:00"
-    },
-    {
-      "id": "fbc19a0d1e1e",
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "source": "Hacker News - Claude",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }
