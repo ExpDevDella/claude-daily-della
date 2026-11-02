@@ -1,7 +1,7 @@
 {
-  "issue": 165,
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T14:36:58.668458-03:00",
+  "issue": 166,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:21:51.518540-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -55,16 +55,6 @@
       "published": "2026-10-27T13:10:32+00:00"
     },
     {
-      "id": "4902f97b11eb",
-      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
-      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-10-27T13:02:44+00:00"
-    },
-    {
       "id": "330f7ffbf463",
       "title": "Build Your Own AI Legal Team in Claude",
       "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
@@ -75,34 +65,44 @@
       "published": "2026-10-31T21:32:28+00:00"
     },
     {
-      "id": "69e96658fb15",
-      "title": "we're actually going to get Fable 5.5 and GPT-6.2 Astra the same week",
-      "summary": "we're actually going to get Fable 5.5 and GPT-6.2 Astra the same week aren't we Mythos 5.5 is in the HTML of Anthropic's website, this was only recently added too, so Fable 5.5 should come next week if they are prepping the new rollout…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl7cyr/were_actually_going_to_get_fable_55_and_gpt62/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-11-01T16:27:18+00:00"
+      "id": "229195d1b539",
+      "title": "The 5-Person Team That Runs on Claude Code",
+      "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
+      "url": "https://www.the-ai-corner.com/p/claude-code-team-setup-8-systems",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-24T22:42:41+00:00"
     },
     {
-      "id": "f50cdc624cfb",
-      "title": "Per Claude, the Numbat leak is fake (for testing i downloaded a few shards to verify)",
-      "summary": "If anyone finds anything else, let me know &#32; submitted by &#32; /u/HearMeOut-13 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl6cuv/per_claude_the_numbat_leak_is_fake_for_testing_i/",
+      "id": "8217d45d9d8c",
+      "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
+      "summary": "Vietnamese representation in video games has historically been limited to meme-able farmers that you get to blow up in a tank while blasting CCR (shoutout BF:Vietnam! Also Shoutout AOE2 for being the one exception I can think of) So, even…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-01T15:47:48+00:00"
+      "published": "2026-11-02T19:53:45+00:00"
     },
     {
-      "id": "73e1b21c77aa",
-      "title": "The 20x ultra plan limits is utter insanity",
-      "summary": "I've recreated 2 entire mobile games on xhigh effort and I'm running 4x Opus 5.5 high sessions in parallel working on a large code base and literally told it &quot;it's my last day of tokens, go ham&quot;, and still after 5 hours of…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl5wab/the_20x_ultra_plan_limits_is_utter_insanity/",
+      "id": "5e1889ad61b4",
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning",
+      "summary": "&gt; As far as we can ascertain, it appears the game-related blocking is limited to the combination of using Claude Code and the Opus 5.5 model. Should that prove true, then users should be able to sidestep the limitation by calling upon…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5vdp/anthropic_confirms_new_claude_code_limits_to/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-11-01T15:28:54+00:00"
+      "published": "2026-11-02T18:51:30+00:00"
+    },
+    {
+      "id": "5f5d65a7e224",
+      "title": "How good is Claude Code at Web3? I let it build a blockchain",
+      "summary": "Every meme gets its own block. That was the one-line brief I gave Claude Code, and about three weeks later memechain is live. It’s free to try in your browser, no signup or installation needed. Live: https://larajeftic.github.io/memechain/…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm3d66/how_good_is_claude_code_at_web3_i_let_it_build_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-02T17:23:01+00:00"
     },
     {
       "id": "48f8a4979b96",

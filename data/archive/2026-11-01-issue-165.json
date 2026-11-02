@@ -1,0 +1,128 @@
+{
+  "issue": 165,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:36:58.668458-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "f325532f89b8",
+      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
+      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-28T17:50:39+00:00"
+    },
+    {
+      "id": "b25cdf74e5ec",
+      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
+      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:10:32+00:00"
+    },
+    {
+      "id": "4902f97b11eb",
+      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
+      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:02:44+00:00"
+    },
+    {
+      "id": "330f7ffbf463",
+      "title": "Build Your Own AI Legal Team in Claude",
+      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
+      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-10-31T21:32:28+00:00"
+    },
+    {
+      "id": "69e96658fb15",
+      "title": "we're actually going to get Fable 5.5 and GPT-6.2 Astra the same week",
+      "summary": "we're actually going to get Fable 5.5 and GPT-6.2 Astra the same week aren't we Mythos 5.5 is in the HTML of Anthropic's website, this was only recently added too, so Fable 5.5 should come next week if they are prepping the new rollout…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl7cyr/were_actually_going_to_get_fable_55_and_gpt62/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-01T16:27:18+00:00"
+    },
+    {
+      "id": "f50cdc624cfb",
+      "title": "Per Claude, the Numbat leak is fake (for testing i downloaded a few shards to verify)",
+      "summary": "If anyone finds anything else, let me know &#32; submitted by &#32; /u/HearMeOut-13 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl6cuv/per_claude_the_numbat_leak_is_fake_for_testing_i/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-01T15:47:48+00:00"
+    },
+    {
+      "id": "73e1b21c77aa",
+      "title": "The 20x ultra plan limits is utter insanity",
+      "summary": "I've recreated 2 entire mobile games on xhigh effort and I'm running 4x Opus 5.5 high sessions in parallel working on a large code base and literally told it &quot;it's my last day of tokens, go ham&quot;, and still after 5 hours of…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl5wab/the_20x_ultra_plan_limits_is_utter_insanity/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-01T15:28:54+00:00"
+    },
+    {
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-10-15T23:15:53+00:00"
+    },
+    {
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-10-15T23:10:44+00:00"
+    }
+  ]
+}
