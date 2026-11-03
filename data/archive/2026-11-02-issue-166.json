@@ -1,0 +1,128 @@
+{
+  "issue": 166,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:21:51.518540-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "f325532f89b8",
+      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
+      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-28T17:50:39+00:00"
+    },
+    {
+      "id": "b25cdf74e5ec",
+      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
+      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:10:32+00:00"
+    },
+    {
+      "id": "330f7ffbf463",
+      "title": "Build Your Own AI Legal Team in Claude",
+      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
+      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-10-31T21:32:28+00:00"
+    },
+    {
+      "id": "229195d1b539",
+      "title": "The 5-Person Team That Runs on Claude Code",
+      "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
+      "url": "https://www.the-ai-corner.com/p/claude-code-team-setup-8-systems",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-24T22:42:41+00:00"
+    },
+    {
+      "id": "8217d45d9d8c",
+      "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
+      "summary": "Vietnamese representation in video games has historically been limited to meme-able farmers that you get to blow up in a tank while blasting CCR (shoutout BF:Vietnam! Also Shoutout AOE2 for being the one exception I can think of) So, even…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-02T19:53:45+00:00"
+    },
+    {
+      "id": "5e1889ad61b4",
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning",
+      "summary": "&gt; As far as we can ascertain, it appears the game-related blocking is limited to the combination of using Claude Code and the Opus 5.5 model. Should that prove true, then users should be able to sidestep the limitation by calling upon…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5vdp/anthropic_confirms_new_claude_code_limits_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-02T18:51:30+00:00"
+    },
+    {
+      "id": "5f5d65a7e224",
+      "title": "How good is Claude Code at Web3? I let it build a blockchain",
+      "summary": "Every meme gets its own block. That was the one-line brief I gave Claude Code, and about three weeks later memechain is live. It’s free to try in your browser, no signup or installation needed. Live: https://larajeftic.github.io/memechain/…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm3d66/how_good_is_claude_code_at_web3_i_let_it_build_a/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-02T17:23:01+00:00"
+    },
+    {
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-10-15T23:15:53+00:00"
+    },
+    {
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-10-15T23:10:44+00:00"
+    }
+  ]
+}

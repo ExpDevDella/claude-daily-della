@@ -1,7 +1,7 @@
 {
-  "issue": 166,
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T18:21:51.518540-03:00",
+  "issue": 167,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T16:00:05.325863-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -55,14 +55,34 @@
       "published": "2026-10-27T13:10:32+00:00"
     },
     {
-      "id": "330f7ffbf463",
-      "title": "Build Your Own AI Legal Team in Claude",
-      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
-      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-10-31T21:32:28+00:00"
+      "id": "4902f97b11eb",
+      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
+      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:02:44+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "229195d1b539",
@@ -75,54 +95,34 @@
       "published": "2026-10-24T22:42:41+00:00"
     },
     {
-      "id": "8217d45d9d8c",
-      "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
-      "summary": "Vietnamese representation in video games has historically been limited to meme-able farmers that you get to blow up in a tank while blasting CCR (shoutout BF:Vietnam! Also Shoutout AOE2 for being the one exception I can think of) So, even…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
+      "id": "681e05d6de7b",
+      "title": "Nobody else seems to have as hard of a time with Claude as I do. I just want to understand why Claude hates me.",
+      "summary": "&#32; submitted by &#32; /u/takenorinvalid [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmzcjz/nobody_else_seems_to_have_as_hard_of_a_time_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-02T19:53:45+00:00"
+      "published": "2026-11-03T17:32:58+00:00"
     },
     {
-      "id": "5e1889ad61b4",
-      "title": "Anthropic confirms new Claude Code limits to prevent game cloning",
-      "summary": "&gt; As far as we can ascertain, it appears the game-related blocking is limited to the combination of using Claude Code and the Opus 5.5 model. Should that prove true, then users should be able to sidestep the limitation by calling upon…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5vdp/anthropic_confirms_new_claude_code_limits_to/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-11-02T18:51:30+00:00"
-    },
-    {
-      "id": "5f5d65a7e224",
-      "title": "How good is Claude Code at Web3? I let it build a blockchain",
-      "summary": "Every meme gets its own block. That was the one-line brief I gave Claude Code, and about three weeks later memechain is live. It’s free to try in your browser, no signup or installation needed. Live: https://larajeftic.github.io/memechain/…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm3d66/how_good_is_claude_code_at_web3_i_let_it_build_a/",
+      "id": "d3db27a0ead1",
+      "title": "560 commits with claude in two weeks: \"Weave all together\"",
+      "summary": "With the help of claude, family and friends, I was able to realize - in two weeks - an idea I held at the back of my mind for the past two years. As an indie gamedev I struggled partly because I missed a way to quickly share my projects…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmrzsf/560_commits_with_claude_in_two_weeks_weave_all/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-02T17:23:01+00:00"
+      "published": "2026-11-03T12:45:05+00:00"
     },
     {
-      "id": "48f8a4979b96",
-      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
-      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "c0fea95fa64a",
+      "title": "I'm worried Claude will become less and less useful for what I use it for.",
+      "summary": "I like to decomp games, mod games, make clones of games and make new games. I pretty much exclusively use it for game related things. Some examples of what I've used Claude for: -Cloning an N64 game to make one very similar. -Adding new…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohxq/im_worried_claude_will_become_less_and_less/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 5,
-      "published": "2026-10-15T23:15:53+00:00"
-    },
-    {
-      "id": "6e68b165fc5b",
-      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
-      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-10-15T23:10:44+00:00"
+      "weight": 6,
+      "published": "2026-11-03T09:27:33+00:00"
     }
   ]
 }
