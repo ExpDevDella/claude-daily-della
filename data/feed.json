@@ -1,7 +1,7 @@
 {
-  "issue": 167,
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T16:00:05.325863-03:00",
+  "issue": 168,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:18:41.592932-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -85,44 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "229195d1b539",
-      "title": "The 5-Person Team That Runs on Claude Code",
-      "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
-      "url": "https://www.the-ai-corner.com/p/claude-code-team-setup-8-systems",
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
       "source": "The AI Corner",
       "category": "Dica",
       "weight": 7,
-      "published": "2026-10-24T22:42:41+00:00"
+      "published": "2026-10-19T14:07:27+00:00"
     },
     {
-      "id": "681e05d6de7b",
-      "title": "Nobody else seems to have as hard of a time with Claude as I do. I just want to understand why Claude hates me.",
-      "summary": "&#32; submitted by &#32; /u/takenorinvalid [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmzcjz/nobody_else_seems_to_have_as_hard_of_a_time_with/",
+      "id": "ce9abe2c63e1",
+      "title": "I thought I was going crazy",
+      "summary": "claude reacting with emojis now &#32; submitted by &#32; /u/InvestigatorCalm3640 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntyrv/i_thought_i_was_going_crazy/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-03T17:32:58+00:00"
+      "published": "2026-11-04T17:18:14+00:00"
     },
     {
-      "id": "d3db27a0ead1",
-      "title": "560 commits with claude in two weeks: \"Weave all together\"",
-      "summary": "With the help of claude, family and friends, I was able to realize - in two weeks - an idea I held at the back of my mind for the past two years. As an indie gamedev I struggled partly because I missed a way to quickly share my projects…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmrzsf/560_commits_with_claude_in_two_weeks_weave_all/",
+      "id": "f341b7adb3c3",
+      "title": "How do you guys use Claude for health and fitness?",
+      "summary": "So, I started working out and i want to use my subscription since i'm not maxing out my usage anyways. so for people who use clause or have interesting ideas i can implement, shoot them my way! right now, i'm making claude track my caloric…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnsbfn/how_do_you_guys_use_claude_for_health_and_fitness/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-03T12:45:05+00:00"
+      "published": "2026-11-04T16:16:07+00:00"
     },
     {
-      "id": "c0fea95fa64a",
-      "title": "I'm worried Claude will become less and less useful for what I use it for.",
-      "summary": "I like to decomp games, mod games, make clones of games and make new games. I pretty much exclusively use it for game related things. Some examples of what I've used Claude for: -Cloning an N64 game to make one very similar. -Adding new…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohxq/im_worried_claude_will_become_less_and_less/",
+      "id": "ef1bb97869c3",
+      "title": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
+      "summary": "This started as a silly idea to satisfy my childhood self. I wanted to see if claude code could actually reverse engineer the game from raw machine code, no source, nothing. I picked minecraft and terraria on the 3ds. the most obvious…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/i_gave_claude_raw_3ds_machine_code_with_no_source/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-11-03T09:27:33+00:00"
+      "published": "2026-11-04T15:15:38+00:00"
     }
   ]
 }
