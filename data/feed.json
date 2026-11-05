@@ -1,7 +1,7 @@
 {
-  "issue": 168,
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T16:18:41.592932-03:00",
+  "issue": 169,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:27:38.230548-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,34 +35,34 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "f325532f89b8",
-      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
-      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
+      "id": "121f54469150",
+      "title": "docs(sequentialthinking): state the thought box's limits exactly",
+      "summary": "docs(sequentialthinking): state the thought box's limits exactly The row cap counts thought-text rows only (a long branchId's header rows are not capped), so there is no absolute size guarantee; and the tool result never carries the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/c583da0291ee872b5f63612fdfef2df79ac65a84",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-28T17:50:39+00:00"
+      "published": "2026-11-04T18:19:58+00:00"
     },
     {
-      "id": "b25cdf74e5ec",
-      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
-      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
+      "id": "20f290da8abf",
+      "title": "fix(sequentialthinking): size the thought box after its summary row",
+      "summary": "fix(sequentialthinking): size the thought box after its summary row A truncated thought of short lines had a summary row wider than the box (33 characters against a 20-character border). The row texts are now collected first and the box is…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/43d93afa4043b7cb7ddad692a45e4a7357900052",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-27T13:10:32+00:00"
+      "published": "2026-11-04T18:10:37+00:00"
     },
     {
-      "id": "4902f97b11eb",
-      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
-      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
+      "id": "c43f9fddadbd",
+      "title": "fix(everything): give gzip-file-as-resource's resource the resource i…",
+      "summary": "fix(everything): give gzip-file-as-resource's resource the resource icons #3131 put a light/dark icon pair on every primitive, and the docs say every resources/list entry carries one, but the resource the gzip tool creates had none: the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ee12fb1446585fe27407d4fe1a0205c3feffefa8",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-10-27T13:02:44+00:00"
+      "published": "2026-11-04T18:02:37+00:00"
     },
     {
       "id": "6f321ff13a23",
@@ -75,10 +75,10 @@
       "published": "2026-09-07T00:00:00+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
       "source": "claudeai.dev Blog",
       "category": "Novidade",
       "weight": 8,
@@ -95,34 +95,34 @@
       "published": "2026-10-19T14:07:27+00:00"
     },
     {
-      "id": "ce9abe2c63e1",
-      "title": "I thought I was going crazy",
-      "summary": "claude reacting with emojis now &#32; submitted by &#32; /u/InvestigatorCalm3640 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntyrv/i_thought_i_was_going_crazy/",
+      "id": "b050ef1b59d7",
+      "title": "Claude built a programming language for AI agents where every keyword is an internet meme",
+      "summary": "i had a dumb idea a while ago. what if ai agents had their own programming language, but every keyword was an internet meme? so i built Memesis with Claude Code. it's an actual interpreted language with its own .meme files, parser, runtime…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xook9e/claude_built_a_programming_language_for_ai_agents/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-04T17:18:14+00:00"
+      "published": "2026-11-05T17:24:29+00:00"
     },
     {
-      "id": "f341b7adb3c3",
-      "title": "How do you guys use Claude for health and fitness?",
-      "summary": "So, I started working out and i want to use my subscription since i'm not maxing out my usage anyways. so for people who use clause or have interesting ideas i can implement, shoot them my way! right now, i'm making claude track my caloric…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnsbfn/how_do_you_guys_use_claude_for_health_and_fitness/",
+      "id": "f3f4d0fff0e6",
+      "title": "I'm an accountant and somehow Claude has me building software for our office",
+      "summary": "This started because I was tired of chasing clients for the same documents every month. I figured I'd try building a little internal app where we could track which clients have submitted everything, what's still missing and who needs a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo1pf/im_an_accountant_and_somehow_claude_has_me/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-04T16:16:07+00:00"
+      "published": "2026-11-05T17:04:59+00:00"
     },
     {
-      "id": "ef1bb97869c3",
-      "title": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
-      "summary": "This started as a silly idea to satisfy my childhood self. I wanted to see if claude code could actually reverse engineer the game from raw machine code, no source, nothing. I picked minecraft and terraria on the 3ds. the most obvious…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/i_gave_claude_raw_3ds_machine_code_with_no_source/",
+      "id": "c267da90364a",
+      "title": "I'm speechless with Claude Capacity for game creation",
+      "summary": "It had been six years since I’d started working on my game. Every week I’d work on it a little bit, to the point where, by last year, I had all my systems in place and some content. Then my day job (as a healthcare professional) took up so…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo0lq/im_speechless_with_claude_capacity_for_game/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-04T15:15:38+00:00"
+      "published": "2026-11-05T17:03:50+00:00"
     }
   ]
 }

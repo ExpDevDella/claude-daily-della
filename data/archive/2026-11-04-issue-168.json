@@ -1,0 +1,128 @@
+{
+  "issue": 168,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:18:41.592932-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "f325532f89b8",
+      "title": "test(filesystem): give the 100000-entry walk tests an explicit timeout",
+      "summary": "test(filesystem): give the 100000-entry walk tests an explicit timeout The bounded-walk cap tests walk MAX_WALK_ENTRIES + 1 mocked entries on purpose, so their cost scales with the runner. On a loaded Windows runner the search_files one…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2b6dc3b41348b0be865d7512fe96b3e95948fb16",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-28T17:50:39+00:00"
+    },
+    {
+      "id": "b25cdf74e5ec",
+      "title": "fix(filesystem): keep a pre-1970 time on a cross-device copy",
+      "summary": "fix(filesystem): keep a pre-1970 time on a cross-device copy Review round 5 on #5322: fs.futimes takes a negative number to mean &quot;now&quot;, so the seconds passed since round 4 lost any time before 1970. Pass them as a numeric string,…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/7fabe2ad3659f8f0ca5a61176c9066b5588d70da",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:10:32+00:00"
+    },
+    {
+      "id": "4902f97b11eb",
+      "title": "fix(filesystem): keep sub-millisecond times on a cross-device copy",
+      "summary": "fix(filesystem): keep sub-millisecond times on a cross-device copy Review round 4 on #5322: futimes was given the source's Date times, which keep only milliseconds. Pass seconds derived from atimeNs and mtimeNs instead. Co-Authored-By:…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/215815d1e3d0c2bedbe6038f82675db4bb36ac84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-10-27T13:02:44+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "ce9abe2c63e1",
+      "title": "I thought I was going crazy",
+      "summary": "claude reacting with emojis now &#32; submitted by &#32; /u/InvestigatorCalm3640 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntyrv/i_thought_i_was_going_crazy/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-04T17:18:14+00:00"
+    },
+    {
+      "id": "f341b7adb3c3",
+      "title": "How do you guys use Claude for health and fitness?",
+      "summary": "So, I started working out and i want to use my subscription since i'm not maxing out my usage anyways. so for people who use clause or have interesting ideas i can implement, shoot them my way! right now, i'm making claude track my caloric…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnsbfn/how_do_you_guys_use_claude_for_health_and_fitness/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-04T16:16:07+00:00"
+    },
+    {
+      "id": "ef1bb97869c3",
+      "title": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
+      "summary": "This started as a silly idea to satisfy my childhood self. I wanted to see if claude code could actually reverse engineer the game from raw machine code, no source, nothing. I picked minecraft and terraria on the 3ds. the most obvious…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/i_gave_claude_raw_3ds_machine_code_with_no_source/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-04T15:15:38+00:00"
+    }
+  ]
+}
