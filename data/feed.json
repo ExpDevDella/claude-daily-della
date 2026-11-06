@@ -1,7 +1,7 @@
 {
-  "issue": 169,
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T16:27:38.230548-03:00",
+  "issue": 170,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:51:12.068575-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -85,44 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "77d1708a1ca4",
-      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
-      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
-      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-19T14:07:27+00:00"
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "b050ef1b59d7",
-      "title": "Claude built a programming language for AI agents where every keyword is an internet meme",
-      "summary": "i had a dumb idea a while ago. what if ai agents had their own programming language, but every keyword was an internet meme? so i built Memesis with Claude Code. it's an actual interpreted language with its own .meme files, parser, runtime…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xook9e/claude_built_a_programming_language_for_ai_agents/",
+      "id": "087639fc8abd",
+      "title": "I built a sailing sim with Claude Code and made the frontier models race each other in it",
+      "summary": "I built a sailing sim with Claude Code. Claude Code wrote basically all of it (the boat physics, wind, the 3D water and coast, and the setup that lets AI models sail it) while I directed what to build and checked the results. How the race…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-05T17:24:29+00:00"
+      "published": "2026-11-06T17:22:13+00:00"
     },
     {
-      "id": "f3f4d0fff0e6",
-      "title": "I'm an accountant and somehow Claude has me building software for our office",
-      "summary": "This started because I was tired of chasing clients for the same documents every month. I figured I'd try building a little internal app where we could track which clients have submitted everything, what's still missing and who needs a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo1pf/im_an_accountant_and_somehow_claude_has_me/",
+      "id": "f85dec06b5a9",
+      "title": "Yo claude, you don't need 166 agents for this..",
+      "summary": "I had redesigned my admin panel UI which is like 8 pages max. I was using ultracode for the /design prompt (prompt 1) but when it finished building the designs, I said 'continue with it' and bro started spawning 166 agents in total to do…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xphfvn/yo_claude_you_dont_need_166_agents_for_this/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-05T17:04:59+00:00"
+      "published": "2026-11-06T16:40:34+00:00"
     },
     {
-      "id": "c267da90364a",
-      "title": "I'm speechless with Claude Capacity for game creation",
-      "summary": "It had been six years since I’d started working on my game. Every week I’d work on it a little bit, to the point where, by last year, I had all my systems in place and some content. Then my day job (as a healthcare professional) took up so…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo0lq/im_speechless_with_claude_capacity_for_game/",
+      "id": "bc576ddd5769",
+      "title": "Claude, make me these parts in Solidworks.... 7 minutes later....",
+      "summary": "I had Claude write its own MCP connector to my SolidWorks installation on my computer. I regularly use it to create parts I'm using off Amazon or other sites without a CAD file. Works great. FWIW: I posted the same thing over in…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/",
       "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
+      "category": "MCP",
       "weight": 6,
-      "published": "2026-11-05T17:03:50+00:00"
+      "published": "2026-11-06T14:40:50+00:00"
     }
   ]
 }

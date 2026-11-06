@@ -1,0 +1,128 @@
+{
+  "issue": 169,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:27:38.230548-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "121f54469150",
+      "title": "docs(sequentialthinking): state the thought box's limits exactly",
+      "summary": "docs(sequentialthinking): state the thought box's limits exactly The row cap counts thought-text rows only (a long branchId's header rows are not capped), so there is no absolute size guarantee; and the tool result never carries the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/c583da0291ee872b5f63612fdfef2df79ac65a84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:19:58+00:00"
+    },
+    {
+      "id": "20f290da8abf",
+      "title": "fix(sequentialthinking): size the thought box after its summary row",
+      "summary": "fix(sequentialthinking): size the thought box after its summary row A truncated thought of short lines had a summary row wider than the box (33 characters against a 20-character border). The row texts are now collected first and the box is…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/43d93afa4043b7cb7ddad692a45e4a7357900052",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:10:37+00:00"
+    },
+    {
+      "id": "c43f9fddadbd",
+      "title": "fix(everything): give gzip-file-as-resource's resource the resource i…",
+      "summary": "fix(everything): give gzip-file-as-resource's resource the resource icons #3131 put a light/dark icon pair on every primitive, and the docs say every resources/list entry carries one, but the resource the gzip tool creates had none: the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ee12fb1446585fe27407d4fe1a0205c3feffefa8",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:02:37+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "77d1708a1ca4",
+      "title": "Breaking: $3M+ in Startup Perks Just Landed in The AI Corner",
+      "summary": "28 programs with credits, grants and discounts from Google Cloud, Ramp, AWS, Claude, Stripe and more, ranked by what each one gives you",
+      "url": "https://www.the-ai-corner.com/p/startup-credits-perks-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-10-19T14:07:27+00:00"
+    },
+    {
+      "id": "b050ef1b59d7",
+      "title": "Claude built a programming language for AI agents where every keyword is an internet meme",
+      "summary": "i had a dumb idea a while ago. what if ai agents had their own programming language, but every keyword was an internet meme? so i built Memesis with Claude Code. it's an actual interpreted language with its own .meme files, parser, runtime…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xook9e/claude_built_a_programming_language_for_ai_agents/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-05T17:24:29+00:00"
+    },
+    {
+      "id": "f3f4d0fff0e6",
+      "title": "I'm an accountant and somehow Claude has me building software for our office",
+      "summary": "This started because I was tired of chasing clients for the same documents every month. I figured I'd try building a little internal app where we could track which clients have submitted everything, what's still missing and who needs a…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo1pf/im_an_accountant_and_somehow_claude_has_me/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-05T17:04:59+00:00"
+    },
+    {
+      "id": "c267da90364a",
+      "title": "I'm speechless with Claude Capacity for game creation",
+      "summary": "It had been six years since I’d started working on my game. Every week I’d work on it a little bit, to the point where, by last year, I had all my systems in place and some content. Then my day job (as a healthcare professional) took up so…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoo0lq/im_speechless_with_claude_capacity_for_game/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-05T17:03:50+00:00"
+    }
+  ]
+}
