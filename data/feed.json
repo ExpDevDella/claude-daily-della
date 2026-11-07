@@ -1,7 +1,7 @@
 {
-  "issue": 170,
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T15:51:12.068575-03:00",
+  "issue": 171,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:23:09.721937-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -75,16 +75,6 @@
       "published": "2026-09-07T00:00:00+00:00"
     },
     {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
       "id": "b99ae27aa366",
       "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
       "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
@@ -95,34 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "087639fc8abd",
-      "title": "I built a sailing sim with Claude Code and made the frontier models race each other in it",
-      "summary": "I built a sailing sim with Claude Code. Claude Code wrote basically all of it (the boat physics, wind, the 3D water and coast, and the setup that lets AI models sail it) while I directed what to build and checked the results. How the race…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/",
+      "id": "60aed9d4eb69",
+      "title": "Refusals to do work are going way too far.",
+      "summary": "I pay for a service, and that service actively refuses to do the work it's paid to do. No one would keep an employee that replies &quot;no&quot; to any task you give them. Yesterday I bought some sheet music for piano. I'm pretty slow at…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq95sa/refusals_to_do_work_are_going_way_too_far/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-06T17:22:13+00:00"
+      "published": "2026-11-07T15:34:51+00:00"
     },
     {
-      "id": "f85dec06b5a9",
-      "title": "Yo claude, you don't need 166 agents for this..",
-      "summary": "I had redesigned my admin panel UI which is like 8 pages max. I was using ultracode for the /design prompt (prompt 1) but when it finished building the designs, I said 'continue with it' and bro started spawning 166 agents in total to do…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xphfvn/yo_claude_you_dont_need_166_agents_for_this/",
+      "id": "4b7d0b85f163",
+      "title": "Multiple Emails Allowed Now!",
+      "summary": "I was able to connect multiple email accounts today and Duet confirmed it could read/write from all of them! Finally!!! &#32; submitted by &#32; /u/PhilosopherTiny6084 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq73lm/multiple_emails_allowed_now/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-06T16:40:34+00:00"
+      "published": "2026-11-07T14:03:04+00:00"
     },
     {
-      "id": "bc576ddd5769",
-      "title": "Claude, make me these parts in Solidworks.... 7 minutes later....",
-      "summary": "I had Claude write its own MCP connector to my SolidWorks installation on my computer. I regularly use it to create parts I'm using off Amazon or other sites without a CAD file. Works great. FWIW: I posted the same thing over in…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/",
+      "id": "2c9e5509730f",
+      "title": "How is Claude voice to text so good?",
+      "summary": "I am honestly so impressed. You can whisper, you can talk and take long pause, use heavy accent, mix other language elements if you forget a word, talk with earbuds in windy conditions. It just takes it all accurately. Google can't do it.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq5jxb/how_is_claude_voice_to_text_so_good/",
       "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
+      "category": "Dica",
       "weight": 6,
-      "published": "2026-11-06T14:40:50+00:00"
+      "published": "2026-11-07T12:46:35+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
     }
   ]
 }
