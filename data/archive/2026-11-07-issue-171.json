@@ -1,0 +1,128 @@
+{
+  "issue": 171,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:23:09.721937-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "121f54469150",
+      "title": "docs(sequentialthinking): state the thought box's limits exactly",
+      "summary": "docs(sequentialthinking): state the thought box's limits exactly The row cap counts thought-text rows only (a long branchId's header rows are not capped), so there is no absolute size guarantee; and the tool result never carries the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/c583da0291ee872b5f63612fdfef2df79ac65a84",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:19:58+00:00"
+    },
+    {
+      "id": "20f290da8abf",
+      "title": "fix(sequentialthinking): size the thought box after its summary row",
+      "summary": "fix(sequentialthinking): size the thought box after its summary row A truncated thought of short lines had a summary row wider than the box (33 characters against a 20-character border). The row texts are now collected first and the box is…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/43d93afa4043b7cb7ddad692a45e4a7357900052",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:10:37+00:00"
+    },
+    {
+      "id": "c43f9fddadbd",
+      "title": "fix(everything): give gzip-file-as-resource's resource the resource i…",
+      "summary": "fix(everything): give gzip-file-as-resource's resource the resource icons #3131 put a light/dark icon pair on every primitive, and the docs say every resources/list entry carries one, but the resource the gzip tool creates had none: the…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ee12fb1446585fe27407d4fe1a0205c3feffefa8",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-04T18:02:37+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "60aed9d4eb69",
+      "title": "Refusals to do work are going way too far.",
+      "summary": "I pay for a service, and that service actively refuses to do the work it's paid to do. No one would keep an employee that replies &quot;no&quot; to any task you give them. Yesterday I bought some sheet music for piano. I'm pretty slow at…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq95sa/refusals_to_do_work_are_going_way_too_far/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-07T15:34:51+00:00"
+    },
+    {
+      "id": "4b7d0b85f163",
+      "title": "Multiple Emails Allowed Now!",
+      "summary": "I was able to connect multiple email accounts today and Duet confirmed it could read/write from all of them! Finally!!! &#32; submitted by &#32; /u/PhilosopherTiny6084 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq73lm/multiple_emails_allowed_now/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-07T14:03:04+00:00"
+    },
+    {
+      "id": "2c9e5509730f",
+      "title": "How is Claude voice to text so good?",
+      "summary": "I am honestly so impressed. You can whisper, you can talk and take long pause, use heavy accent, mix other language elements if you forget a word, talk with earbuds in windy conditions. It just takes it all accurately. Google can't do it.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq5jxb/how_is_claude_voice_to_text_so_good/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-07T12:46:35+00:00"
+    },
+    {
+      "id": "fd4ec85b609c",
+      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
+      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-08-25T13:49:07+00:00"
+    }
+  ]
+}

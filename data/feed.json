@@ -1,7 +1,7 @@
 {
-  "issue": 171,
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T14:23:09.721937-03:00",
+  "issue": 172,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:34:43.947139-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -55,64 +55,44 @@
       "published": "2026-11-04T18:10:37+00:00"
     },
     {
-      "id": "c43f9fddadbd",
-      "title": "fix(everything): give gzip-file-as-resource's resource the resource i…",
-      "summary": "fix(everything): give gzip-file-as-resource's resource the resource icons #3131 put a light/dark icon pair on every primitive, and the docs say every resources/list entry carries one, but the resource the gzip tool creates had none: the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/ee12fb1446585fe27407d4fe1a0205c3feffefa8",
-      "source": "GitHub - Anthropic MCP Servers",
+      "id": "de9b7e7ff6f4",
+      "title": "I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own",
+      "summary": "I wanted AI agents to create, test, and improve my game mods autonomously by actually playing the games, without taking over my PC while they do it. So I built an MCP server with Claude Code. It gives Claude its own keyboard, mouse,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/",
+      "source": "Reddit r/ClaudeAI",
       "category": "MCP",
-      "weight": 8,
-      "published": "2026-11-04T18:02:37+00:00"
+      "weight": 6,
+      "published": "2026-11-08T17:11:53+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
+      "id": "32a174784e4f",
+      "title": "Are we not allowed to ask any sh*t about biology to Opus 5.5?",
+      "summary": "https://preview.redd.it/6ggcndgm2f0i1.png?width=1032&format=png&auto=webp&s=31cd3d832d7901e692102f8ac4ff901b763aa02f I wanted to ask Opus 5.5 if there are any molecules that can bind to androgen receptors more strongly than DHT. But even…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr2pir/are_we_not_allowed_to_ask_any_sht_about_biology/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
+      "weight": 6,
+      "published": "2026-11-08T16:41:42+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
+      "id": "4fe0f38bdc4a",
+      "title": "What's the one prompt you keep coming back to?",
+      "summary": "Mine is Break this project into as many small steps as you can, in order. Each step should take under 30 min and have a clear done-check. Put them in one artifact with checkboxes I can come back to for weeks. If a step stalls, I'll paste…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr0drc/whats_the_one_prompt_you_keep_coming_back_to/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-08T15:01:02+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "60aed9d4eb69",
-      "title": "Refusals to do work are going way too far.",
-      "summary": "I pay for a service, and that service actively refuses to do the work it's paid to do. No one would keep an employee that replies &quot;no&quot; to any task you give them. Yesterday I bought some sheet music for piano. I'm pretty slow at…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq95sa/refusals_to_do_work_are_going_way_too_far/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-07T15:34:51+00:00"
-    },
-    {
-      "id": "4b7d0b85f163",
-      "title": "Multiple Emails Allowed Now!",
-      "summary": "I was able to connect multiple email accounts today and Duet confirmed it could read/write from all of them! Finally!!! &#32; submitted by &#32; /u/PhilosopherTiny6084 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq73lm/multiple_emails_allowed_now/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-07T14:03:04+00:00"
-    },
-    {
-      "id": "2c9e5509730f",
-      "title": "How is Claude voice to text so good?",
-      "summary": "I am honestly so impressed. You can whisper, you can talk and take long pause, use heavy accent, mix other language elements if you forget a word, talk with earbuds in windy conditions. It just takes it all accurately. Google can't do it.…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq5jxb/how_is_claude_voice_to_text_so_good/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-07T12:46:35+00:00"
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
     },
     {
       "id": "fd4ec85b609c",
@@ -123,6 +103,26 @@
       "category": "Plugin",
       "weight": 5,
       "published": "2026-08-25T13:49:07+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }
