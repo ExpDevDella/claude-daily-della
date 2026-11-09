@@ -1,7 +1,7 @@
 {
-  "issue": 172,
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T14:34:43.947139-03:00",
+  "issue": 173,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:54:12.976282-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,54 +35,64 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "121f54469150",
-      "title": "docs(sequentialthinking): state the thought box's limits exactly",
-      "summary": "docs(sequentialthinking): state the thought box's limits exactly The row cap counts thought-text rows only (a long branchId's header rows are not capped), so there is no absolute size guarantee; and the tool result never carries the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/c583da0291ee872b5f63612fdfef2df79ac65a84",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-11-04T18:19:58+00:00"
+      "id": "330f7ffbf463",
+      "title": "Build Your Own AI Legal Team in Claude",
+      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
+      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-10-31T21:32:28+00:00"
     },
     {
-      "id": "20f290da8abf",
-      "title": "fix(sequentialthinking): size the thought box after its summary row",
-      "summary": "fix(sequentialthinking): size the thought box after its summary row A truncated thought of short lines had a summary row wider than the box (33 characters against a 20-character border). The row texts are now collected first and the box is…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/43d93afa4043b7cb7ddad692a45e4a7357900052",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
-      "weight": 8,
-      "published": "2026-11-04T18:10:37+00:00"
-    },
-    {
-      "id": "de9b7e7ff6f4",
-      "title": "I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own",
-      "summary": "I wanted AI agents to create, test, and improve my game mods autonomously by actually playing the games, without taking over my PC while they do it. So I built an MCP server with Claude Code. It gives Claude its own keyboard, mouse,…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "MCP",
-      "weight": 6,
-      "published": "2026-11-08T17:11:53+00:00"
-    },
-    {
-      "id": "32a174784e4f",
-      "title": "Are we not allowed to ask any sh*t about biology to Opus 5.5?",
-      "summary": "https://preview.redd.it/6ggcndgm2f0i1.png?width=1032&format=png&auto=webp&s=31cd3d832d7901e692102f8ac4ff901b763aa02f I wanted to ask Opus 5.5 if there are any molecules that can bind to androgen receptors more strongly than DHT. But even…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr2pir/are_we_not_allowed_to_ask_any_sht_about_biology/",
+      "id": "f9a9ed6ba9d6",
+      "title": "Fable 5.2 REVIEW Here is what's actually different and what to try first (cheaper, faster, way fewer blocks)",
+      "summary": "I got early accees so and ran the same things I run on every new model. Skipping the benchmarks. This is what I noticed and what's worth your time. What's different Speed. First thing I noticed. Anthropic say output is up to 30% faster…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs2wdl/fable_52_review_here_is_whats_actually_different/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-11-08T16:41:42+00:00"
+      "published": "2026-11-09T20:33:23+00:00"
     },
     {
-      "id": "4fe0f38bdc4a",
-      "title": "What's the one prompt you keep coming back to?",
-      "summary": "Mine is Break this project into as many small steps as you can, in order. Each step should take under 30 min and have a clear done-check. Put them in one artifact with checkboxes I can come back to for weeks. If a step stalls, I'll paste…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr0drc/whats_the_one_prompt_you_keep_coming_back_to/",
+      "id": "2cff8cbd3a63",
+      "title": "Pro users assemble: we got one week to max Fable 5.2",
+      "summary": "&#32; submitted by &#32; /u/py-net [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs29of/pro_users_assemble_we_got_one_week_to_max_fable_52/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-08T15:01:02+00:00"
+      "published": "2026-11-09T20:09:09+00:00"
+    },
+    {
+      "id": "19dd5c74cb4a",
+      "title": "WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming.",
+      "summary": "&#32; submitted by &#32; /u/InternationalGap3698 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-09T20:08:31+00:00"
+    },
+    {
+      "id": "48f8a4979b96",
+      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
+      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-10-15T23:15:53+00:00"
+    },
+    {
+      "id": "6e68b165fc5b",
+      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
+      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-10-15T23:10:44+00:00"
     },
     {
       "id": "c072d34be0d3",
@@ -93,16 +103,6 @@
       "category": "Novidade",
       "weight": 5,
       "published": "2026-09-10T18:07:08+00:00"
-    },
-    {
-      "id": "fd4ec85b609c",
-      "title": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Clau…",
-      "summary": "合并社区 PR 3 个；补全目录缺失章节（issue #51）；新增 2026 更新（官方提示工程文档、Agent Skills、Claude Code 记忆）",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/586aea8d3b815cc119e6a906404231d4e0f71b0b",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-08-25T13:49:07+00:00"
     },
     {
       "id": "f7d9dd9a8831",
