@@ -1,7 +1,7 @@
 {
-  "issue": 174,
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T16:16:15.047126-03:00",
+  "issue": 175,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T16:13:35.765189-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,34 +35,54 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "121f54469150",
-      "title": "docs(sequentialthinking): state the thought box's limits exactly",
-      "summary": "docs(sequentialthinking): state the thought box's limits exactly The row cap counts thought-text rows only (a long branchId's header rows are not capped), so there is no absolute size guarantee; and the tool result never carries the…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/c583da0291ee872b5f63612fdfef2df79ac65a84",
+      "id": "9461ee905217",
+      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
+      "category": "Novidade",
       "weight": 8,
-      "published": "2026-11-04T18:19:58+00:00"
+      "published": "2026-11-11T05:59:38+00:00"
     },
     {
-      "id": "20f290da8abf",
-      "title": "fix(sequentialthinking): size the thought box after its summary row",
-      "summary": "fix(sequentialthinking): size the thought box after its summary row A truncated thought of short lines had a summary row wider than the box (33 characters against a 20-character border). The row texts are now collected first and the box is…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/43d93afa4043b7cb7ddad692a45e4a7357900052",
+      "id": "d8274f9e8676",
+      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
+      "category": "Novidade",
       "weight": 8,
-      "published": "2026-11-04T18:10:37+00:00"
+      "published": "2026-11-11T05:41:47+00:00"
     },
     {
-      "id": "330f7ffbf463",
-      "title": "Build Your Own AI Legal Team in Claude",
-      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
-      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-10-31T21:32:28+00:00"
+      "id": "b0f38d1424cf",
+      "title": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/db4cdfddfd447fee6a86ddd5e93f23203160cc2b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:25:09+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "229195d1b539",
@@ -75,54 +95,34 @@
       "published": "2026-10-24T22:42:41+00:00"
     },
     {
-      "id": "56baca35bca2",
-      "title": "I built a webcam X-ray mirror with Claude Fable 5.2",
-      "summary": "I built a web page that works like an X-ray mirror. You point a webcam at your face and see a skull, brain and facial muscles pinned to your head and following it as you move. The jaw opens when you open your mouth, and if you hold up a…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xstews/i_built_a_webcam_xray_mirror_with_claude_fable_52/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-10T17:44:48+00:00"
-    },
-    {
-      "id": "d056c5956157",
-      "title": "it’s getting smarter frfr",
-      "summary": "&#32; submitted by &#32; /u/Worldly_Chemistry_81 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-10T16:30:15+00:00"
-    },
-    {
-      "id": "49cf6f6b9a74",
-      "title": "Claude (Fable 5.2) can finally generate good pixel art animation",
-      "summary": "Fable 5.1 attempt is fair, but is basically just a recolor, fable 5.2's is on another level. Will opus 5.5 ever get close to this? I'd love to generate pixel art without paying per-generation with services like pixellab (or fable credits).…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsnerm/claude_fable_52_can_finally_generate_good_pixel/",
+      "id": "2144e2b31972",
+      "title": "I built an animated watch face for my Galaxy Watch with Claude, and it turned into a little farm story with a sneaky wolf",
+      "summary": "So this started as me just cleaning up my Galaxy Watch4 Classic. I asked Claude (Opus, in the Claude app) to help me remove apps I don't use over ADB, and it got rid of 21 of them. Then I thought, why not make my own watch face? I've never…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtne5p/i_built_an_animated_watch_face_for_my_galaxy/",
       "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
       "weight": 6,
-      "published": "2026-11-10T13:51:11+00:00"
+      "published": "2026-11-11T17:10:22+00:00"
     },
     {
-      "id": "48f8a4979b96",
-      "title": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section",
-      "summary": "docs: Add Awesome Opus 5.5 Video Prompts to the 2026 Update section Verified the structured prompt collection and its original-source and rendered-result links. Relevant examples of Claude-created code animations and motion graphics.",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8526575fb5cde1c0668402e50bb4966259750fbf",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-10-15T23:15:53+00:00"
+      "id": "770634839fef",
+      "title": "Getting 3 free fable rst for anniversary",
+      "summary": "Is everyone getting free usage or am I the lucky special snowflake? &#32; submitted by &#32; /u/Timo-Hauser [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-11T15:57:13+00:00"
     },
     {
-      "id": "6e68b165fc5b",
-      "title": "docs: Claude Code & Skills resources: add OrcaReplay for offline repl…",
-      "summary": "docs: Claude Code & Skills resources: add OrcaReplay for offline replay of recorded Claude Code sessions Verified the trace-recording/replay implementation, offline workflow, package documentation and tests. Useful Claude Code development…",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/5bd77dd46a0797a107aea6791affded1e12893de",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-10-15T23:10:44+00:00"
+      "id": "8c4325d74c05",
+      "title": "Anthropic's AI R&D [RSI] evals are saturated, so they just stopped running them",
+      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtl61k/anthropics_ai_rd_rsi_evals_are_saturated_so_they/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-11T15:48:28+00:00"
     }
   ]
 }
