@@ -1,7 +1,7 @@
 {
-  "issue": 175,
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T16:13:35.765189-03:00",
+  "issue": 176,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:30:34.067634-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -85,44 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "229195d1b539",
-      "title": "The 5-Person Team That Runs on Claude Code",
-      "summary": "Set up System 1 free tonight and wake up to your 3 ranked decisions in Slack at 6:07 AM. All 8 systems run on one Claude Max plan at $200 a month.",
-      "url": "https://www.the-ai-corner.com/p/claude-code-team-setup-8-systems",
-      "source": "The AI Corner",
-      "category": "Dica",
-      "weight": 7,
-      "published": "2026-10-24T22:42:41+00:00"
-    },
-    {
-      "id": "2144e2b31972",
-      "title": "I built an animated watch face for my Galaxy Watch with Claude, and it turned into a little farm story with a sneaky wolf",
-      "summary": "So this started as me just cleaning up my Galaxy Watch4 Classic. I asked Claude (Opus, in the Claude app) to help me remove apps I don't use over ADB, and it got rid of 21 of them. Then I thought, why not make my own watch face? I've never…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtne5p/i_built_an_animated_watch_face_for_my_galaxy/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-11-11T17:10:22+00:00"
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "770634839fef",
-      "title": "Getting 3 free fable rst for anniversary",
-      "summary": "Is everyone getting free usage or am I the lucky special snowflake? &#32; submitted by &#32; /u/Timo-Hauser [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary/",
+      "id": "701132ed01a3",
+      "title": "My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude",
+      "summary": "I’ve been making games for 19 years. Over the last few years it had turned into a job, and I stopped enjoying it. A few weeks ago I set myself a challenge, take one small game through the entire pipeline on my own with AI. That meant…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xul18m/my_game_got_removed_from_gamedev_subs_for_using/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-11T15:57:13+00:00"
+      "published": "2026-11-12T18:46:30+00:00"
     },
     {
-      "id": "8c4325d74c05",
-      "title": "Anthropic's AI R&D [RSI] evals are saturated, so they just stopped running them",
-      "summary": "&#32; submitted by &#32; /u/Puzzleheaded-King584 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtl61k/anthropics_ai_rd_rsi_evals_are_saturated_so_they/",
+      "id": "bc0b38ce90bb",
+      "title": "Claude refuses to touch copywritten works",
+      "summary": "Really Anthropic? After feeding every human work in existence to your models, rights holders be damned, you block fair use of copywritten works? It's not like I'm asking it to search out the quote and pin it down, I've provided the text to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuho9b/claude_refuses_to_touch_copywritten_works/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-11T15:48:28+00:00"
+      "published": "2026-11-12T16:43:01+00:00"
+    },
+    {
+      "id": "31027c8fbadf",
+      "title": "Are we not allowed to even ask basic biology questions?",
+      "summary": "&#32; submitted by &#32; /u/EndLineTech03 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuhanm/are_we_not_allowed_to_even_ask_basic_biology/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-12T16:28:51+00:00"
     }
   ]
 }
