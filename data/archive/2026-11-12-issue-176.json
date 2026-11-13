@@ -1,0 +1,128 @@
+{
+  "issue": 176,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:30:34.067634-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "9461ee905217",
+      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:59:38+00:00"
+    },
+    {
+      "id": "d8274f9e8676",
+      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:41:47+00:00"
+    },
+    {
+      "id": "b0f38d1424cf",
+      "title": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/db4cdfddfd447fee6a86ddd5e93f23203160cc2b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:25:09+00:00"
+    },
+    {
+      "id": "6f321ff13a23",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "3043ea10e679",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "701132ed01a3",
+      "title": "My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude",
+      "summary": "I’ve been making games for 19 years. Over the last few years it had turned into a job, and I stopped enjoying it. A few weeks ago I set myself a challenge, take one small game through the entire pipeline on my own with AI. That meant…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xul18m/my_game_got_removed_from_gamedev_subs_for_using/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-12T18:46:30+00:00"
+    },
+    {
+      "id": "bc0b38ce90bb",
+      "title": "Claude refuses to touch copywritten works",
+      "summary": "Really Anthropic? After feeding every human work in existence to your models, rights holders be damned, you block fair use of copywritten works? It's not like I'm asking it to search out the quote and pin it down, I've provided the text to…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuho9b/claude_refuses_to_touch_copywritten_works/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-12T16:43:01+00:00"
+    },
+    {
+      "id": "31027c8fbadf",
+      "title": "Are we not allowed to even ask basic biology questions?",
+      "summary": "&#32; submitted by &#32; /u/EndLineTech03 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuhanm/are_we_not_allowed_to_even_ask_basic_biology/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-12T16:28:51+00:00"
+    }
+  ]
+}

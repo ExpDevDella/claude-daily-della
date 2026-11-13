@@ -1,7 +1,7 @@
 {
-  "issue": 176,
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T16:30:34.067634-03:00",
+  "issue": 177,
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T16:10:03.468934-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -75,16 +75,6 @@
       "published": "2026-09-07T00:00:00+00:00"
     },
     {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
       "id": "3043ea10e679",
       "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
       "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
@@ -95,34 +85,44 @@
       "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "701132ed01a3",
-      "title": "My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude",
-      "summary": "I’ve been making games for 19 years. Over the last few years it had turned into a job, and I stopped enjoying it. A few weeks ago I set myself a challenge, take one small game through the entire pipeline on my own with AI. That meant…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xul18m/my_game_got_removed_from_gamedev_subs_for_using/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Dica",
-      "weight": 6,
-      "published": "2026-11-12T18:46:30+00:00"
+      "id": "b99ae27aa366",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
     },
     {
-      "id": "bc0b38ce90bb",
-      "title": "Claude refuses to touch copywritten works",
-      "summary": "Really Anthropic? After feeding every human work in existence to your models, rights holders be damned, you block fair use of copywritten works? It's not like I'm asking it to search out the quote and pin it down, I've provided the text to…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuho9b/claude_refuses_to_touch_copywritten_works/",
+      "id": "1e9f2b771143",
+      "title": "Claude Code limits in a desktop pet",
+      "summary": "I built Clauddy, a small pixel pet that sits in a corner of your screen and keeps your Claude Code session and weekly limits in view, along with when each one resets. The Fable weekly limit shows on its own too. It types at its desk while…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xveugv/claude_code_limits_in_a_desktop_pet/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-12T16:43:01+00:00"
+      "published": "2026-11-13T17:59:12+00:00"
     },
     {
-      "id": "31027c8fbadf",
-      "title": "Are we not allowed to even ask basic biology questions?",
-      "summary": "&#32; submitted by &#32; /u/EndLineTech03 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuhanm/are_we_not_allowed_to_even_ask_basic_biology/",
+      "id": "02d023836d90",
+      "title": "Claude used boogie nights nude scene for testing",
+      "summary": "Last night I had claude testing subtitle styling for my home media app and i gave it control of my tv. I have around 180 movies and on each occasion of the test it chose boogie nights, jumped exactly to the 25 minute mark, and played out…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv8bld/claude_used_boogie_nights_nude_scene_for_testing/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-12T16:28:51+00:00"
+      "published": "2026-11-13T13:47:47+00:00"
+    },
+    {
+      "id": "b591c8529ddc",
+      "title": "Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code, and platform.claude.com on Nov 13, 2026",
+      "summary": "Resolved - The issue affecting claude.ai and Claude Cowork has been resolved. Nov 13, 11:58 UTC Monitoring - A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery. Nov 13, 11:05 UTC…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3xyv/discussion_hub_for_new_claude_incident_elevated/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-13T10:00:11+00:00"
     }
   ]
 }
