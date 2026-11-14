@@ -1,7 +1,7 @@
 {
-  "issue": 177,
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T16:10:03.468934-03:00",
+  "issue": 178,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:38:06.729577-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -65,64 +65,64 @@
       "published": "2026-11-11T05:25:09+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "1e9f2b771143",
-      "title": "Claude Code limits in a desktop pet",
-      "summary": "I built Clauddy, a small pixel pet that sits in a corner of your screen and keeps your Claude Code session and weekly limits in view, along with when each one resets. The Fable weekly limit shows on its own too. It types at its desk while…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xveugv/claude_code_limits_in_a_desktop_pet/",
+      "id": "bbb0ad6810fa",
+      "title": "I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2",
+      "summary": "Try it in your browser · Source on GitHub Best experienced in Chrome. Free to try, open source under the MIT license. Abyssal Garden is an underwater world you can swim through in the browser: kelp forests, a sunken ship, a stone whale…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-13T17:59:12+00:00"
+      "published": "2026-11-14T14:05:14+00:00"
     },
     {
-      "id": "02d023836d90",
-      "title": "Claude used boogie nights nude scene for testing",
-      "summary": "Last night I had claude testing subtitle styling for my home media app and i gave it control of my tv. I have around 180 movies and on each occasion of the test it chose boogie nights, jumped exactly to the 25 minute mark, and played out…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv8bld/claude_used_boogie_nights_nude_scene_for_testing/",
+      "id": "5b4d7ac3fcdd",
+      "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
+      "summary": "I built a free, open-source skill for Claude Code (also works with Codex and Cursor) based on Karpathy's tip: ask LLMs to write &quot;80% of the way to ASD-STE100&quot;, the controlled English used in aircraft maintenance manuals. **What…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-11-14T13:29:46+00:00"
+    },
+    {
+      "id": "f801857fb9b7",
+      "title": "Claude Fable 5.2 is included with Pro until November 16",
+      "summary": "&#32; submitted by &#32; /u/martinsuchan [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-13T13:47:47+00:00"
+      "published": "2026-11-14T13:00:04+00:00"
     },
     {
-      "id": "b591c8529ddc",
-      "title": "Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code, and platform.claude.com on Nov 13, 2026",
-      "summary": "Resolved - The issue affecting claude.ai and Claude Cowork has been resolved. Nov 13, 11:58 UTC Monitoring - A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery. Nov 13, 11:05 UTC…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3xyv/discussion_hub_for_new_claude_incident_elevated/",
-      "source": "Reddit r/ClaudeAI",
+      "id": "ea8d24e49704",
+      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
+      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
+      "source": "GitHub - Awesome Claude Prompts",
       "category": "Novidade",
-      "weight": 6,
-      "published": "2026-11-13T10:00:11+00:00"
+      "weight": 5,
+      "published": "2026-11-14T04:23:22+00:00"
+    },
+    {
+      "id": "b8608d772abc",
+      "title": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update…",
+      "summary": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update section",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8ac802cb7281d4c044b40ead5e0dc749b05221d2",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:03:39+00:00"
+    },
+    {
+      "id": "473c2337ae32",
+      "title": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "summary": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/f0c14d0b72f97d8351f44a42293585c5a1abe50b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-11-14T04:03:38+00:00"
     }
   ]
 }
