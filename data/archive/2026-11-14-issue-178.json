@@ -1,0 +1,128 @@
+{
+  "issue": 178,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:38:06.729577-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "9461ee905217",
+      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:59:38+00:00"
+    },
+    {
+      "id": "d8274f9e8676",
+      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:41:47+00:00"
+    },
+    {
+      "id": "b0f38d1424cf",
+      "title": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/db4cdfddfd447fee6a86ddd5e93f23203160cc2b",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:25:09+00:00"
+    },
+    {
+      "id": "bbb0ad6810fa",
+      "title": "I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2",
+      "summary": "Try it in your browser · Source on GitHub Best experienced in Chrome. Free to try, open source under the MIT license. Abyssal Garden is an underwater world you can swim through in the browser: kelp forests, a sunken ship, a stone whale…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-14T14:05:14+00:00"
+    },
+    {
+      "id": "5b4d7ac3fcdd",
+      "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
+      "summary": "I built a free, open-source skill for Claude Code (also works with Codex and Cursor) based on Karpathy's tip: ask LLMs to write &quot;80% of the way to ASD-STE100&quot;, the controlled English used in aircraft maintenance manuals. **What…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Plugin",
+      "weight": 6,
+      "published": "2026-11-14T13:29:46+00:00"
+    },
+    {
+      "id": "f801857fb9b7",
+      "title": "Claude Fable 5.2 is included with Pro until November 16",
+      "summary": "&#32; submitted by &#32; /u/martinsuchan [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-14T13:00:04+00:00"
+    },
+    {
+      "id": "ea8d24e49704",
+      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
+      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:23:22+00:00"
+    },
+    {
+      "id": "b8608d772abc",
+      "title": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update…",
+      "summary": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update section",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8ac802cb7281d4c044b40ead5e0dc749b05221d2",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:03:39+00:00"
+    },
+    {
+      "id": "473c2337ae32",
+      "title": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "summary": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/f0c14d0b72f97d8351f44a42293585c5a1abe50b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-11-14T04:03:38+00:00"
+    }
+  ]
+}

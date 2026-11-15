@@ -1,7 +1,7 @@
 {
-  "issue": 178,
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T14:38:06.729577-03:00",
+  "issue": 179,
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:27:17.740631-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -55,44 +55,44 @@
       "published": "2026-11-11T05:41:47+00:00"
     },
     {
-      "id": "b0f38d1424cf",
-      "title": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg",
-      "summary": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/db4cdfddfd447fee6a86ddd5e93f23203160cc2b",
-      "source": "GitHub - Anthropic MCP Servers",
+      "id": "fb040a506687",
+      "title": "Nvidia Without Jensen: The Founder Control Playbook",
+      "summary": "A 90-day Nvidia watchlist, a board blueprint by stage, 12 control clauses, 2 Claude audit prompts and a 20-point key-person test.",
+      "url": "https://www.the-ai-corner.com/p/nvidia-without-jensen-huang-founder-control-playbook-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-11-14T18:57:02+00:00"
+    },
+    {
+      "id": "815e31eb8e97",
+      "title": "This new benchmark is crazy",
+      "summary": "&#32; submitted by &#32; /u/Horror-You8701 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwz9yf/this_new_benchmark_is_crazy/",
+      "source": "Reddit r/ClaudeAI",
       "category": "Novidade",
-      "weight": 8,
-      "published": "2026-11-11T05:25:09+00:00"
+      "weight": 6,
+      "published": "2026-11-15T16:09:47+00:00"
     },
     {
-      "id": "bbb0ad6810fa",
-      "title": "I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2",
-      "summary": "Try it in your browser · Source on GitHub Best experienced in Chrome. Free to try, open source under the MIT license. Abyssal Garden is an underwater world you can swim through in the browser: kelp forests, a sunken ship, a stone whale…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
+      "id": "dc7da4f67031",
+      "title": "I couldn’t even grow parsley. So I asked Claude for help… and things got a little out of hand !",
+      "summary": "I've always been terrible with plants. Too much water, not enough water, too much sunlight, not enough sunlight... I've tried everything. Orchids, cacti, herbs, you name it. Nothing survives... A few months ago, I figured I'd try something…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/i_couldnt_even_grow_parsley_so_i_asked_claude_for/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-14T14:05:14+00:00"
+      "published": "2026-11-15T13:51:22+00:00"
     },
     {
-      "id": "5b4d7ac3fcdd",
-      "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
-      "summary": "I built a free, open-source skill for Claude Code (also works with Codex and Cursor) based on Karpathy's tip: ask LLMs to write &quot;80% of the way to ASD-STE100&quot;, the controlled English used in aircraft maintenance manuals. **What…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Plugin",
-      "weight": 6,
-      "published": "2026-11-14T13:29:46+00:00"
-    },
-    {
-      "id": "f801857fb9b7",
-      "title": "Claude Fable 5.2 is included with Pro until November 16",
-      "summary": "&#32; submitted by &#32; /u/martinsuchan [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/",
+      "id": "df063c444104",
+      "title": "Huge follow-up to my LEGO Minecraft mod made with Claude: it now plays like the LEGO games and has a full level editor",
+      "summary": "follow up to my post from yesterday: https://www.reddit.com/r/ClaudeAI/s/s5drG8Snrc this one is way bigger than the first clip, it´s basically a whole lego game now the video is me playing it and explaining it, cut down from the full video…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwuj21/huge_followup_to_my_lego_minecraft_mod_made_with/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-14T13:00:04+00:00"
+      "published": "2026-11-15T12:40:38+00:00"
     },
     {
       "id": "ea8d24e49704",
