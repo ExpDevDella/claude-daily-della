@@ -1,7 +1,7 @@
 {
-  "issue": 179,
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T15:27:17.740631-03:00",
+  "issue": 180,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:37:05.950857-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -65,64 +65,64 @@
       "published": "2026-11-14T18:57:02+00:00"
     },
     {
-      "id": "815e31eb8e97",
-      "title": "This new benchmark is crazy",
-      "summary": "&#32; submitted by &#32; /u/Horror-You8701 [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwz9yf/this_new_benchmark_is_crazy/",
-      "source": "Reddit r/ClaudeAI",
-      "category": "Novidade",
-      "weight": 6,
-      "published": "2026-11-15T16:09:47+00:00"
-    },
-    {
-      "id": "dc7da4f67031",
-      "title": "I couldn’t even grow parsley. So I asked Claude for help… and things got a little out of hand !",
-      "summary": "I've always been terrible with plants. Too much water, not enough water, too much sunlight, not enough sunlight... I've tried everything. Orchids, cacti, herbs, you name it. Nothing survives... A few months ago, I figured I'd try something…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/i_couldnt_even_grow_parsley_so_i_asked_claude_for/",
+      "id": "ce9d0d01b2c9",
+      "title": "Ask Claude: Any one else doing an AI powered quiet quitting?",
+      "summary": "Just trying to find out if I'm not alone here. I am a senior dev in a mid sized company (Less than 100 people) My company decided a while ago that we'll do the &quot;AI thing&quot; (my words) and eventually we all got Claude Max accounts.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xy03qy/ask_claude_any_one_else_doing_an_ai_powered_quiet/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-15T13:51:22+00:00"
+      "published": "2026-11-16T20:21:29+00:00"
     },
     {
-      "id": "df063c444104",
-      "title": "Huge follow-up to my LEGO Minecraft mod made with Claude: it now plays like the LEGO games and has a full level editor",
-      "summary": "follow up to my post from yesterday: https://www.reddit.com/r/ClaudeAI/s/s5drG8Snrc this one is way bigger than the first clip, it´s basically a whole lego game now the video is me playing it and explaining it, cut down from the full video…",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwuj21/huge_followup_to_my_lego_minecraft_mod_made_with/",
+      "id": "4ff9abc53ede",
+      "title": "Doom scrolling with Claude",
+      "summary": "Asked claude to go through this 2D animation yt channel... It opened youtube and started playing videos and taking screenshots from my screen,20min passed by we are still watching 🍿 &#32; submitted by &#32; /u/the-indoorboy [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxxadd/doom_scrolling_with_claude/",
       "source": "Reddit r/ClaudeAI",
       "category": "Dica",
       "weight": 6,
-      "published": "2026-11-15T12:40:38+00:00"
+      "published": "2026-11-16T18:36:56+00:00"
     },
     {
-      "id": "ea8d24e49704",
-      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
-      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "e99fb7271e8d",
+      "title": "I gave Claude my grandfather’s 1945 WWII unit history book. It rebuilt his platoon’s war as an interactive 3D experience, and made all 2,655 men in the book searchable",
+      "summary": "A few days ago someone here posted a tiny procedurally generated world built with Fable, and it motivated me to take action on an idea about a book I’ve had for years. The video is the 2-minute version; links to try it yourself (tap Play,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxtf0m/i_gave_claude_my_grandfathers_1945_wwii_unit/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-16T16:13:17+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-11-14T04:23:22+00:00"
+      "published": "2026-09-10T18:07:08+00:00"
     },
     {
-      "id": "b8608d772abc",
-      "title": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update…",
-      "summary": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update section",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8ac802cb7281d4c044b40ead5e0dc749b05221d2",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
       "category": "Novidade",
       "weight": 5,
-      "published": "2026-11-14T04:03:39+00:00"
-    },
-    {
-      "id": "473c2337ae32",
-      "title": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
-      "summary": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/f0c14d0b72f97d8351f44a42293585c5a1abe50b",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Plugin",
-      "weight": 5,
-      "published": "2026-11-14T04:03:38+00:00"
+      "published": "2026-03-23T21:01:41+00:00"
     }
   ]
 }

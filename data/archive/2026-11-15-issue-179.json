@@ -1,0 +1,128 @@
+{
+  "issue": 179,
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:27:17.740631-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "9461ee905217",
+      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:59:38+00:00"
+    },
+    {
+      "id": "d8274f9e8676",
+      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:41:47+00:00"
+    },
+    {
+      "id": "fb040a506687",
+      "title": "Nvidia Without Jensen: The Founder Control Playbook",
+      "summary": "A 90-day Nvidia watchlist, a board blueprint by stage, 12 control clauses, 2 Claude audit prompts and a 20-point key-person test.",
+      "url": "https://www.the-ai-corner.com/p/nvidia-without-jensen-huang-founder-control-playbook-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-11-14T18:57:02+00:00"
+    },
+    {
+      "id": "815e31eb8e97",
+      "title": "This new benchmark is crazy",
+      "summary": "&#32; submitted by &#32; /u/Horror-You8701 [link] &#32; [comments]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwz9yf/this_new_benchmark_is_crazy/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-15T16:09:47+00:00"
+    },
+    {
+      "id": "dc7da4f67031",
+      "title": "I couldn’t even grow parsley. So I asked Claude for help… and things got a little out of hand !",
+      "summary": "I've always been terrible with plants. Too much water, not enough water, too much sunlight, not enough sunlight... I've tried everything. Orchids, cacti, herbs, you name it. Nothing survives... A few months ago, I figured I'd try something…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/i_couldnt_even_grow_parsley_so_i_asked_claude_for/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-15T13:51:22+00:00"
+    },
+    {
+      "id": "df063c444104",
+      "title": "Huge follow-up to my LEGO Minecraft mod made with Claude: it now plays like the LEGO games and has a full level editor",
+      "summary": "follow up to my post from yesterday: https://www.reddit.com/r/ClaudeAI/s/s5drG8Snrc this one is way bigger than the first clip, it´s basically a whole lego game now the video is me playing it and explaining it, cut down from the full video…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwuj21/huge_followup_to_my_lego_minecraft_mod_made_with/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-15T12:40:38+00:00"
+    },
+    {
+      "id": "ea8d24e49704",
+      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
+      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:23:22+00:00"
+    },
+    {
+      "id": "b8608d772abc",
+      "title": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update…",
+      "summary": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update section",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8ac802cb7281d4c044b40ead5e0dc749b05221d2",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:03:39+00:00"
+    },
+    {
+      "id": "473c2337ae32",
+      "title": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "summary": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/f0c14d0b72f97d8351f44a42293585c5a1abe50b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-11-14T04:03:38+00:00"
+    }
+  ]
+}
