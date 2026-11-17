@@ -1,0 +1,128 @@
+{
+  "issue": 180,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:37:05.950857-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "9461ee905217",
+      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:59:38+00:00"
+    },
+    {
+      "id": "d8274f9e8676",
+      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
+      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-11T05:41:47+00:00"
+    },
+    {
+      "id": "fb040a506687",
+      "title": "Nvidia Without Jensen: The Founder Control Playbook",
+      "summary": "A 90-day Nvidia watchlist, a board blueprint by stage, 12 control clauses, 2 Claude audit prompts and a 20-point key-person test.",
+      "url": "https://www.the-ai-corner.com/p/nvidia-without-jensen-huang-founder-control-playbook-2026",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-11-14T18:57:02+00:00"
+    },
+    {
+      "id": "ce9d0d01b2c9",
+      "title": "Ask Claude: Any one else doing an AI powered quiet quitting?",
+      "summary": "Just trying to find out if I'm not alone here. I am a senior dev in a mid sized company (Less than 100 people) My company decided a while ago that we'll do the &quot;AI thing&quot; (my words) and eventually we all got Claude Max accounts.…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xy03qy/ask_claude_any_one_else_doing_an_ai_powered_quiet/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-16T20:21:29+00:00"
+    },
+    {
+      "id": "4ff9abc53ede",
+      "title": "Doom scrolling with Claude",
+      "summary": "Asked claude to go through this 2D animation yt channel... It opened youtube and started playing videos and taking screenshots from my screen,20min passed by we are still watching 🍿 &#32; submitted by &#32; /u/the-indoorboy [link] &#32;…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxxadd/doom_scrolling_with_claude/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Dica",
+      "weight": 6,
+      "published": "2026-11-16T18:36:56+00:00"
+    },
+    {
+      "id": "e99fb7271e8d",
+      "title": "I gave Claude my grandfather’s 1945 WWII unit history book. It rebuilt his platoon’s war as an interactive 3D experience, and made all 2,655 men in the book searchable",
+      "summary": "A few days ago someone here posted a tiny procedurally generated world built with Fable, and it motivated me to take action on an idea about a book I’ve had for years. The video is the 2-minute version; links to try it yourself (tap Play,…",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxtf0m/i_gave_claude_my_grandfathers_1945_wwii_unit/",
+      "source": "Reddit r/ClaudeAI",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-11-16T16:13:17+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
