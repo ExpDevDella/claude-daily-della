@@ -1,7 +1,7 @@
 {
-  "issue": 181,
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T17:26:20.853768-03:00",
+  "issue": 182,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:56:33.037715-03:00",
   "items": [
     {
       "id": "cb4e42d4d067",
@@ -35,74 +35,54 @@
       "published": "2026-08-28T00:40:16+00:00"
     },
     {
-      "id": "9461ee905217",
-      "title": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg",
-      "summary": "fix(filesystem): address review round 4 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/505476dbdca218fd6a7b8f0c0ab95fbc5351313e",
+      "id": "643556324aa9",
+      "title": "fix(memory): release held locks when the Streamable HTTP server stops",
+      "summary": "fix(memory): release held locks when the Streamable HTTP server stops Over Streamable HTTP, run() never registered the exit hook that removes a lock file the process still holds: only main(), the stdio path, called installLockCleanup().…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af86b99080b0f4af52ca6a8f4f1e043921ec6140",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
+      "category": "Hack",
       "weight": 8,
-      "published": "2026-11-11T05:59:38+00:00"
+      "published": "2026-11-18T08:34:10+00:00"
     },
     {
-      "id": "d8274f9e8676",
-      "title": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg",
-      "summary": "fix(filesystem): address review round 3 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/3d22dc17b5d1b434267c9d42f22e7d5b336875fe",
+      "id": "f4d7c5e3f6cc",
+      "title": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on eve…",
+      "summary": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on every git Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ef0e544f27e6ca5b5ed552cd09161991fec50bf2",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
+      "category": "MCP",
       "weight": 8,
-      "published": "2026-11-11T05:41:47+00:00"
+      "published": "2026-11-18T07:15:28+00:00"
     },
     {
-      "id": "b0f38d1424cf",
-      "title": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg",
-      "summary": "fix(filesystem): address review round 2 for GHSA-p9cv-8g75-4xcg Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/db4cdfddfd447fee6a86ddd5e93f23203160cc2b",
+      "id": "46c727d2d425",
+      "title": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system …",
+      "summary": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system git configuration Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2574ec1785e7f853c689a4652755d3516491299c",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "Novidade",
+      "category": "MCP",
       "weight": 8,
-      "published": "2026-11-11T05:25:09+00:00"
+      "published": "2026-11-18T07:14:08+00:00"
     },
     {
-      "id": "6f321ff13a23",
-      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
-      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
-      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-07T00:00:00+00:00"
-    },
-    {
-      "id": "b99ae27aa366",
-      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
-      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
-      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "3043ea10e679",
-      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
-      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
-      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models",
-      "source": "claudeai.dev Blog",
-      "category": "Novidade",
-      "weight": 8,
-      "published": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "fb040a506687",
-      "title": "Nvidia Without Jensen: The Founder Control Playbook",
-      "summary": "A 90-day Nvidia watchlist, a board blueprint by stage, 12 control clauses, 2 Claude audit prompts and a 20-point key-person test.",
-      "url": "https://www.the-ai-corner.com/p/nvidia-without-jensen-huang-founder-control-playbook-2026",
-      "source": "The AI Corner",
+      "id": "6f13afca4c58",
+      "title": "4 prompts to erase your data from people-search sites",
+      "summary": "Paste into Claude or ChatGPT, in order, in the same chat.",
+      "url": "https://ruben.substack.com/p/4-prompts-to-erase-your-data-from",
+      "source": "Ruben Hassid - How to AI",
       "category": "Dica",
-      "weight": 7,
-      "published": "2026-11-14T18:57:02+00:00"
+      "weight": 8,
+      "published": "2026-11-15T04:23:37+00:00"
+    },
+    {
+      "id": "41346e1d8646",
+      "title": "How to actually keep your AI chats private:",
+      "summary": "(works both with Claude and ChatGPT)",
+      "url": "https://ruben.substack.com/p/3-prompts-to-delete-your-data-from-15b",
+      "source": "Ruben Hassid - How to AI",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-10-26T17:22:16+00:00"
     },
     {
       "id": "330f7ffbf463",
@@ -115,14 +95,34 @@
       "published": "2026-10-31T21:32:28+00:00"
     },
     {
-      "id": "ea8d24e49704",
-      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
-      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
-      "source": "GitHub - Awesome Claude Prompts",
+      "id": "04882ff671aa",
+      "title": "Tales from the jar side: Claude Duet, JetBrains Air, a real Python, and the usual Social Media Posts",
+      "summary": "English is weird: read and lead rhyme, and read and lead rhyme, but read and lead don't rhyme, and neither do read and lead. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-claude-duet",
+      "source": "Ken Kousen - Tales from the jar side",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-10-26T01:21:02+00:00"
+    },
+    {
+      "id": "937b1217cedc",
+      "title": "Tales from the jar side: New video about Claude Code with any model, Some stats about my job, and the usual Social Media gags",
+      "summary": "Most puns make me numb, but math puns make me number. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-new-video",
+      "source": "Ken Kousen - Tales from the jar side",
       "category": "Novidade",
-      "weight": 5,
-      "published": "2026-11-14T04:23:22+00:00"
+      "weight": 6,
+      "published": "2026-09-27T22:21:55+00:00"
+    },
+    {
+      "id": "ea26caed9862",
+      "title": "Tales from the jar side: My Claude Code book, Stranger New Worlds, Jev and other AI stuff, and the usual Social Media silliness",
+      "summary": "Satan: I don&#8217;t get it, but thanks for naming these eggs after me. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-my-claude",
+      "source": "Ken Kousen - Tales from the jar side",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-20T22:50:05+00:00"
     }
   ]
 }
