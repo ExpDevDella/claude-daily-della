@@ -1,0 +1,128 @@
+{
+  "issue": 182,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:56:33.037715-03:00",
+  "items": [
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "8eda2df95dfb",
+      "title": "Model Hardware Standard: AI operating physical equipment",
+      "summary": "The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS started as part of a beneficial deployments project between Anthropic and HHMI…",
+      "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-08-28T00:40:16+00:00"
+    },
+    {
+      "id": "643556324aa9",
+      "title": "fix(memory): release held locks when the Streamable HTTP server stops",
+      "summary": "fix(memory): release held locks when the Streamable HTTP server stops Over Streamable HTTP, run() never registered the exit hook that removes a lock file the process still holds: only main(), the stdio path, called installLockCleanup().…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af86b99080b0f4af52ca6a8f4f1e043921ec6140",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-11-18T08:34:10+00:00"
+    },
+    {
+      "id": "f4d7c5e3f6cc",
+      "title": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on eve…",
+      "summary": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on every git Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ef0e544f27e6ca5b5ed552cd09161991fec50bf2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:15:28+00:00"
+    },
+    {
+      "id": "46c727d2d425",
+      "title": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system …",
+      "summary": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system git configuration Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2574ec1785e7f853c689a4652755d3516491299c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:14:08+00:00"
+    },
+    {
+      "id": "6f13afca4c58",
+      "title": "4 prompts to erase your data from people-search sites",
+      "summary": "Paste into Claude or ChatGPT, in order, in the same chat.",
+      "url": "https://ruben.substack.com/p/4-prompts-to-erase-your-data-from",
+      "source": "Ruben Hassid - How to AI",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-11-15T04:23:37+00:00"
+    },
+    {
+      "id": "41346e1d8646",
+      "title": "How to actually keep your AI chats private:",
+      "summary": "(works both with Claude and ChatGPT)",
+      "url": "https://ruben.substack.com/p/3-prompts-to-delete-your-data-from-15b",
+      "source": "Ruben Hassid - How to AI",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-10-26T17:22:16+00:00"
+    },
+    {
+      "id": "330f7ffbf463",
+      "title": "Build Your Own AI Legal Team in Claude",
+      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
+      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
+      "source": "The AI Corner",
+      "category": "Plugin",
+      "weight": 7,
+      "published": "2026-10-31T21:32:28+00:00"
+    },
+    {
+      "id": "04882ff671aa",
+      "title": "Tales from the jar side: Claude Duet, JetBrains Air, a real Python, and the usual Social Media Posts",
+      "summary": "English is weird: read and lead rhyme, and read and lead rhyme, but read and lead don't rhyme, and neither do read and lead. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-claude-duet",
+      "source": "Ken Kousen - Tales from the jar side",
+      "category": "Hack",
+      "weight": 6,
+      "published": "2026-10-26T01:21:02+00:00"
+    },
+    {
+      "id": "937b1217cedc",
+      "title": "Tales from the jar side: New video about Claude Code with any model, Some stats about my job, and the usual Social Media gags",
+      "summary": "Most puns make me numb, but math puns make me number. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-new-video",
+      "source": "Ken Kousen - Tales from the jar side",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-27T22:21:55+00:00"
+    },
+    {
+      "id": "ea26caed9862",
+      "title": "Tales from the jar side: My Claude Code book, Stranger New Worlds, Jev and other AI stuff, and the usual Social Media silliness",
+      "summary": "Satan: I don&#8217;t get it, but thanks for naming these eggs after me. (rimshot)",
+      "url": "https://kenkousen.substack.com/p/tales-from-the-jar-side-my-claude",
+      "source": "Ken Kousen - Tales from the jar side",
+      "category": "Novidade",
+      "weight": 6,
+      "published": "2026-09-20T22:50:05+00:00"
+    }
+  ]
+}
