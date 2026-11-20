@@ -1,12 +1,12 @@
 {
-  "issue": 183,
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T16:55:26.337814-03:00",
+  "issue": 184,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:35:21.941336-03:00",
   "items": [
     {
       "id": "f9730375d00b",
       "title": "What we make of this moment, will make this moment.",
-      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating cuttlefish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and…",
+      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating fish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and…",
       "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
       "source": "YouTube - Anthropic",
       "category": "Video",
@@ -65,6 +65,26 @@
       "published": "2026-11-18T07:14:08+00:00"
     },
     {
+      "id": "6f13afca4c58",
+      "title": "4 prompts to erase your data from people-search sites",
+      "summary": "Paste into Claude or ChatGPT, in order, in the same chat.",
+      "url": "https://ruben.substack.com/p/4-prompts-to-erase-your-data-from",
+      "source": "Ruben Hassid - How to AI",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-11-15T04:23:37+00:00"
+    },
+    {
+      "id": "41346e1d8646",
+      "title": "How to actually keep your AI chats private:",
+      "summary": "(works both with Claude and ChatGPT)",
+      "url": "https://ruben.substack.com/p/3-prompts-to-delete-your-data-from-15b",
+      "source": "Ruben Hassid - How to AI",
+      "category": "Dica",
+      "weight": 8,
+      "published": "2026-10-26T17:22:16+00:00"
+    },
+    {
       "id": "6f321ff13a23",
       "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
       "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
@@ -103,26 +123,6 @@
       "category": "Dica",
       "weight": 7,
       "published": "2026-11-14T18:57:02+00:00"
-    },
-    {
-      "id": "330f7ffbf463",
-      "title": "Build Your Own AI Legal Team in Claude",
-      "summary": "Harvey told Fast Company a seat costs a few hundred dollars a month. Claude Pro costs $20 a month. Here are 10 Claude Skills and a red-team agent that turn the $20 plan into a founder's legal team.",
-      "url": "https://www.the-ai-corner.com/p/build-ai-legal-team-claude-skills-founders-2026",
-      "source": "The AI Corner",
-      "category": "Plugin",
-      "weight": 7,
-      "published": "2026-10-31T21:32:28+00:00"
-    },
-    {
-      "id": "ea8d24e49704",
-      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
-      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
-      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
-      "source": "GitHub - Awesome Claude Prompts",
-      "category": "Novidade",
-      "weight": 5,
-      "published": "2026-11-14T04:23:22+00:00"
     }
   ]
 }
