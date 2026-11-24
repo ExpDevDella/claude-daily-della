@@ -1,0 +1,128 @@
+{
+  "issue": 187,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T20:21:13.875549-03:00",
+  "items": [
+    {
+      "id": "f9730375d00b",
+      "title": "What we make of this moment, will make this moment.",
+      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating fish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and…",
+      "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-11-19T15:02:49+00:00",
+      "featured": true
+    },
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00"
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "643556324aa9",
+      "title": "fix(memory): release held locks when the Streamable HTTP server stops",
+      "summary": "fix(memory): release held locks when the Streamable HTTP server stops Over Streamable HTTP, run() never registered the exit hook that removes a lock file the process still holds: only main(), the stdio path, called installLockCleanup().…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af86b99080b0f4af52ca6a8f4f1e043921ec6140",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-11-18T08:34:10+00:00"
+    },
+    {
+      "id": "f4d7c5e3f6cc",
+      "title": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on eve…",
+      "summary": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on every git Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ef0e544f27e6ca5b5ed552cd09161991fec50bf2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:15:28+00:00"
+    },
+    {
+      "id": "46c727d2d425",
+      "title": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system …",
+      "summary": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system git configuration Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2574ec1785e7f853c689a4652755d3516491299c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:14:08+00:00"
+    },
+    {
+      "id": "b4ec1efee252",
+      "title": "The Post-AGI Kit: DeepMind’s 4 Roads to Superintelligence, a 10x Compute Model and 12 Claude Prompts",
+      "summary": "A cost-curve model, 16 signals and 4 scenario plays built on DeepMind&#8217;s new report. Find the month each of your workflows flips to AI.",
+      "url": "https://www.the-ai-corner.com/p/what-comes-after-agi-deepmind-superintelligence-kit-2026",
+      "source": "The AI Corner",
+      "category": "Hack",
+      "weight": 7,
+      "published": "2026-11-22T15:08:19+00:00"
+    },
+    {
+      "id": "b8608d772abc",
+      "title": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update…",
+      "summary": "Merge PR #71: Add Most Capable Agent System Prompt to the 2026 Update section",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/8ac802cb7281d4c044b40ead5e0dc749b05221d2",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:03:39+00:00"
+    },
+    {
+      "id": "473c2337ae32",
+      "title": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "summary": "Merge PR #70: Add Satori to 2026 Claude Skills & Prompting Docs",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/f0c14d0b72f97d8351f44a42293585c5a1abe50b",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Plugin",
+      "weight": 5,
+      "published": "2026-11-14T04:03:38+00:00"
+    },
+    {
+      "id": "c072d34be0d3",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-09-10T18:07:08+00:00"
+    },
+    {
+      "id": "f7d9dd9a8831",
+      "title": "I made a free MCP server so your Claude can read Claude/Anthropic news and RAG",
+      "summary": "Article URL: https://claudenews.online Comments URL: https://news.ycombinator.com/item?id=48630389 Points: 3 # Comments: 0",
+      "url": "https://claudenews.online",
+      "source": "Hacker News - Claude",
+      "category": "MCP",
+      "weight": 5,
+      "published": "2026-06-22T14:11:53+00:00"
+    },
+    {
+      "id": "fbc19a0d1e1e",
+      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
+      "summary": "Article URL: https://www.theregister.com/2026/03/19/anthropic_claude_sre/ Comments URL: https://news.ycombinator.com/item?id=47495058 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_sre/",
+      "source": "Hacker News - Claude",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-03-23T21:01:41+00:00"
+    }
+  ]
+}
