@@ -1,0 +1,128 @@
+{
+  "issue": 189,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:00:40.722264-03:00",
+  "items": [
+    {
+      "id": "f9730375d00b",
+      "title": "What we make of this moment, will make this moment.",
+      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating fish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and…",
+      "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-11-19T15:02:49+00:00",
+      "featured": true
+    },
+    {
+      "id": "cb4e42d4d067",
+      "title": "Inside Anthropic's molecular biology lab",
+      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if…",
+      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-23T18:01:32+00:00"
+    },
+    {
+      "id": "9dea0c491979",
+      "title": "Introducing Claude Fable 5.1",
+      "summary": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress. It excels at…",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "source": "YouTube - Anthropic",
+      "category": "Video",
+      "weight": 9,
+      "published": "2026-09-01T18:02:31+00:00"
+    },
+    {
+      "id": "643556324aa9",
+      "title": "fix(memory): release held locks when the Streamable HTTP server stops",
+      "summary": "fix(memory): release held locks when the Streamable HTTP server stops Over Streamable HTTP, run() never registered the exit hook that removes a lock file the process still holds: only main(), the stdio path, called installLockCleanup().…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/af86b99080b0f4af52ca6a8f4f1e043921ec6140",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Hack",
+      "weight": 8,
+      "published": "2026-11-18T08:34:10+00:00"
+    },
+    {
+      "id": "f4d7c5e3f6cc",
+      "title": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on eve…",
+      "summary": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on every git Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/ef0e544f27e6ca5b5ed552cd09161991fec50bf2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:15:28+00:00"
+    },
+    {
+      "id": "46c727d2d425",
+      "title": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system …",
+      "summary": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system git configuration Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/2574ec1785e7f853c689a4652755d3516491299c",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "MCP",
+      "weight": 8,
+      "published": "2026-11-18T07:14:08+00:00"
+    },
+    {
+      "id": "44bdde4c5058",
+      "title": "GPT-6 Astra Review: Pricing, Features, Community Feedback, and Claude vs Gemini",
+      "summary": "GPT-6 Astra is OpenAI's new flagship for coding, computer use, research, and long-running agents. Here is what changed and how it compares with Claude and Gemini.",
+      "url": "https://claudeai.dev/blog/gpt-6-astra-vs-claude-gemini/",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "id": "3da32c046777",
+      "title": "Claude Fable 5.1 and Mythos 5.1: The Frontier Model You Can Use—and the One You Can't",
+      "summary": "Anthropic's latest Claude release pairs Fable 5.1's general availability with Mythos 5.1's trusted-access model, lower cache-read pricing, stronger long-horizon work, and a migration surface developers should test carefully.",
+      "url": "https://claudeai.dev/blog/claude-fable-5-1-community-feedback/",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "e835400abc48",
+      "title": "Gemini 3.8 Flash vs Claude: The New Cost-Performance Fight for AI Agents",
+      "summary": "Google's Gemini 3.8 Flash brings a 1M-token context, multimodal inputs, tunable thinking, and very low introductory pricing. Here is where it fits against Claude Sonnet 5, Opus 5, and Fable 5.1.",
+      "url": "https://claudeai.dev/blog/gemini-3-8-flash-vs-claude-models/",
+      "source": "claudeai.dev Blog",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "8e9ae85d9248",
+      "title": "Why We Invested in Roma, the To-Do List for Your AI Agents",
+      "summary": "One list for Claude, ChatGPT, Grok and your team, from the founders who sold Loom to Dropbox and Senic to Gira.",
+      "url": "https://www.the-ai-corner.com/p/why-we-invested-in-roma-yc-f26-ai-agents-todo-list",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-11-25T17:52:46+00:00"
+    },
+    {
+      "id": "a377b740877c",
+      "title": "The FDE Math: How AI Startups Turn Forward Deployed Engineers Into Product Margin",
+      "summary": "Microsoft, AWS, OpenAI and Anthropic put billions in 2026 behind engineers who work inside customer offices. Here is the pricing ladder and the build-back ledger that decide whether your FDE team comp",
+      "url": "https://www.the-ai-corner.com/p/forward-deployed-engineer-math-ai-startups",
+      "source": "The AI Corner",
+      "category": "Dica",
+      "weight": 7,
+      "published": "2026-11-24T15:14:54+00:00"
+    },
+    {
+      "id": "b4ec1efee252",
+      "title": "The Post-AGI Kit: DeepMind’s 4 Roads to Superintelligence, a 10x Compute Model and 12 Claude Prompts",
+      "summary": "A cost-curve model, 16 signals and 4 scenario plays built on DeepMind&#8217;s new report. Find the month each of your workflows flips to AI.",
+      "url": "https://www.the-ai-corner.com/p/what-comes-after-agi-deepmind-superintelligence-kit-2026",
+      "source": "The AI Corner",
+      "category": "Hack",
+      "weight": 7,
+      "published": "2026-11-22T15:08:19+00:00"
+    }
+  ]
+}

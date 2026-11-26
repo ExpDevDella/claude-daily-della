@@ -1,7 +1,7 @@
 {
-  "issue": 189,
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T18:00:40.722264-03:00",
+  "issue": 190,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:53:56.644967-03:00",
   "items": [
     {
       "id": "f9730375d00b",
@@ -115,14 +115,14 @@
       "published": "2026-11-24T15:14:54+00:00"
     },
     {
-      "id": "b4ec1efee252",
-      "title": "The Post-AGI Kit: DeepMind’s 4 Roads to Superintelligence, a 10x Compute Model and 12 Claude Prompts",
-      "summary": "A cost-curve model, 16 signals and 4 scenario plays built on DeepMind&#8217;s new report. Find the month each of your workflows flips to AI.",
-      "url": "https://www.the-ai-corner.com/p/what-comes-after-agi-deepmind-superintelligence-kit-2026",
-      "source": "The AI Corner",
-      "category": "Hack",
-      "weight": 7,
-      "published": "2026-11-22T15:08:19+00:00"
+      "id": "ea8d24e49704",
+      "title": "docs: 2026-11 更新——补录最新模型与官方提示指南",
+      "summary": "docs: 2026-11 更新——补录最新模型与官方提示指南 依据各家官方文档与公告（核对日期 2026-11-14）补充 9–11 月发布的模型、接口变化与对写提示词的影响，保留原有内容。 Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt;",
+      "url": "https://github.com/langgptai/awesome-claude-prompts/commit/c9cac9ec7bd71bfa1d1ea3f9e94bd5dc1e348682",
+      "source": "GitHub - Awesome Claude Prompts",
+      "category": "Novidade",
+      "weight": 5,
+      "published": "2026-11-14T04:23:22+00:00"
     }
   ]
 }
