@@ -1,7 +1,7 @@
 {
-  "issue": 190,
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T17:53:56.644967-03:00",
+  "issue": 191,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:39:08.687996-03:00",
   "items": [
     {
       "id": "f9730375d00b",
@@ -35,34 +35,34 @@
       "published": "2026-09-01T18:02:31+00:00"
     },
     {
-      "id": "643556324aa9",
-      "title": "fix(memory): release held locks when the Streamable HTTP server stops",
-      "summary": "fix(memory): release held locks when the Streamable HTTP server stops Over Streamable HTTP, run() never registered the exit hook that removes a lock file the process still holds: only main(), the stdio path, called installLockCleanup().…",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/af86b99080b0f4af52ca6a8f4f1e043921ec6140",
-      "source": "GitHub - Anthropic MCP Servers",
-      "category": "Hack",
-      "weight": 8,
-      "published": "2026-11-18T08:34:10+00:00"
-    },
-    {
-      "id": "f4d7c5e3f6cc",
-      "title": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on eve…",
-      "summary": "test(git): make a GHSA-r2q8-f657-4r56 test's precondition hold on every git Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/ef0e544f27e6ca5b5ed552cd09161991fec50bf2",
+      "id": "89639a63350c",
+      "title": "test(memory): count a real Windows refusal of the lock put-back as a …",
+      "summary": "test(memory): count a real Windows refusal of the lock put-back as a retry, not a failure The put-back test injected two EPERM refusals and asserted exactly three attempts, but on a real Windows host the third, real rename can be refused…",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/53afb97437da20225756908b0de1f1d4de766724",
       "source": "GitHub - Anthropic MCP Servers",
       "category": "MCP",
       "weight": 8,
-      "published": "2026-11-18T07:15:28+00:00"
+      "published": "2026-11-27T08:48:52+00:00"
     },
     {
-      "id": "46c727d2d425",
-      "title": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system …",
-      "summary": "test(git): keep a GHSA-8wv7-r664-7594 test independent of the system git configuration Co-Authored-By: Claude Fable 5.2 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
-      "url": "https://github.com/modelcontextprotocol/servers/commit/2574ec1785e7f853c689a4652755d3516491299c",
+      "id": "a1a1807fa751",
+      "title": "test(git): compare the planted alternates entry as bytes",
+      "summary": "test(git): compare the planted alternates entry as bytes Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/eb9c526b84e3a8d5f3e9a436c2e4d26d3ac25eb0",
       "source": "GitHub - Anthropic MCP Servers",
-      "category": "MCP",
+      "category": "Novidade",
       "weight": 8,
-      "published": "2026-11-18T07:14:08+00:00"
+      "published": "2026-11-27T08:00:04+00:00"
+    },
+    {
+      "id": "adc0a5b0b3aa",
+      "title": "test(git): write the marker blob with LF line endings on every platform",
+      "summary": "test(git): write the marker blob with LF line endings on every platform Co-Authored-By: Claude Opus 5.5 &lt;noreply@anthropic.com&gt; Signed-off-by: cliffhall &lt;cliff@futurescale.com&gt;",
+      "url": "https://github.com/modelcontextprotocol/servers/commit/3a9143021c55224b756a9dd96398cda2747089a2",
+      "source": "GitHub - Anthropic MCP Servers",
+      "category": "Novidade",
+      "weight": 8,
+      "published": "2026-11-27T07:43:22+00:00"
     },
     {
       "id": "44bdde4c5058",
